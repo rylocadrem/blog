@@ -13,10 +13,12 @@ plugins:
   - jekyll-feed
 
 # Markdown processing
+markdown: kramdown
 # kramdown:
-#   -
+#   parse_block_html: true
 
 # Minima theme
+author: rylocadrem
 show_excerpts: true
 
 # Exclude from processing.
