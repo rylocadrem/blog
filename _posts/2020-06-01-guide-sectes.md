@@ -16,7 +16,9 @@ Aborder le phénomène sectaire est particulièrement complexe. Les sectes peuve
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
 
-## Définitions
+## Détecter
+
+### Définitions
 
 Il est difficile d'établir une définition précise des *sectes*, de par leur caractère hétérogène.
 
@@ -26,15 +28,15 @@ Voici quelques définitions qui ont été proposées :
 
 > Tout groupe idéologique clos qui suit un leader dissident de la doctrine générale et qui se caractérise par le fanatisme et l'intolérance de ses membres.[^definition_mucchielli]
 
-> Association, organisation ou mouvement qui, sous différents prétextes, enrôle une personne, détruit sa personnalité, l’asservit, la prive de sa liberté, exerce sur elle un pouvoir absolu.[^definition_unadfi]
+> Association, organisation ou mouvement qui, sous différents prétextes, enrôle une personne, détruit sa personnalité, l'asservit, la prive de sa liberté, exerce sur elle un pouvoir absolu.[^definition_unadfi]
 
 La Miviludes (Mission interministérielle de vigilance et de lutte contre les dérives sectaires) ne donne pas de définition de *secte* mais de *dérives sectaires* en raison de sa volonté de respect des croyances en tant qu'organisme gouvernemental.
 
-> Dévoiement de la liberté de pensée, d’opinion ou de religion qui porte atteinte à l'ordre public, aux lois ou aux règlements, aux droits fondamentaux, à la sécurité ou à l’intégrité des personnes. Elle se caractérise par la mise en œuvre, par un groupe organisé ou par un individu isolé, quelle que soit sa nature ou son activité, de pressions ou de techniques ayant pour but de créer, de maintenir ou d’exploiter chez une personne un état de sujétion psychologique ou physique, la privant d’une partie de son libre arbitre, avec des conséquences dommageables pour cette personne, son entourage ou pour la société.[^definition_miviludes]
+> Dévoiement de la liberté de pensée, d'opinion ou de religion qui porte atteinte à l'ordre public, aux lois ou aux règlements, aux droits fondamentaux, à la sécurité ou à l'intégrité des personnes. Elle se caractérise par la mise en œuvre, par un groupe organisé ou par un individu isolé, quelle que soit sa nature ou son activité, de pressions ou de techniques ayant pour but de créer, de maintenir ou d'exploiter chez une personne un état de sujétion psychologique ou physique, la privant d'une partie de son libre arbitre, avec des conséquences dommageables pour cette personne, son entourage ou pour la société.[^definition_miviludes]
 
 On retiendra de ces définitions une certaine nocivité pour les individus et des processus de manipulation et d'emprise mentale.
 
-## Critères d'identification sectaire
+### Critères d'identification sectaire
 
 On préfère souvent une liste de critère indicatifs aux définitions trop peu précises.
 
@@ -44,37 +46,37 @@ On peut cependant définir des listes de critères permétant de déterminer des
 
 Voici une liste proposée par la Miviludes[^criteres_miviludes] :
 
-* Dérives concernant les personnes (comment déceler l’influence sectaire dans le comportement d’un proche)
-  * Adoption d’un langage propre au groupe
+* Dérives concernant les personnes (comment déceler l'influence sectaire dans le comportement d'un proche)
+  * Adoption d'un langage propre au groupe
   * Modification des habitudes alimentaires ou vestimentaires
   * Refus de soins ou arrêt des traitements médicaux régulièrement prescrits
   * Situation de rupture avec la famille ou le milieu social et professionnel
   * Engagement exclusif pour le groupe
   * Soumission absolue, dévouement total aux dirigeants
-  * Perte d’esprit critique
+  * Perte d'esprit critique
   * Réponse stéréotypée à toutes les interrogations existentielles.
   * Embrigadement des enfants
-  * Existence d’atteintes à l’intégrité physique ou psychique
+  * Existence d'atteintes à l'intégrité physique ou psychique
   * Manque de sommeil
 
-* Dérives concernant les biens (comment déceler l’influence sectaire en matière économique et financière)
-  * Acceptation d’exigences financières de plus en plus fortes et durables
-  * Engagement dans un processus d’endettement
+* Dérives concernant les biens (comment déceler l'influence sectaire en matière économique et financière)
+  * Acceptation d'exigences financières de plus en plus fortes et durables
+  * Engagement dans un processus d'endettement
   * Legs ou donations à des personnes physiques ou morales en lien avec le groupe auquel appartient la victime
-  * Obligation d’acheter ou de vendre certains matériels ou services comme condition incontournable d’appartenance au groupe
-  * Participation à des conférences, stages, séminaires, retraites, en France ou à l’étranger
-  * Existence d’escroqueries ou de publicité mensongère sur les qualités substantielles d'un produit ou d'un service
+  * Obligation d'acheter ou de vendre certains matériels ou services comme condition incontournable d'appartenance au groupe
+  * Participation à des conférences, stages, séminaires, retraites, en France ou à l'étranger
+  * Existence d'escroqueries ou de publicité mensongère sur les qualités substantielles d'un produit ou d'un service
 
-* Dérives concernant la vie sociale et démocratique (comment déceler l’influence sectaire dans le domaine de la vie sociale et démocratique)
+* Dérives concernant la vie sociale et démocratique (comment déceler l'influence sectaire dans le domaine de la vie sociale et démocratique)
   * Discours antisocial ou anti démocratique
   * Critique des institutions de la République
-  * Troubles à l’ordre public
+  * Troubles à l'ordre public
   * Perturbation du fonctionnement normal des services publics (par exemple intrusion non autorisée dans les hôpitaux pour empêcher certains actes médicaux)
   * Existence de condamnations judiciaires ou ordinales
   * Détournement des circuits économiques traditionnels
-  * Tentatives d’infiltration ou de déstabilisation des pouvoirs publics
-  * Publication de documents ayant l’apparence d’un caractère officiel dénigrant certains services publics
-  * Détournement de marques, dessins, titres et modèles officiels pour amener une confusion dans l’esprit du public
+  * Tentatives d'infiltration ou de déstabilisation des pouvoirs publics
+  * Publication de documents ayant l'apparence d'un caractère officiel dénigrant certains services publics
+  * Détournement de marques, dessins, titres et modèles officiels pour amener une confusion dans l'esprit du public
 
 Voici une liste proposée par l'ICSA (International Cultic Studies Association, ou *Association Internationale d'Études Sectaires*)[^criteres_icsa] :
 
@@ -107,9 +109,7 @@ La sociologue Janja Lalich ajoute à cette dernière liste quelques critères su
 * Est-ce que plus d'un point de vue est présenté ? D'autres points de vue sont-ils reconnus ? D'autres points de vue sont-ils considérés comme valables bien que différents ?
 * Semble-t-il qu'il y a des secrets ? L'information est-elle restreinte de quelque façon que ce soit ? Y a-t-il des informations que l'on vous dit de ne pas partager avec des non-membres ? Y a-t-il des informations que l'on vous dit que vous ne pouvez pas obtenir avant d'être membre du groupe ou d'avoir atteint un certain niveau ?
 
-
-
-## Critères de diagnostic d'emprise mentale
+### Critères de diagnostic d'emprise mentale
 
 Philippe-Jean Parquet, professeur de psychiatrie infanto-juvénile à l'université de Lille, spécialiste de l'emprise mentale, dresse la liste suivante de 10 critères de diagnostic d'emprise mentale (5 sont nécessaires pour valider le diagnostic)[^criteres_parquet] :
 
@@ -119,10 +119,56 @@ Philippe-Jean Parquet, professeur de psychiatrie infanto-juvénile à l'universi
 * Adhésion et allégeance inconditionnelle
 * Mise à disposition complète, progressive et extensive de sa vie
 * Sensibilité accrue dans le temps aux idées, aux concepts et aux prescriptions
-* Dépossession des compétences d’une personne avec anesthésie affective, altération du jugement et du sens critique
+* Dépossession des compétences d'une personne avec anesthésie affective, altération du jugement et du sens critique
 * Altération de la liberté de choix
-* Imperméabilité aux avis, attitudes, valeurs de l’environnement avec impossibilité de se remettre en cause et de promouvoir un changement
-* Induction et réalisation d’actes gravement préjudiciables à la personne
+* Imperméabilité aux avis, attitudes, valeurs de l'environnement avec impossibilité de se remettre en cause et de promouvoir un changement
+* Induction et réalisation d'actes gravement préjudiciables à la personne
+
+## Comprendre
+
+### Mise sous emprise
+
+Il existe plusieurs classifications des moyens et processus de mise sous emprise mentale (ou mise sous sujétion).
+
+Voici une liste de pratiques couramment utilisées dans les sectes, proposée par le *Cult Information Centre* (Centre d'Information sur les Sectes) de Londres[^sujetion_bcm_cults] :
+
+* **La relation d'autorité**
+  * **Une hiérarchie qui s'affiche**, qui prône l'acceptation de l'autorité interne en promettant avancement, pouvoir et surtout salut.
+  * **Des règles intransigeantes**. On provoque une régression et une désorientation par le fait de devoir demander la permission pour des actes élémentaires de la vie quotidienne.
+  * **Une doctrine déstabilisante**. On encourage l'acceptation aveugle et le rejet de la logique par des exposés complexes et interminables sur une doctrine incompréhensible.
+  * **Pas de questions**. On vise à l'acceptation automatique des croyances en décourageant les questions, et en suggérant d'abandonner ses doutes, condition de toute progression dans l'enseignement proposé.
+  * **L'approbation du contrôle**. Des actions peu différentes les unes des autres entrainent tantôt une récompense, tantôt une punition. D'où une confusion encore accentuée.
+  * **La peur**. Les plus anodines pensées, paroles ou actions tant soit peu « négatives » provoquent des menaces sur l'âme, sur la vie ou sur un organe, ce qui entretient l'obéissance aveugle.
+
+* **Le renforcement de l'adhésion au groupe**
+  * **La pression d'un groupe chaleureux**. En exploitant le désir d'appartenance à un groupe, on supprime le doute, la réserve et la résistance aux nouvelles idées.
+  * **Le « bombardement d'amour »**. On crée un pseudo-esprit de famille et d'appartenance par l'embrassade, les démonstrations affectives, l'attendrissement et la flatterie.
+  * **La tromperie verbale**. On altère l'individualité par une demande de conformité au code de bonne conduite du groupe.
+  * **L'annonce de dangers imminents**. Menaces qui induisent un climat de peur, permettent d'assurer une emprise sur les individus, et renforcent l'adhésion au groupe.
+  * **L'adhésion au groupe**. On renforce le sentiment d'appartenance en introduisant dans un contexte émotionnel intense, des activités originales, qui cimentent le groupe par un « vécu » commun.
+  * **La psalmodie et le chant**. On élimine les pensées étrangères au groupe par la répétition en choeur de chants et de phrases propres à rétrécir le champ de la conscience.
+  * **La méta-communication**. On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes lectures, ou dans des messages audio qu'il faut sans cesse écouter.
+  * **L'hypnose**. On induit un état de grande suggestibilité par l'hypnose souvent déguisée habilement en méditation.
+  * **La culpabilité**. L'aspiration au salut est exaltée en insistant sur les péchés commis lors de l'ancien mode de vie.
+
+* **L'atteinte à la vie personnelle**
+  * **L'obligation de transparence**. On pousse à l'aveu des faiblesses personnelles et des plus intimes sentiments et doutes, ce qui encourage la destruction de l'ego individuel et réduit la part d'intimité de l'être. Au passage cela permet de récolter des secrets dont on pourra ultérieurement se servir contre l'adepte récalcitrant.
+  * **La destruction de l'inhibition**. En encourageant l'obéissance infantile et en orchestrant le comportement enfantin ; en jouant aussi sur la pudeur et l'impudeur.
+  * **L'entrave à la vie intime**. On réussit à faire perdre la capacité d'évaluation logique en empêchant ou en décourageant l'analyse critique personnelle.
+  * **Le changement de régime alimentaire**. On contribue à une désorientation et à une grande sensibilité aux bouffées émotionnelles par une alimentation médiocre des cellules nerveuses en certains éléments notamment protéiques.
+  * **Le régentement de la vie sexuelle**. Là aussi on sème la confusion par des règles où se mêlent et alternent la rigidité et la permissivité ; cela va pour certains jusqu'à transgresser la prohibition de l'inceste, base indispensable depuis toujours de l'identification personnelle et de toute évolution sociétaire.
+  * **La fatigue et privation de sommeil**. On crée la désorientation et la vulnérabilité, en imposant une activité mentale et physique prolongée sans le repos et le sommeil adéquat.
+  * **La dépendance financière**. L'adepte donne ses biens. Ainsi l'on pousse à fond la dépendance vis-à-vis du groupe et l'on consomme la rupture des ponts avec le passé.
+  * **Le rejet des anciennes valeurs**. On accélère l'acceptation aveugle d'un nouveau style de vie en critiquant et dénonçant les valeurs et croyances antérieures.
+
+* **La coupure avec l'extérieur**
+  * **L'accusation**. On donne une fausse impression de rigueur en dénonçant les défauts du monde extérieur et des autres groupes religieux.
+  * **Le remplacement des relations**. On détruit les relations familiales antérieures. On arrange des mariages internes et des néo-familles. On déracine géographiquement et spirituellement, au point parfois d'inventer une généalogie fantoche.
+  * **L'isolement**. On provoque une perte de contact avec le réel par une séparation physique ou intellectuelle d'avec la famille, les amis, l'environnement naturel, la société et les références rationnelles.
+
+### Controle de la pensée
+
+## En sortir
 
 ## Références
 
@@ -130,18 +176,20 @@ Philippe-Jean Parquet, professeur de psychiatrie infanto-juvénile à l'universi
 
 [^tel_33]: La Tronche en Biais. (2016, novembre 3). *Les réponses aux dérives sectaires - Tronche en Live #33* [Fichier vidéo]. YouTube. <https://www.youtube.com/watch?v=AZqSqWrm4Gs>
 
-[^criteres_icsa]: Langone, M. D., PhD. (2015). *Characteristics Associated with Cultic Groups*. ICSA Today, Vol. 6, No. 3, 10. Consulté à l’adresse <https://www.icsahome.com/memberelibrary/it>
+[^criteres_icsa]: Langone, M. D., PhD. (2015). *Characteristics Associated with Cultic Groups*. ICSA Today, Vol. 6, No. 3, 10. Consulté à l'adresse <https://www.icsahome.com/memberelibrary/it>
 
 [^criteres_lalich]: Lalich, J. (2006). *Take Back Your Life: recovering from cults and abusive relationships (2nd éd.)*. Richmond, Californie : Bay Tree Publishing.
 
-[^criteres_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.). *Comment la détecter ? \| Miviludes*. Consulté le 1 juin 2020, à l’adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter>
+[^criteres_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.). *Comment la détecter ? \| Miviludes*. Consulté le 1 juin 2020, à l'adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter>
 
-[^criteres_parquet]: Sénat, & Parquet, P.-J. (2012). *Dérives thérapeutiques et dérives sectaires : la santé en danger (Auditions)*. Consulté à l’adresse <http://www.senat.fr/rap/r12-480-2/r12-480-212.html>
+[^criteres_parquet]: Sénat, & Parquet, P.-J. (2012). *Dérives thérapeutiques et dérives sectaires : la santé en danger (Auditions)*. Consulté à l'adresse <http://www.senat.fr/rap/r12-480-2/r12-480-212.html>
 
 [^definition_rousselet]: Rousselet, M., Duretete, O., Hardouin, J. B., & Grall-Bronnec, M. (2017). *Cult membership : What factors contribute to joining or leaving?* Psychiatry Research, 257, 27‑33. <https://doi.org/10.1016/j.psychres.2017.07.018>
 
 [^definition_mucchielli]: Mucchielli-Bourcier, A., & Mucchielli, R. (1969). *Lexique des sciences sociales*. Paris, France : Éditions sociales françaises.
 
-[^definition_unadfi]: Union nationale des Associations de Défense des Familles et de l’Individu victimes de sectes. (2017). *Les sectes qu’en sais-tu ?* Consulté à l’adresse <https://www.unadfi.org/wp-content/uploads/2017/06/Les-sectes-qu-en-sais-tu.pdf>
+[^definition_unadfi]: Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2017). *Les sectes qu'en sais-tu ?* Consulté à l'adresse <https://www.unadfi.org/wp-content/uploads/2017/06/Les-sectes-qu-en-sais-tu.pdf>
 
-[^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu’est-ce qu’une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l’adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
+[^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu'est-ce qu'une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l'adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
+
+[^sujetion_bcm_cults]: Cult Information Centre, & Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2018, juillet 17). *Techniques de mise sous influence*. Consulté le 1 juin 2020, à l'adresse <https://www.unadfi.org/cles-pour-comprendre/atteintes-a-la-personne/emprise-mentale-et-vulnerabilite/techniques-de-mise-sous-influence/>
