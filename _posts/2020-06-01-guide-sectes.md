@@ -168,6 +168,45 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
 
 ### Controle de la pensée
 
+Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est constitué de 4 composantes[^mind_control_hassan] :
+
+* **Contrôle du comportement**
+  * Contrôle de la réalité physique environnant l'individu (lieu de vie, nourriture, sommeil, finances, loisirs...)
+  * Partie importante du temps consacrée aux rites du groupe et aux activités d’endoctrinement
+  * Nécessité de demander la permission pour toute décision majeure
+  * Obligation de rendre compte des pensées, sentiments et activités à ses supérieurs
+  * Les comportements peuvent donner lieu à des récompenses ou à des punitions
+  * L’individualisme est découragé. La pensée de groupe et l’intérêt du groupe prévalent
+  * Règlement rigide
+  * Obéissance aux ordres et soumission à l’autorité hiérarchique
+
+* **Contrôle de l’information**
+  * Désinformation (rétention d'information, déformation d'information ou mensonge)
+  * Accès découragé ou réduit aux sources extérieures d’information (médias, informations critiques, anciens membres)
+  * Occupation constante des adeptes pour empêcher la réflexion critique
+  * Compartimentation de l’information
+  * Doctrine de l’intérieur (la vérité), contre celle du monde extérieur (celle du monde)
+  * L’information délivrée aux membres diffère selon leur place hiérarchique et leur fonction au sein du groupe, la direction décide de qui a besoin de savoir quoi
+  * Les membres sont encouragés à rapporter à leurs supérieurs les commentaires ou les actes déviants observés chez les autres
+  * Utilisation intensive de la propagande et des informations générées par le groupe (revues internes, messages audio et vidéo...)
+  * Citations biaisées, déclarations extérieures sorties de leur contexte et réinterprétées à la convenance du groupe
+  * Confession utilisée comme un moyen de pression sur les membres du groupe, en abolissant les frontières de l’identité personnelle (réduction de la part d’ intimité de l’individu) et en le manipulant par la culpabilité
+
+* **Contrôle de la faculté de réflexion**
+  * Obligation d’intérioriser la doctrine du groupe comme étant la vérité absolue, dont on ne doit jamais dévier, et que l’on ne doit jamais remettre en question. Cette vérité est souvent présentée dans le cadre d’un combat d'une minurité détenant la vérité contre un monde mauvais, conduisant à l’enfermement paranoïaque.
+  * Tout ce qui est bien est incarné par le chef et le groupe, tout ce qui est mauvais est à l’extérieur
+  * Adoption d'un langage propre au groupe (l’utilisation de mots nouveaux ou le fait de changer la signification de certains termes permet de contrôler les pensées en opérant une rupture avec les références antérieures et en enfermant l’individu dans un monde stéréotypé, réduisant de fait sa capacité de réflexion en la limitant aux notions autorisées par le groupe)
+  * Seules les pensées positives dans l’optique du groupe sont encouragées
+  * Techniques d’arrêt de la pensée (chants, psalmodies, méditation...)
+  * Rejet de l’analyse rationnelle, de la pensée critique
+  * Les membres sont exercés à ne croire aucune critique concernant le groupe, la doctrine ou le leader
+  * Rejet de toute pensée qui ne correspond pas à la doctrine, aucune autre forme de pensée n’est envisagée comme légitime ou bonne
+
+* **Contrôle des émotions**
+  * Manipulation par la réduction du champs des émotions en privilégiant des émotions très intenses et moins variées (joie, peur, enthousiasme, dégout...)
+  * Responsabiliser systématiquement la personne pour ses échecs et jamais le leader ou le groupe
+  * Utilisation excessive de la culpabilisation
+
 ## En sortir
 
 ## Références
@@ -178,7 +217,7 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
 
 [^criteres_icsa]: Langone, M. D., PhD. (2015). *Characteristics Associated with Cultic Groups*. ICSA Today, Vol. 6, No. 3, 10. Consulté à l'adresse <https://www.icsahome.com/memberelibrary/it>
 
-[^criteres_lalich]: Lalich, J. (2006). *Take Back Your Life: recovering from cults and abusive relationships (2nd éd.)*. Richmond, Californie : Bay Tree Publishing.
+[^criteres_lalich]: Lalich, J. (2006). *Take Back Your Life: recovering from cults and abusive relationships* (2nd éd.). Richmond, Californie : Bay Tree Publishing.
 
 [^criteres_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.). *Comment la détecter ? \| Miviludes*. Consulté le 1 juin 2020, à l'adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter>
 
@@ -193,3 +232,5 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
 [^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu'est-ce qu'une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l'adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
 
 [^sujetion_bcm_cults]: Cult Information Centre, & Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2018, juillet 17). *Techniques de mise sous influence*. Consulté le 1 juin 2020, à l'adresse <https://www.unadfi.org/cles-pour-comprendre/atteintes-a-la-personne/emprise-mentale-et-vulnerabilite/techniques-de-mise-sous-influence/>
+
+[^mind_control_hassan]: Hassan, S. (1990). *Combatting Cult Mind Control* (Reprint éd.). Rochester, Vermont : Park Street Press.
