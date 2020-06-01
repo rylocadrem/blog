@@ -3,9 +3,10 @@ email: rylocadrem@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog de réflexions sur les sectes, la rationalité et la pensée critique.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://rylocadrem.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rylocadrem.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: #
 # github_username:  rylocadrem
+lang: fr
 
 # Build settings
 theme: minima
@@ -20,6 +21,8 @@ markdown: kramdown
 # Minima theme
 author: rylocadrem
 show_excerpts: true
+minima:
+  - date_format: "%Y-%m-%d"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
