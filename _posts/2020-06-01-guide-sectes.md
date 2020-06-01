@@ -38,62 +38,70 @@ En raison de la grande diversité et de l'évolution constante des sectes, il es
 
 On peut cependant définir des listes de critères permétant de déterminer des *signaux d'alerte* pour déceler un risque sectaire.
 
+Voici une liste proposée par la Miviludes[^criteres_miviludes] :
+
+* Dérives concernant les personnes (comment déceler l’influence sectaire dans le comportement d’un proche)
+  * Adoption d’un langage propre au groupe
+  * Modification des habitudes alimentaires ou vestimentaires
+  * Refus de soins ou arrêt des traitements médicaux régulièrement prescrits
+  * Situation de rupture avec la famille ou le milieu social et professionnel
+  * Engagement exclusif pour le groupe
+  * Soumission absolue, dévouement total aux dirigeants
+  * Perte d’esprit critique
+  * Réponse stéréotypée à toutes les interrogations existentielles.
+  * Embrigadement des enfants
+  * Existence d’atteintes à l’intégrité physique ou psychique
+  * Manque de sommeil
+
+* Dérives concernant les biens (comment déceler l’influence sectaire en matière économique et financière)
+  * Acceptation d’exigences financières de plus en plus fortes et durables
+  * Engagement dans un processus d’endettement
+  * Legs ou donations à des personnes physiques ou morales en lien avec le groupe auquel appartient la victime
+  * Obligation d’acheter ou de vendre certains matériels ou services comme condition incontournable d’appartenance au groupe
+  * Participation à des conférences, stages, séminaires, retraites, en France ou à l’étranger
+  * Existence d’escroqueries ou de publicité mensongère sur les qualités substantielles d'un produit ou d'un service
+
+* Dérives concernant la vie sociale et démocratique (comment déceler l’influence sectaire dans le domaine de la vie sociale et démocratique)
+  * Discours antisocial ou anti démocratique
+  * Critique des institutions de la République
+  * Troubles à l’ordre public
+  * Perturbation du fonctionnement normal des services publics (par exemple intrusion non autorisée dans les hôpitaux pour empêcher certains actes médicaux)
+  * Existence de condamnations judiciaires ou ordinales
+  * Détournement des circuits économiques traditionnels
+  * Tentatives d’infiltration ou de déstabilisation des pouvoirs publics
+  * Publication de documents ayant l’apparence d’un caractère officiel dénigrant certains services publics
+  * Détournement de marques, dessins, titres et modèles officiels pour amener une confusion dans l’esprit du public
+
 Voici une liste proposée par l'ICSA (International Cultic Studies Association, ou *Association Internationale d'Études Sectaires*)[^criteres_icsa] :
 
 * Le groupe est excessivement zélé et/ou s'engage inconditionnellement envers son ou ses dirigeants
 * Les questions, les doutes et les contestations sont découragés ou punis
 * Les pratiques altérant l'esprit (méditation, chant, parler en langues, sessions de dénonciation, activités démoralisantes...) sont beaucoup utilisées, étouffant les doutes sur le groupe et les dirigeants
 * Les dirigeants dictent la manière dont les membres doivent penser, agir ou ressentir (par exemple les membres doivent obtenir un accord pour se fréquenter, se marier, changer de travail ; les dirigeants indiquent comment élever les enfants, quels habits porter, s'il faut ou non avoir des enfants, où habiter...)
-* Le groupe est élitiste, revandique un statut spécial (par exemple des dirigeants qui seraient des "prophètes" ou ayant reçu un "message spécial", ou un goupe investi d'une mission spéciale)
+* Le groupe est élitiste, revendique un statut spécial (par exemple des dirigeants qui seraient des "prophètes" ou ayant reçu un "message spécial", ou un groupe investi d'une mission spéciale)
 * Le groupe a une mentalité polarisée de "nous contre eux", opposé au reste de la société
 * Les dirigeants ne rendent pas de comptes
-* Le groupe enseigne ou insinue que smission particulière justifie tous les moyens qu'il juge nécessaire. Cela peut se traduire par des membres agissant d'une manière qu'ils jugeraient non-éthique ou répréhensible s'ils ne le faisaient pas pour la cause du groupe
+* Le groupe enseigne ou insinue que sa mission particulière justifie tous les moyens qu'il juge nécessaires. Cela peut se traduire par des membres agissant d'une manière qu'ils jugeraient non éthique ou répréhensible s'ils ne le faisaient pas pour la cause du groupe
 * Les dirigeants induisent des sentiments de honte et/ou de culpabilité chez les membres pour les influencer et/ou les contrôler. Cela est souvent fait par la pression indirecte (via le groupe ou les autres membres) ou une persuasion subtile.
-* L'obédiance au groupe et/ou aux dirigeants pousse/requiert des membres qu'ils coupent les liens avec leur famille ou amis
-* L'obédiance au groupe et/ou aux dirigeants pousse/requiert des membres qu'ils abandonnent leurs projets et/ou activités
+* L'obédience au groupe et/ou aux dirigeants pousse/requiers des membres qu'ils coupent les liens avec leur famille ou amis
+* L'obédience au groupe et/ou aux dirigeants pousse/requiers des membres qu'ils abandonnent leurs projets et/ou activités
 * Le groupe cherche à recruter de nouveaux membres
 * Le groupe cherche à faire de l'argent
 * Le groupe attend des membres qu'ils dévouent une part excessive de leur temps au groupe ou aux activités liées au groupe
-* Les membres sont incités à ne vivre ou sociabiliser uniquement avec les autres membres du groupe
+* Les membres sont incités à ne vivre ou ne sociabiliser qu'avec les autres membres du groupe
 * Les membres les plus loyaux pensent qu'ils ne peut y avoir de vie en dehors du groupe. Ils considèrent que la vie dans le groupe est la meilleure ou la seule possible.
 * Les membres les plus loyaux craignent les représailles s'ils quittent le groupe
 
-Voici une liste proposée par la Miviludes[^criteres_miviludes] :
+La sociologue Janja Lalich ajoute à cette dernière liste quelques critères supplémentaires, sous forme de questions à se poser[^criteres_lalich] :
 
-* Dérives concernant les personnes - Comment déceler l’influence sectaire dans le comportement d’un proche
-  * adoption d’un langage propre au groupe
-  * modification des habitudes alimentaires ou vestimentaires
-  * refus de soins ou arrêt des traitements médicaux régulièrement prescrits
-  * situation de rupture avec la famille ou le milieu social et professionnel
-  * engagement exclusif pour le groupe
-  * soumission absolue, dévouement total aux dirigeants
-  * perte d’esprit critique
-  * réponse stéréotypée à toutes les interrogations existentielles.
-  * embrigadement des enfants
-  * existence d’atteintes à l’intégrité physique ou psychique
-  * manque de sommeil
-
-* Dérives concernant les biens - Comment déceler l’influence sectaire en matière économique et financière
-  * acceptation d’exigences financières de plus en plus fortes et durables
-  * engagement dans un processus d’endettement
-  * legs ou donations à des personnes physiques ou morales en lien avec le groupe auquel appartient la victime
-  * obligation d’acheter ou de vendre certains matériels ou services comme condition incontournable d’appartenance au groupe
-  * participation à des conférences, stages, séminaires, retraites, en France ou à l’étranger
-  * existence d’escroqueries ou de publicité mensongère sur les qualités substantielles d'un produit ou d'un service
-
-* Dérives concernant la vie sociale et démocratique - Comment déceler l’influence sectaire dans le domaine de la vie sociale et démocratique
-  * discours antisocial ou anti démocratique
-  * critique des institutions de la République
-  * troubles à l’ordre public
-  * perturbation du fonctionnement normal des services publics (par exemple intrusion non autorisée dans les hôpitaux pour empêcher certains actes médicaux)
-  * existence de condamnations judiciaires ou ordinales
-  * détournement des circuits économiques traditionnels
-  * tentatives d’infiltration ou de déstabilisation des pouvoirs publics
-  * publication de documents ayant l’apparence d’un caractère officiel dénigrant certains services publics
-  * détournement de marques, dessins, titres et modèles officiels pour amener une confusion dans l’esprit du public
-
-
-
+* Comment sont traitées les personnes qui quittent le groupe ? Est-ce que le groupe vous laisse savoir qui est parti et pourquoi ?
+* Are former members willing to speak about their experiences? How do they evaluate their time with the group or person?
+* What is the process for filing complaints? Is there a feedback mechanism that is real and honored? Are complaints made public? Is there a money-back guarantee?
+* Are your questions answered directly? Are you told time and again to listen to your heart and not your head? Are you told that you are too new, too uninformed, too nosy, and so on, and shouldn’t be asking such questions?
+* Is there a leader who appears to be the ultimate authority, spokesperson? Are his or her views challenged by others? Must the leader’s opinion be accepted without question?
+* What is the attitude of the followers toward the leader? Are there checks and balances to hold the leader accountable?
+* Is more than one point of view presented? Are other points of view recognized? Are other points of view seen as valid but different?
+* Does it appear that there are secrets? Is information restricted in any way? Is there some information that you are told must not be shared with outsiders? Is there information that you’re told you can’t get until you’re a member of the group or reached a certain level?
 
 
 
@@ -107,6 +115,8 @@ On peut également dresser une liste de critères d'emprise mentale :
 [^tel_33]: La Tronche en Biais. (2016, novembre 3). *Les réponses aux dérives sectaires - Tronche en Live #33* [Fichier vidéo]. YouTube. <https://www.youtube.com/watch?v=AZqSqWrm4Gs>
 
 [^criteres_icsa]: Langone, M. D., PhD. (2015). *Characteristics Associated with Cultic Groups*. ICSA Today, Vol. 6, No. 3, 10. Consulté à l’adresse <https://www.icsahome.com/memberelibrary/it>
+
+[^criteres_lalich]: Lalich, J., & Tobias, M. L. (2006). *Take Back Your Life (2nd éd.)*. Richmond, Californie : Bay Tree Publishing.
 
 [^criteres_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.). *Comment la détecter ? \| Miviludes*. Consulté le 1 juin 2020, à l’adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter>
 
