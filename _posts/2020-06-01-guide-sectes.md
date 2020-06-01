@@ -9,8 +9,12 @@ categories: sectes
 ⚠️ **NB : version de travail en cours de rédaction** ⚠️
 
 ## Introduction
+{:.no_toc}
 
 Aborder le phénomène sectaire est particulièrement complexe. Les sectes peuvent prendre des formes variées et subtiles, loin des exemples caricaturaux[^tel_33].
+
+* Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
+{:toc}
 
 ## Définitions
 
@@ -30,7 +34,7 @@ La Miviludes (Mission interministérielle de vigilance et de lutte contre les d�
 
 On retiendra de ces définitions une certaine nocivité pour les individus et des processus de manipulation et d'emprise mentale.
 
-## Critères de détection
+## Critères d'identification sectaire
 
 On préfère souvent une liste de critère indicatifs aux définitions trop peu précises.
 
@@ -95,20 +99,30 @@ Voici une liste proposée par l'ICSA (International Cultic Studies Association, 
 La sociologue Janja Lalich ajoute à cette dernière liste quelques critères supplémentaires, sous forme de questions à se poser[^criteres_lalich] :
 
 * Comment sont traitées les personnes qui quittent le groupe ? Est-ce que le groupe vous laisse savoir qui est parti et pourquoi ?
-* Are former members willing to speak about their experiences? How do they evaluate their time with the group or person?
-* What is the process for filing complaints? Is there a feedback mechanism that is real and honored? Are complaints made public? Is there a money-back guarantee?
-* Are your questions answered directly? Are you told time and again to listen to your heart and not your head? Are you told that you are too new, too uninformed, too nosy, and so on, and shouldn’t be asking such questions?
-* Is there a leader who appears to be the ultimate authority, spokesperson? Are his or her views challenged by others? Must the leader’s opinion be accepted without question?
-* What is the attitude of the followers toward the leader? Are there checks and balances to hold the leader accountable?
-* Is more than one point of view presented? Are other points of view recognized? Are other points of view seen as valid but different?
-* Does it appear that there are secrets? Is information restricted in any way? Is there some information that you are told must not be shared with outsiders? Is there information that you’re told you can’t get until you’re a member of the group or reached a certain level?
+* Est-ce que d'anciens membres parlent de leur expérience dans le groupe ? Comment évaluent-ils leur temps dans le groupe ?
+* Quelle est la procédure pour déposer une plainte ? Y a-t-il un réel mécanisme de *feedback* ? Est-ce que les plaintes sont rendues publiques ?
+* Est-ce que les questions sont répondues directement ? Vous dit-on à maintes reprises d'écouter votre cœur et non votre tête ? Vous dit-on que vous êtes trop nouveau, trop mal informé, trop fouineur, etc., et que vous ne devriez pas poser de telles questions ?
+* Y a-t-il un leader qui semble être l'autorité ultime, le porte-parole ? Ses opinions sont-elles contestées par d'autres? L'avis du leader doit-il être accepté sans réserve ?
+* Quelle est l'attitude des adeptes envers le leader ? Existe-t-il une séparation des pouvoirs pour que le leader rende des comptes ?
+* Est-ce que plus d'un point de vue est présenté ? D'autres points de vue sont-ils reconnus ? D'autres points de vue sont-ils considérés comme valables bien que différents ?
+* Semble-t-il qu'il y a des secrets ? L'information est-elle restreinte de quelque façon que ce soit ? Y a-t-il des informations que l'on vous dit de ne pas partager avec des non-membres ? Y a-t-il des informations que l'on vous dit que vous ne pouvez pas obtenir avant d'être membre du groupe ou d'avoir atteint un certain niveau ?
 
 
 
-On peut également dresser une liste de critères d'emprise mentale :
+## Critères de diagnostic d'emprise mentale
 
-* ...
-* ...
+Philippe-Jean Parquet, professeur de psychiatrie infanto-juvénile à l'université de Lille, spécialiste de l'emprise mentale, dresse la liste suivante de 10 critères de diagnostic d'emprise mentale (5 sont nécessaires pour valider le diagnostic)[^criteres_parquet] :
+
+* Rupture avec les modalités antérieures des comportements, des conduites, des jugements, des valeurs, des sociabilités individuelles, familiales et collectives
+* Occultation des repères antérieurs et rupture dans la cohérence avec la vie antérieure
+* Acceptation par une personne que sa personnalité, sa vie affective, cognitive, relationnelle, morale et sociale soient modelées par les suggestions, les injonctions, les ordres, les idées, les concepts, les valeurs, les doctrines imposés par un tiers ou une institution, conduisant à une délégation générale et permanente à un modèle imposé
+* Adhésion et allégeance inconditionnelle
+* Mise à disposition complète, progressive et extensive de sa vie
+* Sensibilité accrue dans le temps aux idées, aux concepts et aux prescriptions
+* Dépossession des compétences d’une personne avec anesthésie affective, altération du jugement et du sens critique
+* Altération de la liberté de choix
+* Imperméabilité aux avis, attitudes, valeurs de l’environnement avec impossibilité de se remettre en cause et de promouvoir un changement
+* Induction et réalisation d’actes gravement préjudiciables à la personne
 
 ## Références
 
@@ -118,9 +132,11 @@ On peut également dresser une liste de critères d'emprise mentale :
 
 [^criteres_icsa]: Langone, M. D., PhD. (2015). *Characteristics Associated with Cultic Groups*. ICSA Today, Vol. 6, No. 3, 10. Consulté à l’adresse <https://www.icsahome.com/memberelibrary/it>
 
-[^criteres_lalich]: Lalich, J., & Tobias, M. L. (2006). *Take Back Your Life (2nd éd.)*. Richmond, Californie : Bay Tree Publishing.
+[^criteres_lalich]: Lalich, J. (2006). *Take Back Your Life: recovering from cults and abusive relationships (2nd éd.)*. Richmond, Californie : Bay Tree Publishing.
 
 [^criteres_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.). *Comment la détecter ? \| Miviludes*. Consulté le 1 juin 2020, à l’adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire/comment-la-d%C3%A9tecter>
+
+[^criteres_parquet]: Sénat, & Parquet, P.-J. (2012). *Dérives thérapeutiques et dérives sectaires : la santé en danger (Auditions)*. Consulté à l’adresse <http://www.senat.fr/rap/r12-480-2/r12-480-212.html>
 
 [^definition_rousselet]: Rousselet, M., Duretete, O., Hardouin, J. B., & Grall-Bronnec, M. (2017). *Cult membership : What factors contribute to joining or leaving?* Psychiatry Research, 257, 27‑33. <https://doi.org/10.1016/j.psychres.2017.07.018>
 
@@ -129,6 +145,3 @@ On peut également dresser une liste de critères d'emprise mentale :
 [^definition_unadfi]: Union nationale des Associations de Défense des Familles et de l’Individu victimes de sectes. (2017). *Les sectes qu’en sais-tu ?* Consulté à l’adresse <https://www.unadfi.org/wp-content/uploads/2017/06/Les-sectes-qu-en-sais-tu.pdf>
 
 [^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu’est-ce qu’une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l’adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
-
-<!-- Tooltips -->
-*[Miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires
