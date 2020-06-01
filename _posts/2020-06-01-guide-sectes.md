@@ -112,6 +112,8 @@ On peut également dresser une liste de critères d'emprise mentale :
 
 ## Références
 
+<!-- Notes de références -->
+
 [^tel_33]: La Tronche en Biais. (2016, novembre 3). *Les réponses aux dérives sectaires - Tronche en Live #33* [Fichier vidéo]. YouTube. <https://www.youtube.com/watch?v=AZqSqWrm4Gs>
 
 [^criteres_icsa]: Langone, M. D., PhD. (2015). *Characteristics Associated with Cultic Groups*. ICSA Today, Vol. 6, No. 3, 10. Consulté à l’adresse <https://www.icsahome.com/memberelibrary/it>
@@ -127,3 +129,6 @@ On peut également dresser une liste de critères d'emprise mentale :
 [^definition_unadfi]: Union nationale des Associations de Défense des Familles et de l’Individu victimes de sectes. (2017). *Les sectes qu’en sais-tu ?* Consulté à l’adresse <https://www.unadfi.org/wp-content/uploads/2017/06/Les-sectes-qu-en-sais-tu.pdf>
 
 [^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu’est-ce qu’une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l’adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
+
+<!-- Tooltips -->
+*[Miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires
