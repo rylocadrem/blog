@@ -8,13 +8,22 @@ categories: sectes
 
 ⚠️ **NB : version de travail en cours de rédaction** ⚠️
 
-## Introduction
-{:.no_toc}
-
-Aborder le phénomène sectaire est particulièrement complexe. Les sectes peuvent prendre des formes variées et subtiles, loin des exemples caricaturaux[^tel_33].
+Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
+
+## Introduction
+
+Aborder le phénomène sectaire est particulièrement complexe. Les sectes peuvent prendre des formes variées et subtiles, loin des exemples caricaturaux[^tel_33] :
+
+> Derrière les carricatures rassurantes, où le grotesque des gourous et la stupidité des adorateur nous permettent de nous convaincre que jamais nous ne tomberions dan un piège aussi grossier, il y a une réalité toute simple : **les gens qui tombent dans des sectes ne savent pas qu'ils tombent dans des sectes.** Les victimes de ces mouvements ne sont pas plus bêtes ou moins instruites que les autres.
+>
+> Débarassons-nous de ces préjugés. **Une secte c'est dangereux, parce que ça ne ressemble pas à une secte.** Les "méchants manipulateurs" sont manipulateurs. Et c'est justement parce qu'ils le sont qu'on leur donnerait le bon dieu sans confession. Ceux qui ont l'air d'escrocs ou de pervers sont bien moins efficaces dans leurs méfaits. **Ce sont les autres, les plus séduisants, les plus afables qui peuvent faire de grands dégâts.**
+>
+> Quand on dit *secte* on pense à *gourou*, et on pense par exemple à Raël et à ses messages délirants sur les extraterestres. Mais à côté du sogrenu et du loufoque, **les sectes qui réussisent sont celles qui font croire qu'elles peuvent aider les individus à aller mieux, à se débarasser d'un malêtre ou d'une angoisse, celles qui répondent à des besoins qui n'ont rien de ridicule.**
+>
+> Sous couvert de respectabilité et usant d'un antagonisme, entre un monde externe brutal, agressif, devoyé et l'environnement du groupe jugé épanouissant et protecteur, **les sectes d'aujourd'hui passent souvent inaperçu**.
 
 ## Détecter
 
@@ -33,6 +42,10 @@ Voici quelques définitions qui ont été proposées :
 La Miviludes (Mission interministérielle de vigilance et de lutte contre les dérives sectaires) ne donne pas de définition de *secte* mais de *dérives sectaires* en raison de sa volonté de respect des croyances en tant qu'organisme gouvernemental.
 
 > Dévoiement de la liberté de pensée, d'opinion ou de religion qui porte atteinte à l'ordre public, aux lois ou aux règlements, aux droits fondamentaux, à la sécurité ou à l'intégrité des personnes. Elle se caractérise par la mise en œuvre, par un groupe organisé ou par un individu isolé, quelle que soit sa nature ou son activité, de pressions ou de techniques ayant pour but de créer, de maintenir ou d'exploiter chez une personne un état de sujétion psychologique ou physique, la privant d'une partie de son libre arbitre, avec des conséquences dommageables pour cette personne, son entourage ou pour la société.[^definition_miviludes]
+
+Enfin, le GEMPPI (Groupe d’Etude des Mouvements de Pensée en Vue de la Protection de l’Individu) donne la définition suivante :
+
+> Agissements, pratiques et enseignements utilisés dans des mouvements ou groupes à prétentions religieuses, philosophiques ou thérapeutiques holistiques nuisant ou étant dommageables aux individus et à la société en usant notamment de divers procédés déloyaux ou illégaux. Il s’agit de sectes lorsque ces faits sont constants, répétés, ou structurels. Lorsque ces faits sont occasionnels ou isolés dans un mouvement religieux ou spirituel, il s’agit plutôt de dérives sectaires.[^definition_gemppi]
 
 On retiendra de ces définitions une certaine nocivité pour les individus et des processus de manipulation et d'emprise mentale.
 
@@ -230,6 +243,8 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
 [^definition_unadfi]: Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2017). *Les sectes qu'en sais-tu ?* Consulté à l'adresse <https://www.unadfi.org/wp-content/uploads/2017/06/Les-sectes-qu-en-sais-tu.pdf>
 
 [^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu'est-ce qu'une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l'adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
+
+[^definition_gemppi]: Groupe d’Etude des Mouvements de Pensée en Vue de la Protection de l’Individu. (2018, novembre 30). *Définition de secte*. Consulté le 2 juin 2020, à l’adresse <https://www.gemppi.org/l-association/definitions-de-secte/>
 
 [^sujetion_bcm_cults]: Cult Information Centre, & Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2018, juillet 17). *Techniques de mise sous influence*. Consulté le 1 juin 2020, à l'adresse <https://www.unadfi.org/cles-pour-comprendre/atteintes-a-la-personne/emprise-mentale-et-vulnerabilite/techniques-de-mise-sous-influence/>
 
