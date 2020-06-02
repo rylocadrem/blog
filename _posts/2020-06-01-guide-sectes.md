@@ -43,11 +43,17 @@ La Miviludes (Mission interministérielle de vigilance et de lutte contre les d�
 
 > Dévoiement de la liberté de pensée, d'opinion ou de religion qui porte atteinte à l'ordre public, aux lois ou aux règlements, aux droits fondamentaux, à la sécurité ou à l'intégrité des personnes. Elle se caractérise par la mise en œuvre, par un groupe organisé ou par un individu isolé, quelle que soit sa nature ou son activité, de pressions ou de techniques ayant pour but de créer, de maintenir ou d'exploiter chez une personne un état de sujétion psychologique ou physique, la privant d'une partie de son libre arbitre, avec des conséquences dommageables pour cette personne, son entourage ou pour la société.[^definition_miviludes]
 
-Enfin, le GEMPPI (Groupe d’Etude des Mouvements de Pensée en Vue de la Protection de l’Individu) donne la définition suivante :
+Enfin, le GEMPPI (Groupe d’Etude des Mouvements de Pensée en Vue de la Protection de l’Individu) fait la distinction suivante :
 
 > Agissements, pratiques et enseignements utilisés dans des mouvements ou groupes à prétentions religieuses, philosophiques ou thérapeutiques holistiques nuisant ou étant dommageables aux individus et à la société en usant notamment de divers procédés déloyaux ou illégaux. Il s’agit de sectes lorsque ces faits sont constants, répétés, ou structurels. Lorsque ces faits sont occasionnels ou isolés dans un mouvement religieux ou spirituel, il s’agit plutôt de dérives sectaires.[^definition_gemppi]
 
 On retiendra de ces définitions une certaine nocivité pour les individus et des processus de manipulation et d'emprise mentale.
+
+Enfin, précisons que dans une secte, il n'est pas toujours question d'argent : c'est d'abord le contrôle qui est recherché[^tel_33].
+
+<!-- ### Classification
+
+On peut géréralement distinguer deux grandes familles de sectes[^tel_33] : les mouvements religieux (d'un côté issus des religions monothéistes, notamment chrétiennes, et les groupes panthéistes ou new-age) à tendance exclusive et les mouvements présentant un vernis scientifique ou médical à tendance inclusive. -->
 
 ### Critères d'identification sectaire
 
@@ -137,6 +143,29 @@ Philippe-Jean Parquet, professeur de psychiatrie infanto-juvénile à l'universi
 * Imperméabilité aux avis, attitudes, valeurs de l'environnement avec impossibilité de se remettre en cause et de promouvoir un changement
 * Induction et réalisation d'actes gravement préjudiciables à la personne
 
+### Présence dans différents domaines
+
+En France, la Miviludes a dressé en 2017 la liste des cas de dérive sectaire sur lesquels elle est intervenue. Voici les milieux qui ont donné lieu à au moins 4% des cas[^miviludes_2017] :
+
+* Médecine alternative et nutrition : 40%
+* Chrétiens évangéliques : 27%
+* New Age : 6%
+* Témoins de Jéhovah : 4.5%
+* Scientologie : 4.5%
+* Catholiques : 4%
+
+Tous les secteurs d’activité humaine sont potentiellement vulnérables aux sectes. Mais certains sont plus vulnérables que d'autres : les sectes y ont une emprise plus facile et ont les trouve en bien plus grand nombre. Le CCMM (Centre Contre les Manipulations Mentales) donne une analyse des domaines poreux ou historiquement favorables aux emprises sectaires[^champs_entrisme] :
+
+* **L'éducation** : historiquement vulnérable dans les champs de l'enseignement libre ou péri-scolaire, des cours particuliers, du soutien scolaire et des voyages linguistiques. Réduit depuis 2009 par un réseau ministériel de vigilance.
+* **La formation en entreprise** : les sectes sont de plus en plus actives dans ce domaine qui est un moyen efficace d'atteindre de potentiels nouveaux adeptes. Elles sont particuièrement présentes dans les formations concernant la gestion du stress, la résolution des conflits interpersonnels, le renforcement de la confiance en soi, l’accroissement de la capacité d'auto-accomplissement...
+* **La formation privée** : les sectes sont depuis longtemps présentes dans ce domaine, notamment dans les formations, séminaires ou stages concernant le développement personnel, le bien-être et la santé.
+* **Des sites faussement respectables** : un nombre non négligeables de sites internet se présentant sous un aspect respectable (institut de recherche, plateforme universitaire, journal d'information...) sont en fait des moyens de propagande sectaires ou une vitrine pour des sectes.
+* **ONG humanitaires** : certaines sectes prennent la forme d'une ONG humanitaire ou possède une composante humanitaire (sous la forme ou non d'une ONG) et utilisent la fragilité induite par les guerres ou les désastres sanitaires pour créer un lien de dépendance et faire de nouveaux adeptes.
+* **Santé et bien-être** : le domaine de la santé est particulièrement vulnérable aux dérives sectaires, qui peuvent entrainer la privation de soins ou l’utilisation de thérapeutiques non conventionnelles qui reposent sur des théories fantaisistes. La plupart des mouvements de santé à caractère sectaire promeut des théories sur la santé et revendique des pratiques thérapeutiques en opposition avec la médecine classique.
+* **Associations sportives** : les mouvements à caractère sectaire,notamment de la mouvance *new age*, utilisent souvent les clubs de gymnastique ou d’arts martiaux pour faire du prosélytisme, parfois par le biais de coach sportifs ou de sportifs de haut niveau acquis à leur cause.
+* **Milieux complotistes** : les milieux complotistes, particulièrement ceux qui croient en *l'existence d'une société secrète ancienne de personnes influentes ou un groupe de décideurs puissants répartis dans le monde qui exerceraient un pouvoir absolu particulièrement dans les domaines religieux économique et politique* sont vulnérables aux emprises des sectes qui leur promettent de découvrir la "vérité".
+* **Religions** : la plupart des sectes ont un encrage religieux, pseudo-religieux, ou psycho-spirituel, terrains particulièrement favorables à l'abus de faiblesse et à la manipulation mentale. La plupart des sectes religieuses sont issues des religions chrétiennes, notamment la mouvance évangélique, ou y sont apparentées.
+
 ## Comprendre
 
 ### Mise sous emprise
@@ -222,6 +251,65 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
 
 ## En sortir
 
+### Rupture de sujétion
+
+...
+
+### Différences de cas
+
+Beaucoup de facteurs sont communs à tous les membres et anciens membres de sectes, mais on observes quelques différences selon que la personne ait grandi dans la secte ou qu'elle y soit rentrée plus tard, à la lorsqu'elles envisagent de quitter le groupe et après l'avoir fait[^jw_study] :
+
+Lorsqu'elles envisagent de quitter le groupe :
+
+* Celles qui sont entrées plus tard ont plus de sentiment de culpabilité
+* Celles qui sont entrées plus tard ont un plus grand besoin de relations communautaires et d'affiliation à un groupe
+* Celles qui ont grandi dedans ont plus peur de perdre des relations
+* Celles qui ont grandi dedans ont plus peur des conséquences de leur départ sur elles-mêmes
+
+Lorsqu'elles ont quité le groupe :
+
+* Celles qui sont entrées plus tard forment plus rapidement de nouvelles amitiés
+* Celles qui sont entrées plus tard renouent plus facilement avec leur famille qui n'était pas dans le groupe
+* Celles qui ont grandi dedans ont un plus grand besoin d'apprendre la vie en société
+* Celles qui ont grandi dedans ont plus de sentiment d'incertitude
+* Celles qui ont grandi dedans ont plus de mal à se créer une nouvelle identité
+
+### Séquelles psychologiques
+
+Les psychologues ont identifié 20 composantes de détresse psychologique fréquemment présentes (> 50% des cas) chez les personnes adultes étant sorties d'une secte, plusieurs mois après leur sortie[^components] :
+
+* **Difficultés émotionnelles**
+  * **Anxiété et peur** : détresse émotionnelle associée à l’hypervigilance et à la peur face aux difficultés et/ou aux menaces et aux dangers associés au départ du groupe et à sa doctrine.
+  * **Deuil et perte** : détresse émotionnelle associée à des expériences de perte et de séparation d'avec les gens (famille, amis...) ou d'autres éléments importants laissés derrière lors de la sortie du groupe.
+  * **Honte et culpabilité** : détresse émotionnelle ressentie lorsque l'on prend conscience d'appartenir à un groupe abusif.
+  * **Tristesse et désespoir** : détresse émotionnelle associée à des sentiments de découragement, de dévalorisation, de vide ou de désespoir, pouvant conduire à des pensées suicidaires.
+  * **Rage et colère** : détresse émotionnelle liée à d'intenses sentiments d'indignation envers le groupe, son chef, soi-même et/ou les membres de sa famille.
+  * **Faible estime de soi** : impression défavorable de soi liée à de faibles sentiments d'estime de soi, d'acceptation de soi et de respect de soi.
+
+* Difficultés cognitives
+  * **Atrophie cognitive** : déficiences cognitives associées à des difficultés de traitement de l'information, à une faible concentration, à un manque de pensée critique et à une flexibilité cognitive réduite.
+  * **Difficultés de prise de décision** : incertitude et méfiance à l'égard de sa capacité à évaluer des situations, à utiliser ses propres critères et à prendre des décisions autonomes indépendamment des croyances et des règles dogmatiques précédemment utilisées dans le groupe.
+  * **Problèmes d'identité** : difficultés à former un concept de soi réaliste et authentique, sans rapport avec celui établi par le groupe, qui fournit des valeurs profondes, un nouvel objectif et un sens à la vie.
+  * **Rumination et évitement** : revisite récurrente des souvenirs pénibles et évitement persistant des pensées ou des situations liées aux expériences du groupe.
+  * **Pensées et croyances paranoïaques et irrationnelles** : pensées et croyances qui peuvent conduire à une vision déformée de la réalité, y compris une généralisation excessive, une mauvaise attribution ou une interprétation trop spirituelle, émotionnelle ou persécutrice des événements.
+  * **États dissociatifs** : états de conscience altérés où la personne se dissocie et se sent déconnectée ou éloignée d'elle-même et de l'environnement, déclenchée par des stimuli associés aux expériences du groupe.
+
+* Difficultés relationnelles et sociales
+  * **Manque de compétences sociales** : difficultés à communiquer et à interagir avec les autres de manière efficace et mutuellement satisfaisante.
+  * **Difficultés relationnelles** : difficultés à établir ou à renouveler des relations sociales stables et intimes, en raison d'une tendance vers des positions de dépendance ou de méfiance à l'égard des autres, et impliquant des sentiments d'incompréhension et de solitude.
+  * **Difficultés d'intégration sociale** : difficultés à s'adapter et à (ré)intégrer la société, à faire face de manière satisfaisante aux problèmes et aux exigences du nouvel environnement culturel, tels que les besoins éducatifs, économiques ou d'emploi.
+
+* Autres problèmes comportementaux
+  * **Somatisation** : symptômes physiques persistants résultant de conflits psychologiques non résolus exprimés par des affections corporelles ou des troubles somatiques.
+  * **Troubles du sommeil** : perturbations qui affectent le fonctionnement normal du cycle veille-sommeil, souvent exprimées comme des difficultés à s'endormir, à rester endormi toute la nuit ou à se réveiller trop tôt, y compris des cauchemars.
+  * **Troubles de l'alimentation** : habitudes alimentaires qui impliquent de limiter certains aliments ou un apport alimentaire insuffisant ou excessif, y compris les cognitions induites par le groupe sur les propriétés irréalistes de certains aliments.
+  * **Problèmes sexuels** : perturbations des attitudes et des comportements sexuels qui empêchent le développement d'une vie sexuelle saine, entravant l'implication adéquate de la personne dans les relations sexuelles souhaitées.
+  * **Comportements addictifs** : Un modèle de comportement compulsif dans lequel la personne cherche une satisfaction immédiate par la consommation de substances ou en exécutant certains comportements qui impliquent un inconfort ou une déficience importante.
+
+### Nouvelle vie
+
+...
+
 ## Références
 
 <!-- Notes de références -->
@@ -249,3 +337,11 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
 [^sujetion_bcm_cults]: Cult Information Centre, & Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2018, juillet 17). *Techniques de mise sous influence*. Consulté le 1 juin 2020, à l'adresse <https://www.unadfi.org/cles-pour-comprendre/atteintes-a-la-personne/emprise-mentale-et-vulnerabilite/techniques-de-mise-sous-influence/>
 
 [^mind_control_hassan]: Hassan, S. (1990). *Combatting Cult Mind Control* (Reprint éd.). Rochester, Vermont : Park Street Press.
+
+[^components]: Saldaña Tops, O., Antelo, E., Rodríguez-Carballeira, Á., & Almendros Rodríguez, C. (2018). *Taxonomy of Psychological and Social Disturbances in Survivors of Group Psychological Abuse*. Journal of Aggression, Maltreatment & Trauma, 27(9), 1003‑1021. <https://doi.org/10.1080/10926771.2017.1405315>
+
+[^jw_study]: Testoni, I., Bingaman, K., Gengarelli, G., Capriati, M., De Vincenzo, C., Toniolo, A., Marchica, B., & Zamperini, A. (2019). *Self-Appropriation between Social Mourning and Individuation : A Qualitative Study on Psychosocial Transition among Jehovah’s Witnesses*. Pastoral Psychology, 68(6), 687‑703. <https://doi.org/10.1007/s11089-019-00871-8>
+
+[^miviludes_2017]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (2017). *Miviludes - Rapport d’activité 2016 et premier semestre 2017 - Études*. Consulté à l’adresse <https://www.derives-sectes.gouv.fr/sites/default/files/publications/francais/rapport_miviludes_2017_web_v2_0.pdf>
+
+[^champs_entrisme]: Centre Contre les Manipulations Mentales. (2018, mars 13). *Champs d’entrisme*. Consulté le 2 juin 2020, à l’adresse <https://www.ccmm.asso.fr/champs-dentrisme/>
