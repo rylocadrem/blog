@@ -57,11 +57,11 @@ On peut géréralement distinguer deux grandes familles de sectes[^tel_33] : les
 
 ### Critères d'identification sectaire
 
-On préfère souvent une liste de critère indicatifs aux définitions trop peu précises.
+On préfère souvent une liste de critères indicatifs aux définitions trop peu précises.
 
 En raison de la grande diversité et de l'évolution constante des sectes, il est impossible d'établir une liste exhaustive ou permettant une identification certaine.
 
-On peut cependant définir des listes de critères permétant de déterminer des *signaux d'alerte* pour déceler un risque sectaire.
+On peut cependant définir des listes de critères permettant de déterminer des *signaux d'alerte* pour déceler un risque sectaire.
 
 Voici une liste proposée par la Miviludes[^criteres_miviludes] :
 
@@ -114,7 +114,7 @@ Voici une liste proposée par l'ICSA (International Cultic Studies Association, 
 * Le groupe cherche à faire de l'argent
 * Le groupe attend des membres qu'ils dévouent une part excessive de leur temps au groupe ou aux activités liées au groupe
 * Les membres sont incités à ne vivre ou ne sociabiliser qu'avec les autres membres du groupe
-* Les membres les plus loyaux pensent qu'ils ne peut y avoir de vie en dehors du groupe. Ils considèrent que la vie dans le groupe est la meilleure ou la seule possible.
+* Les membres les plus loyaux pensent qu'il ne peut y avoir de vie en dehors du groupe. Ils considèrent que la vie dans le groupe est la meilleure ou la seule possible.
 * Les membres les plus loyaux craignent les représailles s'ils quittent le groupe
 
 La sociologue Janja Lalich ajoute à cette dernière liste quelques critères supplémentaires, sous forme de questions à se poser[^criteres_lalich] :
@@ -123,7 +123,7 @@ La sociologue Janja Lalich ajoute à cette dernière liste quelques critères su
 * Est-ce que d'anciens membres parlent de leur expérience dans le groupe ? Comment évaluent-ils leur temps dans le groupe ?
 * Quelle est la procédure pour déposer une plainte ? Y a-t-il un réel mécanisme de *feedback* ? Est-ce que les plaintes sont rendues publiques ?
 * Est-ce que les questions sont répondues directement ? Vous dit-on à maintes reprises d'écouter votre cœur et non votre tête ? Vous dit-on que vous êtes trop nouveau, trop mal informé, trop fouineur, etc., et que vous ne devriez pas poser de telles questions ?
-* Y a-t-il un leader qui semble être l'autorité ultime, le porte-parole ? Ses opinions sont-elles contestées par d'autres? L'avis du leader doit-il être accepté sans réserve ?
+* Y a-t-il un leader qui semble être l'autorité ultime, le porte-parole ? Ses opinions sont-elles contestées par d'autres ? L'avis du leader doit-il être accepté sans réserve ?
 * Quelle est l'attitude des adeptes envers le leader ? Existe-t-il une séparation des pouvoirs pour que le leader rende des comptes ?
 * Est-ce que plus d'un point de vue est présenté ? D'autres points de vue sont-ils reconnus ? D'autres points de vue sont-ils considérés comme valables bien que différents ?
 * Semble-t-il qu'il y a des secrets ? L'information est-elle restreinte de quelque façon que ce soit ? Y a-t-il des informations que l'on vous dit de ne pas partager avec des non-membres ? Y a-t-il des informations que l'on vous dit que vous ne pouvez pas obtenir avant d'être membre du groupe ou d'avoir atteint un certain niveau ?
@@ -150,21 +150,21 @@ En France, la Miviludes a dressé en 2017 la liste des cas de dérive sectaire s
 * Médecine alternative et nutrition : 40%
 * Chrétiens évangéliques : 27%
 * New Age : 6%
-* Témoins de Jéhovah : 4.5%
-* Scientologie : 4.5%
+* Témoins de Jéhovah : 4,5%
+* Scientologie : 4,5%
 * Catholiques : 4%
 
-Tous les secteurs d’activité humaine sont potentiellement vulnérables aux sectes. Mais certains sont plus vulnérables que d'autres : les sectes y ont une emprise plus facile et ont les trouve en bien plus grand nombre. Le CCMM (Centre Contre les Manipulations Mentales) donne une analyse des domaines poreux ou historiquement favorables aux emprises sectaires[^champs_entrisme] :
+Tous les secteurs d’activité humaine sont potentiellement vulnérables aux sectes. Mais certains sont plus vulnérables que d'autres : les sectes y ont une emprise plus facile et on les trouve en bien plus grand nombre. Le CCMM (Centre Contre les Manipulations Mentales) donne une analyse des domaines poreux ou historiquement favorables aux emprises sectaires[^champs_entrisme] :
 
-* **L'éducation** : historiquement vulnérable dans les champs de l'enseignement libre ou péri-scolaire, des cours particuliers, du soutien scolaire et des voyages linguistiques. Réduit depuis 2009 par un réseau ministériel de vigilance.
-* **La formation en entreprise** : les sectes sont de plus en plus actives dans ce domaine qui est un moyen efficace d'atteindre de potentiels nouveaux adeptes. Elles sont particuièrement présentes dans les formations concernant la gestion du stress, la résolution des conflits interpersonnels, le renforcement de la confiance en soi, l’accroissement de la capacité d'auto-accomplissement...
-* **La formation privée** : les sectes sont depuis longtemps présentes dans ce domaine, notamment dans les formations, séminaires ou stages concernant le développement personnel, le bien-être et la santé.
-* **Des sites faussement respectables** : un nombre non négligeables de sites internet se présentant sous un aspect respectable (institut de recherche, plateforme universitaire, journal d'information...) sont en fait des moyens de propagande sectaires ou une vitrine pour des sectes.
-* **ONG humanitaires** : certaines sectes prennent la forme d'une ONG humanitaire ou possède une composante humanitaire (sous la forme ou non d'une ONG) et utilisent la fragilité induite par les guerres ou les désastres sanitaires pour créer un lien de dépendance et faire de nouveaux adeptes.
-* **Santé et bien-être** : le domaine de la santé est particulièrement vulnérable aux dérives sectaires, qui peuvent entrainer la privation de soins ou l’utilisation de thérapeutiques non conventionnelles qui reposent sur des théories fantaisistes. La plupart des mouvements de santé à caractère sectaire promeut des théories sur la santé et revendique des pratiques thérapeutiques en opposition avec la médecine classique.
+* **L'éducation** : historiquement vulnérable dans les champs de l'enseignement libre ou périscolaire, des cours particuliers, du soutien scolaire et des voyages linguistiques. Réduit depuis 2009 par un réseau ministériel de vigilance.
+* **La formation en entreprise** : les sectes sont de plus en plus actives dans ce domaine qui est un moyen efficace d'atteindre de potentiels nouveaux adeptes. Elles sont particulièrement présentes dans les formations concernant la gestion du stress, la résolution des conflits interpersonnels, le renforcement de la confiance en soi, l’accroissement de la capacité d'autoaccomplissement...
+* **La formation privée** : les sectes sont depuis longtemps présentes dans ce domaine, notamment dans les formations, séminaires ou stages concernant le développement personnel, le bienêtre et la santé.
+* **Des sites faussement respectables** : un nombre non négligeable de sites internet se présentant sous un aspect respectable (institut de recherche, plateforme universitaire, journal d'information...) sont en fait des moyens de propagande sectaires ou une vitrine pour des sectes.
+* **ONG humanitaires** : certaines sectes prennent la forme d'une ONG humanitaire ou possèdent une composante humanitaire (sous la forme ou non d'une ONG) et utilisent la fragilité induite par les guerres ou les désastres sanitaires pour créer un lien de dépendance et faire de nouveaux adeptes.
+* **Santé et bienêtre** : le domaine de la santé est particulièrement vulnérable aux dérives sectaires, qui peuvent entrainer la privation de soins ou l’utilisation de thérapeutiques non conventionnelles qui reposent sur des théories fantaisistes. La plupart des mouvements de santé à caractère sectaire promeuvent des théories sur la santé et revendiquent des pratiques thérapeutiques en opposition avec la médecine classique.
 * **Associations sportives** : les mouvements à caractère sectaire,notamment de la mouvance *new age*, utilisent souvent les clubs de gymnastique ou d’arts martiaux pour faire du prosélytisme, parfois par le biais de coach sportifs ou de sportifs de haut niveau acquis à leur cause.
 * **Milieux complotistes** : les milieux complotistes, particulièrement ceux qui croient en *l'existence d'une société secrète ancienne de personnes influentes ou un groupe de décideurs puissants répartis dans le monde qui exerceraient un pouvoir absolu particulièrement dans les domaines religieux économique et politique* sont vulnérables aux emprises des sectes qui leur promettent de découvrir la "vérité".
-* **Religions** : la plupart des sectes ont un encrage religieux, pseudo-religieux, ou psycho-spirituel, terrains particulièrement favorables à l'abus de faiblesse et à la manipulation mentale. La plupart des sectes religieuses sont issues des religions chrétiennes, notamment la mouvance évangélique, ou y sont apparentées.
+* **Religions** : la plupart des sectes ont un encrage religieux, pseudo-religieux, ou psycho-spirituel, terrains particulièrement favorables à l'abus de faiblesse et à la manipulation mentale. La plupart des sectes religieuses sont issues des religions chrétiennes, notamment la mouvance évangélique, ou s'y apparentent.
 
 ## Comprendre
 
@@ -189,16 +189,16 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
   * **L'annonce de dangers imminents**. Menaces qui induisent un climat de peur, permettent d'assurer une emprise sur les individus, et renforcent l'adhésion au groupe.
   * **L'adhésion au groupe**. On renforce le sentiment d'appartenance en introduisant dans un contexte émotionnel intense, des activités originales, qui cimentent le groupe par un « vécu » commun.
   * **La psalmodie et le chant**. On élimine les pensées étrangères au groupe par la répétition en choeur de chants et de phrases propres à rétrécir le champ de la conscience.
-  * **La méta-communication**. On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes lectures, ou dans des messages audio qu'il faut sans cesse écouter.
+  * **La méta-communication**. On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes lectures, ou dans des messages audios qu'il faut sans cesse écouter.
   * **L'hypnose**. On induit un état de grande suggestibilité par l'hypnose souvent déguisée habilement en méditation.
   * **La culpabilité**. L'aspiration au salut est exaltée en insistant sur les péchés commis lors de l'ancien mode de vie.
 
 * **L'atteinte à la vie personnelle**
-  * **L'obligation de transparence**. On pousse à l'aveu des faiblesses personnelles et des plus intimes sentiments et doutes, ce qui encourage la destruction de l'ego individuel et réduit la part d'intimité de l'être. Au passage cela permet de récolter des secrets dont on pourra ultérieurement se servir contre l'adepte récalcitrant.
+  * **L'obligation de transparence**. On pousse à l'aveu des faiblesses personnelles et des plus intimes sentiments et doutes, ce qui encourage la destruction de l'égo individuel et réduit la part d'intimité de l'être. Au passage cela permet de récolter des secrets dont on pourra ultérieurement se servir contre l'adepte récalcitrant.
   * **La destruction de l'inhibition**. En encourageant l'obéissance infantile et en orchestrant le comportement enfantin ; en jouant aussi sur la pudeur et l'impudeur.
   * **L'entrave à la vie intime**. On réussit à faire perdre la capacité d'évaluation logique en empêchant ou en décourageant l'analyse critique personnelle.
   * **Le changement de régime alimentaire**. On contribue à une désorientation et à une grande sensibilité aux bouffées émotionnelles par une alimentation médiocre des cellules nerveuses en certains éléments notamment protéiques.
-  * **Le régentement de la vie sexuelle**. Là aussi on sème la confusion par des règles où se mêlent et alternent la rigidité et la permissivité ; cela va pour certains jusqu'à transgresser la prohibition de l'inceste, base indispensable depuis toujours de l'identification personnelle et de toute évolution sociétaire.
+  * **La régence de la vie sexuelle**. Là aussi on sème la confusion par des règles où se mêlent et alternent la rigidité et la permissivité ; cela va pour certains jusqu'à transgresser la prohibition de l'inceste, base indispensable depuis toujours de l'identification personnelle et de toute évolution sociétaire.
   * **La fatigue et privation de sommeil**. On crée la désorientation et la vulnérabilité, en imposant une activité mentale et physique prolongée sans le repos et le sommeil adéquat.
   * **La dépendance financière**. L'adepte donne ses biens. Ainsi l'on pousse à fond la dépendance vis-à-vis du groupe et l'on consomme la rupture des ponts avec le passé.
   * **Le rejet des anciennes valeurs**. On accélère l'acceptation aveugle d'un nouveau style de vie en critiquant et dénonçant les valeurs et croyances antérieures.
@@ -230,12 +230,12 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
   * Doctrine de l’intérieur (la vérité), contre celle du monde extérieur (celle du monde)
   * L’information délivrée aux membres diffère selon leur place hiérarchique et leur fonction au sein du groupe, la direction décide de qui a besoin de savoir quoi
   * Les membres sont encouragés à rapporter à leurs supérieurs les commentaires ou les actes déviants observés chez les autres
-  * Utilisation intensive de la propagande et des informations générées par le groupe (revues internes, messages audio et vidéo...)
+  * Utilisation intensive de la propagande et des informations générées par le groupe (revues internes, messages audios et vidéo...)
   * Citations biaisées, déclarations extérieures sorties de leur contexte et réinterprétées à la convenance du groupe
   * Confession utilisée comme un moyen de pression sur les membres du groupe, en abolissant les frontières de l’identité personnelle (réduction de la part d’ intimité de l’individu) et en le manipulant par la culpabilité
 
 * **Contrôle de la faculté de réflexion**
-  * Obligation d’intérioriser la doctrine du groupe comme étant la vérité absolue, dont on ne doit jamais dévier, et que l’on ne doit jamais remettre en question. Cette vérité est souvent présentée dans le cadre d’un combat d'une minurité détenant la vérité contre un monde mauvais, conduisant à l’enfermement paranoïaque.
+  * Obligation d’intérioriser la doctrine du groupe comme étant la vérité absolue, dont on ne doit jamais dévier, et que l’on ne doit jamais remettre en question. Cette vérité est souvent présentée dans le cadre d’un combat d'une minorité détenant la vérité contre un monde mauvais, conduisant à l’enfermement paranoïaque.
   * Tout ce qui est bien est incarné par le chef et le groupe, tout ce qui est mauvais est à l’extérieur
   * Adoption d'un langage propre au groupe (l’utilisation de mots nouveaux ou le fait de changer la signification de certains termes permet de contrôler les pensées en opérant une rupture avec les références antérieures et en enfermant l’individu dans un monde stéréotypé, réduisant de fait sa capacité de réflexion en la limitant aux notions autorisées par le groupe)
   * Seules les pensées positives dans l’optique du groupe sont encouragées
@@ -245,7 +245,7 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
   * Rejet de toute pensée qui ne correspond pas à la doctrine, aucune autre forme de pensée n’est envisagée comme légitime ou bonne
 
 * **Contrôle des émotions**
-  * Manipulation par la réduction du champs des émotions en privilégiant des émotions très intenses et moins variées (joie, peur, enthousiasme, dégout...)
+  * Manipulation par la réduction du champ des émotions en privilégiant des émotions très intenses et moins variées (joie, peur, enthousiasme, dégout...)
   * Responsabiliser systématiquement la personne pour ses échecs et jamais le leader ou le groupe
   * Utilisation excessive de la culpabilisation
 
@@ -258,7 +258,7 @@ On peut résumer la théorie de l'engagement ainsi :
 * on est d’autant plus engagé que la décision a été libre
 * on est d’autant plus engagé que la décision a été publique
 * on est d’autant plus engagé que la décision a été répétée
-* on est d’autant plus engagé que la répétition a été coûteuse
+* on est d’autant plus engagé que la répétition a été couteuse
 * on est d’autant plus engagé que l’on ne semble pas pouvoir revenir sur sa décision
 
 ## En sortir
@@ -269,7 +269,7 @@ On peut résumer la théorie de l'engagement ainsi :
 
 ### Différences de cas
 
-Beaucoup de facteurs sont communs à tous les membres et anciens membres de sectes, mais on observes quelques différences selon que la personne ait grandi dans la secte ou qu'elle y soit rentrée plus tard, à la fois lorsqu'elles envisagent de quitter le groupe et après l'avoir fait[^jw_study] :
+Beaucoup de facteurs sont communs à tous les membres et anciens membres de sectes, mais on observe quelques différences selon que la personne ait grandi dans la secte ou qu'elle y soit rentrée plus tard, à la fois lorsqu'elles envisagent de quitter le groupe et après l'avoir fait[^jw_study] :
 
 Lorsqu'elles envisagent de quitter le groupe :
 
@@ -278,7 +278,7 @@ Lorsqu'elles envisagent de quitter le groupe :
 * Celles qui ont grandi dedans ont plus peur de perdre des relations
 * Celles qui ont grandi dedans ont plus peur des conséquences de leur départ sur elles-mêmes
 
-Lorsqu'elles ont quité le groupe :
+Lorsqu'elles ont quitté le groupe :
 
 * Celles qui sont entrées plus tard forment plus rapidement de nouvelles amitiés
 * Celles qui sont entrées plus tard renouent plus facilement avec leur famille qui n'était pas dans le groupe
@@ -303,8 +303,8 @@ Les psychologues ont identifié 20 composantes de détresse psychologique fréqu
   * **Difficultés de prise de décision** : incertitude et méfiance à l'égard de sa capacité à évaluer des situations, à utiliser ses propres critères et à prendre des décisions autonomes indépendamment des croyances et des règles dogmatiques précédemment utilisées dans le groupe.
   * **Problèmes d'identité** : difficultés à former un concept de soi réaliste et authentique, sans rapport avec celui établi par le groupe, qui fournit des valeurs profondes, un nouvel objectif et un sens à la vie.
   * **Rumination et évitement** : revisite récurrente des souvenirs pénibles et évitement persistant des pensées ou des situations liées aux expériences du groupe.
-  * **Pensées et croyances paranoïaques et irrationnelles** : pensées et croyances qui peuvent conduire à une vision déformée de la réalité, y compris une généralisation excessive, une mauvaise attribution ou une interprétation trop spirituelle, émotionnelle ou persécutrice des événements.
-  * **États dissociatifs** : états de conscience altérés où la personne se dissocie et se sent déconnectée ou éloignée d'elle-même et de l'environnement, déclenchée par des stimuli associés aux expériences du groupe.
+  * **Pensées et croyances paranoïaques et irrationnelles** : pensées et croyances qui peuvent conduire à une vision déformée de la réalité, y compris une généralisation excessive, une mauvaise attribution ou une interprétation trop spirituelle, émotionnelle ou persécutrice des évènements.
+  * **États dissociatifs** : états de conscience altérés où la personne se dissocie et se sent déconnectée ou éloignée d'elle-même et de l'environnement, déclenchés par des stimuli associés aux expériences du groupe.
 
 * Difficultés relationnelles et sociales
   * **Manque de compétences sociales** : difficultés à communiquer et à interagir avec les autres de manière efficace et mutuellement satisfaisante.
