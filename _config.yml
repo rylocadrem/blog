@@ -12,11 +12,6 @@ lang: fr
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
-
-# jekyll-last-modified-at plugin
-last-modified-at:
-    date-format: 'le %d/%m/%Y à %Hh%M'
 
 # Markdown processing
 markdown: kramdown
