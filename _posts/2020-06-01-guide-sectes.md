@@ -249,6 +249,18 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
   * Responsabiliser systématiquement la personne pour ses échecs et jamais le leader ou le groupe
   * Utilisation excessive de la culpabilisation
 
+### Théorie de l'engagement
+
+**🚧 NB : Section à refaire**
+
+On peut résumer la théorie de l'engagement ainsi :
+
+* on est d’autant plus engagé que la décision a été libre
+* on est d’autant plus engagé que la décision a été publique
+* on est d’autant plus engagé que la décision a été répétée
+* on est d’autant plus engagé que la répétition a été coûteuse
+* on est d’autant plus engagé que l’on ne semble pas pouvoir revenir sur sa décision
+
 ## En sortir
 
 ### Rupture de sujétion
