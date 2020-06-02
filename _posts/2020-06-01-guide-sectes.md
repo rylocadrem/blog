@@ -257,7 +257,7 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
 
 ### Différences de cas
 
-Beaucoup de facteurs sont communs à tous les membres et anciens membres de sectes, mais on observes quelques différences selon que la personne ait grandi dans la secte ou qu'elle y soit rentrée plus tard, à la lorsqu'elles envisagent de quitter le groupe et après l'avoir fait[^jw_study] :
+Beaucoup de facteurs sont communs à tous les membres et anciens membres de sectes, mais on observes quelques différences selon que la personne ait grandi dans la secte ou qu'elle y soit rentrée plus tard, à la fois lorsqu'elles envisagent de quitter le groupe et après l'avoir fait[^jw_study] :
 
 Lorsqu'elles envisagent de quitter le groupe :
 
