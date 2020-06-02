@@ -17,13 +17,13 @@ Table des matières :
 
 Aborder le phénomène sectaire est particulièrement complexe. Les sectes peuvent prendre des formes variées et subtiles, loin des exemples caricaturaux[^tel_33] :
 
-> Derrière les carricatures rassurantes, où le grotesque des gourous et la stupidité des adorateur nous permettent de nous convaincre que jamais nous ne tomberions dan un piège aussi grossier, il y a une réalité toute simple : **les gens qui tombent dans des sectes ne savent pas qu'ils tombent dans des sectes.** Les victimes de ces mouvements ne sont pas plus bêtes ou moins instruites que les autres.
+> Derrière les caricatures rassurantes, où le grotesque des gourous et la stupidité des adorateurs nous permettent de nous convaincre que jamais nous ne tomberions dans un piège aussi grossier, il y a une réalité toute simple : **les gens qui tombent dans des sectes ne savent pas qu'ils tombent dans des sectes.** Les victimes de ces mouvements ne sont pas plus bêtes ou moins instruites que les autres.
 >
-> Débarassons-nous de ces préjugés. **Une secte c'est dangereux, parce que ça ne ressemble pas à une secte.** Les "méchants manipulateurs" sont manipulateurs. Et c'est justement parce qu'ils le sont qu'on leur donnerait le bon dieu sans confession. Ceux qui ont l'air d'escrocs ou de pervers sont bien moins efficaces dans leurs méfaits. **Ce sont les autres, les plus séduisants, les plus afables qui peuvent faire de grands dégâts.**
+> Débarrassons-nous de ces préjugés. **Une secte c'est dangereux, parce que ça ne ressemble pas à une secte.** Les "méchants manipulateurs" sont manipulateurs. Et c'est justement parce qu'ils le sont qu'on leur donnerait le Bon Dieu sans confession. Ceux qui ont l'air d'escrocs ou de pervers sont bien moins efficaces dans leurs méfaits. **Ce sont les autres, les plus séduisants, les plus affables qui peuvent faire de grands dégâts.**
 >
-> Quand on dit *secte* on pense à *gourou*, et on pense par exemple à Raël et à ses messages délirants sur les extraterestres. Mais à côté du sogrenu et du loufoque, **les sectes qui réussisent sont celles qui font croire qu'elles peuvent aider les individus à aller mieux, à se débarasser d'un malêtre ou d'une angoisse, celles qui répondent à des besoins qui n'ont rien de ridicule.**
+> Quand on dit *secte* on pense à *gourou*, et on pense par exemple à Raël et à ses messages délirants sur les extraterrestres. Mais à côté du saugrenu et du loufoque, **les sectes qui réussissent sont celles qui font croire qu'elles peuvent aider les individus à aller mieux, à se débarrasser d'un malêtre ou d'une angoisse, celles qui répondent à des besoins qui n'ont rien de ridicule.**
 >
-> Sous couvert de respectabilité et usant d'un antagonisme, entre un monde externe brutal, agressif, devoyé et l'environnement du groupe jugé épanouissant et protecteur, **les sectes d'aujourd'hui passent souvent inaperçu**.
+> Sous couvert de respectabilité et usant d'un antagonisme, entre un monde externe brutal, agressif, dévoyé et l'environnement du groupe jugé épanouissant et protecteur, **les sectes d'aujourd'hui passent souvent inaperçu**.
 
 ## Détecter
 
@@ -43,7 +43,7 @@ La Miviludes (Mission interministérielle de vigilance et de lutte contre les d�
 
 > Dévoiement de la liberté de pensée, d'opinion ou de religion qui porte atteinte à l'ordre public, aux lois ou aux règlements, aux droits fondamentaux, à la sécurité ou à l'intégrité des personnes. Elle se caractérise par la mise en œuvre, par un groupe organisé ou par un individu isolé, quelle que soit sa nature ou son activité, de pressions ou de techniques ayant pour but de créer, de maintenir ou d'exploiter chez une personne un état de sujétion psychologique ou physique, la privant d'une partie de son libre arbitre, avec des conséquences dommageables pour cette personne, son entourage ou pour la société.[^definition_miviludes]
 
-Enfin, le GEMPPI (Groupe d’Etude des Mouvements de Pensée en Vue de la Protection de l’Individu) fait la distinction suivante :
+Enfin, le GEMPPI (Groupe d’Étude des Mouvements de Pensée en Vue de la Protection de l’Individu) fait la distinction suivante :
 
 > Agissements, pratiques et enseignements utilisés dans des mouvements ou groupes à prétentions religieuses, philosophiques ou thérapeutiques holistiques nuisant ou étant dommageables aux individus et à la société en usant notamment de divers procédés déloyaux ou illégaux. Il s’agit de sectes lorsque ces faits sont constants, répétés, ou structurels. Lorsque ces faits sont occasionnels ou isolés dans un mouvement religieux ou spirituel, il s’agit plutôt de dérives sectaires.[^definition_gemppi]
 
@@ -208,7 +208,7 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
   * **Le remplacement des relations**. On détruit les relations familiales antérieures. On arrange des mariages internes et des néo-familles. On déracine géographiquement et spirituellement, au point parfois d'inventer une généalogie fantoche.
   * **L'isolement**. On provoque une perte de contact avec le réel par une séparation physique ou intellectuelle d'avec la famille, les amis, l'environnement naturel, la société et les références rationnelles.
 
-### Controle de la pensée
+### Contrôle de la pensée
 
 Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est constitué de 4 composantes[^mind_control_hassan] :
 
