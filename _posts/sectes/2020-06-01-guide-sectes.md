@@ -6,7 +6,7 @@ date:   2020-06-01 18:00:00 +0200
 categories: sectes
 ---
 
-⚠️ **NB : version de travail en cours de rédaction** ⚠️
+🚧 **Version de travail en cours de rédaction** 🚧
 
 Table des matières :
 
