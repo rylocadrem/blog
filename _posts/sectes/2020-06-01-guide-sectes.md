@@ -189,7 +189,7 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
   * **L'annonce de dangers imminents**. Menaces qui induisent un climat de peur, permettent d'assurer une emprise sur les individus, et renforcent l'adhésion au groupe.
   * **L'adhésion au groupe**. On renforce le sentiment d'appartenance en introduisant dans un contexte émotionnel intense, des activités originales, qui cimentent le groupe par un « vécu » commun.
   * **La psalmodie et le chant**. On élimine les pensées étrangères au groupe par la répétition en choeur de chants et de phrases propres à rétrécir le champ de la conscience.
-  * **La méta-communication**. On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes lectures, ou dans des messages audios qu'il faut sans cesse écouter.
+  * **La méta-communication**. On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes conférences, ou dans des messages audios qu'il faut sans cesse écouter.
   * **L'hypnose**. On induit un état de grande suggestibilité par l'hypnose souvent déguisée habilement en méditation.
   * **La culpabilité**. L'aspiration au salut est exaltée en insistant sur les péchés commis lors de l'ancien mode de vie.
 
@@ -321,6 +321,18 @@ Les psychologues ont identifié 20 composantes de détresse psychologique fréqu
 ### Nouvelle vie
 
 ...
+
+## Agir contre les sectes
+
+En France, parmis les organismes gouvernementaux, c'est la Miviludes qui se charge des dérives sectaires. Il est possible de [faire un signalement en ligne](https://www.derives-sectes.gouv.fr/quelles-instances-saisir/informer-la-miviludes-d-une-derive-sectaire).
+
+En cas d'infraction pénale constatée, on peut déposer plainte au commissariat ou à la gendarmerie, ou par courrier au Procureur de la République près du tribunal de grande instance.
+
+Il est également possible de contacter des associations spécialisées dans l'aide aux victimes de sectes :
+
+* [L'Union nationale des Associations de Défense des Familles et de l’Individu victimes de sectes (UNADFI)](https://www.unadfi.org/)
+* [Le Centre Contre les Manipulations Mentales (CCMM)](https://www.ccmm.asso.fr/)
+* [Le Groupe d’Etude des Mouvements de Pensée en vue de la Protection de l’Individu (GEMPPI)](https://www.gemppi.org/)
 
 ## Références
 

@@ -15,7 +15,7 @@ Table des matières :
 
 ## Préambule
 
-### Définitions
+### Rétionalités
 
 On peut distinguer deux concepts de rationalité[^rationality_less_wrong] :
 
@@ -29,6 +29,16 @@ La rétionalité instrumentale est le pilotage de la réalité, c'est à dire le
 ...
 
 ...
+
+### Rationalité et intelligence
+
+### Rationalité et vérité
+
+### Rationalité et pensée critique
+
+### Dois-je être rationnel ?
+
+
 
 ## Références
 
