@@ -33,7 +33,7 @@ Il est difficile d'établir une définition précise des *sectes*, de par leur c
 
 Voici quelques définitions qui ont été proposées :
 
-> Groupe organisé ou personne solitaire dont le but est de dominer les membres en utilisant la manipulation psychologique et des stratégies de pression.[^definition_rousselet]
+> Groupe organisé ou personne solitaire dont le but est de dominer les membres en utilisant la manipulation psychologique et des stratégies de pression.[^cult_membership_rousselet]
 
 > Tout groupe idéologique clos qui suit un leader dissident de la doctrine générale et qui se caractérise par le fanatisme et l'intolérance de ses membres.[^definition_mucchielli]
 
@@ -167,6 +167,34 @@ Tous les secteurs d’activité humaine sont potentiellement vulnérables aux se
 * **Religions** : la plupart des sectes ont un encrage religieux, pseudo-religieux, ou psycho-spirituel, terrains particulièrement favorables à l'abus de faiblesse et à la manipulation mentale. La plupart des sectes religieuses sont issues des religions chrétiennes, notamment la mouvance évangélique, ou s'y apparentent.
 
 ## Comprendre
+
+### L'emprise mentale
+
+<!-- TODO : définitions -->
+
+Ce processus fait intervenir de nombreux éléments[^cult_membership_rousselet] : la vulnérabilité de la victime, les effets de groupe, l'instrumentalisation des émotions, le détachement des influences externes, la progression dans l'enseignement doctrinal, les promotions ou l'attribution de responsabilités...
+
+Il est progressif et finit par s'auto-renforcer[^idealisation_duretete] : il crée un sentiment de vide hors de la pratique sectaire, qui devient à la fois la cause et la conséquence de ce renforcement. Ainsi l'adepte pert sa capacité à faire ses propres choix.
+
+De plus, l'engagement actif dans la secte peut créer une dépendance affective envers les dirigeants ou le groupe[^sectaire_garand].
+
+### Le processus de mise sous emprise
+
+Le processus de mise sous emprise, ou processus d'engagement dans une secte se déroule en quatre étapes[^emprise_maes] [^emprise_unadfi_1] :
+
+1. La séduction
+2. La déstabilisation (ou destruction)
+3. La reconstruction (ou transformation)
+4. Le maintien en dépendance (ou sous contrôle)
+
+#### La séduction
+
+#### La déstabilisation
+
+#### La reconstruction
+
+#### Le maintien en dépendance
+
 
 ### Mise sous emprise
 
@@ -348,7 +376,7 @@ Il est également possible de contacter des associations spécialisées dans l'a
 
 [^criteres_parquet]: Sénat, & Parquet, P.-J. (2012). *Dérives thérapeutiques et dérives sectaires : la santé en danger (Auditions)*. Consulté à l'adresse <http://www.senat.fr/rap/r12-480-2/r12-480-212.html>
 
-[^definition_rousselet]: Rousselet, M., Duretete, O., Hardouin, J. B., & Grall-Bronnec, M. (2017). *Cult membership : What factors contribute to joining or leaving?* Psychiatry Research, 257, 27‑33. <https://doi.org/10.1016/j.psychres.2017.07.018>
+[^cult_membership_rousselet]: Rousselet, M., Duretete, O., Hardouin, J. B., & Grall-Bronnec, M. (2017). *Cult membership : What factors contribute to joining or leaving?* Psychiatry Research, 257, 27‑33. <https://doi.org/10.1016/j.psychres.2017.07.018>
 
 [^definition_mucchielli]: Mucchielli-Bourcier, A., & Mucchielli, R. (1969). *Lexique des sciences sociales*. Paris, France : Éditions sociales françaises.
 
@@ -369,3 +397,11 @@ Il est également possible de contacter des associations spécialisées dans l'a
 [^miviludes_2017]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (2017). *Miviludes - Rapport d’activité 2016 et premier semestre 2017 - Études*. Consulté à l’adresse <https://www.derives-sectes.gouv.fr/sites/default/files/publications/francais/rapport_miviludes_2017_web_v2_0.pdf>
 
 [^champs_entrisme]: Centre Contre les Manipulations Mentales. (2018, mars 13). *Champs d’entrisme*. Consulté le 2 juin 2020, à l’adresse <https://www.ccmm.asso.fr/champs-dentrisme/>
+
+[^emprise_maes]: Maes, J.-C. (2010). *Emprise et manipulation : Peut-on guérir des sectes?* De Boeck
+
+[^emprise_unadfi_1]: UNADFI. (2008). *Mise en état de sujétion (1ère partie) Généralités*. BulleS, 97.
+
+[^idealisation_duretete]: Duretete, O., Bronnec, M., & Venisse, J.-L. (2008). *Idéalisation et dépendance sectaire, reconstruction et lutte contre des processus passés d’aliénation*. Le Divan familial, 21(2), 171‑184. <https://doi.org/10.3917/difa.021.0169>
+
+[^sectaire_garand]: Garand, M.-È. (2013). *Sectaire et « inter-dit ». Introduction de la dimension du croire dans l’écoute du dire des personnes ayant vécu une expérience sectaire*. Faculté de Théologie et de Sciences des Religions. Université de Montréal, Montréal.
