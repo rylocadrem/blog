@@ -19,11 +19,11 @@ Table des matières :
 
 Cet article ne présente que le chapitre 10. Pour en savoir plus, vous pouvez lire le livre d'Albert Pilon (en anglais), disponible en pdf : [Is this a genuine revival.pdf]({{ site.baseurl }}/assets/files/Is this a genuine revival.pdf){:target="_blank"}
 
-Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] Est-ce un réveil authentique : extraits choisis]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %})
+Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] Est-ce un réveil authentique : extraits choisis]({% link _posts/sectes/ksb/2020-06-08-ksb-extraits-choisis.md %})
 
-Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'oeuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'oeuvre dans cet article : [Sectes : petit guide critique]({% link _posts/sectes/2020-06-01-guide-sectes.md %})
 
-Vous pouvez enfin vous initier à la rationalité et à la pensée critique en lisant cet article : [Introduction à la rationalité et à la pensée critique]({{ site.baseurl }}{% post_url pensee-critique/2020-06-03-introduction-pensee-critique %})
+Vous pouvez enfin vous initier à la rationalité et à la pensée critique en lisant cet article : [Introduction à la rationalité et à la pensée critique]({% link _posts/pensee-critique/2020-06-03-introduction-pensee-critique.md %})
 
 ## Kwasizabantu évaluée en rapport aux caractéristiques des sectes
 
