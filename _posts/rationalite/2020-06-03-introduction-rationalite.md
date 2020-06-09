@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[BROUILLON] Introduction à la rationalité et à la pensée critique"
+title:  "[BROUILLON] Introduction à la rationalité"
 excerpt: Une introduction à la rationalité, aux principes fondamentaux de la pensée critique, aux mécanismes de raisonnement et aux arguments fallacieux.
 date:   2020-06-03 8:30:00 +0200
-categories: pensee-critique
+categories: rationalite
 ---
 
 🚧 **Version de travail en cours de rédaction** 🚧
@@ -20,11 +20,11 @@ Table des matières :
 On peut distinguer deux concepts de rationalité[^rationality_less_wrong] :
 
 1. **La rationalité épistémique** : améliorer systématiquement la précision de ses croyances
-2. **La rationalité instrumentale** : atteindre systématiquement ses valeurs
+2. **La rationalité instrumentale** : atteindre systématiquement ses objectifs
 
-La rationalité épistémique est la recherche de ce qu'on appelle couramment *vérité*, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
+La rationalité épistémique est la recherche systématique de la *vérité*, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
 
-La rétionalité instrumentale est le pilotage de la réalité, c'est à dire le choix des actions qui mènent à des conséquences préférables.
+La rationalité instrumentale est l'accomplissement systématique de ses objectifs, c'est à dire le choix des actions qui mènent aux conséquences désirées.
 
 ...
 
