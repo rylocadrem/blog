@@ -6,7 +6,7 @@ date:   2020-06-08 10:00:00 +0200
 categories: sectes
 ---
 
-Cet article présente quelques extraits, traduits en français, de l'enquête missiologique d'Albert Pilon sur le réveil parmis les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?* (Est-ce un réveil authentique ?).
+Cet article présente quelques extraits, traduits en français, de l'enquête missiologique d'Albert Pilon sur le réveil parmi les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?* (Est-ce un réveil authentique ?).
 
 <!--plus-->
 
@@ -31,17 +31,17 @@ Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** 
 
 #### Extrait 1 (pages 31-32)
 
-> Fin 1966, Erlo Stegen se réunissait quotidiennement avec un certain nombre de Zoulous dans une étable pour prier. Ils croyaient que Dieu cherchait quelqu'un pour fonctionner comme un canal ([channeling](https://fr.wikipedia.org/wiki/Channeling)) pour leur parler. Ils ont d'abord pensé à Helen Mzila, mais il s'est avéré qu'elle n'était pas prête à le faire.[^31_59] Un jour, alors que tout le monde était priait ensemble, un vent puissant[^31_60] a commencé à souffler au milieu d'eux et l'étable a commencé à trembler[^31_61_1] [^31_61_2]. C'est à ce moment que "l'Esprit de Dieu" est descendu (*uthole uMoya*) sur la femme zouloue Magasa (Hilda Dube). Elle a reçu le don des langues et est devenue la prophétesse zoulou de Stegen (*umprofeti*), que dès lors il consulterait toujours pour obtenir des conseils.
+> Fin 1966, Erlo Stegen se réunissait quotidiennement avec un certain nombre de Zoulous dans une étable pour prier. Ils croyaient que Dieu cherchait quelqu'un pour fonctionner comme un canal ([channeling](https://fr.wikipedia.org/wiki/Channeling)) pour leur parler. Ils ont d'abord pensé à Helen Mzila, mais il s'est avéré qu'elle n'était pas prête à le faire.[^31_59] Un jour, alors que tout le monde était priait ensemble, un vent puissant[^31_60] a commencé à souffler au milieu d'eux et l'étable a commencé à trembler[^31_61_1] [^31_61_2]. C'est à ce moment que "l'Esprit de Dieu" est descendu (*uthole uMoya*) sur la femme zouloue Magasa (Hilda Dube). Elle a reçu le don des langues et est devenue la prophétesse zouloue de Stegen (*umprofeti*), que dès lors il consulterait toujours pour obtenir des conseils.
 >
 > Stegen a dit à Redinger qu'il pouvait amener Magasa à entrer en transe, et a affirmé qu'à travers elle il pouvait approcher Dieu directement. Il voyait les transes comme la découverte majeure du réveil; à travers elles il recevait des réponses directes à toutes ses questions et donc qu'il était toujours complètement en lien avec la volonté de Dieu. Par conséquent, tout le monde devrait l'écouter. Ce cadeau qui fonctionnait au travers de Magasa lui aurait été accordé personnellement, afin qu'il ne s'égare pas.[^32_62]
 
 #### Extrait 2 (page 32)
 
-> Aucun de ceux présents n'a osé remettre en question si les messages reçun par les transes de Magasa venaient bien de Dieu car elle était tenue en haute estime par Erlo Stegen.
+> Aucun de ceux présents n'a osé remettre en question le fait que les messages reçus par les transes de Magasa venaient bien de Dieu car elle était tenue en haute estime par Erlo Stegen.
 
 #### Extrait 3 (page 32)
 
-> Erlo Stegen affirmait que l'espérience de la chaleur ou du feu intérieur était la dernière effusion du Saint Esprit avant le retour de Christ, qui se diffuserait sur le monde à travers lui.[^32_63_1] [^32_63_2] [^32_63_3]
+> Erlo Stegen affirmait que l'expérience de la chaleur ou du feu intérieur était la dernière effusion du Saint Esprit avant le retour de Christ, qui se diffuserait sur le monde à travers lui.[^32_63_1] [^32_63_2] [^32_63_3]
 
 #### Extrait 4 (page 32)
 
@@ -49,13 +49,13 @@ Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** 
 
 #### Extrait 5 (page 33)
 
-> Kwasizabantu est une communauté multiraciale avec une société de classes sous l'autorité de blancs assistés par un certain nombre de Zulus éminents. Après cela, vient un groupe intermédiaire composé principalement de blancs. Au-dessous d'eux se trouvent principalement des Zoulous pauvres, qui sont généralement moins établis. Pour eux, la communauté est un tremplin entre le monde africain et le monde occidental.
+> Kwasizabantu est une communauté multiraciale avec une société de classes sous l'autorité de blancs assistés par un certain nombre de Zoulous éminents. Après cela, vient un groupe intermédiaire composé principalement de blancs. Au-dessous d'eux se trouvent principalement des Zoulous pauvres, qui sont généralement moins établis. Pour eux, la communauté est un tremplin entre le monde africain et le monde occidental.
 
 ### La campagne publicitaire d'Erlo Stegen
 
 #### Extrait (pages 34)
 
-> Erlo Stegen s'autorise aucun doute à propos des évènements surnaturels. Il affirme qu'à chaque heure du jour des centaines de païens arrivaient, spontanément et pleins de conviction de péché, pleurant de remords et plaidant pour le salut et qu'arrivant de près comme de loin ils venaient à Mapumulo pour écouter l'Évangile. "Il nous suffisant de sortir de la maison et de regarder, à n'importe quel moment de la journée, chaque jour de la semaine, il y avait toujours au moins cent ou deux cents personens qui attendaient."[^34_69]
+> Erlo Stegen s'autorise aucun doute à propos des évènements surnaturels. Il affirme qu'à chaque heure du jour des centaines de païens arrivaient, spontanément et pleins de conviction de péché, pleurant de remords et plaidant pour le salut et qu'arrivant de près comme de loin ils venaient à Mapumulo pour écouter l'Évangile. "Il nous suffisant de sortir de la maison et de regarder, à n'importe quel moment de la journée, chaque jour de la semaine, il y avait toujours au moins cent ou deux cents personnes qui attendaient."[^34_69]
 >
 > Stegen affirme : "Dieu avait allumé son feu qui se propageait à travers monts et vallées, de sorte qu'en une semaine, en une journée en fait, des milliers de personnes se sont converties. Cela s'est produit chez les Zoulous et les Xhosas en Afrique du Sud.[^34_70]
 
@@ -63,7 +63,7 @@ Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** 
 
 #### Extrait 1 (page 38)
 
-> Erlo Stegen exerce un contrôle absolu sur son mouvement et ne tolére aucune dissidence. Il refuse de rendre compte de ses agissements aux autorités ecclésiastiques de différentes églises qui lui reprochent un comportement autoritaire et trompeur, l'abus de pouvoir et le sectarisme.
+> Erlo Stegen exerce un contrôle absolu sur son mouvement et ne tolère aucune dissidence. Il refuse de rendre compte de ses agissements aux autorités ecclésiastiques de différentes églises qui lui reprochent un comportement autoritaire et trompeur, l'abus de pouvoir et le sectarisme.
 
 #### Extrait 2 (page 39)
 
@@ -83,13 +83,13 @@ Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** 
 
 #### Extrait 3 (page 44)
 
-> Quand Ntsibande a demandé une fois à Erlo Stegen pourquoi il priait si intimement avec Magasa seuls dans sa chambre, Stegen s'est mis en colère. Il a fait pression sur Ntsibande pour qu'il confesse son péché, mais n'était pas satisfait de ses aveux. Après cela, Stegen l'a forcé à divorcer de sa femme, ce que Ntsibande a refusé. Comme il résidait illégalement dans le pays, Stegen l'a dénoncé aux autorités.[^44_10] Suite à ça, Ntsibande s'est suicidé par pandaison durant la nuit dans la ferme Paardefontein (Mbalane).[^44_11]
+> Quand Ntsibande a demandé une fois à Erlo Stegen pourquoi il priait si intimement avec Magasa seuls dans sa chambre, Stegen s'est mis en colère. Il a fait pression sur Ntsibande pour qu'il confesse son péché, mais n'était pas satisfait de ses aveux. Après cela, Stegen l'a forcé à divorcer de sa femme, ce que Ntsibande a refusé. Comme il résidait illégalement dans le pays, Stegen l'a dénoncé aux autorités.[^44_10] Suite à ça, Ntsibande s'est suicidé par pendaison durant la nuit dans la ferme Paardefontein (Mbalane).[^44_11]
 
 ### Les coéquipiers des origines
 
 #### Extrait (page 45)
 
-> Quand la femme de Nathanael Ximba a posé des questions sur le comportenent de Magasa, Erlo Stegen a voulu le forcer à divorcer de sa femme, ce qu'il a refusé de faire.[^45_15]
+> Quand la femme de Nathanael Ximba a posé des questions sur le comportement de Magasa, Erlo Stegen a voulu le forcer à divorcer de sa femme, ce qu'il a refusé de faire.[^45_15]
 
 ### Les années tumultueuses de 1967 à 1970
 
@@ -114,7 +114,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > En 1970, Derryck Stone partit également. Il était préoccupé par les victimes du régime de Stegen et a essayé pendant un certain temps de jouer le médiateur entre elles et Stegen.[^48_30]
 >
-> Redinger a dit à Erlo Stegen que les *blueskirts* (un surnom pour les groupes sionistes, mêlant christianisme et animisme traditionel en Afrique) recevaient le Saint-Esprit en obtenant une sensation de chaleur de l'intérieur (comme cela avait été le cas à Mapumulo). Mais Stegen a rejeté toute association avec les blueskirts en disant qu'ils étaient dans l'erreur, car son effusion du Saint-Esprit était la seule authentique.[^48_31]
+> Redinger a dit à Erlo Stegen que les *blueskirts* (un surnom pour les groupes sionistes, mêlant christianisme et animisme traditionnel en Afrique) recevaient le Saint-Esprit en obtenant une sensation de chaleur de l'intérieur (comme cela avait été le cas à Mapumulo). Mais Stegen a rejeté toute association avec les blueskirts en disant qu'ils étaient dans l'erreur, car son effusion du Saint-Esprit était la seule authentique.[^48_31]
 
 ### Évènements significatifs
 
@@ -148,7 +148,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > Stegen a affirmé que l'expérience de la chaleur ou du feu était la dernière effusion de l'Esprit Saint avant le retour de Christ, qui se diffuserait sur le monde à travers lui.[^65_44_1] [^65_44_2] [^65_44_3]
 >
-> Lors des réunions, ce n'était pas la Parole de Dieu qui était prêchée, mais les visions, les rêves et les transes qui étraient plutôt expliqués. Tout le monde devait écrire ses rêves et les donner à Stegen pour qu'il puisse voir s'ils se réalisaient.[^66_45]
+> Lors des réunions, ce n'était pas la Parole de Dieu qui était prêchée, mais les visions, les rêves et les transes qui étaient plutôt expliqués. Tout le monde devait écrire ses rêves et les donner à Stegen pour qu'il puisse voir s'ils se réalisaient.[^66_45]
 >
 > Pour lui, les rêves de Thofozi avaient une valeur équivalente à la Parole de Dieu. Même si elle n'était encore qu'une enfant (14 ans), Stegen suivait en détail l'interprétation de ses rêves.[^66_46]
 >
@@ -168,7 +168,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 #### Extrait 1 (page 69)
 
-> Dans la religion zouloue, des petites choses inexplicables aux événements importants, la maladie, l'adversité ou lorsque des signes apparaissent, les Zoulous se demandent qui est responsable. Ils recherchent continuellement des solutions auprès des guérisseurs (*izinyanga*) et des devins (*izangoma*).
+> Dans la religion zouloue, des petites choses inexplicables aux évènements importants, la maladie, l'adversité ou lorsque des signes apparaissent, les Zoulous se demandent qui est responsable. Ils recherchent continuellement des solutions auprès des guérisseurs (*izinyanga*) et des devins (*izangoma*).
 
 #### Extrait 2 (page 70)
 
@@ -178,7 +178,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 #### Extrait (page 71)
 
-> Kwasizabantu a ses bases dans la foi chrétienne, mais dans un processus de rencontre avec la religion zoulou une théologie contextuelle a vu le jour et Stegen a infligé des dommages à l'Évangile. À travers le charisme de ses prophétesses zouloues, il est ouvert aux influences surnaturelles et à travers lui, ses adeptes.
+> Kwasizabantu a ses bases dans la foi chrétienne, mais dans un processus de rencontre avec la religion zouloue une théologie contextuelle a vu le jour et Stegen a infligé des dommages à l'Évangile. À travers le charisme de ses prophétesses zouloues, il est ouvert aux influences surnaturelles et à travers lui, ses adeptes.
 
 ## Chapitre 4 | Analyse du phénomène surnaturel
 
@@ -198,7 +198,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 #### Extrait 4 (page 76)
 
-> À Mapumulo, il n'y avais pas de secret sur les transes. Stegen les promouvait dans la communauté de Claridge et même bien au-delà. Chaque membre de la congrégation de Claridge était au fait des transes de Stegen et Magasa.
+> À Mapumulo, il n'y avait pas de secret sur les transes. Stegen les promouvait dans la communauté de Claridge et même bien au-delà. Chaque membre de la congrégation de Claridge était au fait des transes de Stegen et Magasa.
 >
 > Lorsque Stegen s'est rendu compte plus tard que les transes n'étaient pas acceptées comme étant bibliques, il a délibérément laissé les nouveaux membres dans l'ignorance à leur sujet.
 
@@ -210,7 +210,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 #### Extrait (pages 78-79)
 
-> En 2010, Imbali Mxolo, 14 ans, une sataniste apparemment convertie (mais ayant toujours ses pouvoirs) a été utilisée pour identifier certains enfants de Kwasizabantu qui auraient pû être des satanistes, car elle était capable de les reconnaitre lors de *rencontres sous la mer*[^78_18].
+> En 2010, Imbali Mxolo, 14 ans, une sataniste apparemment convertie (mais ayant toujours ses pouvoirs) a été utilisée pour identifier certains enfants de Kwasizabantu qui auraient pu être des satanistes, car elle était capable de les reconnaitre lors de *rencontres sous la mer*[^78_18].
 >
 > Imbali était extrêmement vulgaire et coupable de blasphème. Malgré cela, Stegen et les tantes Thofozi Dube, Eunice Ngcamu, Jabu Majola et Phiwapi Shange écoutaient chacune de ses paroles. On lui a même demandé de parler devant le personnel, alors que je me demandais pour quelle raison ils la laissaient parler.
 >
@@ -218,7 +218,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > Lorsque j'en ai parlé à mon conseiller (Olsen), il a dit que les Occidentaux avaient beaucoup de mal à comprendre la manière africaine de faire les choses.
 >
-> Lors de réunions spéciales dirigées par les tantes, Imbali Mxolo et Elaine Moodley, ont interrogeait les participants : "Lequel d'entre vous a parlé à Satan récemment ?"
+> Lors de réunions spéciales dirigées par les tantes, Imbali Mxolo et Elaine Moodley, on interrogeait les participants : "Lequel d'entre vous a parlé à Satan récemment ?"
 >
 > J'ai aussi été interrogé. Les tantes voulaient me forcer à admettre que je pouvais sentir des démons penchés sur mes épaules[^79_19].
 >
@@ -234,13 +234,13 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > Je suis convaincu que Thofozi tire les ficelles à Kwasizabantu. Avec les "tantes", elle révèle toutes sortes de secrets. Les gens sont tellement aveuglés qu'ils ne voient pas quel est le pouvoir qui lui a donné cette autorité.
 
-### La débacle de Kranskop
+### La débâcle de Kranskop
 
 #### Extrait (pages 80-81)
 
 > En 1975, lorsque Mabaso a amené son fils Simanga, il a vu comment Lindiwe a perdu connaissance et est tombé en transe et a révélé les péchés des tout-petits et des enfants. Erlo Stegen notait soigneusement tous les détails.
 >
-> À titre de punition, les enfants ont été battus violement par Arno Stegen, Thofozi et Lindiwe; en fait, ils ont été battus jusqu'à ce qu'ils saignent.[^80_25_1] [^80_25_2] [^80_25_3]
+> À titre de punition, les enfants ont été battus violemment par Arno Stegen, Thofozi et Lindiwe; en fait, ils ont été battus jusqu'à ce qu'ils saignent.[^80_25_1] [^80_25_2] [^80_25_3]
 >
 > Thofozi a même pris des tout-petits de 3 et 4 ans et a placé leur main sur le poêle pour qu'ils sentent à quel point l'enfer est chaud.
 >
@@ -280,7 +280,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > D'anciens membres qui ont témoigné devant la Commission de l'Alliance Évangélique Sud-Africaine ont rapporté qu'ils n'avaient pas été autorisé à épouser la personne qu'ils aimaient mais avaient été contraints d'épouser quelqu'un d'autre.[^85_commission]
 >
-> Plusieurs fois des femmes ont été encouragées à divorcer si leur maris ne se soumettait pas aux dirigeants.[^85_44]
+> Plusieurs fois des femmes ont été encouragées à divorcer si leurs maris ne se soumettait pas aux dirigeants.[^85_44]
 >
 > Plusieurs fois des demandes en mariage n'ont pas été transmises aux femmes concernées et on a fait croire aux prétendants qu'elles avaient dit non.[^85_46]
 >
@@ -288,13 +288,13 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > Erlo Stegen s'est furieusement opposé aux jeunes membres qui voulaient se marier dans le style Kwasizabantu mais dans une église locale, car il considérait cela comme son droit exclusif. Ils a dit aux parents de les renier si leurs enfants ne se "convertissaient" pas.[^85_48]
 >
-> On a demandé à des enfants de quiter leurs parents s'ils ne suivaient pas "la voie" de Kwasizabantu.[^85_49]
+> On a demandé à des enfants de quitter leurs parents s'ils ne suivaient pas "la voie" de Kwasizabantu.[^85_49]
 
 #### Extrait 5 (page 86)
 
 > Les relations entre mari, femme et enfants sont exposées à un danger grave. Les parents et les enfants, le mari ou la femme ne peuvent pas se parler des questions confidentielles qui les occupent mais doivent s'en référer à un pasteur.
 >
-> Les conseillers "examine" les problèmes familiaux avec chacun individuellement, afin que chacun vivent dans la peur qu'un membre de leur foyer parle d'eux.
+> Les conseillers "examine" les problèmes familiaux avec chacun individuellement, afin que chacun vive dans la peur qu'un membre de leur foyer parle d'eux.
 >
 > Le mari et la femme ne dépendent pas l'un de l'autre : entre eux se trouve le conseiller. De même, les enfants ne font pas confiance à leurs parents pour leur direction et leur protection.
 
@@ -343,7 +343,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 ## Chapitre 5 | Test de la propre historiographie de Kwasizabantu au regard de nouvelles sources
 
-### Critique du livre Réveil parmis les Zoulous de Erlo Stegen
+### Critique du livre Réveil parmi les Zoulous de Erlo Stegen
 
 #### Extrait 1 (page 101)
 
@@ -351,7 +351,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 >
 > "Parfois, nous avons vu 10 ou tout au plus 20 Zoulous qui s'étaient présentés. D'autres ont été récupérés avec le Land Rover de Stegen. Peut-être que certains d'entre eux ont eu une conversation spirituelle avec Stegen, mais personne n'est au courant d'une conversion permanente."
 >
-> Quand j'ai demandé à Ximba si c'était vraiment vrai, il a répondu: "Est-ce que vous les avez déjà vu ces gens ?"
+> Quand j'ai demandé à Ximba si c'était vraiment vrai, il a répondu: "Est-ce que vous les avez déjà vus ces gens ?"
 
 #### Extrait 2 (pages 101-102)
 
@@ -359,17 +359,17 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 3 (page 102)
 
-> Déjà au début, personne n'était en mesure de vérifier les histoires. De plus, Stegen ne tolérerait aucune question. Toute personne qui posait des questions était immédiatement considérée comme un adversaire.[^102_10_1] [^102_10_2] [^102_10_3] [^102_10_4]
+> Déjà au début, personne n'était en mesure de vérifier les histoires. De plus, Stegen ne tolèrerait aucune question. Toute personne qui posait des questions était immédiatement considérée comme un adversaire.[^102_10_1] [^102_10_2] [^102_10_3] [^102_10_4]
 
 #### Extrait 4 (page 103)
 
 > Lorsque Maritz a demandé de parler à quelqu'un qui avait personnellement vécu un miracle, les dirigeants ne l'ont pas accepté.[^103_15]
 
-### Critique du livre Dieu parmis les Zoulous de K.E. Koch
+### Critique du livre Dieu parmi les Zoulous de K.E. Koch
 
 #### Extrait 1 (page 103)
 
-> Plusieurs témoins des faits remettent en cause les afirmations de Koch.
+> Plusieurs témoins des faits remettent en cause les affirmations de Koch.
 
 #### Extrait 2 (page 104)
 
@@ -381,11 +381,11 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 4 (page 105)
 
-> Anna Gretha, une fille paralysée, a prétendument été guérie : les aides de Stegen l'ont relevée et fait faire quelques pas. Mais le landemain elle ne marchait toujours pas.
+> Anna Gretha, une fille paralysée, a prétendument été guérie : les aides de Stegen l'ont relevée et fait faire quelques pas. Mais le lendemain elle ne marchait toujours pas.
 
 #### Extrait 5 (page 105)
 
-> Malheureusement, les témoins oculaires ne se souviennent de rien de tout cela (prétendue guérison d'un aveugle). Ils se souviennent ce jour là de la prière de Stegen pour le père aveugle d'Alpheus Mdlalose. On a prié pour lui à huis clos (à côté de la salle de réunion).
+> Malheureusement, les témoins oculaires ne se souviennent de rien de tout cela (prétendue guérison d'un aveugle). Ils se souviennent ce jour-là de la prière de Stegen pour le père aveugle d'Alpheus Mdlalose. On a prié pour lui à huis clos (à côté de la salle de réunion).
 >
 > Lorsque des applaudissements ont été entendus, tout le monde dans la salle a pensé que l'homme était guéri. Mais il est parti comme il est venu : avec un bâton dans la main, dirigé par un garçon.
 
@@ -401,7 +401,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 2 (page 106)
 
-> Cependant, Mabaso s'est progressivement rendu compte que tout ça n'était pas vrai. A cette époque, sa congrégation ne comptait pas plus de 40 membres (dont 5 hommes). Mabaso était convaincu qu'au moindre soupçon de contradiction, Stegen ne le tolérerait plus.[^106_27]
+> Cependant, Mabaso s'est progressivement rendu compte que tout ça n'était pas vrai. A cette époque, sa congrégation ne comptait pas plus de 40 membres (dont 5 hommes). Mabaso était convaincu qu'au moindre soupçon de contradiction, Stegen ne le tolèrerait plus.[^106_27]
 
 #### Extrait 3 (page 106)
 
@@ -417,15 +417,15 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait (page 110)
 
-> Certains événements ne sont pas reconnaissables si les noms ne sont pas donnés. D'autres événements, tels que ceux d'Helga Hirth, auront une base de vérité. Mais de nombreuses questions sont restées sans réponse.
+> Certains évènements ne sont pas reconnaissables si les noms ne sont pas donnés. D'autres évènements, tels que ceux d'Helga Hirth, auront une base de vérité. Mais de nombreuses questions sont restées sans réponse.
 >
 > Les questions qui, quoi, où, quand et combien sont mal répondues par Koch. Des expressions comme "dans un village éloigné" et "beaucoup sont venus à la foi" sont trop vagues. C'est comme si l'auteur voulait raconter une histoire heureuse mais voulait aussi empêcher quiconque d'essayer de la vérifier.
 >
-> Les grand nombres mentionnés dans les publications de Kwasizabantu égalent presque ceux de la pentecôte dans le livre des Actes. Aucun des témoins dans les livres n'est représentatif des milliers de personnes anonymes qui auraient été converties ou auraient vécu un miracle.
+> Les grands nombres mentionnés dans les publications de Kwasizabantu égalent presque ceux de la Pentecôte dans le livre des Actes. Aucun des témoins dans les livres n'est représentatif des milliers de personnes anonymes qui auraient été converties ou auraient vécu un miracle.
 >
 > La base documentaire de l'historiographie officielle de Kwasizabantu est ainsi construite sur des fondations fragiles.
 >
-> Tout comme les églises indépendantes africaines, Kwasizabantu a une riche tradition héritée de miracles et de guérisons. Lorsque de telles histoires sont écrites bien après le temps où elles sont sensées s'être pasées, elles ne peuvent pas être interprétées comme des faits historiques objectifs.
+> Tout comme les églises indépendantes africaines, Kwasizabantu a une riche tradition héritée de miracles et de guérisons. Lorsque de telles histoires sont écrites bien après le temps où elles sont censées s'être passées, elles ne peuvent pas être interprétées comme des faits historiques objectifs.
 >
 > Pour les adeptes, la recherche de la vérité n'est pas la chose la plus importante mais l'appartenance au groupe. Pour eux, les histoires remplissent une fonction essentielle dans la création et le soutien d'une nouvelle conscience de groupe et renforcent l'unité du groupe.
 
@@ -435,7 +435,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait (page 113)
 
-> Cette affirmation a une valeur émotionnelle négative, car les croyants sont constamment préoccupés par eux-mêmes. Avec la déclaration : "Le monde est entre nos mains", stegen place fermement la responsabilité du côté des croyants, provoquant à nouveau des sentiments de culpabilité. Les croyants se retrouvent dans un cycle sans fin de confession des péchés.
+> Cette affirmation a une valeur émotionnelle négative, car les croyants sont constamment préoccupés par eux-mêmes. Avec la déclaration : "Le monde est entre nos mains", Stegen place fermement la responsabilité du côté des croyants, provoquant à nouveau des sentiments de culpabilité. Les croyants se retrouvent dans un cycle sans fin de confession des péchés.
 
 ### Le mariage
 
@@ -467,13 +467,13 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 > Kwasizabantu se considère comme le seul et exclusif moyen de servir Dieu. Stegen se considère comme un homme de Dieu qui exige un respect absolu. Il porte un jugement sans aucune pitié. Avec sa prédication contre le péché, il charge constamment les gens de sentiments de culpabilité, qui se retrouvent dans un cycle sans fin de confession des péchés. L'être humain devient ainsi le preneur d'initiative dans sa propre rédemption. On peut dire que c'est une forme extrême d'arminianisme.
 
-## Chapitre 7 | Aspects théologique de la doctrine
+## Chapitre 7 | Aspects théologiques de la doctrine
 
 ### Introduction du chapitre 7
 
 #### Extrait (page 123)
 
-> En général, il est vrai que Kwasizabantu est plutôt réticent à publier des confessions de foi écrites.
+> En général, il est vrai que Kwasizabantu est plutôt réticente à publier des confessions de foi écrites.
 
 ### Le model organisationel
 
@@ -481,7 +481,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 > Mais personne ne sait comment le modèle organisationnel est structuré et pourquoi une personne est membre d'un cercle particulier et combien de temps cette personne sera membre. Il s'agit d'une situation "fluide" et le rang et le rôle exacts de chaque coéquipier sont déterminés exclusivement de manière surnaturelle.
 
-### Conclusion sur le model organisationel
+### Conclusion sur le model organisationnel
 
 #### Extrait (pages 127-128)
 
@@ -509,7 +509,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 > Après le réveil, Magasa est devenu le principal moyen d'aider les candidats (à l'entrée dans Kwasizabantu). En transe, elle indiquait en détail les péchés dont la personne n'était même pas au courant et qui devaient encore être confessés.
 
-#### Estrait 3 (page 131)
+#### Extrait 3 (page 131)
 
 > Quiconque n'avait pas ressenti de chaleur ou de feu n'avait pas encore avoué tous ses péchés. La conséquence était que tout le monde avait peur de Stegen. Il prétendait avoir reçu la tâche spéciale avec ses coéquipiers de faire connaître "la dernière effusion du Saint-Esprit", comme il l'appelait, dans le monde entier.
 
@@ -517,9 +517,9 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 1 (page 131)
 
-> Les Zoulous ont été arbitrairement sélectionnés pour la réception du "Saint-Esprit". Personne ne savait pourquoi ni quand ils seraient sélectionnés. La notification d'un coéquipiers était suffisante. Alpheus Mdlalose, Michael Gubane, Mandla Mvu et Thofozi Dube sélectionnaient les candidats.
+> Les Zoulous ont été arbitrairement sélectionnés pour la réception du "Saint-Esprit". Personne ne savait pourquoi ni quand ils seraient sélectionnés. La notification d'un coéquipier était suffisante. Alpheus Mdlalose, Michael Gubane, Mandla Mvu et Thofozi Dube sélectionnaient les candidats.
 >
-> Les candidats devaient s'agenouiller en groupes de 5 à 10 personnes, après quoi des coéquipiers leur ont imposé les mains. Ils ont ressentit une sensation physique de chaleur ou de feu ou ont huré quand *uMoya* est tombé sur eux. Ce rituel s'est déroulé en secret et a été caché aux coéquipiers blancs.[^131_36]
+> Les candidats devaient s'agenouiller en groupes de 5 à 10 personnes, après quoi des coéquipiers leur ont imposé les mains. Ils ont ressenti une sensation physique de chaleur ou de feu ou ont hurlé quand *uMoya* est tombé sur eux. Ce rituel s'est déroulé en secret et a été caché aux coéquipiers blancs.[^131_36]
 
 #### Extrait 2 (page 131)
 
@@ -529,7 +529,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait (page 133)
 
-> La question est, pourquoi Stegen pourrait-il parler des mots qu'aucun humain ne saurait prononcer ? La réponse est qu'ils ne vient pas du Dieu chrétien et ce qu'il dit, il n'a pas entendu dans le ciel.
+> La question est, pourquoi Stegen pourrait-il parler des mots qu'aucun humain ne saurait prononcer ? La réponse est qu'ils ne viennent pas du Dieu chrétien et ce qu'il dit, il n'a pas entendu dans le ciel.
 
 ### La prière
 
@@ -573,11 +573,11 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 1 (page 137)
 
-> L'hypothèse que Kwasizabantu est né d'un pur réveil biblique et s'est ensuite écarté de la vérité biblique est incorrecte.
+> L'hypothèse que Kwasizabantu est née d'un pur réveil biblique et s'est ensuite écartée de la vérité biblique est incorrecte.
 
 #### Extrait 2 (page 137)
 
-> Se sont-ils laissés séduire loin de la vérité biblique et devenus complètement aveugles ?
+> Se sont-ils laissé séduire loin de la vérité biblique et devenus complètement aveugles ?
 
 ### La confession des péchés
 
@@ -615,7 +615,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 2 (page 145)
 
-> Stegen célèbre les vertus des Zoulous traditionnels, dont il considérait que la moralité était bonne et qui seraient irréprochables. Il considère les bonnes qualités de la religion zoulou comme une sorte "d'Ancien Testament", pour ainsi dire, complété par des règles que "Dieu lui a montré à travers le réveil". Les croyants cherchent à plaire à Dieu par leur propre justice et à placer ainsi consciemment ou inconsciemment leur espérance en eux-mêmes.
+> Stegen célèbre les vertus des Zoulous traditionnels, dont il considérait que la moralité était bonne et qui seraient irréprochables. Il considère les bonnes qualités de la religion zouloue comme une sorte "d'Ancien Testament", pour ainsi dire, complété par des règles que "Dieu lui a montré à travers le réveil". Les croyants cherchent à plaire à Dieu par leur propre justice et à placer ainsi consciemment ou inconsciemment leur espérance en eux-mêmes.
 
 ### La croyance en la Parole de Dieu
 
@@ -631,7 +631,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 2 (page 147)
 
-> Lorsque les conseillers ne sont pas d'accord avec un croyant, ils lui font ressentir de manière subtile. Le conseil est alors: "Prie encore, reviens plus tard et dit-moi ce que Dieu a dit." Cela arrive si souvent que la personne présume ce que le conseiller attend de lui.
+> Lorsque les conseillers ne sont pas d'accord avec un croyant, ils lui font ressentir de manière subtile. Le conseil est alors: "Prie encore, reviens plus tard et dis-moi ce que Dieu a dit." Cela arrive si souvent que la personne présume ce que le conseiller attend de lui.
 
 #### Extrait 3 (page 147)
 
@@ -671,7 +671,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 6 (page 150)
 
-> Le théologie T. Visser, qui a fait des recherches sur la prise de conscience du péché dans les réveils de George Whitefield, John Wesley, Jonathan Edwards, Charles G. Finney et Erlo Stegen, est parvenu à la conclusion suivante: le conseil et demander pardon pour tout mal fait dans le passé, est une caractéristique propre à Kwasizabantu. Ces facteurs n'ont pas joué de rôle dans les autres réveils.
+> Le théologien T. Visser, qui a fait des recherches sur la prise de conscience du péché dans les réveils de George Whitefield, John Wesley, Jonathan Edwards, Charles G. Finney et Erlo Stegen, est parvenu à la conclusion suivante: le conseil et demander pardon pour tout mal fait dans le passé, est une caractéristique propre à Kwasizabantu. Ces facteurs n'ont pas joué de rôle dans les autres réveils.
 
 ### Conclusion du chapitre 8
 
@@ -689,7 +689,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 > La combinaison du légalisme rigide, du perfectionnisme et du mysticisme est comme le gravier, le sable et le ciment formant un béton dur et solide. Le dieu de Kwasizabantu est un dieu fait de mains d'hommes.
 
-#### Estrait 3 (page 152)
+#### Extrait 3 (page 152)
 
 > Les concepts bibliques clés ont été modifiés par Kwasizabantu et sont contraires à l'Évangile. Cela s'applique à la confession, au pardon, à la grâce, à la justification, à l'interprétation de la Bible, à la volonté de Dieu, au service pastoral... Lorsqu'un terme biblique reçoit un sens non biblique, le résultat inévitable sera une vision non biblique de Dieu. Dans de tels cas, les "termes bibliques" donnent une impulsion pour s'égarer et séduire.
 
@@ -751,7 +751,7 @@ Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport 
 >
 > Une autre fois, Arno Stegen est venu se plaindre de que les mauvaises herbes poussaient autour des toilettes extérieures. "Quand Oncle Erlo vient ici et veut aller aux toilettes, il doit traverser les mauvaises herbes". Il nous a incités à couper les mauvaises herbes et à les enlever.
 >
-> Plus tard, Erlo Stegen est venu et a vu que le jardin était propre et net. Il a demandé qui l'avait fait. Les enfants ont répondu que c'était eux qui l'avaient fait. Alors Arno est venu et les a battu sans pitié en disant qu'ils étaient arrogants et fiers de ce qu'ils avaient fait.
+> Plus tard, Erlo Stegen est venu et a vu que le jardin était propre et net. Il a demandé qui l'avait fait. Les enfants ont répondu que c'était eux qui l'avaient fait. Alors Arno est venu et les a battus sans pitié en disant qu'ils étaient arrogants et fiers de ce qu'ils avaient fait.
 
 ***
 {: .notes-separator}
