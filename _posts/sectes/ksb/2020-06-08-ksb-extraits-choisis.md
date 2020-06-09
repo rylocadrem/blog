@@ -19,11 +19,11 @@ Table des matières :
 
 Cet article ne présente que quelques extraits. Pour en savoir plus, vous pouvez lire **le livre d'Albert Pilon (en anglais)**, disponible en pdf : [Is this a genuine revival.pdf]({{ site.baseurl }}/assets/files/Is this a genuine revival.pdf){:target="_blank"}
 
-Vous pouvez également lire ma **traduction en français du chapitre 10** de ce même livre, [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %}).
+Vous pouvez également lire ma **traduction en français du chapitre 10** de ce même livre, [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %}).
 
-Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'oeuvre dans cet article : [Sectes : petit guide critique]({% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'oeuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
-Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** en lisant cet article : [Introduction à la rationalité et à la pensée critique]({% post_url pensee-critique/2020-06-03-introduction-pensee-critique %})
+Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** en lisant cet article : [Introduction à la rationalité et à la pensée critique]({{ site.baseurl }}{% post_url pensee-critique/2020-06-03-introduction-pensee-critique %})
 
 ## Chapitre 1 | Le réveil de Kwasizabantu comparé aux réveils dont il est issu
 
@@ -697,11 +697,11 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 Dans ce chapitre, l'auteur passe en revue quelques critères d'identification des sectes.
 
-Vous pouvez en apprendre plus en lisant cet article : [Sectes : petit guide critique]({% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus en lisant cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
 ## Chapitre 10 | Kwasizabantu évaluée en rapport aux caractéristiques des sectes
 
-Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %})
+Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %})
 
 ## Chapitre 11 | Expériences personnelles
 
