@@ -31,7 +31,7 @@ Vous pouvez enfin **vous initier à la rationalité et à la pensée critique** 
 
 #### Extrait 1 (pages 31-32)
 
-> Fin 1966, Erlo Stegen se réunissait quotidiennement avec un certain nombre de Zoulous dans une étable pour prier. Ils croyaient que Dieu cherchait quelqu'un pour fonctionner comme un canal ([channeling](https://fr.wikipedia.org/wiki/Channeling)) pour leur parler. Ils ont d'abord pensé à Helen Mzila, mais il s'est avéré qu'elle n'était pas prête à le faire.[^31_59] Un jour, alors que tout le monde était priait ensemble, un vent puissant[^31_60] a commencé à souffler au milieu d'eux et l'étable a commencé à trembler[^31_61]. C'est à ce moment que "l'Esprit de Dieu" est descendu (*uthole uMoya*) sur la femme zouloue Magasa (Hilda Dube). Elle a reçu le don des langues et est devenue la prophétesse zoulou de Stegen (*umprofeti*), que dès lors il consulterait toujours pour obtenir des conseils.
+> Fin 1966, Erlo Stegen se réunissait quotidiennement avec un certain nombre de Zoulous dans une étable pour prier. Ils croyaient que Dieu cherchait quelqu'un pour fonctionner comme un canal ([channeling](https://fr.wikipedia.org/wiki/Channeling)) pour leur parler. Ils ont d'abord pensé à Helen Mzila, mais il s'est avéré qu'elle n'était pas prête à le faire.[^31_59] Un jour, alors que tout le monde était priait ensemble, un vent puissant[^31_60] a commencé à souffler au milieu d'eux et l'étable a commencé à trembler[^31_61_1] [^31_61_2]. C'est à ce moment que "l'Esprit de Dieu" est descendu (*uthole uMoya*) sur la femme zouloue Magasa (Hilda Dube). Elle a reçu le don des langues et est devenue la prophétesse zoulou de Stegen (*umprofeti*), que dès lors il consulterait toujours pour obtenir des conseils.
 >
 > Stegen a dit à Redinger qu'il pouvait amener Magasa à entrer en transe, et a affirmé qu'à travers elle il pouvait approcher Dieu directement. Il voyait les transes comme la découverte majeure du réveil; à travers elles il recevait des réponses directes à toutes ses questions et donc qu'il était toujours complètement en lien avec la volonté de Dieu. Par conséquent, tout le monde devrait l'écouter. Ce cadeau qui fonctionnait au travers de Magasa lui aurait été accordé personnellement, afin qu'il ne s'égare pas.[^32_62]
 
@@ -359,7 +359,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 3 (page 102)
 
-> Déjà au début, personne n'était en mesure de vérifier les histoires. De plus, Stegen ne tolérerait aucune question. Toute personne qui posait des questions était immédiatement considérée comme un adversaire.[^102_10]
+> Déjà au début, personne n'était en mesure de vérifier les histoires. De plus, Stegen ne tolérerait aucune question. Toute personne qui posait des questions était immédiatement considérée comme un adversaire.[^102_10_1] [^102_10_2] [^102_10_3] [^102_10_4]
 
 #### Extrait 4 (page 103)
 
@@ -761,6 +761,10 @@ Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport 
 [^31_59]: Témoignage d'Erwin Redinger, point 33
 
 [^31_60]: Cf. A.I. Berglund, *Zulu Thought-Patterns and Symbolism*, 1976, p. 85; dans la langue zouloue le Saint Esprit est appelé *uMoya*, qui signifie litéralement vent ou air
+
+[^31_61_1]: W. du Toit, *God se Genade*, p. 36
+
+[^31_61_2]: E. Stegen, *Revival among the Zulus*, 1998, p. 62
 
 [^32_62]: Témoignage d'Erwin Redinger, points 33, 34 et 35
 
