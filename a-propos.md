@@ -2,6 +2,7 @@
 layout: page
 title: À propos
 permalink: /a-propos/
+order: 1000
 ---
 
 Un blog de réflexions sur les sectes, la rationalité et la pensée critique.

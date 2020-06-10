@@ -4,6 +4,7 @@ title:  "[KSB] Est-ce un réveil authentique : extraits choisis"
 excerpt_separator: <!--plus-->
 date:   2020-06-08 10:00:00 +0200
 categories: sectes
+tags: ["Sectes", "KSB"]
 ---
 
 Cet article présente quelques extraits, traduits en français, de l'enquête missiologique d'Albert Pilon sur le réveil parmi les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?* (Est-ce un réveil authentique ?).
@@ -387,7 +388,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 > Malheureusement, les témoins oculaires ne se souviennent de rien de tout cela (prétendue guérison d'un aveugle). Ils se souviennent ce jour-là de la prière de Stegen pour le père aveugle d'Alpheus Mdlalose. On a prié pour lui à huis clos (à côté de la salle de réunion).
 >
-> Lorsque des applaudissements ont été entendus, tout le monde dans la salle a pensé que l'homme était guéri. Mais il est parti comme il est venu : avec un bâton dans la main, dirigé par un garçon.
+> Lorsque des applaudissements ont été entendus, tout le monde dans la salle a pensé que l'homme était guéri. Mais il est parti comme il est venu : avec un bâton dans la main, conduit par un garçon.
 
 #### Extrait 6 (page 105)
 

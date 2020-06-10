@@ -4,6 +4,7 @@ title:  "[BROUILLON] Sectes : petit guide critique"
 excerpt: Un guide critique pour aider à l'identification des sectes, à la compréhension des phénomènes psychologiques à l'oeuvre et à l'accompagnement des anciens adeptes.
 date:   2020-06-01 18:00:00 +0200
 categories: sectes
+tags: ["Sectes", "Guide"]
 ---
 
 🚧 **Version de travail en cours de rédaction** 🚧
