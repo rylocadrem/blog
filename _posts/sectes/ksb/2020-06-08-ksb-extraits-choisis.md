@@ -294,7 +294,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 > Les relations entre mari, femme et enfants sont exposées à un danger grave. Les parents et les enfants, le mari ou la femme ne peuvent pas se parler des questions confidentielles qui les occupent mais doivent s'en référer à un pasteur.
 >
-> Les conseillers "examine" les problèmes familiaux avec chacun individuellement, afin que chacun vive dans la peur qu'un membre de leur foyer parle d'eux.
+> Les conseillers "examinent" les problèmes familiaux avec chacun individuellement, afin que chacun vive dans la peur qu'un membre de leur foyer parle d'eux.
 >
 > Le mari et la femme ne dépendent pas l'un de l'autre : entre eux se trouve le conseiller. De même, les enfants ne font pas confiance à leurs parents pour leur direction et leur protection.
 
