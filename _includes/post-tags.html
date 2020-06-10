@@ -1,0 +1,5 @@
+<span class="post-tags">{% if page.tags.size == 1 %}Sujet : {% else %}Sujets : {% endif %}
+    {% for tag in page.tags %}
+      <span class="post-tag">{{ tag }}</span>
+    {% endfor %}
+  </span>
