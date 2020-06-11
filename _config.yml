@@ -1,7 +1,7 @@
 title: Rylocadrem
 email: rylocadrem@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Un blog de réflexions sur les sectes, la rationalité et la pensée critique.
+  Un blog pour exoser mes réflexions sur les sectes, la rationalité, la science, la Bible...
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://rylocadrem.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: #
