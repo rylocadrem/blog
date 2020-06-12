@@ -8,8 +8,6 @@ tags: ["Théologie"]
 hidden: 1
 ---
 
-🚧 **Version de travail en cours de rédaction** 🚧
-
 Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
@@ -60,7 +58,7 @@ Mais alors, que penser de Jésus qui nous commande :
 >
 > — Matthieu 7:6 (NBS)
 
-Pour obéir à ce commandement, nous devons
+Pour obéir à ce commandement, nous devons exercer un jugement.
 
 Et aussi :
 
