@@ -442,7 +442,7 @@ Je vais brièvement aborder ce dernier point. Jésus ne nous dit-il pas de "tend
 >
 > — Matthieu 5:38-39 (NBS)
 
-Un exégèse complètede ce passage serait intéressante, mais je serai bref.
+Une exégèse complète de ce passage serait intéressante, mais je serai bref.
 
 Dans la culture juive de l’époque, la gifle sur la joue droite est un geste symbolique de mépris. En effet, frapper sur la joue droite, obligatoirement avec la main droite (la gauche étant impure), oblige à gifler avec le dos de la main : c’est une offense, de quelqu’un qui s’estime supérieur envers un autre, considéré inférieur, qu’il méprise.[^evangile21_joue] [^wink_domination]
 
@@ -456,7 +456,7 @@ On peut interpréter les versets suivants de la même manière :
 >
 > — Matthieu 5:40 (NBS)
 
-Dans l'Israel du premier siècle, il était courrant qu'en cas de retard de paiement qu'un créancier saisissent la tunique de son débiteur jusqu'au paiment de la dette. Or la loi de Moïse oblige le créancier à rendre l'habit avant la nuit (Exode 22:25-26 ; Deutéronome 24:13). En outre, le manteau était le seul bien qui n'était pas autorisé à être saisi.[^evangile21_joue] [^wink_domination] Ainsi, Jésus encourage une résistance en provocant un "scandale" plutôt qu'en résistant violement.
+Dans l'Israel du premier siècle, il était courrant en cas de retard de paiement qu'un créancier saisissent la tunique de son débiteur jusqu'au paiment de la dette. Or la loi de Moïse oblige le créancier à rendre l'habit avant la nuit (Exode 22:25-26 ; Deutéronome 24:13). En outre, le manteau était le seul bien qui n'était pas autorisé à être saisi.[^evangile21_joue] [^wink_domination] Ainsi, Jésus encourage une résistance en provocant un "scandale" plutôt qu'en résistant violement.
 
 > Si quelqu’un te réquisitionne pour faire un mille, fais-en deux avec lui.
 >
@@ -466,7 +466,7 @@ Dans l'Israel du premier siècle, il était courrant qu'en cas de retard de paie
 
 ## Conclusion
 
-Rappelons nous que nous avons l'obligation d'exercer un jugement critique sur les agissement et les enseignements contraires à la saine doctrine biblique. Ne nous laissons pas manipuler par ceux qui tentent d'étouffer les critiques et de cacher les fautes.
+Rappelons-nous que nous avons l'obligation d'exercer un jugement critique sur les agissement et les enseignements contraires à la saine doctrine biblique. Ne nous laissons pas manipuler par ceux qui tentent d'étouffer les critiques et de cacher les fautes.
 
 Les versets cités hors contexte peuvent être utilisés pour leur faire dire ce qu'ils ne disent pas et il faut toujours considérer un enseignement à la lumière de l'ensemble de la Bible.
 
