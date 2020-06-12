@@ -5,7 +5,6 @@ excerpt: Une réflexion sur l'exercice du jugement au regard de la Bible et un �
 date:   2020-06-12 22:07:00 +0200
 categories: theologie
 tags: ["Théologie"]
-hidden: 1
 ---
 
 Table des matières :
@@ -17,7 +16,7 @@ Table des matières :
 
 Un chrétien peut-il juger ?
 
-Dans mon contexte de sortie de la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), j'ai parfois reçu l'objection "il ne faut pas juger", lorsque j'émetais une critique à l'encontre des agissements ou des propos d'une personne.
+Dans mon contexte de sortie de la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), j'ai parfois reçu l'objection "il ne faut pas juger", lorsque j'émettais une critique à l'encontre des agissements ou des propos d'une personne.
 
 Mais qu'en dit la Bible ?
 
@@ -87,7 +86,7 @@ Afin de bien interpréter les Écritures, il est crucial de procéder avec méth
 
 J'utiliserais les termes *herméneutique* et *exégèse* tels que définis par le pasteur et théologien Milton Spenser Terry :
 
-> L'*herménetique* vise à établir les principes, méthodes et règles qui sont nécessaires pour exposer le sens de ce qui est écrit. L'*exégèse* est l'application de ces principes, la formulation en affirmations formelles, dans des termes différents, du sens des mots de l'auteur.[^def_terry]
+> L'*herméneutique* vise à établir les principes, méthodes et règles qui sont nécessaires pour exposer le sens de ce qui est écrit. L'*exégèse* est l'application de ces principes, la formulation en affirmations formelles, dans des termes différents, du sens des mots de l'auteur.[^def_terry]
 
 L'herméneutique est donc la méthode théorique pour faire une bonne exégèse.
 
@@ -162,7 +161,7 @@ Il est dangereux de présumer du sens d'un mot ou d'une expression employée dan
 
 Il est aussi dangereux de se fier au "lexique strong", souvent utilisé sans précautions, pour déterminer le sens des mots. Il est avant tout une concordance permettant de trouver les différentes occurences d'un même mot dans la Bible et le contexte littéraire est peu pris en compte.
 
-Le plus gros problème reste qu'il est basé sur les textes servant de base à la version *King James* de la Bible, une variante du *texte reçu* (Textus Receptus). Le Textus Receptus est un texte grec édité à partir d'une poignée de manuscrits tardifs (du 10ème au 16ème siècle) auxquels Erasme avait accès. Le texte reçu sert de base aux traductions du type *King James* en anglais et *Martin* ou *Ostervlad* en français.
+Le plus gros problème reste qu'il est basé sur les textes servant de base à la version *King James* de la Bible, une variante du *texte reçu* (Textus Receptus). Le Textus Receptus est un texte grec édité à partir d'une poignée de manuscrits tardifs (du 10ème au 16ème siècle) auxquels Érasme avait accès. Le texte reçu sert de base aux traductions du type *King James* en anglais et *Martin* ou *Ostervlad* en français.
 
 Ces écrits contiennent des différences parfois majeures avec les manuscrits originaux[^minard_texte] [^bibliquest_texte] [^coram_deo_texte].
 
@@ -327,9 +326,9 @@ Comme le résume Florent Varak[^tpsg_jugemet] :
 
 ## Qu'en est-il du pardon ?
 
-Il y a point que j'aimerais addresser brièvement, celui du pardon, en rapport avec l'objection précédemment formulée.
+Il y a un point que j'aimerais addresser brièvement, celui du pardon, en rapport avec l'objection précédemment formulée.
 
-Souvent il est objecté que l'on doit pardonner et que celà signifie un oubli et un retour aux relations existant avant l'offense. Les personnes qui avancent cet argument, notamment dans notre contexte de sortie de secte, insinuent que ceux qui jugent les personnes ayant mal agi n'ont pas pardonné et donc contreviennent aux commandements de Dieu.
+Souvent il est objecté que l'on doit pardonner et que cela signifie un oubli et un retour aux relations existant avant l'offense. Les personnes qui avancent cet argument, notamment dans notre contexte de sortie de secte, insinuent que ceux qui jugent les personnes ayant mal agi n'ont pas pardonné et donc contreviennent aux commandements de Dieu.
 
 Qu'en est-il réellement ? Que dit la Bible ?
 
@@ -337,9 +336,9 @@ Qu'en est-il réellement ? Que dit la Bible ?
 
 Petite parentèse sur l'amour de Dieu.
 
-Réduire l'amour de Dieu à un amour inconditionnel pour quiqonque est une aberration et l'affirmation "il faut détester le péché, mais aimer le pécheur" n'est pas fondée bibliquement.
+Réduire l'amour de Dieu à un amour inconditionnel pour quiconque est une aberration et l'affirmation "il faut détester le péché, mais aimer le pécheur" n'est pas fondée bibliquement.
 
-Celà mériterait un exposé complet, et le livre de D.A. Carson, *The Difficult Doctrine of the Love of God*, [disponible gratuitement en pdf](http://s3.amazonaws.com/tgc-documents/carson/2000_difficult_doctrine_of_the_love_of_God.pdf), est une bonne introduction.
+Cela mériterait un exposé complet, et le livre de D.A. Carson, *The Difficult Doctrine of the Love of God*, [disponible gratuitement en pdf](http://s3.amazonaws.com/tgc-documents/carson/2000_difficult_doctrine_of_the_love_of_God.pdf), est une bonne introduction.
 
 En résumé, notons qu'on peut distinguer 5 facettes différentes de l'amour de Dieu[^carson_love_god] :
 
@@ -374,7 +373,7 @@ Il faut distinguer ces trois termes :
 
 ### Le pardon est-il inconditionnel ?
 
-Il existe deux courrants majeurs parmis les théologiens protestants : ceux qui défendent l'inconditionnalité du pardon et ceux qui le conditionnent à la repentance de l'offenseur.
+Il existe deux courants majeurs parmis les théologiens protestants : ceux qui défendent l'inconditionnalité du pardon et ceux qui le conditionnent à la repentance de l'offenseur.
 
 Je n'ai pas encore d'avis définitif sur la question, bien que je penche pour la conditionnalité du pardon, notamment à la lecture de l'Évangile selon Luc :
 
@@ -382,7 +381,7 @@ Je n'ai pas encore d'avis définitif sur la question, bien que je penche pour la
 >
 > — Luc 17:3-4 (Segond 1910)
 
-Ce passage semble en effet indiquer que, s'il n'y a pas de limite au pardon, il est tourtefois conditionné à la repentance.
+Ce passage semble en effet indiquer que, s'il n'y a pas de limite au pardon, il est toutefois conditionné à la repentance.
 
 Il faut préciser qu'en pratique il y a peu de différences entre les deux positions. Généralement, les tenants de l'inconditionnalité du pardon distinguent pardon et réconciliation, tandis que les tenants de la conditionalité du pardon intègrent la réconciliation au pardon.
 
@@ -394,9 +393,9 @@ Cependant, rappelons-nous que quelle que soit la position défendue, si l'offens
 
 Je vais évoquer des éléments de réponse à quelques affirmations souvent utilisés dans les différents milieux chrétiens pour faire taire[^ct_abuse] les victimes d'abus spirituel, d'abus sexuel, etc.
 
-Des affirmations erronéesde ce genre nous ont parfois été présentés dans le cadre de notre sortie de secte par des adeptes ou anciens adeptes.
+Des affirmations erronées de ce genre nous ont parfois été présentées dans le cadre de notre sortie de secte par des adeptes ou anciens adeptes.
 
-Contrairement à ce qu'on entends souvent, pardonner ce n'est pas oublier.
+Contrairement à ce qu'on entend souvent, pardonner ce n'est pas oublier.
 
 Dieu lui-même n'oublie pas nos péchés. Cela contredirait l'omniscience de Dieu. D'ailleurs les quelques passages qui mentionnent "l'oubli" des transgressions sont métaphoriques et indique une rémission.[^storms_forgiveness] Dieu nous fait grâce en étant pleinement conscient de note état de pécheurs et de l'étendue de nos transgressions.
 
@@ -420,7 +419,7 @@ Or, sur Terre, l'exercice de la justice passe par les systèmes judiciaires en p
 >
 > — Romains 13:4
 
-Enfin, le pardon ce n'est pas un retout à la relation d'avant, faire comme s'il ne s'étai rien passé.
+Enfin, le pardon ce n'est pas un retour à la relation d'avant, faire comme s'il ne s'était rien passé.
 
 Comme le dit le pasteur Sam Storms[^storms_forgiveness] :
 
@@ -456,13 +455,13 @@ On peut interpréter les versets suivants de la même manière :
 >
 > — Matthieu 5:40 (NBS)
 
-Dans l'Israel du premier siècle, il était courrant en cas de retard de paiement qu'un créancier saisissent la tunique de son débiteur jusqu'au paiment de la dette. Or la loi de Moïse oblige le créancier à rendre l'habit avant la nuit (Exode 22:25-26 ; Deutéronome 24:13). En outre, le manteau était le seul bien qui n'était pas autorisé à être saisi.[^evangile21_joue] [^wink_domination] Ainsi, Jésus encourage une résistance en provocant un "scandale" plutôt qu'en résistant violement.
+Dans l'Israel du premier siècle, il était courant en cas de retard de paiement qu'un créancier saisissent la tunique de son débiteur jusqu'au paiment de la dette. Or la loi de Moïse oblige le créancier à rendre l'habit avant la nuit (Exode 22:25-26 ; Deutéronome 24:13). En outre, le manteau était le seul bien qui n'était pas autorisé à être saisi.[^evangile21_joue] [^wink_domination] Ainsi, Jésus encourage une résistance en provocant un "scandale" plutôt qu'en résistant violement.
 
 > Si quelqu’un te réquisitionne pour faire un mille, fais-en deux avec lui.
 >
 > — Matthieu 5:41 (NBS)
 
-À l’époque de Jésus, un romain avait le droit d’exiger d’un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soient environs 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser un action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
+À l’époque de Jésus, un romain avait le droit d’exiger d’un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soit environ 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser un action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
 
 ## Conclusion
 
