@@ -224,7 +224,7 @@ D'ailleurs Jésus déclare :
 >
 > — Jean 7:24 (NBS)
 
-Au regard de ces versets et du contexte plus large du Sermon sur la Montagne, il apparait que Jésus interdit "le type de jugement qui est pharisaïque, hypercritique et destructeur".[^storms] Il interdit cette sorte de jugement qu'on émet sur les autres sans égard leur pour santé spirituelle, utilisé pour nous élever au-dessus d'eux.
+Au regard de ces versets et du contexte plus large du Sermon sur la Montagne, il apparait que Jésus interdit "le type de jugement qui est pharisaïque, hypercritique et destructeur".[^storms] Il interdit cette sorte de jugement qu'on émet sur les autres sans égard pour leur santé spirituelle, utilisé pour nous élever au-dessus d'eux.
 
 Comme l'explique John R.W. Stott[^stott] :
 
