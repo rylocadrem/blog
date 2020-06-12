@@ -101,7 +101,7 @@ Voici un petit résumé des principes herméneutiques fondamentaux.[^predication
 - Peut-on discerner plusieurs parties ? Comment s'articulent-elles ? Y a-t-il des connecteurs logiques ?
 - Qui sont les personnes mentionnées ? A qui s'adressent-elles ?
 
-Il faut garder à l'esprit que le découpage en chapitres et versets n'existe pas dans les textes originaux et sont uniquement utiles pour des questions d'organisation et de références. Il n'y a pas nécessairement de discontinuité narrative ou logique entre deux versets ou deux chapitres.
+Il faut aussi garder à l'esprit que le découpage en chapitres et versets n'existe pas dans les textes originaux et est uniquement utile pour des questions d'organisation et de références. Il n'y a pas nécessairement de discontinuité narrative ou logique entre deux versets ou deux chapitres.
 
 #### 2. Contexte
 
@@ -117,7 +117,7 @@ Il faut garder à l'esprit que le découpage en chapitres et versets n'existe pa
 
 #### 4. Compréhension
 
-Après avoir appliqué les trois premières étapes, on peut extraires les enseignements du texte, les reformuler et en tirer des enseignements.
+Après avoir appliqué les trois premières étapes, on peut extraires les enseignements du texte, les reformuler et en tirer des applications.
 
 #### 5. Cohérence
 
@@ -136,8 +136,6 @@ Appliquons maintenant ces principes herméneutiques au sujet qui nous intéresse
 Avant de commencer l'étude des textes, regardons quelques définitions.
 
 Le terme qui nous intéresse particulièrement est *juger* ou *jugement*. Quel est sa signification ?
-
-On trouve les définitions suivantes :
 
 Selon le dictionaire *Antidote*[^antidote_def] :
 
@@ -196,7 +194,7 @@ Quel est le contexte du verset ?
 
 L'*Évangile selon Matthieu* a été écrit par Matthieu (aussi appelé Lévi), l'un des douze apôtres (Marc 2:14). Il était sans aucun doute juif et travaillait comme collecteur de taxes au services des Romains (Matthieu 10:3). Quand Jésus l'appela, il laissa tout et le suivit (Luc 5:27-28). Il offrit ensuite un grand banquet en l'honneur de Christ, qui accepta l'invitation en dépit du mépris dont les collecteurs de taxes étaient victimes (Luc 5:29).
 
-Cet livre était avant tout destiné aux juifs (indiqué par les 60 références aux prophéties messianiques et les 40 citations de l'Ancien Testament). La mission de Christ auprès des juifs y est particulièrement mise en relief (Matthieu 10:5-6 ; 15:24). L'objectif apparent était de montrer aux lecteurs que Jésus de nazareth était le Messie souverain de la prophétie messianique (Matthieu 1:1).
+Cet livre était avant tout destiné aux juifs (indiqué par les 60 références aux prophéties messianiques et les 40 citations de l'Ancien Testament). La mission de Christ auprès des juifs y est particulièrement mise en relief (Matthieu 10:5-6 ; 15:24). L'objectif apparent était de montrer aux lecteurs que Jésus de Nazareth était le Messie souverain de la prophétie messianique (Matthieu 1:1).
 
 Comme le résume la Bible Annotée Neuchâtel[^ban_matthieu] :
 
@@ -309,7 +307,7 @@ Ces textes ont un sens similaire à Matthieu 7:1-5. Ils nous appellent a ne pas 
 
 Il faut aussi noter qu'en Jacques 4:11 le terme traduit par *accusez* veut dire *médire* (cf. Romains 1:30 ou 2 Chorintiens 12:20).
 
-Enfin il faut rappeler le principe de cohérence : le doctrine biblique ne peut pas se contredire.
+Enfin il faut rappeler le principe de cohérence : la doctrine biblique ne peut pas se contredire.
 
 Il y aurait bien sur encore beaucoup à dire sur le jugement et le discernement dans la Bible, mais je m'arraiterai ici pour cet article.
 
@@ -317,7 +315,7 @@ Il y aurait bien sur encore beaucoup à dire sur le jugement et le discernement 
 
 Ceux qui émettent l'objection "il ne faut pas juger", "on doit tous se repentir", ou "regarde la poutre qui est dans ton oeil" tordent les Écritures pour faire taire tous ceux qui se risquent à critiquer ou à dévoiler les péchés, défauts ou aberrations doctrinales des autres.
 
-Leur interprétation simpliste et hors contexte ne tiens pas face à uen exégèse (ou même une simple lecture des versets dans leur contexte). Il faut se garder de réduire la Bible à une série de slogans dont on se servirait pour affirmer que l'on a raison sur tel ou tel point.
+Leur interprétation simpliste et hors contexte ne tiens pas face à une exégèse (ou même une simple lecture des versets dans leur contexte). Il faut se garder de réduire la Bible à une série de slogans dont on se servirait pour affirmer que l'on a raison sur tel ou tel point.
 
 D'ailleurs, dans ce contexte de rupture avec la secte KSB, il est intéressant de noter[^tpsg_jugemet] que les sectes chrétiennes exaltent souvent des versets hors contexte pour en faire une norme, une pratique centrale, décalées de l'enseignement de l'Écriture.
 
@@ -325,17 +323,19 @@ Comme le résume Florent Varak[^tpsg_jugemet] :
 
 > On a une quantité incroyable de versets qui nous exhortent à la vigilance, qui nous exhortent au jugement. Notamment au jugement de doctrine, parce que c'est par la doctrine que l'on perçoit qui est Dieu, qu'est-ce que la vie chrétienne. Et c'est par ce que la Bible enseigne que l'on va être orienter dans notre démarche.
 >
-> Il y a des gens qu'il faut juger pour ce qu'ils apportent à l'église, qui est mal saint, qui est faux, qui est erroné.
+> Il y a des gens qu'il faut juger pour ce qu'ils apportent à l'église, qui est malsain, qui est faux, qui est erroné.
 
 ## Qu'en est-il du pardon ?
 
-Il reste un dernier point que j'aimerais addresser brièvement, celui du pardon, en rapport avec l'objection précédemment formulée.
+Il y a point que j'aimerais addresser brièvement, celui du pardon, en rapport avec l'objection précédemment formulée.
 
 Souvent il est objecté que l'on doit pardonner et que celà signifie un oubli et un retour aux relations existant avant l'offense. Les personnes qui avancent cet argument, notamment dans notre contexte de sortie de secte, insinuent que ceux qui jugent les personnes ayant mal agi n'ont pas pardonné et donc contreviennent aux commandements de Dieu.
 
 Qu'en est-il réellement ? Que dit la Bible ?
 
 ### L'amour de Dieu
+
+Petite parentèse sur l'amour de Dieu.
 
 Réduire l'amour de Dieu à un amour inconditionnel pour quiqonque est une aberration et l'affirmation "il faut détester le péché, mais aimer le pécheur" n'est pas fondée bibliquement.
 
@@ -353,11 +353,6 @@ En résumé, notons qu'on peut distinguer 5 facettes différentes de l'amour de 
 On peut alors en extraire 3 observations[^carson_love_god] :
 
 1. **Ne pas absolutiser une de ces facettes** : une facette ne doit pas être absolutisée et considérée comme la seule valable, ou bien relativiser les autres facettes.
-   1. Absolutiser l'amour particulier intra-trinitaire conduit à occulter les distinctions qui doivent êtres faites.
-   2. Absolutiser l'amour providentiel de Dieu pour sa création conduit à ne voir Dieu que comme une force providentielle et peut conduire au mysticisme et au panthéisme.
-   3. Absolutiser lamour salvateur de Dieu pour un monde perdu met l'accent sur la vie émotionnelle de Dieu au détriment de sa justice et de sa gloire. On en arrive à un Dieu si insipide qu'il ne peut ni intervenir pour nous sauver ni nous châtier, parce que son amour est dit "inconditionnel".
-   4. Absolutiser l'amour particulier de Dieu pour ses seuls élus conduit à une vision dualiste simpliste.
-   5. ABsolutiser l'amour conditionnel de Dieu pour ceux qui lui obéissent conduit à l'hérésie du salut par les oeuvres et de la théologie du mérite.
 
 2. **Intégrer ces diverses facettes** : Nous ne devons pas voir ces différentes facettes de l'amour de Dieu comme indépendantes, compartimentées, mais comme un tout cohérent et les considérer selon un équilibre biblique.
 
@@ -397,15 +392,15 @@ Cependant, rappelons-nous que quelle que soit la position défendue, si l'offens
 
 ### Quelques précisions au sujet du pardon
 
-Je vais évoquer des éléments de réponse à quelques affirmations souvent utilisés dans les différents milieux chrétiens pour faire taire les victimes[^ct_abuse] d'abus spirituel, d'abus sexuel, etc.
+Je vais évoquer des éléments de réponse à quelques affirmations souvent utilisés dans les différents milieux chrétiens pour faire taire[^ct_abuse] les victimes d'abus spirituel, d'abus sexuel, etc.
 
-Ce genre d'affirmations erronées nous a parfois été présenté dans le cadre de notre sortie de secte par des adeptes ou anciens adeptes.
+Des affirmations erronéesde ce genre nous ont parfois été présentés dans le cadre de notre sortie de secte par des adeptes ou anciens adeptes.
 
 Contrairement à ce qu'on entends souvent, pardonner ce n'est pas oublier.
 
-Dieu lui-même n'oublie pas nos péchés. Sela contredirait l'omniscience de Dieu. D'ailleurs les quelques passages qui mentionnent "l'oubli" des transgressions sont métaphoriques et indique une rémission.[^storms_forgiveness] Dieu nous fait grâce en étant pleinement conscient de note état de pécheurs et de l'étendue de nos transgressions.
+Dieu lui-même n'oublie pas nos péchés. Cela contredirait l'omniscience de Dieu. D'ailleurs les quelques passages qui mentionnent "l'oubli" des transgressions sont métaphoriques et indique une rémission.[^storms_forgiveness] Dieu nous fait grâce en étant pleinement conscient de note état de pécheurs et de l'étendue de nos transgressions.
 
-Le pardon est donc avant tout une remise de dette, un refus de la vangeance. Le pardon c'est abandonner l'ammertume et ne pas se laisser enfermer dans la colère.
+Le pardon est donc avant tout une remise de dette, un refus de la vengeance. Le pardon c'est abandonner l'amertume et ne pas se laisser enfermer dans la colère.
 
 Le pardon n'est pas non plus une sorte d'amnistie, qui exempterait le coupable de comparaitre devant la justice.
 
@@ -413,7 +408,7 @@ Le pardon n'est pas non plus une sorte d'amnistie, qui exempterait le coupable d
 >
 > — Proverbes 17:15 (Segond 1910)
 
-Il s'agit de ne pas nous vanger, de faire justice nous-mêmes :
+Il s'agit de ne pas nous venger, de ne pas faire justice nous-mêmes :
 
 > Ne vous faites pas justice vous-mêmes, bien-aimés, mais laissez place à la colère, car il est écrit : C’est moi qui fais justice ! C’est moi qui paierai de retour, dit le Seigneur.
 >
@@ -425,13 +420,15 @@ Or, sur Terre, l'exercice de la justice passe par les systèmes judiciaires en p
 >
 > — Romains 13:4
 
-Enfin, le pardon ce n'est pas un retout à la relation d'avant, faire comme s'il ne s'étai rien passé. Comme le dit la pasteur Sam Storms[^storms_forgiveness] :
+Enfin, le pardon ce n'est pas un retout à la relation d'avant, faire comme s'il ne s'étai rien passé.
+
+Comme le dit le pasteur Sam Storms[^storms_forgiveness] :
 
 > Le pardon ne signifie pas que vous devez ignorer qu'un tort a été fait ou que vous niez qu'un péché a été commis. Le pardon ne signifie pas que vous fermez les yeux sur l'atrocité morale et prétendez que cela n'a pas fait de mal. Il ne signifie pas que cela n'a pas vraiment d'importance si la personne fautive doit ou non rendre des comptes. On ne vous demande pas non plus de diminuer la gravité de l'infraction ou de dire aux autres: "Oh, n'y pensez pas; ce n'était vraiment pas si grave après tout." Le pardon signifie simplement que vous décidez dans votre coeur de laisser Dieu être le vengeur.
 >
 > Nous ne devons jamais accepter le mensonge selon lequel pardonner signifie que le péché est ignoré ou que l’auteur n’est pas tenu responsable de ses actes.
 >
-> Le pardon ne signifie pas que vous devez permettre à l'offenseur de vous blesser à nouveau. Vous devez fixer des limites à votre relation avec eux : vous seul établissez des règles régissant comment et dans quelle mesure vous interagrez avec cette personne à l'avenir. Et cela ne signifie pas que vous n'avez pas réussi à la pardonner sincèrement et véritablement.
+> Le pardon ne signifie pas que vous devez permettre à l'offenseur de vous blesser à nouveau. Vous devez fixer des limites à votre relation avec lui : vous seul établissez des règles régissant comment et dans quelle mesure vous interagirez avec cette personne à l'avenir. Et cela ne signifie pas que vous n'avez pas réussi à la pardonner sincèrement et véritablement.
 >
 > L'offenseur peut s'offusquer que vous définissiez des paramètres sur votre relation pour l'empêcher de vous faire plus de mal. Il peuvent même dire: "Comment osez-tu? Cela prouve simplement que tu ne le pensais pas quand tu m'a dit que tu m'avais pardonné." Ne vous laissez pas manipuler. Le pardon ne signifie pas que vous devenez un paillasson impuissant et passif pour leur péché continuel.
 
