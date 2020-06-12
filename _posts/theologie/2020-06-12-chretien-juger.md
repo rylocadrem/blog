@@ -58,8 +58,6 @@ Mais alors, que penser de Jésus qui nous commande :
 >
 > — Matthieu 7:6 (NBS)
 
-Pour obéir à ce commandement, nous devons exercer un jugement.
-
 Et aussi :
 
 > Ne jugez pas selon l'apparence : que votre jugement soit juste !
