@@ -428,9 +428,9 @@ Comme le dit le pasteur Sam Storms[^storms_forgiveness] :
 >
 > Nous ne devons jamais accepter le mensonge selon lequel pardonner signifie que le péché est ignoré ou que l’auteur n’est pas tenu responsable de ses actes.
 >
-> Le pardon ne signifie pas que vous devez permettre à l'offenseur de vous blesser à nouveau. Vous devez fixer des limites à votre relation avec lui : vous seul établissez des règles régissant comment et dans quelle mesure vous interagirez avec cette personne à l'avenir. Et cela ne signifie pas que vous n'avez pas réussi à la pardonner sincèrement et véritablement.
+> Le pardon ne signifie pas que vous devez permettre à l'offenseur de vous blesser à nouveau. Vous devez fixer des limites à votre relation avec lui : vous seul établissez des règles régissant comment et dans quelle mesure vous interagirez avec cette personne à l'avenir. Et cela ne signifie pas que vous n'avez pas réussi à le pardonner sincèrement et véritablement.
 >
-> L'offenseur peut s'offusquer que vous définissiez des paramètres sur votre relation pour l'empêcher de vous faire plus de mal. Il peuvent même dire: "Comment osez-tu? Cela prouve simplement que tu ne le pensais pas quand tu m'a dit que tu m'avais pardonné." Ne vous laissez pas manipuler. Le pardon ne signifie pas que vous devenez un paillasson impuissant et passif pour leur péché continuel.
+> L'offenseur peut s'offusquer que vous définissiez des limites à votre relation pour l'empêcher de vous faire plus de mal. Il peut même dire: "Comment oses-tu? Cela prouve simplement que tu ne le pensais pas quand tu m'a dit que tu m'avais pardonné." Ne vous laissez pas manipuler. Le pardon ne signifie pas que vous devenez un paillasson impuissant et passif pour son péché continuel.
 
 Il y a encore beaucoup de réflexions à conduire au sujet du pardon et cela fera peut-être l'objet d'un autre article.
 
