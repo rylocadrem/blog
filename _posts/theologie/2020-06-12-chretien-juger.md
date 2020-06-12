@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "[BROUILLON] [Théologie] Un chrétien peut-il juger ?"
+title:  "[Théologie] Un chrétien peut-il juger ?"
 excerpt: Une réflexion sur l'exercice du jugement au regard de la Bible et un élément de réponse à l'argumentaire "il ne faut pas juger".
-date:   2020-06-11 10:15:00 +0200
+date:   2020-06-12 22:07:00 +0200
 categories: theologie
 tags: ["Théologie"]
+hidden: 1
 ---
 
 🚧 **Version de travail en cours de rédaction** 🚧
@@ -32,7 +33,7 @@ Le verset le plus cité pour supporter cette objection est :
 
 On peut également citer, sans être exhaustif, les versets suivants :
 
-> Pourquoi regardes-tu la paille qui est dans l'œil de ton frère, et ne remarques-tu pas la poutre qui est dans ton œil ?
+> Pourquoi regardes-tu la paille qui est dans l'oeil de ton frère, et ne remarques-tu pas la poutre qui est dans ton oeil ?
 >
 > — Matthieu 7:3 (NBS)
 
@@ -239,7 +240,7 @@ Comme l'explique John R.W. Stott[^stott] :
 
 On peut également regarder les versets suivant immédiatement le verset 1 :
 
-> Ne jugez pas, afin de ne pas être jugés. Car c'est avec le jugement par lequel vous jugez qu'on vous jugera, et c'est avec la mesure à laquelle vous mesurez qu'on mesurera pour vous. Pourquoi regardes-tu la paille qui est dans l'œil de ton frère, et ne remarques-tu pas la poutre qui est dans ton œil ? Ou bien comment peux-tu dire à ton frère : « Laisse-moi ôter la paille de ton œil », alors que dans ton œil il y a une poutre ? Hypocrite, ôte d'abord la poutre de ton œil ! Alors tu verras comment ôter la paille de l'œil de ton frère.
+> Ne jugez pas, afin de ne pas être jugés. Car c'est avec le jugement par lequel vous jugez qu'on vous jugera, et c'est avec la mesure à laquelle vous mesurez qu'on mesurera pour vous. Pourquoi regardes-tu la paille qui est dans l'oeil de ton frère, et ne remarques-tu pas la poutre qui est dans ton oeil ? Ou bien comment peux-tu dire à ton frère : « Laisse-moi ôter la paille de ton oeil », alors que dans ton oeil il y a une poutre ? Hypocrite, ôte d'abord la poutre de ton oeil ! Alors tu verras comment ôter la paille de l'oeil de ton frère.
 >
 > — Matthieu 7:1-5
 
@@ -247,7 +248,7 @@ Ces versets nous éclairent sur la raison pour laquelle Jésus proscrit les juge
 
 Et comme l'indique Sam Storms dans son commentaire[^storms] sur les versets 3 à 5 :
 
-> Ce principe s'applique à un nombre incalculable de situations, pensons au fait de dénoncer les péchés extérieurs, visibles, de la chair, tels que l'adultère, le vol, le meurtre, afin d'excuser ou de minimiser ceux qui sont à l'intérieur, les péchés moins visibles du cœur, tels que la jalousie, l'amertume, l'avidité ou la luxure. À cela se rapporte la tendance à mettre en évidence les fautes des autres pour précisément masquer les nôtres. Cette forme de jugement n'est rien d'autre que de l'auto-justification.
+> Ce principe s'applique à un nombre incalculable de situations, pensons au fait de dénoncer les péchés extérieurs, visibles, de la chair, tels que l'adultère, le vol, le meurtre, afin d'excuser ou de minimiser ceux qui sont à l'intérieur, les péchés moins visibles du coeur, tels que la jalousie, l'amertume, l'avidité ou la luxure. À cela se rapporte la tendance à mettre en évidence les fautes des autres pour précisément masquer les nôtres. Cette forme de jugement n'est rien d'autre que de l'auto-justification.
 
 Ensuite, Jésus parle du danger opposé, aux verset 6 et 15 :
 
@@ -318,7 +319,7 @@ Il y aurait bien sur encore beaucoup à dire sur le jugement et le discernement 
 
 ## Réponse à l'objection
 
-Ceux qui émettent l'objection "il ne faut pas juger", "on doit tous se repentir", ou "regarde la poutre qui est dans ton œil" tordent les Écritures pour faire taire tous ceux qui se risquent à critiquer ou à dévoiler les péchés, défauts ou aberrations doctrinales des autres.
+Ceux qui émettent l'objection "il ne faut pas juger", "on doit tous se repentir", ou "regarde la poutre qui est dans ton oeil" tordent les Écritures pour faire taire tous ceux qui se risquent à critiquer ou à dévoiler les péchés, défauts ou aberrations doctrinales des autres.
 
 Leur interprétation simpliste et hors contexte ne tiens pas face à uen exégèse (ou même une simple lecture des versets dans leur contexte). Il faut se garder de réduire la Bible à une série de slogans dont on se servirait pour affirmer que l'on a raison sur tel ou tel point.
 
@@ -347,7 +348,7 @@ Celà mériterait un exposé complet, et le livre de D.A. Carson, *The Difficult
 En résumé, notons qu'on peut distinguer 5 facettes différentes de l'amour de Dieu[^carson_love_god] :
 
 1. **L'amour particulier intra-trinitaire entre le Père et le Fils** : le Père aime le Fils et le Fils aime le Père.
-2. **L'amour providentiel de Dieu pour sa création** : la Création est l'œuvre d'un Créateur aimant, qui a fait toutes choses bonnes.
+2. **L'amour providentiel de Dieu pour sa création** : la Création est l'oeuvre d'un Créateur aimant, qui a fait toutes choses bonnes.
 3. **L'amour salvateur de Dieu pour un monde perdu** : même si Dieu juge le monde, il se présente aussi lui-même comme le Dieu qui invite et ordonne à tous les êtres humains de se repentir.
 4. **L'amour particulier de Dieu pour ses seuls élus** : Dieu met son affection sur ses élus comme il ne la met pas sur les autres. L'élément distinctif n'a rien à voir avec un mérite quelconque ; il n'est rien d'autre que l'amour de Dieu. Cette facette de l'amour de Dieu diffère des trois précédentes.
 5. **L'amour conditionnel de Dieu pour ceux qui lui obéissent** : cette facette de l'amour divin a trait à notre relation avec Dieu une fois que nous le connaissons. Jésus commande d'ailleurs à ses disciples de demeurer dans son amour (Jean 15:9-10).
@@ -398,21 +399,83 @@ Dans les deux cas, la réconciliation est conditionnée par la repentance de l'o
 
 Cependant, rappelons-nous que quelle que soit la position défendue, si l'offenseur se repent nous devons pardonner.
 
-### Quelques mythes sur le pardon
+### Quelques précisions au sujet du pardon
+
+Je vais évoquer des éléments de réponse à quelques affirmations souvent utilisés dans les différents milieux chrétiens pour faire taire les victimes[^ct_abuse] d'abus spirituel, d'abus sexuel, etc.
+
+Ce genre d'affirmations erronées nous a parfois été présenté dans le cadre de notre sortie de secte par des adeptes ou anciens adeptes.
+
+Contrairement à ce qu'on entends souvent, pardonner ce n'est pas oublier.
+
+Dieu lui-même n'oublie pas nos péchés. Sela contredirait l'omniscience de Dieu. D'ailleurs les quelques passages qui mentionnent "l'oubli" des transgressions sont métaphoriques et indique une rémission.[^storms_forgiveness] Dieu nous fait grâce en étant pleinement conscient de note état de pécheurs et de l'étendue de nos transgressions.
+
+Le pardon est donc avant tout une remise de dette, un refus de la vangeance. Le pardon c'est abandonner l'ammertume et ne pas se laisser enfermer dans la colère.
+
+Le pardon n'est pas non plus une sorte d'amnistie, qui exempterait le coupable de comparaitre devant la justice.
+
+> Celui qui absout le coupable et celui qui condamne le juste sont tous deux en abomination à l’Éternel.
+>
+> — Proverbes 17:15 (Segond 1910)
+
+Il s'agit de ne pas nous vanger, de faire justice nous-mêmes :
+
+> Ne vous faites pas justice vous-mêmes, bien-aimés, mais laissez place à la colère, car il est écrit : C’est moi qui fais justice ! C’est moi qui paierai de retour, dit le Seigneur.
+>
+> — Romains 12:19 (NBS)
+
+Or, sur Terre, l'exercice de la justice passe par les systèmes judiciaires en place :
+
+> Le magistrat est serviteur de Dieu pour ton bien. Mais si tu fais le mal, crains; car ce n’est pas en vain qu’il porte l’épée, étant serviteur de Dieu pour exercer la vengeance et punir celui qui fait le mal.
+>
+> — Romains 13:4
+
+Enfin, le pardon ce n'est pas un retout à la relation d'avant, faire comme s'il ne s'étai rien passé. Comme le dit la pasteur Sam Storms[^storms_forgiveness] :
+
+> Le pardon ne signifie pas que vous devez ignorer qu'un tort a été fait ou que vous niez qu'un péché a été commis. Le pardon ne signifie pas que vous fermez les yeux sur l'atrocité morale et prétendez que cela n'a pas fait de mal. Il ne signifie pas que cela n'a pas vraiment d'importance si la personne fautive doit ou non rendre des comptes. On ne vous demande pas non plus de diminuer la gravité de l'infraction ou de dire aux autres: "Oh, n'y pensez pas; ce n'était vraiment pas si grave après tout." Le pardon signifie simplement que vous décidez dans votre coeur de laisser Dieu être le vengeur.
+>
+> Nous ne devons jamais accepter le mensonge selon lequel pardonner signifie que le péché est ignoré ou que l’auteur n’est pas tenu responsable de ses actes.
+>
+> Le pardon ne signifie pas que vous devez permettre à l'offenseur de vous blesser à nouveau. Vous devez fixer des limites à votre relation avec eux : vous seul établissez des règles régissant comment et dans quelle mesure vous interagrez avec cette personne à l'avenir. Et cela ne signifie pas que vous n'avez pas réussi à la pardonner sincèrement et véritablement.
+>
+> L'offenseur peut s'offusquer que vous définissiez des paramètres sur votre relation pour l'empêcher de vous faire plus de mal. Il peuvent même dire: "Comment osez-tu? Cela prouve simplement que tu ne le pensais pas quand tu m'a dit que tu m'avais pardonné." Ne vous laissez pas manipuler. Le pardon ne signifie pas que vous devenez un paillasson impuissant et passif pour leur péché continuel.
 
 Il y a encore beaucoup de réflexions à conduire au sujet du pardon et cela fera peut-être l'objet d'un autre article.
 
-Répondons simplements ici à quelques affirmations souvent utilisés dans les différents milieux chrétiens[^ct_abuse] pour faire taire les victimes d'abus spirituel, d'abus sexuel, etc.
+## Tendre l'autre joue
 
+Je vais brièvement aborder ce dernier point. Jésus ne nous dit-il pas de "tendre l'autre joue" ? Ne devrions-nous pas rester passifs face à l'agression et l'offense ?
 
+> Vous avez entendu qu’il a été dit : Œil pour œil, et dent pour dent. Mais moi, je vous dis de ne pas vous opposer au mauvais. Si quelqu’un te frappe sur la joue droite, tends-lui aussi l’autre.
+>
+> — Matthieu 5:38-39 (NBS)
 
-### Le pardon implique-t-il l'oubli ?
+Un exégèse complètede ce passage serait intéressante, mais je serai bref.
 
-<!-- Si pardon = oubli -> diminue la "puissance/grâce" du pardon de Dieu -->
+Dans la culture juive de l’époque, la gifle sur la joue droite est un geste symbolique de mépris. En effet, frapper sur la joue droite, obligatoirement avec la main droite (la gauche étant impure), oblige à gifler avec le dos de la main : c’est une offense, de quelqu’un qui s’estime supérieur envers un autre, considéré inférieur, qu’il méprise.[^evangile21_joue] [^wink_domination]
 
-### Le pardon demande-t-il la réconciliation ?
+Dans ce contexte, *tendre l'autre joue* place l'offenseur devant un dilemme : puisqu'il ne peut frapper de la main gauche (au risque de se condamner lui-même, puisqu'elle est impure), il doit soit cesser son agression, soit frapper avec la paume de la main. Or ce geste symbolise la reconnaissance de l'autre comme son égal.[^evangile21_joue] [^wink_domination]
+
+Il ne s'agit donc pas pour la victime de rester passive mais de contraindre son adversaire de manière non-violente. Il s'agit également de contester la légitimité de l'acte de l'offenseur et de lui faire prendre conscience de son injustice.[^evangile21_joue]
+
+On peut interpréter les versets suivants de la même manière :
+
+> Si quelqu’un veut te faire un procès pour te prendre ta tunique, laisse-lui aussi ton manteau.
+>
+> — Matthieu 5:40 (NBS)
+
+Dans l'Israel du premier siècle, il était courrant qu'en cas de retard de paiement qu'un créancier saisissent la tunique de son débiteur jusqu'au paiment de la dette. Or la loi de Moïse oblige le créancier à rendre l'habit avant la nuit (Exode 22:25-26 ; Deutéronome 24:13). En outre, le manteau était le seul bien qui n'était pas autorisé à être saisi.[^evangile21_joue] [^wink_domination] Ainsi, Jésus encourage une résistance en provocant un "scandale" plutôt qu'en résistant violement.
+
+> Si quelqu’un te réquisitionne pour faire un mille, fais-en deux avec lui.
+>
+> — Matthieu 5:41 (NBS)
+
+À l’époque de Jésus, un romain avait le droit d’exiger d’un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soient environs 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser un action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
 
 ## Conclusion
+
+Rappelons nous que nous avons l'obligation d'exercer un jugement critique sur les agissement et les enseignements contraires à la saine doctrine biblique. Ne nous laissons pas manipuler par ceux qui tentent d'étouffer les critiques et de cacher les fautes.
+
+Les versets cités hors contexte peuvent être utilisés pour leur faire dire ce qu'ils ne disent pas et il faut toujours considérer un enseignement à la lumière de l'ensemble de la Bible.
 
 ## Références
 
@@ -459,3 +522,13 @@ Répondons simplements ici à quelques affirmations souvent utilisés dans les d
 [^tlfi_guerison]: Analyse et Traitement Informatique de la Langue Française (Éd.). (s. d.). Guérison. Dans *Trésor de la Langue Française informatisé*. Consulté à l'adresse <https://www.cnrtl.fr/definition/guérison>
 
 [^ct_abuse]: Cocksworth, C. (2017, 15 septembre). *Forgiveness after abuse ?* Consulté 12 juin 2020, à l'adresse <https://www.churchtimes.co.uk/articles/2017/15-september/comment/opinion/forgiveness-after-abuse>
+
+[^storms_forgiveness]: Storms, S. (s. d.). *Forgiveness : What it is, what it is not*. Consulté 12 juin 2020, à l’adresse <https://www.samstorms.org/all-articles/post/forgiveness:-what-it-is--what-it-is-not/>
+
+[^evangile21_joue]: Kennel, D. (2019, 26 novembre). *Tendre l’autre joue ?* Consulté 12 juin 2020, à l’adresse <https://evangile21.thegospelcoalition.org/article/tendre-lautre-joue/>
+
+[^wink_domination]: Wink, W. (1992). *Engaging the Powers : Discernment and Resistance in a World of Domination*. Amsterdam, Pays-Bas : Amsterdam University Press.
+
+[^codex]: *Codex Theodosianus* 8:5:1
+
+[^avi]: Avi-Yonah, M. (1985). *The Jews Under Roman and Byzantine Rule : A Political History of Palestine from the Bar Kokhba War to the Arab Conquest*. New-York, New-York : Schocken Books.
