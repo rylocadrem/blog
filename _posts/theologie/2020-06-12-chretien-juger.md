@@ -309,7 +309,7 @@ Il faut aussi noter qu'en Jacques 4:11 le terme traduit par *accusez* veut dire 
 
 Enfin il faut rappeler le principe de cohérence : la doctrine biblique ne peut pas se contredire.
 
-Il y aurait bien sur encore beaucoup à dire sur le jugement et le discernement dans la Bible, mais je m'arraiterai ici pour cet article.
+Il y aurait bien sûr encore beaucoup à dire sur le jugement et le discernement dans la Bible, mais je m'arrêterai ici pour cet article.
 
 ## Réponse à l'objection
 
