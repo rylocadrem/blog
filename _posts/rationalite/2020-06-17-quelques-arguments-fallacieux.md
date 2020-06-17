@@ -652,7 +652,7 @@ Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, da
 
 > Aucun gouvernement n'a l'autorité morale de démanteler le sens universellement compris du mariage.
 
-[Appel à la tradition](#appel-à-la-tradition), [Appel à la popularité](#appel-à-la-popularité) et [Généralisation abusive](#généralisation-abusive).
+[Appel à la tradition](#appel-à-la-tradition), [appel à la popularité](#appel-à-la-popularité) et [généralisation abusive](#généralisation-abusive).
 
 > Imaginez un instant que le gouvernement ait décidé de légaliser l'esclavage mais nous assure que « personne ne sera contraint de garder un esclave ». De telles assurances sans valeur calmeraient-elles notre fureur ? Vont-elles justifier le démantèlement d'un droit humain fondamental ? Ou sont-elles simplement des termes ambigus masquant un grand mal ?
 
@@ -684,7 +684,7 @@ Ma réflexion : au lieu de recourir à une argumentation maladroite, erronée et
 
 Dans cet exemple, je prends quelques phrases inventées et en indique les arguments fallacieux.
 
-> Les médecins sont incompétents. la preuve, le mien m'a prescrit un médicament et deux jours plus tard j'étais cloué au lit avec 40 de fièvre !
+> Les médecins sont incompétents. La preuve, le mien m'a prescrit un médicament et deux jours plus tard j'étais cloué au lit avec 40 de fièvre !
 
 [Preuves anecdotiques](#preuves-anecdotiques), [cherry-picking](#cherry-picking), [généralisation abusive](#généralisation-abusive) et [post hoc ergo propter hoc](#post-hoc-ergo-propter-hoc).
 
