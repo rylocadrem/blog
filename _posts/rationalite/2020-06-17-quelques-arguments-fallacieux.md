@@ -328,7 +328,7 @@ Exemples :
 Exemples :
 
 * *S'il pleut, le sol est mouillé. Le sol est mouillé, donc il pleut.*
-* *Si j'ai plus de 18 ans, alors je suis majeur en France. Je suis majeur en France. Donc j'ai 18 ans ou plus.*
+* *Si j'ai 18 ans ou plus, alors je suis majeur en France. Je suis majeur en France. Donc j'ai 18 ans ou plus.*
 
 Note : ce dernier exemple est intéressant car la conclusion est vraie mais le raisonnement est faux. En effet il fait intervenir implicitement la réciproque de la proposition initiale, qui se trouve être vraie. Pour mieux voir l'erreur, essayez de remplacer "18 ans" par "40 ans".
 
