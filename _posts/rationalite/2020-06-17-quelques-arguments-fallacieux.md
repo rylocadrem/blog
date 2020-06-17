@@ -5,7 +5,6 @@ excerpt: Je présente dans cet article quelques arguments fallacieux qu'on renon
 date:   2020-06-17 17:30:00 +0200
 categories: rationalite
 tags: ["Rationalité"]
-hidden: 1
 ---
 
 Table des matières :
@@ -510,7 +509,7 @@ Il s'agit d'un texte du Cardinal O'Brien, président de la Conférence Épiscopa
 
 Ce texte sur lequel je suis tombé il y a quelque temps me semble être un bon exemple, d'autant plus pertinent que je suis d'accord avec l'intention (la défense de la vision biblique du mariage).
 
-J'en ferais une brève analyse, que je ne prétends pas exhaustive, au niveau des arguments fallacieux.
+J'en ferais une brève analyse, que je ne prétends pas exhaustive, au niveau des arguments qui me semblent fallacieux.
 
 > Le gouvernement lance ce mois-ci une consultation sur le mariage homosexuel, demandant au public s'il doit être introduit en Angleterre et au Pays de Galles.
 
@@ -602,7 +601,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 [Mensonge](#mensonge) : dire que "les innombrables avantages que le mariage apporte à la société"[^jiang] sont propres aux unions hétérosexuelles n'est pas conforme à la réalité.[^meezan] [^allen]
 
-> C'est un point de vue qui aurait été approuvé et accepté il y a seulement quelques années, mais aujourd'hui, à faire avancer une compréhension traditionnelle du mariage risque on d'être qualifié de bigot intolérant.
+> C'est un point de vue qui aurait été approuvé et accepté il y a seulement quelques années, mais aujourd'hui, à faire avancer une compréhension traditionnelle du mariage on risque d'être qualifié de bigot intolérant.
 
 [Appel à la tradition](#appel-à-la-tradition) : "un point de vue qui aurait été approuvé et accepté il y a seulement quelques années", "compréhension traditionnelle du mariage".
 
@@ -624,13 +623,11 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 [Appel à la pitié](#appel-à-la-pitié) : "tous les enfants méritent de commencer leur vie avec une mère et un père".
 
-[Confusion corrélation/causalité](#confusion-corrélationcausalité) et [Négation de l’antécédent](#négation-de-lantécédent) : l'éducation dans un couple marié hétérosexuel est bien corrélée au bien-être des enfants mais il n'y a pas de causalité et la réciproque (bien être implique parents hétérosexuels) n'est pas vraie (voir point suivant).
+[Confusion corrélation/causalité](#confusion-corrélationcausalité) et [négation de l’antécédent](#négation-de-lantécédent) : l'éducation dans un couple marié hétérosexuel est bien corrélée au bien-être des enfants mais il n'y a pas de causalité et la réciproque (bien être implique parents hétérosexuels) n'est pas vraie (voir point suivant).
 
 [Mensonge](#mensonge) : l'affirmation selon laquelle les couples homosexuels ne peuvent apporter la même stabilité et le même bien-être aux enfants que les couples hétérosexuels n'est pas supportée par les faits.[^meezan] [^allen] [^prickett] [^bos] [^crowl] [^rivers] [^fedewa]
 
 > Le mariage homosexuel éliminerait entièrement dans la loi l'idée de base d'une mère et d'un père pour chaque enfant. Cela créerait une société qui choisit délibérément de priver un enfant d'une mère ou d'un père.
-
-[Faux dilemme](#faux-dilemme) : soit on interdit le mariage homosexuel soit on "prive un enfant d'une mère ou d'un père".
 
 [Pétition de principe](#pétition-de-principe) : "priver un enfant d'une mère ou d'un père est mal car on le prive d'une mère ou d'un père".
 
@@ -678,7 +675,7 @@ Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, da
 
 [Argument de l’homme de paille](#argument-de-lhomme-de-paille) : réduire la situation à un démolissement d'un droit de l'homme.
 
-Ma réflexion : au lieu de recourir à une argumentation maladroite, erronée et malhonnête, en tant que Chrétien ne serait-il pas suffisant de dire "je suis opposé au mariage homosexuel car la Bible définit le mariage comme l'union d'un homme et d'une femme et que je considère la Bible comme faisant autorité en matière d'éthique et de morale" ?
+**Ma réflexion** : au lieu de recourir à une argumentation maladroite, erronée et malhonnête, en tant que Chrétien ne serait-il pas suffisant de dire "je suis opposé au mariage homosexuel car la Bible définit le mariage comme l'union d'un homme et d'une femme et que je considère la Bible comme faisant autorité en matière d'éthique et de morale" ?
 
 ### Exemple 2 – Quelques phrases inventées
 
