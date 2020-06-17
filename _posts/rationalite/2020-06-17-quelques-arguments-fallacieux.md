@@ -56,7 +56,7 @@ Note 2 : on parle parfois d'argument d'autorité *anonyme* quand on cite une sou
 Exemples :
 
 * *L'arme nucléaire est nuisible, le prix Nobel Georges Charpak l'a affirmé.* Georges Charpak est prix Nobel de physique, par conséquent ses opinions en matière de politique ou affaires militaires n'ont pas plus de valeur à priori que celles de n'importe qui.
-* *Albert Einstein a affirmé que l'univers n'est pas en expansion.* Albert Einstein est bien expert dans le domaine concerné (la physique) mais il a révisé sa position plus tard. De plus, l'expansion de l'univers étant maintenant étayée par des preuves plus solides qu'une simple parole d'expert.
+* *Albert Einstein a affirmé que l'univers n'est pas en expansion.* Albert Einstein est bien expert dans le domaine concerné (la physique) mais il a révisé sa position plus tard. De plus, l'expansion de l'univers est maintenant étayée par des preuves plus solides qu'une simple parole d'expert.
 
 #### Appel à la pratique courante
 
