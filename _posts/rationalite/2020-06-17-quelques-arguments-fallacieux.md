@@ -506,7 +506,7 @@ Note : des études dont la méthodologie est mauvaise (manque de contrôle, biai
 
 Le texte original en anglais est disponible dans cet article du *Telegraph* : <https://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html>
 
-Il s'agit d'un texte du Cardinal O'Brien, Président de la Conférence Épiscopale d'Écosse et catholique le plus haut placé de Grande-Bretagne, contre l'institution du mariage homosexuel en Grande-Bretagne. Ironie du sort, le pape Benoit XVI contraindra le cardinal à démissionner en 2013 après qu'il ait admis des attouchements sexuels sur de jeunes prêtres depuis les années 1980.[^obrien_guardian_1] [^obrien_guardian_2]
+Il s'agit d'un texte du Cardinal O'Brien, président de la Conférence Épiscopale d'Écosse et catholique le plus haut placé de Grande-Bretagne à l'époque, contre l'institution du mariage homosexuel en Grande-Bretagne. Ironie du sort, le pape Benoit XVI contraindra le cardinal à démissionner en 2013 après qu'il ait admis des attouchements sexuels sur de jeunes prêtres depuis les années 1980.[^obrien_guardian_1] [^obrien_guardian_2]
 
 Ce texte sur lequel je suis tombé il y a quelque temps me semble être un bon exemple, d'autant plus pertinent que je suis d'accord avec l'intention (la défense de la vision biblique du mariage).
 
@@ -522,7 +522,7 @@ C'est vrai.[^uk_civil_partnership]
 
 > Lorsque ces arrangements ont été introduits, les partisans ont eu du mal à faire remarquer qu'ils ne voulaient pas le mariage, acceptant que le mariage n'avait jamais signifié que l'union légale d'un homme et d'une femme.
 
-[Généralisation abusive](#généralisation-abusive) : dire *les partisans* est abusif. Rien n'indique ne serait-ce même la présence d'une minorité significative qui défend cette position.
+[Généralisation abusive](#généralisation-abusive) : dire *les partisans* est une généralisation abusive car rien n'indique qu'une part significative des partisans défende cette position.
 
 > Ceux d'entre nous qui n'étaient pas en faveur du partenariat civil, estimant que de telles relations sont préjudiciables au bien-être physique, mental et spirituel des personnes impliquées, ont averti qu'à terme le mariage serait également exigé. On nous accusait d'alarmisme à l'époque, et pourtant, de telles exigences nous sont imposées.
 
