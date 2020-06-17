@@ -2,7 +2,7 @@
 layout: post
 title:  "[Rationalité] Quelques arguments fallacieux"
 excerpt: Je présente dans cet article quelques arguments fallacieux qu'on renontre souvent. Les connaitre permet de repérer plus facilement des argumentations erronées.
-date:   2020-06-13 16:26:00 +0200
+date:   2020-06-17 17:30:00 +0200
 categories: rationalite
 tags: ["Rationalité"]
 hidden: 1
@@ -23,13 +23,21 @@ Richard Whately, économiste, logicien et théologien anglais du 19ème siècle,
 
 Un argument fallacieux est dit *formel* quand il peut être exprimé sous la forme d'une proposition logique, et *informel* quand il ne le peut pas.[^az_logic]
 
-Il faut aussi noter qu'un argument est fallacieux ou non indépendamment de la conclusion à laquelle il arrive. Par exemple, dans la phrase "il pleut dont 2+2=4", l'argument est fallacieux malgré la véracité de la conclusion.
+Il faut aussi noter qu'un argument peut être fallacieux indépendamment de la conclusion à laquelle il arrive. Par exemple, dans la phrase "il pleut dont 2+2=4", la logique est fausse malgré la véracité de la conclusion.
 
 Dans cet article je vais brièvement présenter quelques arguments fallacieux souvent rencontrés dans les débats, argumentaires scientifiques, politiques et religieux, ou simplement dans les discussions entre amis.
 
 Apprendre à détecter les arguments fallacieux est un excellent point de départ pour évaluer la solidité d'un argumentaire.
 
 Ce n'est cependant pas suffisant pour avoir une réflexion logique rigoureuse : il faut encore étudier les différents biais cognitifs, ce qui constitue une preuve, les différents niveaux de preuve, les méthodes de raisonnement, etc. Ces sujets feront l'objet d'articles ultérieurs.
+
+J'ai classé les arguments fallacieux en 4 catégories distinctes :
+
+* Manipulations de l'esprit
+* Manipulations des émotions
+* Manipulations du contenu
+* Déductions erronées
+* Attaques
 
 ## Arguments fallacieux
 
@@ -128,7 +136,7 @@ Exemples :
 * *Il vaut mieux se disputer avec quelqu'un d'intelligent que parler à un imbécile. — Proverbe chinois*
 * *L'acuponcture est efficace, elle vient de la médecine chinoise.*
 
-### Manipulation des émotions
+### Manipulations des émotions
 
 #### Appel à la peur
 
@@ -168,7 +176,7 @@ Exemples :
 * *La foi en Dieu, c'est comme croire au père Noël.*
 * *Si la théorie de l'évolution était vraie, cela voudrait dire que mon grand-père est un gorille.*
 
-### Manipulation du contenu
+### Manipulations du contenu
 
 #### Sauvetage ad hoc
 
