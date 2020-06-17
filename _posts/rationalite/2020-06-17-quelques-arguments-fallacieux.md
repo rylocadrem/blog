@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Rationalité] Quelques arguments fallacieux"
-excerpt: Je présente dans cet article quelques arguments fallacieux qu'on renontre souvent. Les connaitre permet de repérer plus facilement des argumentations erronées.
+excerpt: Je présente dans cet article quelques arguments fallacieux qu'on rencontre souvent. Les connaitre permet de repérer plus facilement des argumentations erronées.
 date:   2020-06-17 17:30:00 +0200
 categories: rationalite
 tags: ["Rationalité"]
