@@ -102,7 +102,7 @@ Exemples :
 
 #### Appel à la nouveauté
 
-**Prétendre quelque chose est vrai ou mieux parce que plus récent.**
+**Prétendre qu'une chose est vrai ou mieux parce que plus récente.**
 
 Exemples :
 
@@ -111,7 +111,7 @@ Exemples :
 
 #### Appel à la tradition
 
-**Prétendre quelque chose est vrai ou mieux parce que plus ancien.**
+**Prétendre qu'une chose est vrai ou mieux parce que plus ancienne.**
 
 Exemples :
 
@@ -352,7 +352,7 @@ Exemples :
 * *La crème glacée provoque des noyades* (il existe une corrélation entre la vente de crème glacée et le nombre de morts par noyade).
 * *Les pirates refroidissent la Terre* (il y a une corrélation inverse entre le nombre de pirates et la température moyenne sur Terre).
 
-Note : le site [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) liste des corrélations fortuites entre en grand nombre de variables.
+Note : le site [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) liste des corrélations fortuites entre un grand nombre de variables.
 
 #### Post hoc ergo propter hoc
 
@@ -434,7 +434,7 @@ Exemples :
 
 **Déconsidérer une preuve à cause des intérêts de l'entité qui l'apporte.**
 
-Note : un conflit d'intérêts invite à une plus grande attention mais n'est pas en motif disqualifiant.
+Note : un conflit d'intérêts invite à une plus grande attention mais n'est pas un motif disqualifiant en soi.
 
 Exemples :
 
@@ -459,11 +459,13 @@ Exemples :
 Exemples :
 
 * *Les adversaires de l'astrologie prétendent que les astres n'ont pas d'influence sur nous. Allez donc demander aux marins si la Lune n'a pas d'influence sur les marées !*
-* *En critiquant l'efficacité de l'acupuncture vous balayez dédaigneusement d'un revers de la main la culture asiatique.*
+* *Vous ne voulez pas mettre au point ce programme de construction de porte-avions ; je ne comprends pas pourquoi vous voulez laisser notre pays sans défense.*
 
 ## Annexe 1 – Les niveaux de preuve
 
-On peut hiérarchiser les preuves selon des niveaux de fiabilité.[^afis_preuve] [^grades_burns] [^grades_bjm] [^grades_hadorn] [^grades_petrisor] [^grades_wilson] [^grades_has] En voici un résumé :
+On peut hiérarchiser les preuves selon des niveaux de fiabilité.[^afis_preuve] [^grades_burns] [^grades_bjm] [^grades_hadorn] [^grades_petrisor] [^grades_wilson] [^grades_has]
+
+En voici un résumé :
 
 * Niveau de preuve très élevé (Grade A – Preuve établie)
   * Consensus scientifique
