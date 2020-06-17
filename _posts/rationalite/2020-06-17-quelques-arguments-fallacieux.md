@@ -504,7 +504,7 @@ Note : des études dont la méthodologie est mauvaise (manque de contrôle, biai
 
 ### Exemple 1 – Message du Cardinal O'Brien contre le mariage homosexuel
 
-Le texte intégral est original en anglais est disponible dans cet article du *Telegraph* : <https://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html>
+Le texte original en anglais est disponible dans cet article du *Telegraph* : <https://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html>
 
 Il s'agit d'un texte du Cardinal O'Brien, Président de la Conférence Épiscopale d'Écosse et catholique le plus haut placé de Grande-Bretagne, contre l'institution du mariage homosexuel en Grande-Bretagne. Ironie du sort, le pape Benoit XVI contraindra le cardinal à démissionner en 2013 après qu'il ait admis des attouchements sexuels sur de jeunes prêtres depuis les années 1980.[^obrien_guardian_1] [^obrien_guardian_2]
 
