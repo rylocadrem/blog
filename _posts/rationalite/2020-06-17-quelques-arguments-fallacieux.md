@@ -71,9 +71,9 @@ Exemples :
 
 **Prétendre que quelque chose est vrai ou faux parce que le contraire n'a pas été démontré.**
 
-Note: en l'absence de preuves il est toutefois rationnel de prendre pour hypothèse de départ celle qui soulève le moins d'inconnues (selon le principe de parcimonie "les hypothèses *suffisantes les plus simples* doivent être préférées")[^ockham].
+Note 1 : en l'absence de preuves il est toutefois rationnel de prendre pour hypothèse de départ celle qui soulève le moins d'inconnues (selon le principe de parcimonie "les hypothèses *suffisantes les plus simples* doivent être préférées")[^ockham].
 
-Note: cet argument est fortement lié au *renversement de la charge de la preuve* (voir plus loin).
+Note 2 : cet argument est fortement lié au *renversement de la charge de la preuve* (voir plus loin).
 
 Exemples :
 
@@ -93,7 +93,7 @@ Exemples :
 
 **Prétendre que quelque chose est vrai parce que beaucoup ou la majorité des gens le croit.**
 
-Note: le pendant (prétendre que quelque chose est vrai parce que peu de gens le croient) est basé sur le même raisonnement fallacieux.
+Note : le pendant (prétendre que quelque chose est vrai parce que peu de gens le croient) est basé sur le même raisonnement fallacieux.
 
 Exemples :
 
