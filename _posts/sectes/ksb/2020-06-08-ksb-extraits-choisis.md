@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[KSB] Est-ce un réveil authentique : extraits choisis"
+title:  "[KSB] [Traduction] Est-ce un réveil authentique : extraits choisis"
 excerpt_separator: <!--plus-->
 date:   2020-06-08 10:00:00 +0200
 categories: sectes

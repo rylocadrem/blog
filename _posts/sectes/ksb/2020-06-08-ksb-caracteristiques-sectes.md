@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes"
+title:  "[KSB] [Traduction] Kwasizabantu évaluée en rapport aux caractéristiques des sectes"
 excerpt_separator: <!--plus-->
 date:   2020-06-08 11:00:00 +0200
 categories: sectes
