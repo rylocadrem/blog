@@ -526,7 +526,7 @@ C'est vrai.[^uk_civil_partnership]
 
 > Ceux d'entre nous qui n'étaient pas en faveur du partenariat civil, estimant que de telles relations sont préjudiciables au bien-être physique, mental et spirituel des personnes impliquées, ont averti qu'à terme le mariage serait également exigé. On nous accusait d'alarmisme à l'époque, et pourtant, de telles exigences nous sont imposées.
 
-[Cherry-picking](#cherry-picking): les membres des communautés LGBT ont en effet une plus grande prévalence de troubles mentaux et détresse psychologique.[^raifman] [^cochran] Cependant cet écart est principalement du à une forme de stress post-traumatique induit par la pression sociale[^raifman] [^cochran] [^almeida] et à une discrimination à l'accès aux soins.[^cochran] [^hatzenbuehler] En outre, les partenariats civils et mariages pour les homosexuels conduisent à une meilleure santé, notamment psychologique.[^raifman] [^hatzenbuehler] [^gonzales] [^hatzenbuehler_2]
+[Cherry-picking](#cherry-picking): les membres des communautés LGBT ont en effet une plus grande prévalence de troubles mentaux et détresse psychologique.[^raifman] [^cochran] Cependant cet écart est principalement du à une forme de stress post-traumatique induit par la pression sociale[^raifman] [^cochran] [^almeida] et à une discrimination dans l'accès aux soins.[^cochran] [^hatzenbuehler] En outre, les partenariats civils et mariages pour les homosexuels conduisent à une meilleure santé, notamment psychologique.[^raifman] [^hatzenbuehler] [^gonzales] [^hatzenbuehler_2]
 
 [Appel à la pitié](#appel-à-la-pitié) : "on nous accusait d'alarmisme" appelle à la pitié face à une position de victime.
 
@@ -536,7 +536,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 [Appel à la peur](#appel-à-la-peur) : "une tentative de redéfinir le mariage pour l'ensemble de la société" induit une peur de la corruption de chacun.
 
-[Cherry-picking](#cherry-picking) : réduire la complexité de ce phénomène sociétal à "une petite minorité de militants" n'est représentatif de la réalité.[^becker] [^sherkat] [^lax] [^andersen]
+[Cherry-picking](#cherry-picking) : réduire la complexité de ce phénomène sociétal à "une petite minorité de militants" n'est pas représentatif de la réalité.[^becker] [^sherkat] [^lax] [^andersen]
 
 > Redéfinir le mariage aura d'énormes implications pour ce qui est enseigné dans nos écoles et pour la société en général. Il redéfinira la société puisque l'institution du mariage est l'un des éléments fondamentaux de la société. Les répercussions de la promulgation du mariage homosexuel seront immenses.
 
@@ -572,7 +572,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 > À l'article 16 de la Déclaration universelle des droits de l'homme, le mariage est défini comme une relation entre hommes et femmes. Mais lorsque nos politiciens suggèrent d'abandonner la compréhension établie du mariage et de renverser sa signification, ils sont ridicules.
 
-[Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique, contrairement au *Pacte international relatif aux droits économiques, sociaux et culturels* et au *Pacte international relatif aux droits civils et politiques*.
+[Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique.
 
 [Mensonge](#mensonge) : l'article 16 de la Déclaration universelle des droits de l'homme déclare "l'homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille"[^dudh]. Elle ne restreint pas le mariage à l'union d'un homme et d'une femme mais affirme le droit au mariage pour les hommes et les femmes.
 
@@ -602,7 +602,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 [Mensonge](#mensonge) : dire que "les innombrables avantages que le mariage apporte à la société"[^jiang] sont propres aux unions hétérosexuelles n'est pas conforme à la réalité.[^meezan] [^allen]
 
-> C'est un point de vue qui aurait été approuvé et accepté il y a seulement quelques années, mais aujourd'hui, faire avancer une compréhension traditionnelle du mariage risque d'être qualifié de bigot intolérant.
+> C'est un point de vue qui aurait été approuvé et accepté il y a seulement quelques années, mais aujourd'hui, à faire avancer une compréhension traditionnelle du mariage risque on d'être qualifié de bigot intolérant.
 
 [Appel à la tradition](#appel-à-la-tradition) : "un point de vue qui aurait été approuvé et accepté il y a seulement quelques années", "compréhension traditionnelle du mariage".
 
