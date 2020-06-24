@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for breve in site.breves %}
+  <li><a href="{{ site.baseurl }}/bref/{{ breve.name }}">{{ breve.title }}</a></li>
+{% endfor %}

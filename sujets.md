@@ -2,5 +2,5 @@
 layout: tags
 title: Sujets
 permalink: /sujets/
-order: 1
+order: 2
 ---

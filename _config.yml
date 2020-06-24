@@ -26,8 +26,11 @@ minima:
 
 # Categories
 collections:
-  category:
+  breves:
     output: true
+    permalink: /bref/:name
+  # category:
+  #   output: true
     # permalink: /:collection/:name
 
 # Analytics

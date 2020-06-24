@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[BROUILLON] [Théologie] Occasion de chute, liberté et légalisme"
-excerpt: ...
-date:   2020-06-18 12:00:00 +0200
+title:  "[BROUILLON] [Théologie] Pourquoi prier ?"
+# excerpt: ...
+# date:   2020-06-18 12:00:00 +0200
 categories: theologie
 tags: ["Théologie"]
 ---

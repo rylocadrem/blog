@@ -96,23 +96,23 @@ Voici un petit résumé des principes herméneutiques fondamentaux.[^predication
 
 #### 1. Structure
 
-- Y a-t-il des mots, expressions ou idées répétées ?
-- Peut-on discerner plusieurs parties ? Comment s'articulent-elles ? Y a-t-il des connecteurs logiques ?
-- Qui sont les personnes mentionnées ? A qui s'adressent-elles ?
+* Y a-t-il des mots, expressions ou idées répétées ?
+* Peut-on discerner plusieurs parties ? Comment s'articulent-elles ? Y a-t-il des connecteurs logiques ?
+* Qui sont les personnes mentionnées ? A qui s'adressent-elles ?
 
 Il faut aussi garder à l'esprit que le découpage en chapitres et versets n'existe pas dans les textes originaux et est uniquement utile pour des questions d'organisation et de références. Il n'y a pas nécessairement de discontinuité narrative ou logique entre deux versets ou deux chapitres.
 
 #### 2. Contexte
 
-- **Historique** : Qui a écrit le livre, à qui, à quelle occasion ? Quel était la situation des auteurs et destinataires ? Quel était l'objectif de l'auteur pour ses destinataires ?
-- **Littéraire** : De quoi parlent les passages précédents et suivants ? Comment le texte étudié s'inscrit-il dans le chapitre (ou ensemble de chapitres) dont il est issu ?
-- **Thématique** : Quel est de thème du texte ? Du livre dont est tiré le texte ?
+* **Historique** : Qui a écrit le livre, à qui, à quelle occasion ? Quel était la situation des auteurs et destinataires ? Quel était l'objectif de l'auteur pour ses destinataires ?
+* **Littéraire** : De quoi parlent les passages précédents et suivants ? Comment le texte étudié s'inscrit-il dans le chapitre (ou ensemble de chapitres) dont il est issu ?
+* **Thématique** : Quel est de thème du texte ? Du livre dont est tiré le texte ?
 
 #### 3. Réflexion théologique
 
-- Comment le texte se rapporte-t-il au message de l'Évangile ?
-- Comment s'inscrit-il dans la révélation de la Bible dans son ensemble ?
-- Quel éclairage le reste de la Bible peut-il apporter ?
+* Comment le texte se rapporte-t-il au message de l'Évangile ?
+* Comment s'inscrit-il dans la révélation de la Bible dans son ensemble ?
+* Quel éclairage le reste de la Bible peut-il apporter ?
 
 #### 4. Compréhension
 
@@ -122,9 +122,9 @@ Après avoir appliqué les trois premières étapes, on peut extraires les ensei
 
 Enfin, il faut toujours s'assurer de la validité de notre interprétation. Se poser les questions suivantes est une bonne aide :
 
-- Est-ce que je m'appuie sur le texte pour lui faire dire ce que je veux ou est-ce que je fais ressortir de l'Écriture uniquement ce qu'elle dit ?
-- Mon interprétation contredit-elle d'autres textes bibliques ?
-- Mon interprétation est-elle en lien direct avec l'objectif de l'auteur pour ses destinataires originaux ?
+* Est-ce que je m'appuie sur le texte pour lui faire dire ce que je veux ou est-ce que je fais ressortir de l'Écriture uniquement ce qu'elle dit ?
+* Mon interprétation contredit-elle d'autres textes bibliques ?
+* Mon interprétation est-elle en lien direct avec l'objectif de l'auteur pour ses destinataires originaux ?
 
 ## L'objection au crible d'une éxégèse rigoureuse
 
