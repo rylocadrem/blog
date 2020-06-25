@@ -2,7 +2,7 @@
 layout: post
 title:  "[BROUILLON] [Théologie] Vérité biblique et volonté de Dieu"
 excerpt: "<i>Que dit la Bible ?</i> et <i>Quelle est la volonté de Dieu ?</i> sont deux questions cruciales pour chaque chrétien. Et je crois que nous cherchons tous à y répondre. Pourtant il me semble que leurs questions corolaires, à savoir <i>Comment savoir ce que dit la Bible ?</i> et <i>Comment connaître la volonté de Dieu ?</i> restent souvent sans vraie réponse."
-date:   2020-06-24 16:40:00 +0200
+date:   2020-06-25 7:15:00 +0200
 categories: theologie
 tags: ["Théologie"]
 hidden: 1
@@ -27,9 +27,6 @@ Dans la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08
 
 Il me parait donc pertinent de faire une patite étude sur le sujet, ettayée par des passages bibliques et des commentaires de divers pasteurs et théologiens. Je n'ai pas pour objectif d'être exhaustif, je vous conseille donc quelques ressources pour en savoir plus en fin d'article.
 
-
-
-
 <!-- TODO -->
 <!--
   * Comment savoir ce que dit la Bible ? (idée : mettre la rectification de 3 Co 3:6 avant ou au début de ça)
@@ -42,13 +39,102 @@ Il me parait donc pertinent de faire une patite étude sur le sujet, ettayée pa
 
 ## Comment savoir ce que dit la Bible
 
-<!-- A ORGANISER ET MIEUX RÉDIGER -->
+<!-- TODO : A ORGANISER ET MIEUX RÉDIGER -->
 
 ### Pourquoi interpréter la bible ?
 
-...
+Commençons par quelques définitions.
+
+Le *Dictionnaire de l'Académie Française*[^daf_interpreter] donne cette définition :
+
+> **Interpréter**
+>
+> * Expliquer ce qu'il y a d'obscur ou d'ambigu dans un texte, en éclairer le sens.
+> * Dégager, expliquer la signification de.
+
+Il faut clairement distinguer ces sens premiers d'interprétation des autres, secondaires, qui sont "extrapoler, passer à une conclusion à partir de données incomplètes" ou encore "donner un sens personnel, parmi d'autres possibles, à un acte, à un fait, dont l'explication n'apparaît pas de manière évidente", car ce n'est pas de cela dont il est question.
+
+Beaucoup d'entre nous, je crois, avons souvent lu la Bible avec un *sentiment d'immédiateté*. Nous pensons peut-être que nous lisons simplement la Bible (sans l'interpréter) et qu'ainsi nous entendons Dieu. Notre identifions notre compréhension avec la Parole de Dieu, comme une révélation infusée.
+
+Le danger, c'est qu'alors selà signifierait que toute personne en désaccord avec moi n'est en fait pas fidèle à la Bible ; puisque mon point de vue m'a été révélé par Dieu. Cette approche, outre le fait qu'elle n'est enseignée nulle-part dans les Écritures (voir la suite de l'article, par exemple l'explication de [La lettre tue, mais l'Esprit vivifie](#la-lettre-tue-mais-lesprit-vivifie-2-corinthiens-36)), rend non seulement la discussion avec les autres très difficile, mais réduit également la possibilité que notre interprétation à un moment donné soit imparfaite, et puisse changer, croître ou se développer.
+
+En réalité nous sommes tous des interprètes, que nous le voulions ou non. L'interprétation est même au cœur du Nouveau Testament, de l'enseignement de Jésus et des apôtres, au cœur de la foi chrétienne.
+
+> Et, commençant par Moïse et par tous les Prophètes, il leur fit l’interprétation de ce qui, dans toutes les Ecritures, le concernait.
+>
+> — Luc 24:27 (NBS)
+
+Dans les Actes, au chapitre 8, on lit l'histoire de Philippe et de l'enuque éthiopien :
+
+> Philippe accourut et entendit l'Ethiopien qui lisait le Prophète Esaïe. Il lui dit : Comprends-tu ce que tu lis ? Il répondit : Comment le pourrais-je, si personne ne me guide ? Et il invita Philippe à monter s'asseoir avec lui. [...] Alors Philippe prit la parole et, commençant par cette Ecriture, il lui annonça la bonne nouvelle de Jésus.
+>
+> — Actes des Apôtres 8:30-31,35 (NBS)
+
+Quoi qu'en soit la raison, l'eunuque éthiopien ne comprenait pas le texte biblique. Il avait besoin d'explications. Philippe va alors lui expliquer le passage d'Esaïe 53 en l'interprétant à la lumière de *la bonne nouvelle de Jésus*.
+
+Ces exemples parmi d'autres montrent que la Bible a besoin d'être comprise, expliquée,  autrement dit *interprétée*.
+
+Pour tirer le sens d'un texte, plusieurs difficultés fondamentales se présentent[^minard_interpretation_1] :
+
+1. Certains passages ne peuvent se comprendre que dans leur contexte. Par exemple la phrase "j'en ai assez de ce cadre !" pourrait indiquer que je ne supporte plus un tableau accroché au mur, que je suis agacé par un cadre de vélo trop lourd, que je trouve mon suppérieur hiérarchique trop tyranique, que je me sens étouffé par des règles imposées, etc.
+2. Les textes originaux n'ont pas été écrit dans une langue que nous parlons couramment (pour la plupart).
+3. Les textes originaux ont été écrits dans des registres de langues styles et genres littéraires très différents.
+4. Les auteurs originaux appartenaient à des cultures antiques très différentes des notres et ont intégré leurs présupposés culturels dans les textes.
+
+Il faut aussi avoir conscience que la Bible a été écrite *pour* nous mais pas *à* nous, c'est-à-dire que nous ne sommes pas les destinataires directs des livres écrits par les auteurs originaux.
+
+Ainsi se pose la question *comment faut-il interpréter la Bible ? Comment bien interpréter le texte biblique pour ne pas lui faire dire ce qu'il ne dit pas ?*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ### Pourquoi se former à l'interprétation de la Bible ?
+
+Pour être en mesure d'aborder les passages, parfois compliqués, de la Bible et d'en retirer le sens véritable.[^tpsg_pourquoi_interpreter]
+
+Lisons par exemple ce verset :
+
+> Si ta main ou ton pied doivent causer ta chute, coupe-les et jette-les loin de toi ; mieux vaut pour toi entrer dans la vie manchot ou infirme que d'avoir deux pieds ou deux mains et d'être jeté dans le feu éternel.
+>
+> — Matthieu 18:8
+
+Doit-on le lire littéralement ? Doit-on envisager de se couper la main ? Ou est-ce à prendre comme une image spirituelle ?
+
+Et si nous avons un avis sur la question, sur quoi est-il basé ? Nos impressions de ce qui "nous semble juste" ? Ou sur ce que dit réellement la Bible ? -->
 
 ### Comment interpréter la Bible ?
+
+David Helm distingue trois principaux types de prédications erronées[^predication_textuelle], c'est-à-dire qui ne transmettent pas le sens du texte. Elles ne sont pas mutuellement exclusives et peuvent nous éclairer sur les mauvaises manières de lire la Bible :
+
+* **La prédication impressionniste** qui consiste a lire la Bible sans creuser et sélectionner des textes qui produisent une forte impression puis à en dégager l'idée principale qui nous vient à l'esprit pour en tirer des applications qui nous semblent pertinentes. Le problème est *qu'elle ne se laisse pas limiter par la réalité du texte* et ignore le contexte historique, culturel, littéraire... ainsi que souvent les implications théologiques qui en découlent. C'est *presque de la prédication improvisée*.
+* **La prédication enivrée** qui consiste à *utiliser la Bible comme un homme ivre se sert d'un lampadaire, plus pour s'appuyer que pour s'éclairer*. C'est instrumentaliser la Bible pour transmettre un message, c'est transmettre nos propres projets, nos propres idées en utilisant la Bible.
+* **La prédication "inspirée" (_Lectio Divina_)** qui consiste à lire le texte en prétant attention à ses émotions et ressentis intérieurs, essayant "d'écouter" ce que Dieu veut nous dire par ce texte, que l'on voit non comme un objet pouvant être étudié mais comme une "matière vivante" devant être "ressentie spirituellement". (cf. plus loin, [La lettre tue, mais l'Esprit vivifie](#la-lettre-tue-mais-lesprit-vivifie-2-corinthiens-36))
+
+Pour éciter cela, nous devons faire une exégèse du texte avec des méthodes d'herméneutique.
+
+J'utiliserais les termes *herméneutique* et *exégèse* tels que définis par le pasteur et théologien Milton Spenser Terry :
+
+> L'*herméneutique* vise à établir les principes, méthodes et règles qui sont nécessaires pour exposer le sens de ce qui est écrit. L'*exégèse* est l'application de ces principes, la formulation en affirmations formelles, dans des termes différents, du sens des mots de l'auteur.[^def_terry]
+
+L'herméneutique est donc la méthode théorique pour faire une bonne exégèse.
 
 ### Choisir une traduction de la Bible
 
@@ -70,12 +156,14 @@ Je récapitule dans le tabluea ci-après les différences entre les principales 
   * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour l'Ancien Testament, d'une traduction en latin des textes issus du texte massorétique et de la Septante.
 * **Les sources du Nouveau Testament**, c'est à dire les manuscrits sur lesquels est absée la traduction du Nouveau Testament. On distingue :
   * Le *Texte Reçu* est le nom donné aux multiples révisions du Nouveau Testament grec d'Érasme (début du 16ème siècle), édité à partir d'une poignée de manuscrits tardifs auxquels Érasme avait accès (le plus ancien datant du 10ème siècle), en grec ou en latin. Il comporte des erreurs de traductions (notamment du latin), des milliers de différences avec les textes plus anciens et des notes scribales incorporées au texte.
-  * Le *Texte Majoritaire* est le texte tel qu’il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu’ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
+  * Le *Texte Majoritaire* est le texte tel qu'il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu'ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
   * Le *Texte Minoritaire* est issu de manuscrits plus anciens (2ème siècle), considérés par l'immense majorité des spécialistes[^minard_texte] comme plus fidèle au texte original car plus anciens et moins altérés par les copistes. Cependant les différences théologiques entre textes *majoritaire* et *minoritaires* sont mineures.[^minard_texte]
   * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour le Nouveau Testament, d'une traduction en latin des textes issus du texte reçu.
 * **La présences de livres apocryphes**, des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
 
 Tableau de comparaison :
+
+<div class="table-wrapper" markdown="block">
 
 | Traduction                               | Date | Confession  | Type           | Registre de langue | Sources (AT)                           | Sources (NT)                    | Livres apocryphes |
 |------------------------------------------|------|-------------|----------------|--------------------|----------------------------------------|---------------------------------|-------------------|
@@ -116,6 +204,8 @@ Tableau de comparaison :
 | Pléiade                                  | 1971 | Laïque      | Littérale      | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
 | Bayard                                   | 2001 | Laïque      | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
 
+</div>
+
 Il existe également 4 traductions apostates (volontairement tordues et niant explicitement la trinité et la divinité de Christ) :
 
 * La Traduction du Monde Nouveau (Témoins de Jéhovah)
@@ -123,8 +213,30 @@ Il existe également 4 traductions apostates (volontairement tordues et niant ex
 * La Bible de Machaira
 * Le Bible de Jésus-Christ
 
+Pour ma part, pour des raisons de fiabilité et de proximité au texte original, j'exclut :
 
-<!-- TODO : archaïsmes, euphémismes, problème du trop littéral (cf. traduction Chouraqui de Jean 1.1), cf les descriptions des bibles segond dans https://www.bibliorama.org/les-traductions-francaises-de-la-bible/ + comparaisons sur quelques exemples -->
+* Les traductions de l'Ancien Testament non basées sur le *Texte Massorétique*.
+* Les traductions du Nouveau Testament basées sur le *Texte Reçu* ou la *Vulgate*.
+
+Pour les mêmes raisons, je privilégie :
+
+* Les traductions de l'Ancien Testament basées sur le *Texte Massorétique* avec l'éclairage des *Manuscrits de Qumrân*.
+* Les traductions du Nouveau Testament basées sur le *Texte Minoritaire*.
+
+Enfin, du fait de ma foi et motivations, je privilégie :
+
+* Les traductions de confession *protestante* ou *évangélique*.
+* Les traductions sans trop d'archaïsmes.
+
+De plus, j'essaie de privilégier les traductions qui explicitent les idiomes des locuteurs originaux. Par exemple, on lit dans 1 Samuel 24:4 : "Saül y entra pour se couvrir les pieds", une traduction littérale du texte hébreux qu'on trouve par exemple dans la Segond 1910 ou la Darby. Mes les traductions *Nouvelle Bible Segond* ou *Segond 21* rendent "Saül y entra pour satisfaire un besoin naturel", qui correspond sans ambiguité au sens de cette expression à l'époque.
+
+De même, j'essaie de privilégier les traductions qui n'usent pas d'euphémismes induement. Par exemple, dans Genèse 31:35 on lit dans le texte original "j'ai la route des femmes", traduit dans la *Segond 21* par *je suis indisposée* mais ce que la *Nouvelle Bible Segond* explicite par "j'ai mes règles".
+
+En règle générale, je préfère les traductions de type *littérale*, plus adaptées pour une étude ou une lecture approfondie.
+
+J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le texte massorétique et les manuscrits de Qumrân pour l'Ancien Testament, basée sur le texte minoritaire pour le Nouveau Testament, explicite les idiomes, évite les euphémismes indus et est à correspondance formelle (respecte la structure originale du langage, comme la Segong 1910 ou la Darby).
+
+Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS traduira par le terme présent dans le texte original : "réveiller" mais qu'on comprend comme une résurrection par exemple à la lumière de Romains 8:11 ("qui a réveillé Jésus d'entre les morts").
 
 ### TODO
 
@@ -188,7 +300,7 @@ Je vous encourage a lire mon article à ce sujet : [[Théologie] Un chrétien pe
 
 #### La conception erronée
 
-L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie, comme résumé dans ces propos rapportés par Pascal Denault dans sa vidéo *La lettre tue, mais l'Esprit vivifie*[^plp_2cor3.6] à 8:00 :
+L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie, comme résumé dans ces propos rapportés par Pascal Denault dans sa vidéo *La lettre tue, mais l'Esprit vivifie*[^plp_2cor36] à 8:00 :
 
 > L'église n'a pas besoin d'un enseignement doctrinal. Cette aproche de la part d'un pasteur est stérile voir même mortelle, puisque la lettre tue et que la lettre est l'enseignement théologique. En effet, en théologie on étudie la lettre, la litérature biblique. La lettre c'est la théologie et l'étude doctrinale
 >
@@ -218,6 +330,10 @@ Commençons par lire le contexte immédiat, c'est à dire l'ensemble du chapitre
 >
 > — 2 Corinthiens 3 (NBS)
 
+
+
+
+
 ## [ESPACE DE TRAVAIL] — Notes sur *Hors contexte : « La lettre tue, mais l'Esprit vivifie » – 2 Corinthiens 3.6*
 
 14:00 : C'est une tendance courrante d'entendre un passage de la Bible et d'oublier dans quel contexte ça a été dit, puis de se rappeler plus tard de cette phrase et de l'appliquer dans des contextes où elle ne s'applique pas.
@@ -235,6 +351,9 @@ Comme l'a dit Origène d'Alexandrie[^origene], qui faisait une distinction entre
 22:15 : le passage ne parle pas d'intellectuel vs spirituel et la bible n'enseigne pas une spiritualité mystique, où on serait dirigé directement par l'esprit par des sortes d'intuitions spirituelles, comme Lee et Nee ont tendance à le faire.
 
 !!!! **26:00 -- réécouter à partir d'ici** !!!!
+
+Lien avec 1 Corinthiens 2:10 ??
+
 
 ## Quelques ressources
 
@@ -292,7 +411,7 @@ Comme l'a dit Origène d'Alexandrie[^origene], qui faisait une distinction entre
 
 ## Références
 
-[^plp_2cor3.6]: Denault, P., Prêche la Parole. (2020, 14 juin). *Hors contexte : « La lettre tue, mais l'Esprit vivifie » – 2 Corinthiens 3.6* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=D2vMMxT0ciA>
+[^plp_2cor36]: Denault, P., Prêche la Parole. (2020, 14 juin). *Hors contexte : « La lettre tue, mais l'Esprit vivifie » – 2 Corinthiens 3.6* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=D2vMMxT0ciA>
 
 [^plp_jer29.11]: Bourin, G., Prêche la Parole. (2020, juin 7). *Hors contexte : « Je connais les projets que j'ai formés sur vous » - Jérémie 29.11* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=nMT8c6W-kC4>
 
@@ -311,3 +430,9 @@ Comme l'a dit Origène d'Alexandrie[^origene], qui faisait une distinction entre
 [^minard_traduction]: Minard, T. (2019, 15 juin). *Quelle(s) traduction(s) française(s) de la Bible faut-il préférer ?* Bible & Co. <http://timotheeminard.com/quelles-traductions-francaises-de-la-bible-faut-il-preferer/>
 
 [^minard_texte]: Minard, T. (2019a, juin 15). *Le « Texte majoritaire » et la question du texte original du Nouveau Testament*. Bible & Co. <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/>
+
+[^tpsg_pourquoi_interpreter]: Varak, F., Tout Pour Sa Gloire. (2018b, mars 2). *Pourquoi chaque chrétien devrait apprendre à interpréter la Bible ?* [Vidéo]. Teachable. <https://toutpoursagloire.teachable.com/courses/60267/lectures/930075>
+
+[^daf_interpreter]: Académie Française. (2005). Interpréter. Dans Dictionnaire de l'Académie Française (9e éd.). <https://www.cnrtl.fr/definition/academie9/interpréter>
+
+[^minard_interpretation_1]: Minard, T. (2019, 15 juin). *Qu'est-ce que l'interprétation ?* Bible & Co. <http://timotheeminard.com/interpreter-bible-comment-1ere-partie-2/>
