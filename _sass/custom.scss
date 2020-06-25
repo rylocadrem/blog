@@ -7,8 +7,33 @@
     margin-bottom: 10px;
 }
 
+.mobile-only {
+    display: none;
+}
+
 @media only screen and (max-width: 768px) {
     .table-wrapper {
         overflow-x: scroll;
     }
+
+    .mobile-only {
+        display: block;
+    }
+}
+
+.wip-warning {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.read-full-info {
+    padding: 20px;
+    background-color: lightblue;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
 }

@@ -7,7 +7,7 @@ categories: rationalite
 tags: ["Rationalité"]
 ---
 
-🚧 **Version de travail en cours de rédaction** 🚧
+{% include wip-warning.html %}
 
 Table des matières :
 

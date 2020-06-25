@@ -4,7 +4,36 @@ title: "[En bref] Comparaison des traductions françaises de la Bible"
 name: "versions-bible"
 ---
 
-Comparaison des principales traductions françaises de la Bible :
+Lisez l'article complet ici : [[Théologie] Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-25-verite-biblique-volonte-dieu %})
+{: .read-full-info}
+
+Je récapitule dans le tabluea ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
+
+* **La confession**, c'est à dire quelle influences confessionnelles est reflétée par la traduction. cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
+* **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français). Par ordre décroissant :
+  * Très littérale
+  * Littérale
+  * Semi-littérale
+  * Dynamique
+  * Très dynamique
+* **Le niveau de langue**, sans prendre en compte la présence d'archaïsmes, naturellement plus présents dans les traductions plus anciennes.
+* **Les sources de l'Ancien Testament**, c'est à dire les manuscrits sur lesquels est absée la traduction de l'Ancien Testament. On distingue :
+  * Le *Texte Massorétique* est le texte biblique hébreu produit par les érudits juifs de l'Antiquité et du haut Moyen Âge appelés massorètes à partir de recopies au fil des générations. Le manuscrit le plus ancien date de 1010.
+  * Le *Pentateuque Samaritain* est la version du Pentateuque en usage chez les Samaritains. Les différences avec texte massorétique ne changent généralement pas le fond, sauf en ce qui concerne le rôle de Jérusalem et la présence d'un onzième commandement.
+  * La *Septante* est la traduction grecque de l'Ancien Testament datant d'environ 270 avant notre ère, qui est celle citée dans les écrits originaux en grec du Nouveau Testament. Seuls des manuscrits des 4ème et 5ème siècles nous sont parvenus (Codex Vaticanus, Codex Sinaiticus et Codex Alexandrinus) et ils diffères entre eux par quelques erreurs de copistes.
+  * Les *Manuscrits de Qumrân*, des manuscrits datant de -300 et correspondant à une partie de l'Ancien Testament. Antérieurs aux autres manuscrits mais incomplets, ils peuvent diverger des autres textes sur certains points.
+  * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour l'Ancien Testament, d'une traduction en latin des textes issus du texte massorétique et de la Septante.
+* **Les sources du Nouveau Testament**, c'est à dire les manuscrits sur lesquels est absée la traduction du Nouveau Testament. On distingue :
+  * Le *Texte Reçu* est le nom donné aux multiples révisions du Nouveau Testament grec d'Érasme (début du 16ème siècle), édité à partir d'une poignée de manuscrits tardifs auxquels Érasme avait accès (le plus ancien datant du 10ème siècle), en grec ou en latin. Il comporte des erreurs de traductions (notamment du latin), des milliers de différences avec les textes plus anciens et des notes scribales incorporées au texte.
+  * Le *Texte Majoritaire* est le texte tel qu'il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu'ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
+  * Le *Texte Minoritaire* est issu de manuscrits plus anciens (2ème siècle), considérés par l'immense majorité des spécialistes[^minard_texte] comme plus fidèle au texte original car plus anciens et moins altérés par les copistes. Cependant les différences théologiques entre textes *majoritaire* et *minoritaires* sont mineures.[^minard_texte]
+  * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour le Nouveau Testament, d'une traduction en latin des textes issus du texte reçu.
+* **La présences de livres apocryphes**, des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
+
+Tableau de comparaison :
+
+*Vous pouver faire défiler le tableau horizontalement.*
+{: .mobile-only}
 
 <div class="table-wrapper" markdown="block">
 
@@ -56,4 +85,27 @@ Il existe également 4 traductions apostates (volontairement tordues et niant ex
 * La Bible de Machaira
 * Le Bible de Jésus-Christ
 
-Lisez l'article complet dont est issue cette bève ici : [[Théologie] Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-25-verite-biblique-volonte-dieu %})
+Pour ma part, pour des raisons de fiabilité et de proximité au texte original, j'exclut :
+
+* Les traductions de l'Ancien Testament non basées sur le *Texte Massorétique*.
+* Les traductions du Nouveau Testament basées sur le *Texte Reçu* ou la *Vulgate*.
+
+Pour les mêmes raisons, je privilégie :
+
+* Les traductions de l'Ancien Testament basées sur le *Texte Massorétique* avec l'éclairage des *Manuscrits de Qumrân*.
+* Les traductions du Nouveau Testament basées sur le *Texte Minoritaire*.
+
+Enfin, du fait de ma foi et motivations, je privilégie :
+
+* Les traductions de confession *protestante* ou *évangélique*.
+* Les traductions sans trop d'archaïsmes.
+
+De plus, j'essaie de privilégier les traductions qui explicitent les idiomes des locuteurs originaux. Par exemple, on lit dans 1 Samuel 24:4 : "Saül y entra pour se couvrir les pieds", une traduction littérale du texte hébreux qu'on trouve par exemple dans la Segond 1910 ou la Darby. Mes les traductions *Nouvelle Bible Segond* ou *Segond 21* rendent "Saül y entra pour satisfaire un besoin naturel", qui correspond sans ambiguité au sens de cette expression à l'époque.
+
+De même, j'essaie de privilégier les traductions qui n'usent pas d'euphémismes induement. Par exemple, dans Genèse 31:35 on lit dans le texte original "j'ai la route des femmes", traduit dans la *Segond 21* par *je suis indisposée* mais ce que la *Nouvelle Bible Segond* explicite par "j'ai mes règles".
+
+En règle générale, je préfère les traductions de type *littérale*, plus adaptées pour une étude ou une lecture approfondie.
+
+J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le texte massorétique et les manuscrits de Qumrân pour l'Ancien Testament, basée sur le texte minoritaire pour le Nouveau Testament, explicite les idiomes, évite les euphémismes indus et est à correspondance formelle (respecte la structure originale du langage, comme la Segong 1910 ou la Darby).
+
+Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS traduira par le terme présent dans le texte original : "réveiller" mais qu'on comprend comme une résurrection par exemple à la lumière de Romains 8:11 ("qui a réveillé Jésus d'entre les morts").

@@ -8,7 +8,7 @@ tags: ["Théologie"]
 hidden: 1
 ---
 
-🚧 **Version de travail en cours de rédaction** 🚧
+{% include wip-warning.html %}
 
 Table des matières :
 
@@ -23,13 +23,13 @@ Or, si on affirme le *quoi* de la doctrine sans êtres certains de la validité 
 
 Ces questions sont intimement liées et je crois que nous ne pouvons, en toute honnêteté, ne professer aucune saine doctrine, ne défendre aucune éthique biblique ou ne nous conformer à aucun juste précepte moral sans y avoir bien répondu au préalable.
 
-Dans la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), ainsi que chez ceux qui en sont sortis sans se [libérer des fils de la toile]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-18-ksb-toile %}), les interprétations erronées et manipulatrices de la Bible sont habituelles et fortement encrées dans la manière de penser.
+Dans la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), ainsi que chez ceux qui en sont sortis sans se [libérer des fils de la toile]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-18-ksb-toile %}), les interprétations erronées et manipulatrices de la Bible sont habituelles et fortement ancrées dans la manière de penser.
 
-Il me parait donc pertinent de faire une patite étude sur le sujet, ettayée par des passages bibliques et des commentaires de divers pasteurs et théologiens. Je n'ai pas pour objectif d'être exhaustif, je vous conseille donc quelques ressources pour en savoir plus en fin d'article.
+Il me parait donc pertinent de faire une petite étude sur le sujet, ettayée par des passages bibliques et des commentaires de divers pasteurs et théologiens. **Je n'ai pas pour objectif d'être exhaustif, je vous conseille donc quelques ressources pour en savoir plus en fin d'article.**
 
 <!-- TODO -->
 <!--
-  * Comment savoir ce que dit la Bible ? (idée : mettre la rectification de 3 Co 3:6 avant ou au début de ça)
+  * Comment savoir ce que dit la Bible ? (idée : mettre la rectification de 3 Co 3:6 avant ou au début de ça ?)
   * Canon protestant, Texte reçu, versions bibliques (courrantes vs soutenu ; littérales vs dynamique...), manuscrits, difficultés d'interprétations (traductions et langues originales), etc...
   * Quelques exemples de passages au sens tordu ? (idées : https://www.desiringgod.org/labs)
   * Quelques exemples de poncifs, maximes, allégories... en réalité non bibliques.
@@ -72,53 +72,27 @@ Dans les Actes, au chapitre 8, on lit l'histoire de Philippe et de l'enuque éth
 
 Quoi qu'en soit la raison, l'eunuque éthiopien ne comprenait pas le texte biblique. Il avait besoin d'explications. Philippe va alors lui expliquer le passage d'Esaïe 53 en l'interprétant à la lumière de *la bonne nouvelle de Jésus*.
 
+On lit également :
+
+> C’est moi qui suis la vigne ; vous, vous êtes les sarments.
+>
+> — Jean 15:5
+
+Doit-on comprendre que Jésus est *littéralement* une vigne et que nous sommes *littéralement* des sarments ? Bien sûr que non. Et je crois que même les réticents à l'interprétation du texte biblique ne prennent pas cette phrase littéralement mais comme une image... Ils interprêtent.
+
 Ces exemples parmi d'autres montrent que la Bible a besoin d'être comprise, expliquée,  autrement dit *interprétée*.
 
-Pour tirer le sens d'un texte, plusieurs difficultés fondamentales se présentent[^minard_interpretation_1] :
+Cependant, pour retirer le sens d'un texte, plusieurs difficultés fondamentales se présentent[^minard_interpretation_1] :
 
 1. Certains passages ne peuvent se comprendre que dans leur contexte. Par exemple la phrase "j'en ai assez de ce cadre !" pourrait indiquer que je ne supporte plus un tableau accroché au mur, que je suis agacé par un cadre de vélo trop lourd, que je trouve mon suppérieur hiérarchique trop tyranique, que je me sens étouffé par des règles imposées, etc.
 2. Les textes originaux n'ont pas été écrit dans une langue que nous parlons couramment (pour la plupart).
 3. Les textes originaux ont été écrits dans des registres de langues styles et genres littéraires très différents.
 4. Les auteurs originaux appartenaient à des cultures antiques très différentes des notres et ont intégré leurs présupposés culturels dans les textes.
 
-Il faut aussi avoir conscience que la Bible a été écrite *pour* nous mais pas *à* nous, c'est-à-dire que nous ne sommes pas les destinataires directs des livres écrits par les auteurs originaux.
+Il faut aussi avoir conscience que la Bible a été écrite *pour* nous mais pas *à* nous, c'est-à-dire que nous ne sommes pas les destinataires directs des livres écrits par les auteurs originaux.[^tpsg_hermeneutique] [^predication_textuelle] [^creuser_ecriture]
 
 Ainsi se pose la question *comment faut-il interpréter la Bible ? Comment bien interpréter le texte biblique pour ne pas lui faire dire ce qu'il ne dit pas ?*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ### Pourquoi se former à l'interprétation de la Bible ?
-
-Pour être en mesure d'aborder les passages, parfois compliqués, de la Bible et d'en retirer le sens véritable.[^tpsg_pourquoi_interpreter]
-
-Lisons par exemple ce verset :
-
-> Si ta main ou ton pied doivent causer ta chute, coupe-les et jette-les loin de toi ; mieux vaut pour toi entrer dans la vie manchot ou infirme que d'avoir deux pieds ou deux mains et d'être jeté dans le feu éternel.
->
-> — Matthieu 18:8
-
-Doit-on le lire littéralement ? Doit-on envisager de se couper la main ? Ou est-ce à prendre comme une image spirituelle ?
-
-Et si nous avons un avis sur la question, sur quoi est-il basé ? Nos impressions de ce qui "nous semble juste" ? Ou sur ce que dit réellement la Bible ? -->
 
 ### Comment interpréter la Bible ?
 
@@ -162,6 +136,9 @@ Je récapitule dans le tabluea ci-après les différences entre les principales 
 * **La présences de livres apocryphes**, des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
 
 Tableau de comparaison :
+
+*Vous pouver faire défiler le tableau horizontalement.*
+{: .mobile-only}
 
 <div class="table-wrapper" markdown="block">
 
@@ -436,3 +413,4 @@ Lien avec 1 Corinthiens 2:10 ??
 [^daf_interpreter]: Académie Française. (2005). Interpréter. Dans Dictionnaire de l'Académie Française (9e éd.). <https://www.cnrtl.fr/definition/academie9/interpréter>
 
 [^minard_interpretation_1]: Minard, T. (2019, 15 juin). *Qu'est-ce que l'interprétation ?* Bible & Co. <http://timotheeminard.com/interpreter-bible-comment-1ere-partie-2/>
+
