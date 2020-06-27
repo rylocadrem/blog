@@ -44,9 +44,9 @@ La Miviludes (Mission interministérielle de vigilance et de lutte contre les d�
 
 > Dévoiement de la liberté de pensée, d'opinion ou de religion qui porte atteinte à l'ordre public, aux lois ou aux règlements, aux droits fondamentaux, à la sécurité ou à l'intégrité des personnes. Elle se caractérise par la mise en œuvre, par un groupe organisé ou par un individu isolé, quelle que soit sa nature ou son activité, de pressions ou de techniques ayant pour but de créer, de maintenir ou d'exploiter chez une personne un état de sujétion psychologique ou physique, la privant d'une partie de son libre arbitre, avec des conséquences dommageables pour cette personne, son entourage ou pour la société.[^definition_miviludes]
 
-Enfin, le GEMPPI (Groupe d’Étude des Mouvements de Pensée en Vue de la Protection de l’Individu) fait la distinction suivante :
+Enfin, le GEMPPI (Groupe d'Étude des Mouvements de Pensée en Vue de la Protection de l'Individu) fait la distinction suivante :
 
-> Agissements, pratiques et enseignements utilisés dans des mouvements ou groupes à prétentions religieuses, philosophiques ou thérapeutiques holistiques nuisant ou étant dommageables aux individus et à la société en usant notamment de divers procédés déloyaux ou illégaux. Il s’agit de sectes lorsque ces faits sont constants, répétés, ou structurels. Lorsque ces faits sont occasionnels ou isolés dans un mouvement religieux ou spirituel, il s’agit plutôt de dérives sectaires.[^definition_gemppi]
+> Agissements, pratiques et enseignements utilisés dans des mouvements ou groupes à prétentions religieuses, philosophiques ou thérapeutiques holistiques nuisant ou étant dommageables aux individus et à la société en usant notamment de divers procédés déloyaux ou illégaux. Il s'agit de sectes lorsque ces faits sont constants, répétés, ou structurels. Lorsque ces faits sont occasionnels ou isolés dans un mouvement religieux ou spirituel, il s'agit plutôt de dérives sectaires.[^definition_gemppi]
 
 On retiendra de ces définitions une certaine nocivité pour les individus et des processus de manipulation et d'emprise mentale.
 
@@ -155,15 +155,15 @@ En France, la Miviludes a dressé en 2017 la liste des cas de dérive sectaire s
 * Scientologie : 4,5%
 * Catholiques : 4%
 
-Tous les secteurs d’activité humaine sont potentiellement vulnérables aux sectes. Mais certains sont plus vulnérables que d'autres : les sectes y ont une emprise plus facile et on les trouve en bien plus grand nombre. Le CCMM (Centre Contre les Manipulations Mentales) donne une analyse des domaines poreux ou historiquement favorables aux emprises sectaires[^champs_entrisme] :
+Tous les secteurs d'activité humaine sont potentiellement vulnérables aux sectes. Mais certains sont plus vulnérables que d'autres : les sectes y ont une emprise plus facile et on les trouve en bien plus grand nombre. Le CCMM (Centre Contre les Manipulations Mentales) donne une analyse des domaines poreux ou historiquement favorables aux emprises sectaires[^champs_entrisme] :
 
 * **L'éducation** : historiquement vulnérable dans les champs de l'enseignement libre ou périscolaire, des cours particuliers, du soutien scolaire et des voyages linguistiques. Réduit depuis 2009 par un réseau ministériel de vigilance.
-* **La formation en entreprise** : les sectes sont de plus en plus actives dans ce domaine qui est un moyen efficace d'atteindre de potentiels nouveaux adeptes. Elles sont particulièrement présentes dans les formations concernant la gestion du stress, la résolution des conflits interpersonnels, le renforcement de la confiance en soi, l’accroissement de la capacité d'autoaccomplissement...
+* **La formation en entreprise** : les sectes sont de plus en plus actives dans ce domaine qui est un moyen efficace d'atteindre de potentiels nouveaux adeptes. Elles sont particulièrement présentes dans les formations concernant la gestion du stress, la résolution des conflits interpersonnels, le renforcement de la confiance en soi, l'accroissement de la capacité d'autoaccomplissement...
 * **La formation privée** : les sectes sont depuis longtemps présentes dans ce domaine, notamment dans les formations, séminaires ou stages concernant le développement personnel, le bienêtre et la santé.
 * **Des sites faussement respectables** : un nombre non négligeable de sites internet se présentant sous un aspect respectable (institut de recherche, plateforme universitaire, journal d'information...) sont en fait des moyens de propagande sectaires ou une vitrine pour des sectes.
 * **ONG humanitaires** : certaines sectes prennent la forme d'une ONG humanitaire ou possèdent une composante humanitaire (sous la forme ou non d'une ONG) et utilisent la fragilité induite par les guerres ou les désastres sanitaires pour créer un lien de dépendance et faire de nouveaux adeptes.
-* **Santé et bienêtre** : le domaine de la santé est particulièrement vulnérable aux dérives sectaires, qui peuvent entrainer la privation de soins ou l’utilisation de thérapeutiques non conventionnelles qui reposent sur des théories fantaisistes. La plupart des mouvements de santé à caractère sectaire promeuvent des théories sur la santé et revendiquent des pratiques thérapeutiques en opposition avec la médecine classique.
-* **Associations sportives** : les mouvements à caractère sectaire,notamment de la mouvance *new age*, utilisent souvent les clubs de gymnastique ou d’arts martiaux pour faire du prosélytisme, parfois par le biais de coach sportifs ou de sportifs de haut niveau acquis à leur cause.
+* **Santé et bienêtre** : le domaine de la santé est particulièrement vulnérable aux dérives sectaires, qui peuvent entrainer la privation de soins ou l'utilisation de thérapeutiques non conventionnelles qui reposent sur des théories fantaisistes. La plupart des mouvements de santé à caractère sectaire promeuvent des théories sur la santé et revendiquent des pratiques thérapeutiques en opposition avec la médecine classique.
+* **Associations sportives** : les mouvements à caractère sectaire,notamment de la mouvance *new age*, utilisent souvent les clubs de gymnastique ou d'arts martiaux pour faire du prosélytisme, parfois par le biais de coach sportifs ou de sportifs de haut niveau acquis à leur cause.
 * **Milieux complotistes** : les milieux complotistes, particulièrement ceux qui croient en *l'existence d'une société secrète ancienne de personnes influentes ou un groupe de décideurs puissants répartis dans le monde qui exerceraient un pouvoir absolu particulièrement dans les domaines religieux économique et politique* sont vulnérables aux emprises des sectes qui leur promettent de découvrir la "vérité".
 * **Religions** : la plupart des sectes ont un encrage religieux, pseudo-religieux, ou psycho-spirituel, terrains particulièrement favorables à l'abus de faiblesse et à la manipulation mentale. La plupart des sectes religieuses sont issues des religions chrétiennes, notamment la mouvance évangélique, ou s'y apparentent.
 
@@ -243,35 +243,35 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
 
 * **Contrôle du comportement**
   * Contrôle de la réalité physique environnant l'individu (lieu de vie, nourriture, sommeil, finances, loisirs...)
-  * Partie importante du temps consacrée aux rites du groupe et aux activités d’endoctrinement
+  * Partie importante du temps consacrée aux rites du groupe et aux activités d'endoctrinement
   * Nécessité de demander la permission pour toute décision majeure
   * Obligation de rendre compte des pensées, sentiments et activités à ses supérieurs
   * Les comportements peuvent donner lieu à des récompenses ou à des punitions
-  * L’individualisme est découragé. La pensée de groupe et l’intérêt du groupe prévalent
+  * L'individualisme est découragé. La pensée de groupe et l'intérêt du groupe prévalent
   * Règlement rigide
-  * Obéissance aux ordres et soumission à l’autorité hiérarchique
+  * Obéissance aux ordres et soumission à l'autorité hiérarchique
 
-* **Contrôle de l’information**
+* **Contrôle de l'information**
   * Désinformation (rétention d'information, déformation d'information ou mensonge)
-  * Accès découragé ou réduit aux sources extérieures d’information (médias, informations critiques, anciens membres)
+  * Accès découragé ou réduit aux sources extérieures d'information (médias, informations critiques, anciens membres)
   * Occupation constante des adeptes pour empêcher la réflexion critique
-  * Compartimentation de l’information
-  * Doctrine de l’intérieur (la vérité), contre celle du monde extérieur (celle du monde)
-  * L’information délivrée aux membres diffère selon leur place hiérarchique et leur fonction au sein du groupe, la direction décide de qui a besoin de savoir quoi
+  * Compartimentation de l'information
+  * Doctrine de l'intérieur (la vérité), contre celle du monde extérieur (celle du monde)
+  * L'information délivrée aux membres diffère selon leur place hiérarchique et leur fonction au sein du groupe, la direction décide de qui a besoin de savoir quoi
   * Les membres sont encouragés à rapporter à leurs supérieurs les commentaires ou les actes déviants observés chez les autres
   * Utilisation intensive de la propagande et des informations générées par le groupe (revues internes, messages audios et vidéo...)
   * Citations biaisées, déclarations extérieures sorties de leur contexte et réinterprétées à la convenance du groupe
-  * Confession utilisée comme un moyen de pression sur les membres du groupe, en abolissant les frontières de l’identité personnelle (réduction de la part d’ intimité de l’individu) et en le manipulant par la culpabilité
+  * Confession utilisée comme un moyen de pression sur les membres du groupe, en abolissant les frontières de l'identité personnelle (réduction de la part d' intimité de l'individu) et en le manipulant par la culpabilité
 
 * **Contrôle de la faculté de réflexion**
-  * Obligation d’intérioriser la doctrine du groupe comme étant la vérité absolue, dont on ne doit jamais dévier, et que l’on ne doit jamais remettre en question. Cette vérité est souvent présentée dans le cadre d’un combat d'une minorité détenant la vérité contre un monde mauvais, conduisant à l’enfermement paranoïaque.
-  * Tout ce qui est bien est incarné par le chef et le groupe, tout ce qui est mauvais est à l’extérieur
-  * Adoption d'un langage propre au groupe (l’utilisation de mots nouveaux ou le fait de changer la signification de certains termes permet de contrôler les pensées en opérant une rupture avec les références antérieures et en enfermant l’individu dans un monde stéréotypé, réduisant de fait sa capacité de réflexion en la limitant aux notions autorisées par le groupe)
-  * Seules les pensées positives dans l’optique du groupe sont encouragées
-  * Techniques d’arrêt de la pensée (chants, psalmodies, méditation...)
-  * Rejet de l’analyse rationnelle, de la pensée critique
+  * Obligation d'intérioriser la doctrine du groupe comme étant la vérité absolue, dont on ne doit jamais dévier, et que l'on ne doit jamais remettre en question. Cette vérité est souvent présentée dans le cadre d'un combat d'une minorité détenant la vérité contre un monde mauvais, conduisant à l'enfermement paranoïaque.
+  * Tout ce qui est bien est incarné par le chef et le groupe, tout ce qui est mauvais est à l'extérieur
+  * Adoption d'un langage propre au groupe (l'utilisation de mots nouveaux ou le fait de changer la signification de certains termes permet de contrôler les pensées en opérant une rupture avec les références antérieures et en enfermant l'individu dans un monde stéréotypé, réduisant de fait sa capacité de réflexion en la limitant aux notions autorisées par le groupe)
+  * Seules les pensées positives dans l'optique du groupe sont encouragées
+  * Techniques d'arrêt de la pensée (chants, psalmodies, méditation...)
+  * Rejet de l'analyse rationnelle, de la pensée critique
   * Les membres sont exercés à ne croire aucune critique concernant le groupe, la doctrine ou le leader
-  * Rejet de toute pensée qui ne correspond pas à la doctrine, aucune autre forme de pensée n’est envisagée comme légitime ou bonne
+  * Rejet de toute pensée qui ne correspond pas à la doctrine, aucune autre forme de pensée n'est envisagée comme légitime ou bonne
 
 * **Contrôle des émotions**
   * Manipulation par la réduction du champ des émotions en privilégiant des émotions très intenses et moins variées (joie, peur, enthousiasme, dégout...)
@@ -284,11 +284,11 @@ Pour contrôler l'adepte, la secte doit contrôler sa pensée. ce contrôle est 
 
 On peut résumer la théorie de l'engagement ainsi :
 
-* on est d’autant plus engagé que la décision a été libre
-* on est d’autant plus engagé que la décision a été publique
-* on est d’autant plus engagé que la décision a été répétée
-* on est d’autant plus engagé que la répétition a été couteuse
-* on est d’autant plus engagé que l’on ne semble pas pouvoir revenir sur sa décision
+* on est d'autant plus engagé que la décision a été libre
+* on est d'autant plus engagé que la décision a été publique
+* on est d'autant plus engagé que la décision a été répétée
+* on est d'autant plus engagé que la répétition a été couteuse
+* on est d'autant plus engagé que l'on ne semble pas pouvoir revenir sur sa décision
 
 ## En sortir
 
@@ -320,7 +320,7 @@ Lorsqu'elles ont quitté le groupe :
 Les psychologues ont identifié 20 composantes de détresse psychologique fréquemment présentes (> 50% des cas) chez les personnes adultes étant sorties d'une secte, plusieurs mois après leur sortie[^components] :
 
 * **Difficultés émotionnelles**
-  * **Anxiété et peur** : détresse émotionnelle associée à l’hypervigilance et à la peur face aux difficultés et/ou aux menaces et aux dangers associés au départ du groupe et à sa doctrine.
+  * **Anxiété et peur** : détresse émotionnelle associée à l'hypervigilance et à la peur face aux difficultés et/ou aux menaces et aux dangers associés au départ du groupe et à sa doctrine.
   * **Deuil et perte** : détresse émotionnelle associée à des expériences de perte et de séparation d'avec les gens (famille, amis...) ou d'autres éléments importants laissés derrière lors de la sortie du groupe.
   * **Honte et culpabilité** : détresse émotionnelle ressentie lorsque l'on prend conscience d'appartenir à un groupe abusif.
   * **Tristesse et désespoir** : détresse émotionnelle associée à des sentiments de découragement, de dévalorisation, de vide ou de désespoir, pouvant conduire à des pensées suicidaires.
@@ -359,9 +359,9 @@ En cas d'infraction pénale constatée, on peut déposer plainte au commissariat
 
 Il est également possible de contacter des associations spécialisées dans l'aide aux victimes de sectes :
 
-* [L'Union nationale des Associations de Défense des Familles et de l’Individu victimes de sectes (UNADFI)](https://www.unadfi.org/)
+* [L'Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes (UNADFI)](https://www.unadfi.org/)
 * [Le Centre Contre les Manipulations Mentales (CCMM)](https://www.ccmm.asso.fr/)
-* [Le Groupe d’Etude des Mouvements de Pensée en vue de la Protection de l’Individu (GEMPPI)](https://www.gemppi.org/)
+* [Le Groupe d'Etude des Mouvements de Pensée en vue de la Protection de l'Individu (GEMPPI)](https://www.gemppi.org/)
 
 ## Références
 
@@ -385,7 +385,7 @@ Il est également possible de contacter des associations spécialisées dans l'a
 
 [^definition_miviludes]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (s. d.-b). *Qu'est-ce qu'une dérive sectaire ? \| Miviludes*. Consulté le 1 juin 2020, à l'adresse <https://www.derives-sectes.gouv.fr/quest-ce-quune-d%C3%A9rive-sectaire>
 
-[^definition_gemppi]: Groupe d’Etude des Mouvements de Pensée en Vue de la Protection de l’Individu. (2018, novembre 30). *Définition de secte*. Consulté le 2 juin 2020, à l’adresse <https://www.gemppi.org/l-association/definitions-de-secte/>
+[^definition_gemppi]: Groupe d'Etude des Mouvements de Pensée en Vue de la Protection de l'Individu. (2018, novembre 30). *Définition de secte*. Consulté le 2 juin 2020, à l'adresse <https://www.gemppi.org/l-association/definitions-de-secte/>
 
 [^sujetion_bcm_cults]: Cult Information Centre, & Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes. (2018, juillet 17). *Techniques de mise sous influence*. Consulté le 1 juin 2020, à l'adresse <https://www.unadfi.org/cles-pour-comprendre/atteintes-a-la-personne/emprise-mentale-et-vulnerabilite/techniques-de-mise-sous-influence/>
 
@@ -393,16 +393,16 @@ Il est également possible de contacter des associations spécialisées dans l'a
 
 [^components]: Saldaña Tops, O., Antelo, E., Rodríguez-Carballeira, Á., & Almendros Rodríguez, C. (2018). *Taxonomy of Psychological and Social Disturbances in Survivors of Group Psychological Abuse*. Journal of Aggression, Maltreatment & Trauma, 27(9), 1003‑1021. <https://doi.org/10.1080/10926771.2017.1405315>
 
-[^jw_study]: Testoni, I., Bingaman, K., Gengarelli, G., Capriati, M., De Vincenzo, C., Toniolo, A., Marchica, B., & Zamperini, A. (2019). *Self-Appropriation between Social Mourning and Individuation : A Qualitative Study on Psychosocial Transition among Jehovah’s Witnesses*. Pastoral Psychology, 68(6), 687‑703. <https://doi.org/10.1007/s11089-019-00871-8>
+[^jw_study]: Testoni, I., Bingaman, K., Gengarelli, G., Capriati, M., De Vincenzo, C., Toniolo, A., Marchica, B., & Zamperini, A. (2019). *Self-Appropriation between Social Mourning and Individuation : A Qualitative Study on Psychosocial Transition among Jehovah's Witnesses*. Pastoral Psychology, 68(6), 687‑703. <https://doi.org/10.1007/s11089-019-00871-8>
 
-[^miviludes_2017]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (2017). *Miviludes - Rapport d’activité 2016 et premier semestre 2017 - Études*. Consulté à l’adresse <https://www.derives-sectes.gouv.fr/sites/default/files/publications/francais/rapport_miviludes_2017_web_v2_0.pdf>
+[^miviludes_2017]: Mission interministérielle de vigilance et de lutte contre les dérives sectaires. (2017). *Miviludes - Rapport d'activité 2016 et premier semestre 2017 - Études*. Consulté à l'adresse <https://www.derives-sectes.gouv.fr/sites/default/files/publications/francais/rapport_miviludes_2017_web_v2_0.pdf>
 
-[^champs_entrisme]: Centre Contre les Manipulations Mentales. (2018, mars 13). *Champs d’entrisme*. Consulté le 2 juin 2020, à l’adresse <https://www.ccmm.asso.fr/champs-dentrisme/>
+[^champs_entrisme]: Centre Contre les Manipulations Mentales. (2018, mars 13). *Champs d'entrisme*. Consulté le 2 juin 2020, à l'adresse <https://www.ccmm.asso.fr/champs-dentrisme/>
 
 [^emprise_maes]: Maes, J.-C. (2010). *Emprise et manipulation : Peut-on guérir des sectes?* De Boeck
 
 [^emprise_unadfi_1]: UNADFI. (2008). *Mise en état de sujétion (1ère partie) Généralités*. BulleS, 97.
 
-[^idealisation_duretete]: Duretete, O., Bronnec, M., & Venisse, J.-L. (2008). *Idéalisation et dépendance sectaire, reconstruction et lutte contre des processus passés d’aliénation*. Le Divan familial, 21(2), 171‑184. <https://doi.org/10.3917/difa.021.0169>
+[^idealisation_duretete]: Duretete, O., Bronnec, M., & Venisse, J.-L. (2008). *Idéalisation et dépendance sectaire, reconstruction et lutte contre des processus passés d'aliénation*. Le Divan familial, 21(2), 171‑184. <https://doi.org/10.3917/difa.021.0169>
 
-[^sectaire_garand]: Garand, M.-È. (2013). *Sectaire et « inter-dit ». Introduction de la dimension du croire dans l’écoute du dire des personnes ayant vécu une expérience sectaire*. Faculté de Théologie et de Sciences des Religions. Université de Montréal, Montréal.
+[^sectaire_garand]: Garand, M.-È. (2013). *Sectaire et « inter-dit ». Introduction de la dimension du croire dans l'écoute du dire des personnes ayant vécu une expérience sectaire*. Faculté de Théologie et de Sciences des Religions. Université de Montréal, Montréal.

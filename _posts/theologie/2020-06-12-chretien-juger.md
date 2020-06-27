@@ -116,7 +116,7 @@ Il faut aussi garder à l'esprit que le découpage en chapitres et versets n'exi
 
 #### 4. Compréhension
 
-Après avoir appliqué les trois premières étapes, on peut extraires les enseignements du texte, les reformuler et en tirer des applications.
+Après avoir appliqué les trois premières étapes, on peut extraire les enseignements du texte, les reformuler et en tirer des applications.
 
 #### 5. Cohérence
 
@@ -348,7 +348,6 @@ En résumé, notons qu'on peut distinguer 5 facettes différentes de l'amour de 
 4. **L'amour particulier de Dieu pour ses seuls élus** : Dieu met son affection sur ses élus comme il ne la met pas sur les autres. L'élément distinctif n'a rien à voir avec un mérite quelconque ; il n'est rien d'autre que l'amour de Dieu. Cette facette de l'amour de Dieu diffère des trois précédentes.
 5. **L'amour conditionnel de Dieu pour ceux qui lui obéissent** : cette facette de l'amour divin a trait à notre relation avec Dieu une fois que nous le connaissons. Jésus commande d'ailleurs à ses disciples de demeurer dans son amour (Jean 15:9-10).
 
-
 On peut alors en extraire 3 observations[^carson_love_god] :
 
 1. **Ne pas absolutiser une de ces facettes** : une facette ne doit pas être absolutisée et considérée comme la seule valable, ou bien relativiser les autres facettes.
@@ -403,19 +402,19 @@ Le pardon est donc avant tout une remise de dette, un refus de la vengeance. Le 
 
 Le pardon n'est pas non plus une sorte d'amnistie, qui exempterait le coupable de comparaitre devant la justice.
 
-> Celui qui absout le coupable et celui qui condamne le juste sont tous deux en abomination à l’Éternel.
+> Celui qui absout le coupable et celui qui condamne le juste sont tous deux en abomination à l'Éternel.
 >
 > — Proverbes 17:15 (Segond 1910)
 
 Il s'agit de ne pas nous venger, de ne pas faire justice nous-mêmes :
 
-> Ne vous faites pas justice vous-mêmes, bien-aimés, mais laissez place à la colère, car il est écrit : C’est moi qui fais justice ! C’est moi qui paierai de retour, dit le Seigneur.
+> Ne vous faites pas justice vous-mêmes, bien-aimés, mais laissez place à la colère, car il est écrit : C'est moi qui fais justice ! C'est moi qui paierai de retour, dit le Seigneur.
 >
 > — Romains 12:19 (NBS)
 
 Or, sur Terre, l'exercice de la justice passe par les systèmes judiciaires en place :
 
-> Le magistrat est serviteur de Dieu pour ton bien. Mais si tu fais le mal, crains; car ce n’est pas en vain qu’il porte l’épée, étant serviteur de Dieu pour exercer la vengeance et punir celui qui fait le mal.
+> Le magistrat est serviteur de Dieu pour ton bien. Mais si tu fais le mal, crains; car ce n'est pas en vain qu'il porte l'épée, étant serviteur de Dieu pour exercer la vengeance et punir celui qui fait le mal.
 >
 > — Romains 13:4
 
@@ -425,7 +424,7 @@ Comme le dit le pasteur Sam Storms[^storms_forgiveness] :
 
 > Le pardon ne signifie pas que vous devez ignorer qu'un tort a été fait ou que vous niez qu'un péché a été commis. Le pardon ne signifie pas que vous fermez les yeux sur l'atrocité morale et prétendez que cela n'a pas fait de mal. Il ne signifie pas que cela n'a pas vraiment d'importance si la personne fautive doit ou non rendre des comptes. On ne vous demande pas non plus de diminuer la gravité de l'infraction ou de dire aux autres: "Oh, n'y pensez pas; ce n'était vraiment pas si grave après tout." Le pardon signifie simplement que vous décidez dans votre coeur de laisser Dieu être le vengeur.
 >
-> Nous ne devons jamais accepter le mensonge selon lequel pardonner signifie que le péché est ignoré ou que l’auteur n’est pas tenu responsable de ses actes.
+> Nous ne devons jamais accepter le mensonge selon lequel pardonner signifie que le péché est ignoré ou que l'auteur n'est pas tenu responsable de ses actes.
 >
 > Le pardon ne signifie pas que vous devez permettre à l'offenseur de vous blesser à nouveau. Vous devez fixer des limites à votre relation avec lui : vous seul établissez des règles régissant comment et dans quelle mesure vous interagirez avec cette personne à l'avenir. Et cela ne signifie pas que vous n'avez pas réussi à le pardonner sincèrement et véritablement.
 >
@@ -437,13 +436,13 @@ Il y a encore beaucoup de réflexions à conduire au sujet du pardon et cela fer
 
 Je vais brièvement aborder ce dernier point. Jésus ne nous dit-il pas de "tendre l'autre joue" ? Ne devrions-nous pas rester passifs face à l'agression et l'offense ?
 
-> Vous avez entendu qu’il a été dit : Œil pour œil, et dent pour dent. Mais moi, je vous dis de ne pas vous opposer au mauvais. Si quelqu’un te frappe sur la joue droite, tends-lui aussi l’autre.
+> Vous avez entendu qu'il a été dit : Œil pour œil, et dent pour dent. Mais moi, je vous dis de ne pas vous opposer au mauvais. Si quelqu'un te frappe sur la joue droite, tends-lui aussi l'autre.
 >
 > — Matthieu 5:38-39 (NBS)
 
 Une exégèse complète de ce passage serait intéressante, mais je serai bref.
 
-Dans la culture juive de l’époque, la gifle sur la joue droite est un geste symbolique de mépris. En effet, frapper sur la joue droite, obligatoirement avec la main droite (la gauche étant impure), oblige à gifler avec le dos de la main : c’est une offense, de quelqu’un qui s’estime supérieur envers un autre, considéré inférieur, qu’il méprise.[^evangile21_joue] [^wink_domination]
+Dans la culture juive de l'époque, la gifle sur la joue droite est un geste symbolique de mépris. En effet, frapper sur la joue droite, obligatoirement avec la main droite (la gauche étant impure), oblige à gifler avec le dos de la main : c'est une offense, de quelqu'un qui s'estime supérieur envers un autre, considéré inférieur, qu'il méprise.[^evangile21_joue] [^wink_domination]
 
 Dans ce contexte, *tendre l'autre joue* place l'offenseur devant un dilemme : puisqu'il ne peut frapper de la main gauche (au risque de se condamner lui-même, puisqu'elle est impure), il doit soit cesser son agression, soit frapper avec la paume de la main. Or ce geste symbolise la reconnaissance de l'autre comme son égal.[^evangile21_joue] [^wink_domination]
 
@@ -451,17 +450,17 @@ Il ne s'agit donc pas pour la victime de rester passive mais de contraindre son 
 
 On peut interpréter les versets suivants de la même manière :
 
-> Si quelqu’un veut te faire un procès pour te prendre ta tunique, laisse-lui aussi ton manteau.
+> Si quelqu'un veut te faire un procès pour te prendre ta tunique, laisse-lui aussi ton manteau.
 >
 > — Matthieu 5:40 (NBS)
 
 Dans l'Israel du premier siècle, il était courant en cas de retard de paiement qu'un créancier saisissent la tunique de son débiteur jusqu'au paiment de la dette. Or la loi de Moïse oblige le créancier à rendre l'habit avant la nuit (Exode 22:25-26 ; Deutéronome 24:13). En outre, le manteau était le seul bien qui n'était pas autorisé à être saisi.[^evangile21_joue] [^wink_domination] Ainsi, Jésus encourage une résistance en provocant un "scandale" plutôt qu'en résistant violement.
 
-> Si quelqu’un te réquisitionne pour faire un mille, fais-en deux avec lui.
+> Si quelqu'un te réquisitionne pour faire un mille, fais-en deux avec lui.
 >
 > — Matthieu 5:41 (NBS)
 
-À l’époque de Jésus, un romain avait le droit d’exiger d’un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soit environ 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser un action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
+À l'époque de Jésus, un romain avait le droit d'exiger d'un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soit environ 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser un action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
 
 ## Conclusion
 
@@ -515,9 +514,9 @@ Les versets cités hors contexte peuvent être utilisés pour leur faire dire ce
 
 [^ct_abuse]: Cocksworth, C. (2017, 15 septembre). *Forgiveness after abuse ?* Consulté 12 juin 2020, à l'adresse <https://www.churchtimes.co.uk/articles/2017/15-september/comment/opinion/forgiveness-after-abuse>
 
-[^storms_forgiveness]: Storms, S. (s. d.). *Forgiveness : What it is, what it is not*. Consulté 12 juin 2020, à l’adresse <https://www.samstorms.org/all-articles/post/forgiveness:-what-it-is--what-it-is-not/>
+[^storms_forgiveness]: Storms, S. (s. d.). *Forgiveness : What it is, what it is not*. Consulté 12 juin 2020, à l'adresse <https://www.samstorms.org/all-articles/post/forgiveness:-what-it-is--what-it-is-not/>
 
-[^evangile21_joue]: Kennel, D. (2019, 26 novembre). *Tendre l’autre joue ?* Consulté 12 juin 2020, à l’adresse <https://evangile21.thegospelcoalition.org/article/tendre-lautre-joue/>
+[^evangile21_joue]: Kennel, D. (2019, 26 novembre). *Tendre l'autre joue ?* Consulté 12 juin 2020, à l'adresse <https://evangile21.thegospelcoalition.org/article/tendre-lautre-joue/>
 
 [^wink_domination]: Wink, W. (1992). *Engaging the Powers : Discernment and Resistance in a World of Domination*. Amsterdam, Pays-Bas : Amsterdam University Press.
 

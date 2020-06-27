@@ -5,6 +5,7 @@ excerpt: Une introduction à la rationalité, aux principes fondamentaux de la p
 date:   2020-06-03 8:30:00 +0200
 categories: rationalite
 tags: ["Rationalité"]
+hidden: 1
 ---
 
 {% include wip-warning.html %}
@@ -45,4 +46,4 @@ La rationalité instrumentale est l'accomplissement systématique de ses objecti
 
 ## Références
 
-[^rationality_less_wrong]: Yudkowsky, E. (2009, mars 16). *What Do We Mean By "Rationality"? - LessWrong 2.0*. Consulté le 3 juin 2020, à l’adresse <https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv>
+[^rationality_less_wrong]: Yudkowsky, E. (2009, mars 16). *What Do We Mean By "Rationality"? - LessWrong 2.0*. Consulté le 3 juin 2020, à l'adresse <https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv>

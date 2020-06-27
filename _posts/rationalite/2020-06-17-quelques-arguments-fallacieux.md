@@ -581,7 +581,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 > Au lieu de cela, leur tentative de redéfinir la réalité reçoit une écoute polie, on cède à leur folie. Leur proposition représente une subversion grotesque d'un droit de l'homme universellement accepté.
 
-[Argument de l’homme de paille](#argument-de-lhomme-de-paille) : "tentative de redéfinir la réalité".
+[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : "tentative de redéfinir la réalité".
 
 [Argument ad personam](#argument-ad-personam) : "leur folie", "grotesque".
 
@@ -623,7 +623,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 [Appel à la pitié](#appel-à-la-pitié) : "tous les enfants méritent de commencer leur vie avec une mère et un père".
 
-[Confusion corrélation/causalité](#confusion-corrélationcausalité) et [négation de l’antécédent](#négation-de-lantécédent) : l'éducation dans un couple marié hétérosexuel est bien corrélée au bien-être des enfants mais il n'y a pas de causalité et la réciproque (bien être implique parents hétérosexuels) n'est pas vraie (voir point suivant).
+[Confusion corrélation/causalité](#confusion-corrélationcausalité) et [négation de l'antécédent](#négation-de-lantécédent) : l'éducation dans un couple marié hétérosexuel est bien corrélée au bien-être des enfants mais il n'y a pas de causalité et la réciproque (bien être implique parents hétérosexuels) n'est pas vraie (voir point suivant).
 
 [Mensonge](#mensonge) : l'affirmation selon laquelle les couples homosexuels ne peuvent apporter la même stabilité et le même bien-être aux enfants que les couples hétérosexuels n'est pas supportée par les faits.[^meezan] [^allen] [^prickett] [^bos] [^crowl] [^rivers] [^fedewa]
 
@@ -633,7 +633,7 @@ Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en eff
 
 > D'autres dangers existent. Si le mariage peut être redéfini pour ne plus signifier homme et femme mais deux hommes ou deux femmes, pourquoi s'arrêter là ? Pourquoi ne pas permettre à trois hommes ou à une femme et à deux hommes de se marier s'ils s'engagent mutuellement ? Si le mariage concerne simplement des adultes qui s'aiment, sur quelle base peut-on empêcher trois adultes qui s'aiment de se marier ?
 
-[Argument de l’homme de paille](#argument-de-lhomme-de-paille) : réduire la légalisation du mariage homosexuel à une "redéfinition" du mariage.
+[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : réduire la légalisation du mariage homosexuel à une "redéfinition" du mariage.
 
 [Pente glissante](#pente-glissante) : tout le paragraphe. Cet argument est invalide car il peut d'une part fonctionner dans les deux sens (on pourrait par exemple dire qu'interdire le mariage homosexuel conduira ensuite à interdire le mariage interracial, ou le mariage de personnes infertiles) ou sur d'autres sujets (par exemple dire qu'instaurer une démocratie conduira à l'anarchie). D'autre part, affirmer que la motivation est une abolition des règles, et donc que cela conduira aux conséquences décrites, est une simplification erronée.
 
@@ -661,7 +661,7 @@ Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, da
 
 [Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique.
 
-[Équivocation](#équivocation) : le terme *famille* présent dans la Déclaration universelle des droits de l'homme désigne *un ensemble des personnes qui sont liées par le sang, par les alliances ou par l’adoption*. Le *droit qui s'applique aux hommes et aux femmes* signifie que les hommes et les femmes ont des droits égaux au mariage et non que le mariage est l'union d'un homme et d'une femme.
+[Équivocation](#équivocation) : le terme *famille* présent dans la Déclaration universelle des droits de l'homme désigne *un ensemble des personnes qui sont liées par le sang, par les alliances ou par l'adoption*. Le *droit qui s'applique aux hommes et aux femmes* signifie que les hommes et les femmes ont des droits égaux au mariage et non que le mariage est l'union d'un homme et d'une femme.
 
 > Cette vérité universelle est si évidente qu'elle ne devrait pas avoir besoin d'être répétée.
 
@@ -673,7 +673,7 @@ Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, da
 
 [Appel à la peur](#appel-à-la-peur) : "démolir un droit de l'homme", "intolérance", "fera honte au Royaume-Uni aux yeux du monde".
 
-[Argument de l’homme de paille](#argument-de-lhomme-de-paille) : réduire la situation à un démolissement d'un droit de l'homme.
+[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : réduire la situation à un démolissement d'un droit de l'homme.
 
 **Ma réflexion** : au lieu de recourir à une argumentation maladroite, erronée et malhonnête, en tant que Chrétien ne serait-il pas suffisant de dire "je suis opposé au mariage homosexuel car la Bible définit le mariage comme l'union d'un homme et d'une femme et que je considère la Bible comme faisant autorité en matière d'éthique et de morale" ?
 
@@ -685,7 +685,7 @@ Dans cet exemple, je prends quelques phrases inventées et en indique les argume
 
 [Preuves anecdotiques](#preuves-anecdotiques), [cherry-picking](#cherry-picking), [généralisation abusive](#généralisation-abusive) et [post hoc ergo propter hoc](#post-hoc-ergo-propter-hoc).
 
-> La marijuana est parfaitement saine pour la santé : personne n’a démontré
+> La marijuana est parfaitement saine pour la santé : personne n'a démontré
 sa nocivité.
 
 [Renverser la charge de la preuve](#renverser-la-charge-de-la-preuve).
@@ -762,9 +762,9 @@ et des pauvres dans la société puisque ce phénomène a toujours existé.
 
 [^bullough]: Bullough, V. L. (1976). *Sexual variance in society and history*. Wiley.
 
-[^dudh]: Organisation des Nations Unies. (1948, 10 décembre). *La Déclaration universelle des droits de l’homme*. Consulté 17 juin 2020, à l’adresse <https://www.un.org/fr/universal-declaration-human-rights>
+[^dudh]: Organisation des Nations Unies. (1948, 10 décembre). *La Déclaration universelle des droits de l'homme*. Consulté 17 juin 2020, à l'adresse <https://www.un.org/fr/universal-declaration-human-rights>
 
-[^jiang]: Jiang, C., & Behr, M. (2019, 18 mars). *The Benefits of Marriage to Society*. Consulté 17 juin 2020, à l’adresse <https://www.ukessays.com/essays/society/benefits-marriage-society-4763.php>
+[^jiang]: Jiang, C., & Behr, M. (2019, 18 mars). *The Benefits of Marriage to Society*. Consulté 17 juin 2020, à l'adresse <https://www.ukessays.com/essays/society/benefits-marriage-society-4763.php>
 
 [^meezan]: Meezan, W., & Rauch, J. (2005). *Gay Marriage, Same-Sex Parenting, and America's Children. The Future of Children*, 15(2), 97-115. Retrieved June 17, 2020, from <www.jstor.org/stable/3556565>
 
