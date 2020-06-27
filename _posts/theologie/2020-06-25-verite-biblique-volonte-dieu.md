@@ -112,7 +112,7 @@ L'herméneutique est donc la méthode théorique pour faire une bonne exégèse.
 
 ### Choisir une traduction de la Bible
 
-Je récapitule dans le tabluea ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
+Je récapitule dans le tableau ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
 
 * **La confession**, c'est à dire quelle influences confessionnelles est reflétée par la traduction. cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
 * **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français). Par ordre décroissant :

@@ -7,7 +7,7 @@ name: "versions-bible"
 Lisez l'article complet ici : [[Théologie] Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-25-verite-biblique-volonte-dieu %})
 {: .read-full-info}
 
-Je récapitule dans le tabluea ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
+Je récapitule dans le tableau ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
 
 * **La confession**, c'est à dire quelle influences confessionnelles est reflétée par la traduction. cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
 * **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français). Par ordre décroissant :
@@ -109,3 +109,10 @@ En règle générale, je préfère les traductions de type *littérale*, plus ad
 J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le texte massorétique et les manuscrits de Qumrân pour l'Ancien Testament, basée sur le texte minoritaire pour le Nouveau Testament, explicite les idiomes, évite les euphémismes indus et est à correspondance formelle (respecte la structure originale du langage, comme la Segong 1910 ou la Darby).
 
 Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS traduira par le terme présent dans le texte original : "réveiller" mais qu'on comprend comme une résurrection par exemple à la lumière de Romains 8:11 ("qui a réveillé Jésus d'entre les morts").
+
+***
+{: .notes-separator}
+
+[^minard_traduction]: Minard, T. (2019, 15 juin). *Quelle(s) traduction(s) française(s) de la Bible faut-il préférer ?* Bible & Co. <http://timotheeminard.com/quelles-traductions-francaises-de-la-bible-faut-il-preferer/>
+
+[^minard_texte]: Minard, T. (2019a, juin 15). *Le « Texte majoritaire » et la question du texte original du Nouveau Testament*. Bible & Co. <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/>
