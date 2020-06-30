@@ -2,7 +2,7 @@
     {% for post_cat in post.categories %}
     {% for site_cat in site.categories %}
     {% if site_cat.name == post_cat %}
-    <a class="category-item" href="{{ site_cat.url }}">
+    <a class="category-item" href="{{ site.baseurl }}{{ site_cat.url }}">
         <div class="category-box" style="background-color: {{ site_cat.color | default 'lightgray'}}"></div>
         <p class="category-label">{{ site_cat.title }}</p>
     </a>
