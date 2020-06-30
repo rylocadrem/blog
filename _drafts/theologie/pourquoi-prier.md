@@ -6,7 +6,7 @@ title:  "[BROUILLON] Pourquoi prier ?"
 categories: theologie
 ---
 
-🚧 **Version de travail en cours de rédaction** 🚧
+{% include wip-warning.html %}
 
 Table des matières :
 

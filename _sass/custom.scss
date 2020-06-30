@@ -102,8 +102,6 @@ th {
     }
 }
 
-
-
 .category-layout {
     .big-category-title {
         // margin: 20px 0 5px;
@@ -122,5 +120,15 @@ th {
     .breves-title {
         font-weight: bold;
         margin-top: 20px;
+    }
+}
+
+.not-found {
+    .error {
+        text-shadow: 3px 3px lightgray;
+    }
+
+    .message {
+        font-weight: bold;
     }
 }

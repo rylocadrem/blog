@@ -6,7 +6,7 @@ title:  "[BROUILLON] Occasion de chute, liberté et légalisme"
 categories: theologie
 ---
 
-🚧 **Version de travail en cours de rédaction** 🚧
+{% include wip-warning.html %}
 
 Table des matières :
 
