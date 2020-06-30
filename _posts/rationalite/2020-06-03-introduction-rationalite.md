@@ -26,7 +26,7 @@ On peut distinguer deux concepts de rationalité[^rationality_less_wrong] :
 
 La rationalité épistémique est la recherche systématique de la *vérité*, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
 
-La rationalité instrumentale est l'accomplissement systématique de ses objectifs, c'est à dire le choix des actions qui mènent aux conséquences désirées.
+La rationalité instrumentale est l'accomplissement systématique de ses objectifs, c'est-à-dire le choix des actions qui mènent aux conséquences désirées.
 
 ...
 

@@ -103,6 +103,9 @@ L'herméneutique est donc la méthode théorique pour faire une bonne exégèse.
 
 ### Principes herméneutiques fondamentaux
 
+Retrouvez cette section ici : [[En bref] Principes herméneutiques fondamentaux]({{ site.baseurl }}/bref/hermeneutique)
+{: .read-short-info}
+
 Voici un petit résumé des principes herméneutiques fondamentaux.[^predication_textuelle] [^intro_hermeneutique] [^tpsg_hermeneutique] [^creuser_ecriture]
 
 #### 1. Structure
@@ -139,15 +142,13 @@ Enfin, il faut toujours s'assurer de la validité de notre interprétation. Se p
 
 ### Choisir une traduction de la Bible
 
+Retrouvez cette section ici : [[En bref] Comparaison des traductions françaises de la Bible]({{ site.baseurl }}/bref/versions-bible)
+{: .read-short-info}
+
 Je récapitule dans le tableau ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
 
-* **La confession**, c'est-à-dire quelle influence confessionnelle est reflétée par la traduction. cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
-* **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français). Par ordre décroissant :
-  * Très littérale
-  * Littérale
-  * Semi-littérale
-  * Dynamique
-  * Très dynamique
+* **La confession**, c'est-à-dire quelle influence confessionnelle est reflétée par la traduction. Cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
+* **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français).
 * **Le niveau de langue**, sans prendre en compte la présence d'archaïsmes, naturellement plus présents dans les traductions plus anciennes.
 * **Les sources de l'Ancien Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction de l'Ancien Testament. On distingue :
   * Le *Texte Massorétique* est le texte biblique hébreu produit par les érudits juifs de l'Antiquité et du haut Moyen Âge appelés massorètes à partir de recopies au fil des générations. Le manuscrit le plus ancien date de 1010.
@@ -164,7 +165,7 @@ Je récapitule dans le tableau ci-après les différences entre les principales 
 
 Tableau de comparaison :
 
-*Vous pouver faire défiler le tableau horizontalement.*
+*Vous pouvez faire défiler le tableau horizontalement.*
 {: .mobile-only}
 
 <div class="table-wrapper" markdown="block">
@@ -232,7 +233,7 @@ Enfin, du fait de ma foi et motivations, je privilégie :
 * Les traductions de confession *protestante* ou *évangélique*.
 * Les traductions sans trop d'archaïsmes.
 
-De plus, j'essaie de privilégier les traductions qui explicitent les idiomes des locuteurs originaux. Par exemple, on lit dans 1 Samuel 24:4 : "Saül y entra pour se couvrir les pieds", une traduction littérale du texte hébreu qu'on trouve par exemple dans la Segond 1910 ou la Darby. Mes les traductions *Nouvelle Bible Segond* ou *Segond 21* rendent "Saül y entra pour satisfaire un besoin naturel", qui correspond sans ambiguité au sens de cette expression à l'époque.
+De plus, j'essaie de privilégier les traductions qui explicitent les idiomes des locuteurs originaux. Par exemple, on lit dans 1 Samuel 24:4 : "Saül y entra pour se couvrir les pieds", une traduction littérale du texte hébreu qu'on trouve par exemple dans la Segond 1910 ou la Darby. Mes les traductions *Nouvelle Bible Segond* ou *Segond 21* rendent "Saül y entra pour satisfaire un besoin naturel", qui correspond sans ambigüité au sens de cette expression à l'époque.
 
 De même, j'essaie de privilégier les traductions qui n'usent pas d'euphémismes indument. Par exemple, dans Genèse 31:35 on lit dans le texte original "j'ai la route des femmes", traduit dans la *Segond 21* par *je suis indisposée* mais ce que la *Nouvelle Bible Segond* explicite par "j'ai mes règles".
 
