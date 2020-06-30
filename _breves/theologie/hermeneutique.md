@@ -2,6 +2,7 @@
 layout: breve
 title: "[En bref] Principes herméneutiques fondamentaux"
 name: "hermeneutique"
+categories: theologie
 ---
 
 Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})

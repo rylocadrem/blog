@@ -4,6 +4,17 @@ layout: page
 
 {{ content }}
 
-{% for breve in site.breves %}
+{% assign used_category_names = site.breves | map: "categories" | join: ',' | split: ',' | uniq %}
+{% assign used_categories = site.categories | where_exp: "cat", "used_category_names contains cat.name" %}
+
+{% for category in used_categories %}
+  <h3 class="category-title">
+    <div class="category-box" style="background-color: {{ category.color | default 'lightgray' }}"></div>
+    <a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a>
+  </h3>
+  {% for breve in site.breves %}
+  {%- if breve.categories contains category.name and breve.hidden != 1 -%}
   <li><a href="{{ site.baseurl }}/bref/{{ breve.name }}">{{ breve.title }}</a></li>
+  {%- endif -%}
+  {% endfor %}
 {% endfor %}
