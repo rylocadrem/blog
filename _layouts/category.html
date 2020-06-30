@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="blog list">
+<div class="category-layout">
     <h1 class="big-category-title">
         <div class="category-box" style="background-color: {{ page.color | default 'lightgray' }}"></div>
         {{ page.title }}
@@ -10,7 +10,7 @@ layout: default
 
     <p>{{ page.content }}</p>
 
-    <h3>Articles :</h3>
+    <p class="posts-title">Articles :</p>
     {% for post in site.posts %}
     {%- if post.categories contains page.name and post.hidden != 1 -%}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>

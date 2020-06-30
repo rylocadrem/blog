@@ -102,12 +102,20 @@ th {
     }
 }
 
-.big-category-title {
-    // margin: 20px 0 5px;
 
-    .category-box {
-        display: inline-block;
-        width: 26px;
-        height: 26px;
+
+.category-layout {
+    .big-category-title {
+        // margin: 20px 0 5px;
+
+        .category-box {
+            display: inline-block;
+            width: 26px;
+            height: 26px;
+        }
+    }
+
+    .posts-title {
+        font-weight: bold;
     }
 }
