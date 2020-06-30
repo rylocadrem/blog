@@ -154,13 +154,13 @@ Selon le dictionnaire *Trésor de la Langue Française*[^tlfi_def] :
 
 On distingue clairement deux aspects : le discernement de valeur et l'émission d'une sentence.
 
-### Concordance strong et traductions du texte reçu
+### Concordance strong et traductions du Texte Reçu
 
 Il est dangereux de présumer du sens d'un mot ou d'une expression employée dans la Bible sans l'éclairage de son contexte.
 
 Il est aussi dangereux de se fier au "lexique strong", souvent utilisé sans précautions, pour déterminer le sens des mots. Il est avant tout une concordance permettant de trouver les différentes occurences d'un même mot dans la Bible et le contexte littéraire est peu pris en compte.
 
-Le plus gros problème reste qu'il est basé sur les textes servant de base à la version *King James* de la Bible, une variante du *texte reçu* (Textus Receptus). Le Textus Receptus est un texte grec édité à partir d'une poignée de manuscrits tardifs (du 10ème au 16ème siècle) auxquels Érasme avait accès. Le texte reçu sert de base aux traductions du type *King James* en anglais et *Martin* ou *Ostervlad* en français.
+Le plus gros problème reste qu'il est basé sur les textes servant de base à la version *King James* de la Bible, une variante du *Texte Reçu* (Textus Receptus). Le Textus Receptus est un texte grec édité à partir d'une poignée de manuscrits tardifs (du 10ème au 16ème siècle) auxquels Érasme avait accès. Le Texte Reçu sert de base aux traductions du type *King James* en anglais et *Martin* ou *Ostervlad* en français.
 
 Ces écrits contiennent des différences parfois majeures avec les manuscrits originaux[^minard_texte] [^bibliquest_texte] [^coram_deo_texte].
 
@@ -174,7 +174,7 @@ Par exemple :
 | Matthieu 9:13 | Car ne ne suis pas venu appeler des justes <span style="color: red">à la repentance</span> mais des pécheurs. |
 | Romains 8:1 | Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ<span style="color: red">, qui marchent, non selon la chair, mais selon l'esprit</span>. |
 
-Pour ces raisons, j'éviterai de baser mes interprétations sur la concordance strong et les version tirées du texte reçu.
+Pour ces raisons, j'éviterai de baser mes interprétations sur la concordance strong et les version tirées du Texte Reçu.
 
 ### Une exégèse de Matthieu 7:1
 
@@ -483,11 +483,11 @@ Les versets cités hors contexte peuvent être utilisés pour leur faire dire ce
 
 [^tlfi_def]: Analyse et Traitement Informatique de la Langue Française (Éd.). (s. d.). Juger. Dans *Trésor de la Langue Française informatisé*. Consulté à l'adresse <https://www.cnrtl.fr/definition/juger>
 
-[^minard_texte]: Minard, T. (2019, 15 juin). *Le « Texte majoritaire » et la question du texte original du Nouveau Testament*. Consulté 12 juin 2020, à l'adresse <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/#Les_differences_entre_le_Texte_recu_et_le_Texte_majoritaire>
+[^minard_texte]: Minard, T. (2019, 15 juin). *Le « Texte Majoritaire » et la question du texte original du Nouveau Testament*. Consulté 12 juin 2020, à l'adresse <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/#Les_differences_entre_le_Texte_recu_et_le_Texte_majoritaire>
 
 [^bibliquest_texte]: Bibliquest. (s. d.). *Valeur du Texte Reçu de la Bible*. Consulté 12 juin 2020, à l'adresse <https://www.bibliquest.net/Bible/Annexes/Bibliquest-Ostervald_JND_Texte_recu.htm>
 
-[^coram_deo_texte]: Bourin G., Denault P., Minard T. (2020, 15 janvier). *La critique textuelle, le texte reçu et l'Église* (No. 164) [Podcast audio]. Dans *Coram Deo*. <https://soundcloud.com/coramdeopodcasts/164-la-critique-textuelle-le-texte-recu-et-leglise>
+[^coram_deo_texte]: Bourin G., Denault P., Minard T. (2020, 15 janvier). *La critique textuelle, le Texte Reçu et l'Église* (No. 164) [Podcast audio]. Dans *Coram Deo*. <https://soundcloud.com/coramdeopodcasts/164-la-critique-textuelle-le-texte-recu-et-leglise>
 
 [^ban_matthieu]: Godet, F. (1899). *Bible Annotée Neuchâtel, Introduction à l'Évangile selon Matthieu*. Consulté à l'adresse <https://www.levangile.com/Annotee/Introduction-Matthieu.php>
 

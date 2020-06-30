@@ -12,19 +12,19 @@ Je récapitule dans le tableau ci-après les différences entre les principales 
 
 * **La confession**, c'est-à-dire quelle influence confessionnelle est reflétée par la traduction. Cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
 * **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français).
-* **Le niveau de langue**, sans prendre en compte la présence d'archaïsmes, naturellement plus présents dans les traductions plus anciennes.
-* **Les sources de l'Ancien Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction de l'Ancien Testament. On distingue :
-  * Le *Texte Massorétique* est le texte biblique hébreu produit par les érudits juifs de l'Antiquité et du haut Moyen Âge appelés massorètes à partir de recopies au fil des générations. Le manuscrit le plus ancien date de 1010.
-  * Le *Pentateuque Samaritain* est la version du Pentateuque en usage chez les Samaritains. Les différences avec texte massorétique ne changent généralement pas le fond, sauf en ce qui concerne le rôle de Jérusalem et la présence d'un onzième commandement.
-  * La *Septante* est la traduction grecque de l'Ancien Testament datant d'environ 270 avant notre ère, qui est celle citée dans les écrits originaux en grec du Nouveau Testament. Seuls des manuscrits des 4ème et 5ème siècles nous sont parvenus (Codex Vaticanus, Codex Sinaiticus et Codex Alexandrinus) et ils diffèrent entre eux par quelques erreurs de copistes.
-  * Les *Manuscrits de Qumrân*, des manuscrits datant de -300 et correspondant à une partie de l'Ancien Testament. Antérieurs aux autres manuscrits mais incomplets, ils peuvent diverger des autres textes sur certains points.
-  * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour l'Ancien Testament, d'une traduction en latin des textes issus du texte massorétique et de la Septante.
-* **Les sources du Nouveau Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction du Nouveau Testament. On distingue :
-  * Le *Texte Reçu* est le nom donné aux multiples révisions du Nouveau Testament grec d'Érasme (début du 16ème siècle), édité à partir d'une poignée de manuscrits tardifs auxquels Érasme avait accès (le plus ancien datant du 10ème siècle), en grec ou en latin. Il comporte des erreurs de traductions (notamment du latin), des milliers de différences avec les textes plus anciens et des notes scribales incorporées au texte.
-  * Le *Texte Majoritaire* est le texte tel qu'il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu'ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
-  * Le *Texte Minoritaire* est issu de manuscrits plus anciens (2ème siècle), considérés par l'immense majorité des spécialistes[^minard_texte] comme plus fidèle au texte original car plus anciens et moins altérés par les copistes. Cependant les différences théologiques entre textes *majoritaire* et *minoritaires* sont mineures.[^minard_texte]
-  * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour le Nouveau Testament, d'une traduction en latin des textes issus du texte reçu.
-* **La présence de livres apocryphes**, des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
+* **Le niveau de langue** (sans prendre en compte la présence d'archaïsmes, naturellement plus présents dans les traductions plus anciennes).
+* **Les sources de l'Ancien Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction de l'Ancien Testament :
+  * Le *Texte Massorétique*, qui est le texte biblique hébreu produit par les érudits juifs de l'Antiquité et du haut Moyen Âge appelés massorètes à partir de recopies au fil des générations. Le manuscrit le plus ancien date de 1010.
+  * Le *Pentateuque Samaritain*, qui est la version du Pentateuque en usage chez les Samaritains. Les différences avec Texte Massorétique ne changent généralement pas le fond, sauf en ce qui concerne le rôle de Jérusalem et la présence d'un onzième commandement.
+  * La *Septante*, qui est la traduction grecque de l'Ancien Testament datant d'environ 270 avant notre ère, qui est celle citée dans les écrits originaux en grec du Nouveau Testament. Seuls des manuscrits des 4ème et 5ème siècles nous sont parvenus (Codex Vaticanus, Codex Sinaiticus et Codex Alexandrinus) et ils diffèrent entre eux par quelques erreurs de copistes.
+  * Les *Manuscrits de Qumrân*, qui sont des manuscrits datant de -300 et correspondant à une partie de l'Ancien Testament. Antérieurs aux autres manuscrits mais incomplets, ils peuvent diverger des autres textes sur certains points.
+  * La *Vulgate*, qui est, pour l'Ancien Testament, une traduction en latin des textes issus du Texte Massorétique et de la Septante.
+* **Les sources du Nouveau Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction du Nouveau Testament :
+  * Le *Texte Reçu*, qui est le nom donné aux multiples révisions du Nouveau Testament grec d'Érasme (début du 16ème siècle), édité à partir d'une poignée de manuscrits tardifs auxquels Érasme avait accès (le plus ancien datant du 10ème siècle), en grec ou en latin. Il comporte des erreurs de traductions (notamment du latin), des milliers de différences avec les textes plus anciens et des notes scribales incorporées au texte.
+  * Le *Texte Majoritaire*, qui est le texte tel qu'il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu'ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
+  * Le *Texte Minoritaire*, qui est issu de manuscrits plus anciens (2ème siècle) et considérés par l'immense majorité des spécialistes[^minard_texte] comme plus fidèles au texte original car plus anciens et moins altérés par les copistes. Cependant les différences théologiques entre textes *majoritaire* et *minoritaires* sont mineures.[^minard_texte]
+  * La *Vulgate*, qui est, pour le Nouveau Testament, une traduction en latin des textes issus du Texte Reçu.
+* **La présence de livres apocryphes**, c'est-à-dire des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
 
 Tableau de comparaison :
 
@@ -52,9 +52,9 @@ Tableau de comparaison :
 | Bible de Lausanne                        | 1872 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Synodale                                 | 1910 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Bible du Centenaire                      | 1947 | Protestante | Littérale      | Standard           | Massorétique et Pentateuque Samaritain | Texte Minoritaire               | Non               |
-| Parole de Vie                            | 2000 | Œcuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
-| TOB                                      | 1988 | Œcuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
-| Bible en français courant                | 1982 | Œcuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
+| Parole de Vie                            | 2000 | oecuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
+| TOB                                      | 1988 | oecuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
+| Bible en français courant                | 1982 | oecuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
 | Sacy                                     | 1867 | Catholique  | Semi-littérale | Soutenu            | Vulgate                                | Vulgate                         | Oui               |
 | Crampon                                  | 1904 | Catholique  | Littérale      | Soutenu            | Massorétique                           | Texte Reçu                      | Oui               |
 | Vulgate Glaire                           | 1947 | Catholique  | Littérale      | Standard           | Vulgate                                | Vulgate                         | Oui               |
@@ -81,7 +81,7 @@ Il existe également 4 traductions apostates (volontairement tordues et niant ex
 * La Bible de Machaira
 * La Bible de Jésus-Christ
 
-Pour ma part, pour des raisons de fiabilité et de proximité au texte original, j'exclut :
+Pour ma part, pour des raisons de fiabilité et de proximité au texte original, j'exclus :
 
 * Les traductions de l'Ancien Testament non basées sur le *Texte Massorétique*.
 * Les traductions du Nouveau Testament basées sur le *Texte Reçu* ou la *Vulgate*.
@@ -100,15 +100,15 @@ De plus, j'essaie de privilégier les traductions qui explicitent les idiomes de
 
 De même, j'essaie de privilégier les traductions qui n'usent pas d'euphémismes indument. Par exemple, dans Genèse 31:35 on lit dans le texte original "j'ai la route des femmes", traduit dans la *Segond 21* par *je suis indisposée* mais ce que la *Nouvelle Bible Segond* explicite par "j'ai mes règles".
 
-En règle générale, je préfère les traductions de type *littérale*, plus adaptées pour une étude ou une lecture approfondie.
+En général je préfère les traductions de type *littérale*, plus adaptées pour une étude ou une lecture approfondie.
 
-J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le texte massorétique et les manuscrits de Qumrân pour l'Ancien Testament, basée sur le texte minoritaire pour le Nouveau Testament, explicite les idiomes, évite les euphémismes indus et est à correspondance formelle (respecte la structure originale du langage, comme la Segong 1910 ou la Darby).
+J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le Texte Massorétique et les Manuscrits de Qumrân pour l'Ancien Testament, basée sur le Texte Minoritaire pour le Nouveau Testament, explicite les idiomes et évite les euphémismes indus.
 
-Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS traduira par le terme présent dans le texte original : "réveiller" mais qu'on comprend comme une résurrection par exemple à la lumière de Romains 8:11 ("qui a réveillé Jésus d'entre les morts").
+Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS reproduira le terme présent dans le texte original : *réveiller*, qu'on comprend comme *ressusciter* à la lumière du contexte, comme dans Romains 8:11 ("qui a *réveillé* Jésus d'entre les morts").
 
 ***
 {: .notes-separator}
 
 [^minard_traduction]: Minard, T. (2019, 15 juin). *Quelle(s) traduction(s) française(s) de la Bible faut-il préférer ?* Bible & Co. <http://timotheeminard.com/quelles-traductions-francaises-de-la-bible-faut-il-preferer/>
 
-[^minard_texte]: Minard, T. (2019a, juin 15). *Le « Texte majoritaire » et la question du texte original du Nouveau Testament*. Bible & Co. <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/>
+[^minard_texte]: Minard, T. (2019a, juin 15). *Le « Texte Majoritaire » et la question du texte original du Nouveau Testament*. Bible & Co. <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/>

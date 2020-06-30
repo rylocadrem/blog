@@ -19,15 +19,17 @@ Table des matières :
 
 Or, si on affirme le *quoi* de la doctrine sans êtres certains de la validité du *comment* de son origine, qu'est-ce qui nous empêche de nous égarer ?
 
-Ces questions sont intimement liées et je crois que nous ne pouvons, en toute honnêteté, ne professer aucune saine doctrine, ne défendre aucune éthique biblique ou ne nous conformer à aucun juste précepte moral sans y avoir bien répondu au préalable.
+Ces questions sont intimement liées. Et je crois que nous ne pouvons, en toute honnêteté, professer aucune saine doctrine, défendre aucune éthique biblique ou nous conformer à aucun juste précepte moral sans y avoir bien répondu au préalable.
 
-Dans la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), ainsi que chez ceux qui en sont sortis sans se [libérer des fils de la toile]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-18-ksb-toile %}), les interprétations erronées et manipulatrices de la Bible sont habituelles et fortement ancrées dans la manière de penser.
+Dans la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), ainsi que chez ceux qui en sont sorti sans se [libérer des fils de sa toile]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-18-ksb-toile %}), les interprétations erronées et manipulatrices de la Bible sont habituelles et fortement ancrées dans la manière de penser.
 
 Il me parait donc pertinent de faire une petite étude sur le sujet, étayée par des passages bibliques et des commentaires de divers pasteurs et théologiens. **Je n'ai pas pour objectif d'être exhaustif, je vous conseille donc quelques ressources pour en savoir plus en fin d'article.**
 
 ## Comment savoir ce que dit la Bible
 
 ### Pourquoi interpréter la bible ?
+
+On peut se demander *faut-il interpréter la Bible ?* Et si oui, *pourquoi ?*
 
 Commençons par quelques définitions.
 
@@ -38,64 +40,75 @@ Le *Dictionnaire de l'Académie Française*[^daf_interpreter] donne cette défin
 > * Expliquer ce qu'il y a d'obscur ou d'ambigu dans un texte, en éclairer le sens.
 > * Dégager, expliquer la signification de.
 
-Il faut clairement distinguer ces sens premiers d'interprétation des autres, secondaires, qui sont "extrapoler, passer à une conclusion à partir de données incomplètes" ou encore "donner un sens personnel, parmi d'autres possibles, à un acte, à un fait, dont l'explication n'apparaît pas de manière évidente", car ce n'est pas de cela dont il est question.
+C'est ce sens premier que je retiens dans cet article, excluant les sens secondaires qui sont "extrapoler, passer à une conclusion à partir de données incomplètes" ou encore "donner un sens personnel, parmi d'autres possibles, à un acte, à un fait, dont l'explication n'apparaît pas de manière évidente". Car ce n'est pas de cela dont il est question ici.
 
-En réalité nous sommes tous des interprètes, que nous le voulions ou non. L'interprétation est même au cœur du Nouveau Testament, de l'enseignement de Jésus et des apôtres, au cœur de la foi chrétienne.
+En réalité nous sommes tous des interprètes, que nous le voulions ou non. Et l'interprétation est même au coeur du Nouveau Testament, au coeur de l'enseignement de Jésus et des apôtres, au coeur de la foi chrétienne.
 
 > Et, commençant par Moïse et par tous les Prophètes, il leur fit l'interprétation de ce qui, dans toutes les Écritures, le concernait.
 >
 > — Luc 24:27 (NBS)
 
-Dans les Actes, au chapitre 8, on lit l'histoire de Philippe et de l'eunuque éthiopien :
+Dans les Actes on lit l'histoire de Philippe et de l'eunuque éthiopien :
 
 > Philippe accourut et entendit l'Ethiopien qui lisait le Prophète Esaïe. Il lui dit : Comprends-tu ce que tu lis ? Il répondit : Comment le pourrais-je, si personne ne me guide ? Et il invita Philippe à monter s'asseoir avec lui. [...] Alors Philippe prit la parole et, commençant par cette Ecriture, il lui annonça la bonne nouvelle de Jésus.
 >
-> — Actes des Apôtres 8:30-31,35 (NBS)
+> — Actes 8:30-31,35 (NBS)
 
-Quoi qu'en soit la raison, l'eunuque éthiopien ne comprenait pas le texte biblique. Il avait besoin d'explications. Philippe va alors lui expliquer le passage d'Esaïe 53 en l'interprétant à la lumière de *la bonne nouvelle de Jésus*.
+Quoi qu'en soit la raison, l'eunuque éthiopien ne comprenait pas le texte biblique. Philippe va alors lui expliquer le passage d'Esaïe 53 en l'interprétant à la lumière de *la bonne nouvelle de Jésus*.
 
-On lit également :
+Ailleurs, on lit :
 
 > C'est moi qui suis la vigne ; vous, vous êtes les sarments.
 >
 > — Jean 15:5
 
-Doit-on comprendre que Jésus est *littéralement* une vigne et que nous sommes *littéralement* des sarments ? Bien sûr que non. Et je crois que même les réticents à l'interprétation du texte biblique ne prennent pas cette phrase littéralement mais comme une image... Ils interprètent.
+Doit-on comprendre que Jésus est *littéralement* une vigne et que nous sommes *littéralement* des sarments ? Bien sûr que non.
+
+Même les personnes les plus réticentes à l'interprétation du texte biblique ne prennent pas cette phrase littéralement mais comme une image... Ils interprètent.
 
 Ces exemples parmi d'autres montrent que la Bible a besoin d'être comprise, expliquée,  autrement dit *interprétée*.
 
-Cependant beaucoup d'entre nous, je crois, avons souvent lu la Bible avec un *sentiment d'immédiateté*. Nous pensons peut-être que nous lisons simplement la Bible (sans l'interpréter) et qu'ainsi nous entendons Dieu. Notre identifions notre compréhension avec la Parole de Dieu, comme une révélation infusée.
+Cependant beaucoup d'entre nous, je crois, avons souvent lu la Bible avec un *sentiment d'immédiateté*. Nous pensons peut-être que nous lisons simplement la Bible (sans l'interpréter) et qu'ainsi nous entendons Dieu. Notre identifions notre compréhension avec la Parole de Dieu, comme si une révélation particulière nous était infusée.
 
-Le danger, c'est qu'alors selà signifierait que toute personne en désaccord avec moi n'est en fait pas fidèle à la Bible ; puisque mon point de vue m'a été révélé par Dieu. Cette approche, outre le fait qu'elle n'est enseignée nulle-part dans les Écritures (voir la suite de l'article, par exemple l'explication de [La lettre tue, mais l'Esprit vivifie](#la-lettre-tue-mais-lesprit-vivifie-2-corinthiens-36)), rend non seulement la discussion avec les autres très difficile, mais réduit également la possibilité que notre interprétation à un moment donné soit imparfaite, et puisse changer, croître ou se développer.
+Le danger, c'est qu'alors cela signifierait que toute personne en désaccord avec nous ne serait en fait pas fidèle à la Bible ; puisque notre point de vue nous aurait été révélé directement par Dieu.
 
-D'ailleurs, Jean Calvin écrivait à ce propos[^calvin_context] :
+Cette approche, outre le fait qu'elle n'est enseignée nulle-part dans les Écritures comme étant normative, rend non seulement la discussion avec les autres très difficile, mais réduit également la possibilité que notre interprétation soit à un moment donné imparfaite, et puisse changer, croître ou se développer.
+
+D'ailleurs, Jean Calvin écrivait à propos de cette méthode d'interprétation dite "allégorique" ou "spirituelle"[^calvin_context] :
 
 > C'est l'erreur la plus pernicieuse selon laquelle l'étude de l'Écriture serait non seulement inutile, mais même nuisible, à moins qu'elle ne soit transformée en allégories élaborées. Cette erreur a permis de corrompre le vrai sens de l'Écriture. Ainsi, beaucoup parmi les anciens ont joué avec la Parole sacrée de Dieu, comme avec une balle que l'on envoie d'ici et de là. C'est ainsi que nombreux sont ceux qui sombrent dans l'hérésie, puisqu'il n'y a plus ainsi de folie si absurde ou si grande qui ne puisse être pratiquée.
 
-Pourtant, pour retirer le sens d'un texte, plusieurs difficultés fondamentales se présentent[^minard_interpretation_1] :
+Il nous faut alors étudier la Parole pour retirer le sens d'un texte. Mais plusieurs difficultés fondamentales se présentent[^minard_interpretation_1] :
 
 1. Certains passages ne peuvent se comprendre que dans leur contexte. Par exemple la phrase "j'en ai assez de ce cadre !" pourrait indiquer que je ne supporte plus un tableau accroché au mur, que je suis agacé par un cadre de vélo trop lourd, que je trouve mon supérieur hiérarchique trop tyrannique, que je me sens étouffé par des règles imposées, etc.
-2. Les textes originaux n'ont pas été écrits dans une langue que nous parlons couramment (pour la plupart).
-3. Les textes originaux ont été écrits dans des registres de langues styles et genres littéraires très différents.
-4. Les auteurs originaux appartenaient à des cultures antiques très différentes des nôtres et ont intégré leurs présupposés culturels dans les textes.
+
+2. Les textes originaux n'ont pas été écrits dans une langue que nous parlons couramment (pour la plupart d'entre nous).
+
+3. Les textes originaux ont été écrits dans des registres de langues, styles et genres littéraires très différents.
+
+4. Les auteurs originaux appartenaient à des cultures antiques très différentes des nôtres et ont intégré leurs contextes culturels dans les textes.
 
 Il faut aussi avoir conscience que la Bible a été écrite *pour* nous mais pas *à* nous, c'est-à-dire que nous ne sommes pas les destinataires directs des livres écrits par les auteurs originaux.[^tpsg_hermeneutique] [^predication_textuelle] [^creuser_ecriture]
 
-Ainsi se pose la question *comment faut-il interpréter la Bible ? Comment bien interpréter le texte biblique pour ne pas lui faire dire ce qu'il ne dit pas ?*
+Ainsi se pose donc la question *comment faut-il interpréter la Bible ? Comment bien interpréter le texte biblique pour ne pas lui faire dire ce qu'il ne dit pas ?*
 
 ### Comment interpréter la Bible ?
 
 David Helm distingue trois principaux types de prédications erronées[^predication_textuelle], c'est-à-dire qui ne transmettent pas le sens du texte. Elles ne sont pas mutuellement exclusives et peuvent nous éclairer sur les mauvaises manières de lire la Bible :
 
-* **La prédication impressionniste** qui consiste à lire la Bible sans creuser et sélectionner des textes qui produisent une forte impression puis à en dégager l'idée principale qui nous vient à l'esprit pour en tirer des applications qui nous semblent pertinentes. Le problème est *qu'elle ne se laisse pas limiter par la réalité du texte* et ignore le contexte historique, culturel, littéraire... ainsi que souvent les implications théologiques qui en découlent. C'est *presque de la prédication improvisée*.
-* **La prédication enivrée** qui consiste à *utiliser la Bible comme un homme ivre se sert d'un lampadaire, plus pour s'appuyer que pour s'éclairer*. C'est instrumentaliser la Bible pour transmettre un message, c'est transmettre nos propres projets, nos propres idées en utilisant la Bible.
+* **La prédication impressionniste** qui consiste à lire la Bible sans creuser, à sélectionner des textes qui produisent une forte impression puis à en dégager l'idée principale qui nous vient à l'esprit pour en tirer des applications qui nous semblent pertinentes. Le problème est *qu'elle ne se laisse pas limiter par la réalité du texte* et ignore le contexte historique, culturel, littéraire... ainsi que souvent les implications théologiques qui en découlent. C'est *presque de la prédication improvisée*.
+
+* **La prédication enivrée** qui consiste à *utiliser la Bible comme un homme ivre se sert d'un lampadaire, plus pour s'appuyer que pour s'éclairer*. C'est instrumentaliser la Bible pour transmettre un message, c'est transmettre nos propres visions, projets, et idées en utilisant la Bible.
+
 * **La prédication "inspirée" (_Lectio Divina_)** qui consiste à lire le texte en prêtant attention à ses émotions et ressentis intérieurs, essayant "d'écouter" ce que Dieu veut nous dire par ce texte, que l'on voit non comme un objet pouvant être étudié mais comme une "matière vivante" devant être "ressentie spirituellement". (cf. plus loin, [La lettre tue, mais l'Esprit vivifie](#la-lettre-tue-mais-lesprit-vivifie-2-corinthiens-36))
 
-Pour éviter cela, nous devons faire une exégèse du texte avec des méthodes d'herméneutique.
+Pour éviter cela, nous devons faire une *exégèse* du texte avec des méthodes d'*herméneutique*.
 
-J'utiliserais les termes *herméneutique* et *exégèse* tels que définis par le pasteur et théologien Milton Spenser Terry :
+J'utilise les termes *herméneutique* et *exégèse* tels que définis par le pasteur et théologien Milton Spenser Terry[^def_terry] :
 
-> L'*herméneutique* vise à établir les principes, méthodes et règles qui sont nécessaires pour exposer le sens de ce qui est écrit. L'*exégèse* est l'application de ces principes, la formulation en affirmations formelles, dans des termes différents, du sens des mots de l'auteur.[^def_terry]
+> L'*herméneutique* vise à établir les principes, méthodes et règles qui sont nécessaires pour exposer le sens de ce qui est écrit.
+>
+> L'*exégèse* est l'application de ces principes, la formulation en affirmations formelles, dans des termes différents, du sens des mots de l'auteur.
 
 L'herméneutique est donc la méthode théorique pour faire une bonne exégèse.
 
@@ -147,19 +160,19 @@ Je récapitule dans le tableau ci-après les différences entre les principales 
 
 * **La confession**, c'est-à-dire quelle influence confessionnelle est reflétée par la traduction. Cette influence est généralement très légère, notamment dans les traductions récentes.[^minard_traduction]
 * **Le type** de la traduction, plutôt littérale (proche du texte original) ou dynamique (adaptée au français).
-* **Le niveau de langue**, sans prendre en compte la présence d'archaïsmes, naturellement plus présents dans les traductions plus anciennes.
-* **Les sources de l'Ancien Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction de l'Ancien Testament. On distingue :
-  * Le *Texte Massorétique* est le texte biblique hébreu produit par les érudits juifs de l'Antiquité et du haut Moyen Âge appelés massorètes à partir de recopies au fil des générations. Le manuscrit le plus ancien date de 1010.
-  * Le *Pentateuque Samaritain* est la version du Pentateuque en usage chez les Samaritains. Les différences avec texte massorétique ne changent généralement pas le fond, sauf en ce qui concerne le rôle de Jérusalem et la présence d'un onzième commandement.
-  * La *Septante* est la traduction grecque de l'Ancien Testament datant d'environ 270 avant notre ère, qui est celle citée dans les écrits originaux en grec du Nouveau Testament. Seuls des manuscrits des 4ème et 5ème siècles nous sont parvenus (Codex Vaticanus, Codex Sinaiticus et Codex Alexandrinus) et ils diffèrent entre eux par quelques erreurs de copistes.
-  * Les *Manuscrits de Qumrân*, des manuscrits datant de -300 et correspondant à une partie de l'Ancien Testament. Antérieurs aux autres manuscrits mais incomplets, ils peuvent diverger des autres textes sur certains points.
-  * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour l'Ancien Testament, d'une traduction en latin des textes issus du texte massorétique et de la Septante.
-* **Les sources du Nouveau Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction du Nouveau Testament. On distingue :
-  * Le *Texte Reçu* est le nom donné aux multiples révisions du Nouveau Testament grec d'Érasme (début du 16ème siècle), édité à partir d'une poignée de manuscrits tardifs auxquels Érasme avait accès (le plus ancien datant du 10ème siècle), en grec ou en latin. Il comporte des erreurs de traductions (notamment du latin), des milliers de différences avec les textes plus anciens et des notes scribales incorporées au texte.
-  * Le *Texte Majoritaire* est le texte tel qu'il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu'ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
-  * Le *Texte Minoritaire* est issu de manuscrits plus anciens (2ème siècle), considérés par l'immense majorité des spécialistes[^minard_texte] comme plus fidèle au texte original car plus anciens et moins altérés par les copistes. Cependant les différences théologiques entre textes *majoritaire* et *minoritaires* sont mineures.[^minard_texte]
-  * La *Vulgate* est parfois utilisée pour les Bibles catholiques. Il s'agit, pour le Nouveau Testament, d'une traduction en latin des textes issus du texte reçu.
-* **La présence de livres apocryphes**, des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
+* **Le niveau de langue** (sans prendre en compte la présence d'archaïsmes, naturellement plus présents dans les traductions plus anciennes).
+* **Les sources de l'Ancien Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction de l'Ancien Testament :
+  * Le *Texte Massorétique*, qui est le texte biblique hébreu produit par les érudits juifs de l'Antiquité et du haut Moyen Âge appelés massorètes à partir de recopies au fil des générations. Le manuscrit le plus ancien date de 1010.
+  * Le *Pentateuque Samaritain*, qui est la version du Pentateuque en usage chez les Samaritains. Les différences avec Texte Massorétique ne changent généralement pas le fond, sauf en ce qui concerne le rôle de Jérusalem et la présence d'un onzième commandement.
+  * La *Septante*, qui est la traduction grecque de l'Ancien Testament datant d'environ 270 avant notre ère, qui est celle citée dans les écrits originaux en grec du Nouveau Testament. Seuls des manuscrits des 4ème et 5ème siècles nous sont parvenus (Codex Vaticanus, Codex Sinaiticus et Codex Alexandrinus) et ils diffèrent entre eux par quelques erreurs de copistes.
+  * Les *Manuscrits de Qumrân*, qui sont des manuscrits datant de -300 et correspondant à une partie de l'Ancien Testament. Antérieurs aux autres manuscrits mais incomplets, ils peuvent diverger des autres textes sur certains points.
+  * La *Vulgate*, qui est, pour l'Ancien Testament, une traduction en latin des textes issus du Texte Massorétique et de la Septante.
+* **Les sources du Nouveau Testament**, c'est-à-dire les manuscrits sur lesquels est basée la traduction du Nouveau Testament :
+  * Le *Texte Reçu*, qui est le nom donné aux multiples révisions du Nouveau Testament grec d'Érasme (début du 16ème siècle), édité à partir d'une poignée de manuscrits tardifs auxquels Érasme avait accès (le plus ancien datant du 10ème siècle), en grec ou en latin. Il comporte des erreurs de traductions (notamment du latin), des milliers de différences avec les textes plus anciens et des notes scribales incorporées au texte.
+  * Le *Texte Majoritaire*, qui est le texte tel qu'il est conservé dans la majorité des manuscrits grecs connus. Concrètement, les traducteurs vont comparer les manuscrits connus du Nouveau Testament pour chaque verset : lorsqu'ils constatent une divergence, ils vont choisir de suivre le texte retrouvé dans la majorité des manuscrits. Cependant ces manuscrits, principalement byzantins (du 5ème au 10ème siècles), sont considérés par l'immense majorité des spécialistes[^minard_texte] comme moins fidèle au texte original que ceux du *Texte Minoritaire*.
+  * Le *Texte Minoritaire*, qui est issu de manuscrits plus anciens (2ème siècle) et considérés par l'immense majorité des spécialistes[^minard_texte] comme plus fidèles au texte original car plus anciens et moins altérés par les copistes. Cependant les différences théologiques entre textes *majoritaire* et *minoritaires* sont mineures.[^minard_texte]
+  * La *Vulgate*, qui est, pour le Nouveau Testament, une traduction en latin des textes issus du Texte Reçu.
+* **La présence de livres apocryphes**, c'est-à-dire des livres ne faisant pas partie du canon protestant et n'état pas reconnu par les protestants comme d'inspiration divine.
 
 Tableau de comparaison :
 
@@ -170,9 +183,9 @@ Tableau de comparaison :
 
 | Traduction                               | Date | Confession  | Type           | Registre de langue | Sources (AT)                           | Sources (NT)                    | Livres apocryphes |
 |------------------------------------------|------|-------------|----------------|--------------------|----------------------------------------|---------------------------------|-------------------|
-| Segond 1880                              | 1880 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
+| Segond 1880                              | 1880 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Majoritaire et Minoritaire               | Non               |
 | Segond 1880 Révisée TBS (Ésaïe 55)       | 1982 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Majoritaire               | Non               |
-| Segond 1910 (LSG)                        | 1910 | Protestante | Semi-littérale | Élevé              | Massorétique                           | Texte Minoritaire               | Non               |
+| Segond 1910 (LSG)                        | 1910 | Protestante | Semi-littérale | Élevé              | Massorétique                           | Texte Majoritaire et Minoritaire               | Non               |
 | Segond 1975 (Scofield)                   | 1975 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
 | Segond 1978 (Colombe)                    | 1978 | Protestante | Semi-littérale | Standard           | Massorétique et Qumrân                 | Texte Majoritaire               | Non               |
 | Segond 1979 (Nouvelle Édition de Genève) | 1979 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
@@ -187,9 +200,9 @@ Tableau de comparaison :
 | Bible de Lausanne                        | 1872 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Synodale                                 | 1910 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Bible du Centenaire                      | 1947 | Protestante | Littérale      | Standard           | Massorétique et Pentateuque Samaritain | Texte Minoritaire               | Non               |
-| Parole de Vie                            | 2000 | Œcuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
-| TOB                                      | 1988 | Œcuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
-| Bible en français courant                | 1982 | Œcuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
+| Parole de Vie                            | 2000 | oecuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
+| TOB                                      | 1988 | oecuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
+| Bible en français courant                | 1982 | oecuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
 | Sacy                                     | 1867 | Catholique  | Semi-littérale | Soutenu            | Vulgate                                | Vulgate                         | Oui               |
 | Crampon                                  | 1904 | Catholique  | Littérale      | Soutenu            | Massorétique                           | Texte Reçu                      | Oui               |
 | Vulgate Glaire                           | 1947 | Catholique  | Littérale      | Standard           | Vulgate                                | Vulgate                         | Oui               |
@@ -235,29 +248,53 @@ De plus, j'essaie de privilégier les traductions qui explicitent les idiomes de
 
 De même, j'essaie de privilégier les traductions qui n'usent pas d'euphémismes indument. Par exemple, dans Genèse 31:35 on lit dans le texte original "j'ai la route des femmes", traduit dans la *Segond 21* par *je suis indisposée* mais ce que la *Nouvelle Bible Segond* explicite par "j'ai mes règles".
 
-En règle générale, je préfère les traductions de type *littérale*, plus adaptées pour une étude ou une lecture approfondie.
+En général je préfère les traductions de type *littérale*, plus adaptées pour une étude ou une lecture approfondie.
 
-J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le texte massorétique et les manuscrits de Qumrân pour l'Ancien Testament, basée sur le texte minoritaire pour le Nouveau Testament, explicite les idiomes, évite les euphémismes indus et est à correspondance formelle (respecte la structure originale du langage, comme la Segong 1910 ou la Darby).
+J'ai donc choisi la *Nouvelle Bible Segond* (NBS) comme ma Bible d'étude principale, car elle est littérale, basée sur le Texte Massorétique et les Manuscrits de Qumrân pour l'Ancien Testament, basée sur le Texte Minoritaire pour le Nouveau Testament, explicite les idiomes et évite les euphémismes indus.
 
-Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS traduira par le terme présent dans le texte original : "réveiller" mais qu'on comprend comme une résurrection par exemple à la lumière de Romains 8:11 ("qui a réveillé Jésus d'entre les morts").
+Cependant l'utilisation d'une traduction *semi-littérale* ou *dynamique* peut être utile, notamment lorsqu'on communique avec quelqu'un qui n'a pas une bonne compréhension de l'ensemble de la Bible (un incroyant, un jeune chrétien...) et n'a pas le temps pour de longues explications. Par exemple une traduction comme la Segond 1910 ou la Semeur utiliseront le mot *ressusciter* quand la NBS reproduira le terme présent dans le texte original : *réveiller*, qu'on comprend comme *ressusciter* à la lumière du contexte, comme dans Romains 8:11 ("qui a *réveillé* Jésus d'entre les morts").
+
+### Les écarts du Texte Reçu
+
+Comme mentionné avant, le Texte Reçu se base sur des manuscrits tardifs comportant des écarts avec les manuscrits plus proche du texte original.
+
+A titre d'exemple, voici quelques écarts avec le Texte Minoritaire :
+
+* <span style="color: red">En rouge</span>, ce qui a été ajouté dans le Texte Reçu.
+* <span style="color: blue">En bleu</span>, ce qui a été retiré du Texte Reçu.
+
+| Référence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Écarts avec le texte original |
+|---|---|
+| Matthieu 5:44 | Mais moi, je vous dis : Aimez vos ennemis <span style="color: red">et bénissez ceux qui vous maudissent, faites du bien à ceux qui vous haïssent</span> et priez pour ceux <span style="color: red">qui vous maltraitent et</span> qui vous persécutent. |
+| Matthieu 6:4 | Afin que ton aumône se fasse en secret ; et ton Père qui te voit dans le secret, te le rendra <span style="color: red">publiquement</span>. |
+| Matthieu 9:13 | Car ne ne suis pas venu appeler des justes <span style="color: red">à la repentance</span> mais des pécheurs. |
+| Marc 16:9-20 | *Le passage n'est pas présent dans les manuscrits les plus anciens et il y a "une rupture évidente de style et de vocabulaire avec le reste du livre"* |
+| Ephésiens 5:9 | Car le fruit de <span style="color: red">l'Esprit</span> <span style="color: blue">la lumière</span> consiste en toute sorte de bonté, de justice et de vérité |
+| Actes 8:37 | <span style="color: red">Philippe dit : si tu crois de tout ton coeur, cela est possible. L'eunuque répondit : Je crois que Jésus-Christ est le Fils de Dieu.</span> (*Le verset 37 n'est pas présent dans les manuscrits les plus anciens.*)|
+| Romains 8:1 | Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ<span style="color: red">, qui marchent, non selon la chair, mais selon l'esprit</span>. |
+| 1 Jean 5:7-8 | Car il y en a trois <span style="color: red">dans le ciel qui rendent témoignage : Le Père, la Parole, et le Saint-Esprit ; et ces trois-là ne sont qu'un. Il y en a aussi trois</span> qui rendent témoignage <span style="color: red">sur la terre</span>, à savoir l'Esprit, l'eau, et le sang<span style="color: red">, et ces trois-là se rapportent à un.</span> |
+| Jude 1:25 | A Dieu seul, <span style="color: red">sage et</span> notre Sauveur, <span style="color: blue">par Jésus-Christ, notre Seigneur,</span> soient gloire, majesté, pouvoir et autorité <span style="color: blue">dès avant tous les temps,</span> maintenant et pour tous les temps ! Amen ! |
+| Appocalypse 22:19 | Et si quelqu’un retranche des paroles du livre de cette prophétie, Dieu retranchera sa part <span style="color: red">du livre de vie</span> <span style="color: blue">de l’arbre de la vie</span> et de la ville sainte décrits dans ce livre. |
 
 ### La critique textuelle
 
-La critique textuelle est l'opération visant à reconstituer, d'après les témoins subsistants, la teneur originelle d'un texte, forme écrite d'une œuvre.[^ct_wiki] Dans une perspective théologique, il s'agit plus spécifiquement de rechercher ce que contenaient réellement les *autographes*, c'est-à-dire le texte original.
+La critique textuelle est l'opération visant à reconstituer, d'après les témoins subsistants, l'original d'un texte.[^ct_wiki] Dans une perspective théologique, il s'agit plus spécifiquement de rechercher ce que contenaient réellement les *autographes*, c'est-à-dire le texte original de la Bible.
 
-Il faut cependant être conscient que la notion de *texte original* peut cacher la complexité de la réalité.
+Il faut cependant être conscient que la notion de *texte original* ne rend pas compte de la complexité réelle.
 
-En effet, certains livres comme le Pentateuque (les cinq premiers livres de la Bible) ou les évangiles synoptiques (Matthieu, Marc et Luc) ont été écrits en plusieurs fois et par plusieurs auteurs.[^minard_ct] [^ib_evangiles] [^patheos_gospels] [^lbc_at]
+En effet, certains livres comme le Pentateuque (les cinq premiers livres de la Bible) ou les évangiles synoptiques (Matthieu, Marc et Luc) ont été écrits en plusieurs fois et par plusieurs auteurs (différents de ceux attribués par la tradition).[^minard_ct] [^ib_evangiles] [^patheos_gospels] [^lbc_at]
 
-D'autres livres ou passages existent sous des formes différentes dans les manuscrits dont on dispose. Par exemple le livre de Jérémie existe sous une forme courte et une forme longue, et certains passages sont de Jérémie (les oracles des chapitres 2-6, 21-22 et 37-43) quand d'autres ont été écrits pas Baruch ben Neria (un disciple de Jérémie) ou encore d'incorporations de la tradition orale jusqu'au deuxième siècle avant notre ère.[^abadie]
+D'autres livres ou passages existent sous plusieurs formes dans les manuscrits dont on dispose. Par exemple le livre de Jérémie existe sous une forme courte et une forme longue. De plus certains passages sont de Jérémie (les oracles des chapitres 2-6, 21-22 et 37-43) alors que d'autres ont été écrits pas Baruch ben Neria (un disciple de Jérémie) ou sont issus de plusieurs incorporations de la tradition orale jusqu'au deuxième siècle avant notre ère.[^abadie]
 
-La critique textuelle est donc une science ardue et accessible uniquement aux spécialistes des textes et langues anciennes. Mais Timothée Minard propose[^minard_ct] quelques précautions d'usage accessibles à tous :
+La critique textuelle est donc une science ardue et accessible uniquement aux spécialistes des textes et langues anciennes, tels qu'on en trouve dans les commités de traduction de nos Bibles.
+
+Mais Timothée Minard propose[^minard_ct] quelques précautions d'usage accessibles à tous :
 
 1. **Vérifier que les versets étudiés sont bien présents dans le texte original.** Pour cela on peut consulter des traductions basées sur des corpus de textes fiables (cf. [Choisir une traduction de la Bible](#choisir-une-traduction-de-la-bible)) et consulter les notes de traductions (NBS ou Segond 21 avec références). Les passages absents des manuscrits les plus fiables sont absents ou entre crochets dans ces versions (par exemple Jean 5:4, Actes 8:37, Marc 16:9-20, Jean 7:53-8:11, etc.).
 
-2. **Vérifier que les versets étudiés ne contiennent pas de difficulté majeure de critique textuelle.** Pour certains passages de la Bible, la reconstitution du texte original pose des difficultés importantes, de telle sorte que les spécialistes hésitent fortement entre plusieurs variantes que l'on retrouve dans les manuscrits anciens. Les bibles d'études récentes proposent une note lorsque la reconstitution du texte original est incertaine.
+2. **Vérifier que les versets étudiés ne contiennent pas de difficulté majeure de critique textuelle.** Pour certains passages de la Bible, la reconstitution du texte original pose des difficultés importantes, de telle sorte que les spécialistes hésitent fortement entre plusieurs variantes que l'on retrouve dans les manuscrits anciens. Les bibles d'étude récentes proposent une note lorsque la reconstitution du texte original est incertaine.
 
-3. **Éviter de fonder une doctrine ou une recommandation sur un passage qui n'est probablement pas dans le texte original.** Cependant même en retirant ces passages problématiques de la Bible, aucun point central de la foi chrétienne n'est remis en question.
+3. **Éviter de fonder une doctrine ou une recommandation sur un passage qui n'est probablement pas dans le texte original.** Cependant même si on retirait tous les passages problématiques de la Bible, aucun point central de la foi chrétienne ne serait remis en question.
 
 4. **Faire preuve d'honnêteté et de signaler les difficultés.**
 
@@ -273,7 +310,11 @@ Le deuxième problème est que pour ses lexiques, Strong s'est principalement ba
 
 En effet les traducteurs connaissaient le grec classique mais pas le grec Koinè[^mounce] [^moulton] (la langue commune de l'époque dans laquelle est écrit le Nouveau Testament), et maitrisaient l'hébreu mishnaïque mais pas l'hébreu *biblique*[^alter] (un ensemble de dialectes plutôt qu'une langue unique, dans lesquels a été écrit l'Ancien Testament).
 
-Le deuxième problème est l'absence de contextualisation du lexique. L'hébreu biblique a un vocabulaire bien plus restreint que l'hébreu mishnaïque[^bar-asher] [^hadas-lebel] (lui-même un ayant un bien plus restreint que l'hébreu moderne[^hadas-lebel]) et, comme la plupart des langues sémitiques, possède une très forte polysémie jusque dans ses racines mêmes[^sibony]. Par exemple le mot "פָּרַץ" (parats) possède deux racines[^sibony], *dissoudre* et *croitre*, et peut signifier aussi bien étendre, accroître, riche ou fertile que frapper, disperser, châtier, détruire ou ravager. Il faut donc toujours se baser sur le contexte pour comprendre un mot.
+Le deuxième problème est l'absence de contextualisation du lexique. L'hébreu biblique a un vocabulaire bien plus restreint que l'hébreu mishnaïque[^bar-asher] [^hadas-lebel] (lui-même en ayant un bien plus restreint que l'hébreu moderne[^hadas-lebel]). Et, comme la plupart des langues sémitiques, il possède une très forte polysémie jusque dans ses racines mêmes[^sibony].
+
+Par exemple le mot "פָּרַץ" (parats) possède deux racines[^sibony], *dissoudre* et *croitre*, et peut signifier aussi bien *étendre*, *accroître*, *riche* ou *fertile* que *frapper*, *disperser*, *châtier*, *détruire* ou *ravager*.
+
+Il faut donc toujours se baser sur le contexte pour comprendre un mot.
 
 Et comme l'indique Timothée Minard[^lbs_strong_c2] :
 
@@ -293,17 +334,19 @@ Voici ce qu'en dit Guillaume Bourin[^lbc_strong] [^lbs_strong_c1] :
 
 ## Quelques exemples de passages au sens tordu
 
-Je prends ici deux exemples de passages dont le sens a été tordu, que j'ai entendu lors de prédications de la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}) ou qu'on adressé (généralement pour restreindre et critiquer notre démarche de libération de KSB) a moi-même ou a des proches.
+Je prends ici quelques exemples de passages dont le sens a été tordu, et que j'ai plusieurs fois entendu.
 
-Rectifier ces erreurs est d'une importance capitale pour moi et, je l'espère, pour tous ceux qui ont quitté KSB.
+En sortant de la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), où les interprétations instrumentalisées sont la norme,  savoir rectifier ce genre d'erreur est d'une importance capitale pour moi et, je l'espère, pour tous ceux qui ont quitté KSB.
+
+J'analyserai Matthieu 7:1 et 2 Corinthiens 3:6 en détails, et les autres versets bien plus brièvement.
 
 ### Ne jugez pas, afin de ne pas être jugés (Matthieu 7:1)
 
-Je vous encourage à lire mon article à ce sujet : [Un chrétien peut-il juger ?]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}), notamment la partie [Une exégèse de Matthieu 7:1]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}#une-exégèse-de-matthieu-71).
+Mon analyse peut être lue dans cet article dédié : [Un chrétien peut-il juger ?]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}), notamment la partie [Une exégèse de Matthieu 7:1]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}#une-exégèse-de-matthieu-71).
 
 ### La lettre tue, mais l'Esprit vivifie (2 Corinthiens 3:6)
 
-#### La conception erronée
+#### L'interprétation erronée
 
 En 2 Corinthiens 3:6 on lit "la lettre tue, mais l'Esprit vivifie" (Segond 1910). L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie, comme résumé dans ces propos rapportés par Pascal Denault dans sa vidéo *La lettre tue, mais l'Esprit vivifie*[^plp_2cor36] à 8:00 :
 
@@ -427,6 +470,37 @@ Warren W. Wiersbe écrit[^wiersbe] :
 >
 > Un ministère légaliste engendre la mort. Les prédicateurs spécialisés dans les règles et les jugements maintiennent leur communauté sous un sombre nuage de culpabilité, lui ôtant toute joie, toute puissance et tout témoignage efficace pour le Christ. Les chrétiens qui se mesurent constamment aux autres, en comparant leurs "résultats" et en se concurrençant, ne tardent pas à découvrir qu'ils s'appuient sur la chair et non sur la puissance de l'Esprit. Aucune règle n'a jamais pu transformer la vie d'un individu, pas même les dix commandements. Seule la grâce de Dieu, dirigée par son Esprit, peut transformer des pécheurs perdus en lettres vivantes qui glorifient Jésus-Christ.
 
+### Je connais les projets que je forme pour vous, projets de paix et non de malheur (Jérémie 29:11)
+
+**L'interprétation erronée** :
+
+Dieu a un plan merveilleux pour notre vie, un plan de succès et de réussites.
+
+**L'interprétation biblique** :
+
+Voici l'explication que donne Francis Chan[^chan] :
+
+> Le contexte historique d’un passage permet souvent d’éclairer le sens du passage. Il faudra parfois consulter des ressources extérieures, comme une Bible d’étude, un dictionnaire biblique ou un commentaire. Mais bien souvent, les indications historiques se trouvent dans la Bible elle-même. L’Ancien Testament, par exemple, est truffé de récits historiques détaillés. Le Nouveau Testament, lui, fournit un nombre considérable de données historiques, tout particulièrement dans les Évangiles et le livre des Actes.
+>
+> Prenons un exemple. Entrez dans n’importe quelle librairie chrétienne et vous trouverez toutes sortes de bibelots sur lesquels est inscrit le verset de Jérémie 29.11 : *En effet, moi, je connais les projets que je forme pour vous, déclare l’Éternel, projets de paix et non de malheur, afin de vous donner un avenir et de l’espérance*. Les gens aiment ce verset parce qu’ils l’interprètent comme si Dieu promettait de nous garder de tout mal et de nous bénir. Mais Jérémie avait-il réellement cette intention ?
+>
+> Regardons le contexte historique : Jérémie écrivait aux Juifs exilés à Babylone. Ils avaient été déportés en captivité à cause de leur manque de fidélité envers Dieu. Jérémie leur a annoncé qu’ils passeraient 70 années en captivité et qu’ils devaient donc s’installer dans le pays et chercher à bénir Babylone pendant qu’ils s’y trouvaient. Puis vient Jérémie 29.11. Dieu a promis qu’il avait effectivement un plan pour son peuple et qu’il le restaurerait dans le pays d’Israël quand les jours d’exil seraient écoulés.
+>
+> Le contexte historique révèle que Jérémie 29.11 n’est pas une sorte de chèque en blanc du Seigneur. Dieu ne nous promet pas, dans ce texte, que rien de mal ne nous arrivera à nous aujourd’hui. Nous avons beaucoup à apprendre de la manière dont Dieu s’est occupé d’Israël pendant leurs années d’exil et de châtiment. Nous pouvons même constater la compassion de Dieu dans cette histoire et ainsi acquérir l’assurance que ce même Dieu compatissant prendra soin de nous aujourd’hui. Mais partir du principe que ces paroles pourraient s’appliquer directement à chaque circonstance de ma vie aujourd’hui, comme une promesse de prospérité, c’est tordre les Écritures. Le contexte historique n’influence pas toujours la signification d’un passage, mais nous devons toujours prendre en considération les destinataires des auteurs bibliques, ainsi que les raisons qui ont poussé à la rédaction du message.
+
+Pour en savoir plus, regardez [la prédication de Guillaume Bourin à ce sujet](https://www.youtube.com/watch?v=nMT8c6W-kC4).
+
+
+### Je peux tout par celui qui me fortifie (Philippiens 4:13)
+
+### La prière de la foi sauvera le malade et le Seigneur le relèvera. S'il a commis des péchés, le pardon lui sera accordé. (Jacques 5:15)
+
+### Que chacun soit soumis aux autorités établies ; car il n’y a pas d’autorité qui ne vienne de Dieu, et celles qui existent ont été instituées par Dieu (Romains 13:1)
+
+### Demandez, et l’on vous donnera ; cherchez, et vous trouverez ; frappez, et l’on vous ouvrira (Luc 11:9)
+
+### Tout contribue au bien de ceux qui aiment Dieu (Romains 8:28)
+
 ## Comment connaitre la volonté de Dieu ?
 
 <!-- TODO -->
@@ -508,7 +582,7 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
   * [Coram Deo - Connaître la volonté de Dieu, oui mais comment?](https://soundcloud.com/coramdeopodcasts/016-connaitre-la-volonte-de-dieu-oui-mais-comment) de Pascal Denault et Guillaume Bourin
   * [Coram Deo – La volonté de Dieu, ma perception et mes intuitions](https://soundcloud.com/coramdeopodcasts/089-la-volonte-de-dieu-ma-perception-et-mes-intuitions) de Pascal denault, Guillaume Bourin, Ken Taylor et Franck Segonne
 * Articles
-  * [Méfiez-vous lorsque votre cœur est en paix](https://evangile21.thegospelcoalition.org/article/mefiez-vous-lorsque-votre-coeur-est-en-paix/) de Matt Rogers
+  * [Méfiez-vous lorsque votre coeur est en paix](https://evangile21.thegospelcoalition.org/article/mefiez-vous-lorsque-votre-coeur-est-en-paix/) de Matt Rogers
 * Prédications
   * [Quelle est la volonté de Dieu et comment la connaître ?](https://www.desiringgod.org/messages/what-is-the-will-of-god-and-how-do-we-know-it) de John Piper
   * [Libres pour faire la volonté de Dieu – Rm 12.1-2](https://www.youtube.com/watch?v=99uZrFxIp6o) de Pascal Denault
@@ -538,7 +612,7 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
 
 [^minard_traduction]: Minard, T. (2019, 15 juin). *Quelle(s) traduction(s) française(s) de la Bible faut-il préférer ?* Bible & Co. <http://timotheeminard.com/quelles-traductions-francaises-de-la-bible-faut-il-preferer/>
 
-[^minard_texte]: Minard, T. (2019a, juin 15). *Le « Texte majoritaire » et la question du texte original du Nouveau Testament*. Bible & Co. <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/>
+[^minard_texte]: Minard, T. (2019a, juin 15). *Le « Texte Majoritaire » et la question du texte original du Nouveau Testament*. Bible & Co. <http://timotheeminard.com/bible-selon-shora-kuetu-2-texte-majoritaire-question-du-texte-original-du-nouveau-testament/>
 
 [^tpsg_pourquoi_interpreter]: Varak, F., Tout Pour Sa Gloire. (2018b, mars 2). *Pourquoi chaque chrétien devrait apprendre à interpréter la Bible ?* [Vidéo]. Teachable. <https://toutpoursagloire.teachable.com/courses/60267/lectures/930075>
 
@@ -613,3 +687,5 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
 [^coram_deo_volonte]: Bourin G., Denault P. (2017, 31 janvier). *Connaître la volonté de Dieu, oui mais comment ?* (No. 16) [Podcast audio]. Dans *Coram Deo*. <https://soundcloud.com/coramdeopodcasts/016-connaitre-la-volonte-de-dieu-oui-mais-comment>
 
 [^piper_will]: Piper, J. (2015, 27 septembre). *How to Know the Will of God : Finding Direction with the Renewed Mind*. Desiring God. <https://www.desiringgod.org/messages/how-to-know-the-will-of-god>
+
+[^chan]: Chan, F., Beuving, M., & Platt, D. (2015). *Multipliez-vous : Des disciples qui font des disciples*. BLF Europe.
