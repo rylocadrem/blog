@@ -16,4 +16,15 @@ layout: default
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {%- endif -%}
     {% endfor %}
+
+    {% assign used_category_names = site.breves | map: "categories" | join: ',' | split: ',' | uniq %}
+
+    {%- if used_category_names contains page.name -%}
+    <p class="breves-title">Brèves :</p>
+    {% for breve in site.breves %}
+    {%- if breve.categories contains page.name and breve.hidden != 1 -%}
+    <li><a href="{{ site.baseurl }}{{ breve.url }}">{{ breve.title }}</a></li>
+    {%- endif -%}
+    {% endfor %}
+    {%- endif -%}
 </div>
