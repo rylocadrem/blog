@@ -4,7 +4,7 @@ title: "[En bref] Principes herméneutiques fondamentaux"
 name: "hermeneutique"
 ---
 
-Lisez l'article complet ici : [[Théologie] Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})
+Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})
 {: .read-full-info}
 
 Voici un petit résumé des principes herméneutiques fondamentaux.[^predication_textuelle] [^intro_hermeneutique] [^tpsg_hermeneutique] [^creuser_ecriture]

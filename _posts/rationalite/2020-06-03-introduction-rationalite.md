@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "[BROUILLON] [Rationalité] Introduction à la rationalité"
+title:  "[BROUILLON] Introduction à la rationalité"
 excerpt: Une introduction à la rationalité, aux principes fondamentaux de la pensée critique, aux mécanismes de raisonnement et aux arguments fallacieux.
 date:   2020-06-03 8:30:00 +0200
 categories: rationalite
-tags: ["Rationalité"]
 hidden: 1
 ---
 

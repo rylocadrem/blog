@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "[Théologie] Vérité biblique et volonté de Dieu"
+title:  "Vérité biblique et volonté de Dieu"
 excerpt: "<i>Que dit la Bible ?</i> et <i>Quelle est la volonté de Dieu ?</i> sont deux questions cruciales pour chaque chrétien. Et je crois que nous cherchons tous à y répondre. Pourtant il me semble que leurs questions corolaires, à savoir <i>Comment savoir ce que dit la Bible ?</i> et <i>Comment connaître la volonté de Dieu ?</i> restent souvent sans vraie réponse."
 date: 2020-06-27 21:40:00 +0200
 categories: theologie
-tags: ["Théologie"]
 hidden: 1
 ---
 
@@ -301,7 +300,7 @@ Rectifier ces erreurs est d'une importance capitale pour moi et, je l'espère, p
 
 ### Ne jugez pas, afin de ne pas être jugés (Matthieu 7:1)
 
-Je vous encourage à lire mon article à ce sujet : [[Théologie] Un chrétien peut-il juger ?]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}), notamment la partie [Une exégèse de Matthieu 7:1]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}#une-exégèse-de-matthieu-71).
+Je vous encourage à lire mon article à ce sujet : [Un chrétien peut-il juger ?]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}), notamment la partie [Une exégèse de Matthieu 7:1]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}#une-exégèse-de-matthieu-71).
 
 ### La lettre tue, mais l'Esprit vivifie (2 Corinthiens 3:6)
 

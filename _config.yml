@@ -29,9 +29,9 @@ collections:
   breves:
     output: true
     permalink: /bref/:name
-  # category:
-  #   output: true
-    # permalink: /:collection/:name
+  categories:
+    output: true
+    permalink: /categories/:name
 
 # Analytics
 google_analytics: UA-71616950-5

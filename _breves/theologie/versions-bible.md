@@ -4,7 +4,7 @@ title: "[En bref] Comparaison des traductions françaises de la Bible"
 name: "versions-bible"
 ---
 
-Lisez l'article complet ici : [[Théologie] Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})
+Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})
 {: .read-full-info}
 
 Je récapitule dans le tableau ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :

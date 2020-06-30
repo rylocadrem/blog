@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "[KSB] [Traduction] Kwasizabantu évaluée en rapport aux caractéristiques des sectes"
+title:  "[Traduction] Kwasizabantu évaluée en rapport aux caractéristiques des sectes"
 excerpt_separator: <!--plus-->
 date:   2020-06-08 11:00:00 +0200
-categories: sectes
-tags: ["Sectes", "KSB"]
+categories: sectes ksb
 ---
 
 Cet article est une traduction du chapitre 10 de l'enquête missiologique d'Albert Pilon sur le réveil parmis les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?*.

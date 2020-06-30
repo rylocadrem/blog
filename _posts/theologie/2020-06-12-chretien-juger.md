@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "[Théologie] Un chrétien peut-il juger ?"
+title:  "Un chrétien peut-il juger ?"
 excerpt: Une réflexion sur l'exercice du jugement au regard de la Bible et un élément de réponse à l'argumentaire "il ne faut pas juger".
 date:   2020-06-12 22:07:00 +0200
 categories: theologie
-tags: ["Théologie"]
 ---
 
 Table des matières :

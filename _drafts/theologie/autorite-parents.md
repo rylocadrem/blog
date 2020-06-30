@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "[BROUILLON] [Théologie] L'autorité des parents"
+title:  "[BROUILLON] L'autorité des parents"
 # excerpt: ...
 # date:   2020-06-18 12:00:00 +0200
 categories: theologie
-tags: ["Théologie"]
 ---
 
 🚧 **Version de travail en cours de rédaction** 🚧
