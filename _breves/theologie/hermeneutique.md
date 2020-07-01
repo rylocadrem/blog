@@ -20,7 +20,7 @@ Il faut aussi garder à l'esprit que le découpage en chapitres et versets n'exi
 
 ## 2. Contexte
 
-* **Historique** : Qui a écrit le livre, à qui, à quelle occasion ? Quel était la situation des auteurs et destinataires ? Quel était l'objectif de l'auteur pour ses destinataires ?
+* **Historique** : Qui a écrit le livre, à qui, à quelle occasion ? Quelle était la situation des auteurs et destinataires ? Quel était l'objectif de l'auteur pour ses destinataires ?
 * **Littéraire** : De quoi parlent les passages précédents et suivants ? Comment le texte étudié s'inscrit-il dans le chapitre (ou ensemble de chapitres) dont il est issu ?
 * **Thématique** : Quel est de thème du texte ? Du livre dont est tiré le texte ?
 
