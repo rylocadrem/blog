@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[BROUILLON] Sectes : petit guide critique"
-excerpt: Un guide critique pour aider à l'identification des sectes, à la compréhension des phénomènes psychologiques à l'oeuvre et à l'accompagnement des anciens adeptes.
+excerpt: Un guide critique pour aider à l'identification des sectes, à la compréhension des phénomènes psychologiques à l'œuvre et à l'accompagnement des anciens adeptes.
 date:   2020-06-01 18:00:00 +0200
 categories: sectes
 ---
@@ -216,7 +216,7 @@ Voici une liste de pratiques couramment utilisées dans les sectes, proposée pa
   * **La tromperie verbale**. On altère l'individualité par une demande de conformité au code de bonne conduite du groupe.
   * **L'annonce de dangers imminents**. Menaces qui induisent un climat de peur, permettent d'assurer une emprise sur les individus, et renforcent l'adhésion au groupe.
   * **L'adhésion au groupe**. On renforce le sentiment d'appartenance en introduisant dans un contexte émotionnel intense, des activités originales, qui cimentent le groupe par un « vécu » commun.
-  * **La psalmodie et le chant**. On élimine les pensées étrangères au groupe par la répétition en choeur de chants et de phrases propres à rétrécir le champ de la conscience.
+  * **La psalmodie et le chant**. On élimine les pensées étrangères au groupe par la répétition en chœur de chants et de phrases propres à rétrécir le champ de la conscience.
   * **La méta-communication**. On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes conférences, ou dans des messages audios qu'il faut sans cesse écouter.
   * **L'hypnose**. On induit un état de grande suggestibilité par l'hypnose souvent déguisée habilement en méditation.
   * **La culpabilité**. L'aspiration au salut est exaltée en insistant sur les péchés commis lors de l'ancien mode de vie.

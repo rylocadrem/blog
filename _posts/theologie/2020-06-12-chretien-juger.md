@@ -29,7 +29,7 @@ Le verset le plus cité pour supporter cette objection est :
 
 On peut également citer, sans être exhaustif, les versets suivants :
 
-> Pourquoi regardes-tu la paille qui est dans l'oeil de ton frère, et ne remarques-tu pas la poutre qui est dans ton oeil ?
+> Pourquoi regardes-tu la paille qui est dans l'œil de ton frère, et ne remarques-tu pas la poutre qui est dans ton œil ?
 >
 > — Matthieu 7:3 (NBS)
 
@@ -169,7 +169,7 @@ Par exemple :
 | Référence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Écarts (en rouge) avec le texte original |
 |---|---|---|
 | 1 Jean 5:7-8 | Car il y en a trois <span style="color: red">dans le ciel qui rendent témoignage : Le Père, la Parole, et le Saint-Esprit ; et ces trois-là ne sont qu'un. Il y en a aussi trois</span> qui rendent témoignage <span style="color: red">sur la terre</span>, à savoir l'Esprit, l'eau, et le sang<span style="color: red">, et ces trois-là se rapportent à un.</span> |
-| Actes 8:37 | <span style="color: red">Philippe dit : si tu crois de tout ton coeur, cela est possible. L'eunuque répondit : Je crois que Jésus-Christ est le Fils de Dieu.</span> (*Le verset 37 n'est pas présent dans les textes originaux et a été retiré ou mis entre crochets dans certaines traductions.*)|
+| Actes 8:37 | <span style="color: red">Philippe dit : si tu crois de tout ton cœur, cela est possible. L'eunuque répondit : Je crois que Jésus-Christ est le Fils de Dieu.</span> (*Le verset 37 n'est pas présent dans les textes originaux et a été retiré ou mis entre crochets dans certaines traductions.*)|
 | Matthieu 6:4 | Afin que ton aumône se fasse en secret ; et ton Père qui te voit dans le secret, te le rendra <span style="color: red">publiquement</span>. |
 | Matthieu 9:13 | Car ne ne suis pas venu appeler des justes <span style="color: red">à la repentance</span> mais des pécheurs. |
 | Romains 8:1 | Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ<span style="color: red">, qui marchent, non selon la chair, mais selon l'esprit</span>. |
@@ -232,7 +232,7 @@ Comme l'explique John R.W. Stott[^stott] :
 
 On peut également regarder les versets suivant immédiatement le verset 1 :
 
-> Ne jugez pas, afin de ne pas être jugés. Car c'est avec le jugement par lequel vous jugez qu'on vous jugera, et c'est avec la mesure à laquelle vous mesurez qu'on mesurera pour vous. Pourquoi regardes-tu la paille qui est dans l'oeil de ton frère, et ne remarques-tu pas la poutre qui est dans ton oeil ? Ou bien comment peux-tu dire à ton frère : « Laisse-moi ôter la paille de ton oeil », alors que dans ton oeil il y a une poutre ? Hypocrite, ôte d'abord la poutre de ton oeil ! Alors tu verras comment ôter la paille de l'oeil de ton frère.
+> Ne jugez pas, afin de ne pas être jugés. Car c'est avec le jugement par lequel vous jugez qu'on vous jugera, et c'est avec la mesure à laquelle vous mesurez qu'on mesurera pour vous. Pourquoi regardes-tu la paille qui est dans l'œil de ton frère, et ne remarques-tu pas la poutre qui est dans ton œil ? Ou bien comment peux-tu dire à ton frère : « Laisse-moi ôter la paille de ton œil », alors que dans ton œil il y a une poutre ? Hypocrite, ôte d'abord la poutre de ton œil ! Alors tu verras comment ôter la paille de l'œil de ton frère.
 >
 > — Matthieu 7:1-5
 
@@ -240,7 +240,7 @@ Ces versets nous éclairent sur la raison pour laquelle Jésus proscrit les juge
 
 Et comme l'indique Sam Storms dans son commentaire[^storms] sur les versets 3 à 5 :
 
-> Ce principe s'applique à un nombre incalculable de situations, pensons au fait de dénoncer les péchés extérieurs, visibles, de la chair, tels que l'adultère, le vol, le meurtre, afin d'excuser ou de minimiser ceux qui sont à l'intérieur, les péchés moins visibles du coeur, tels que la jalousie, l'amertume, l'avidité ou la luxure. À cela se rapporte la tendance à mettre en évidence les fautes des autres pour précisément masquer les nôtres. Cette forme de jugement n'est rien d'autre que de l'auto-justification.
+> Ce principe s'applique à un nombre incalculable de situations, pensons au fait de dénoncer les péchés extérieurs, visibles, de la chair, tels que l'adultère, le vol, le meurtre, afin d'excuser ou de minimiser ceux qui sont à l'intérieur, les péchés moins visibles du cœur, tels que la jalousie, l'amertume, l'avidité ou la luxure. À cela se rapporte la tendance à mettre en évidence les fautes des autres pour précisément masquer les nôtres. Cette forme de jugement n'est rien d'autre que de l'auto-justification.
 
 Ensuite, Jésus parle du danger opposé, aux verset 6 et 15 :
 
@@ -264,7 +264,7 @@ Enfin, avant de creuser plus en détail le sujet du jugement à exercer, regardo
 >
 > — Matthieu 18:15-17 (Segond 1910)
 
-> Je vous en supplie, frères et soeurs, méfiez-vous de ceux qui provoquent des divisions et font trébucher les autres en s'opposant à l'enseignement que vous avez reçu. Eloignez-vous d'eux.
+> Je vous en supplie, frères et sœurs, méfiez-vous de ceux qui provoquent des divisions et font trébucher les autres en s'opposant à l'enseignement que vous avez reçu. Eloignez-vous d'eux.
 >
 > — Romains 16:17 (Segond 21)
 
@@ -289,7 +289,7 @@ Enfin, avant de creuser plus en détail le sujet du jugement à exercer, regardo
 >
 > — 1 Jean 4:1
 
-> Quiconque s'écarte de ce chemin et ne demeure pas dans l'enseignement de Christ n'a pas Dieu; celui qui demeure dans l'enseignement de Christ a le Père et le Fils. Si quelqu'un vient chez vous et n'apporte pas cet enseignement, ne le prenez pas chez vous et ne le saluez pas, car celui qui le salue s'associe à ses mauvaises oeuvres.
+> Quiconque s'écarte de ce chemin et ne demeure pas dans l'enseignement de Christ n'a pas Dieu; celui qui demeure dans l'enseignement de Christ a le Père et le Fils. Si quelqu'un vient chez vous et n'apporte pas cet enseignement, ne le prenez pas chez vous et ne le saluez pas, car celui qui le salue s'associe à ses mauvaises œuvres.
 >
 > — 2 Jean 1:9-11 (Segond 21)
 
@@ -311,7 +311,7 @@ Il y aurait bien sûr encore beaucoup à dire sur le jugement et le discernement
 
 ## Réponse à l'objection
 
-Ceux qui émettent l'objection "il ne faut pas juger", "on doit tous se repentir", ou "regarde la poutre qui est dans ton oeil" tordent les Écritures pour faire taire tous ceux qui se risquent à critiquer ou à dévoiler les péchés, défauts ou aberrations doctrinales des autres.
+Ceux qui émettent l'objection "il ne faut pas juger", "on doit tous se repentir", ou "regarde la poutre qui est dans ton œil" tordent les Écritures pour faire taire tous ceux qui se risquent à critiquer ou à dévoiler les péchés, défauts ou aberrations doctrinales des autres.
 
 Leur interprétation simpliste et hors contexte ne tiens pas face à une exégèse (ou même une simple lecture des versets dans leur contexte). Il faut se garder de réduire la Bible à une série de slogans dont on se servirait pour affirmer que l'on a raison sur tel ou tel point.
 
@@ -342,7 +342,7 @@ Cela mériterait un exposé complet, et le livre de D.A. Carson, *The Difficult 
 En résumé, notons qu'on peut distinguer 5 facettes différentes de l'amour de Dieu[^carson_love_god] :
 
 1. **L'amour particulier intra-trinitaire entre le Père et le Fils** : le Père aime le Fils et le Fils aime le Père.
-2. **L'amour providentiel de Dieu pour sa création** : la Création est l'oeuvre d'un Créateur aimant, qui a fait toutes choses bonnes.
+2. **L'amour providentiel de Dieu pour sa création** : la Création est l'œuvre d'un Créateur aimant, qui a fait toutes choses bonnes.
 3. **L'amour salvateur de Dieu pour un monde perdu** : même si Dieu juge le monde, il se présente aussi lui-même comme le Dieu qui invite et ordonne à tous les êtres humains de se repentir.
 4. **L'amour particulier de Dieu pour ses seuls élus** : Dieu met son affection sur ses élus comme il ne la met pas sur les autres. L'élément distinctif n'a rien à voir avec un mérite quelconque ; il n'est rien d'autre que l'amour de Dieu. Cette facette de l'amour de Dieu diffère des trois précédentes.
 5. **L'amour conditionnel de Dieu pour ceux qui lui obéissent** : cette facette de l'amour divin a trait à notre relation avec Dieu une fois que nous le connaissons. Jésus commande d'ailleurs à ses disciples de demeurer dans son amour (Jean 15:9-10).
@@ -363,7 +363,7 @@ Il est clair que ce que la Bible dit sur l'amour de Dieu est plus complexe et pl
 
 Il faut distinguer ces trois termes :
 
-* Le **pardon** c'est renoncer à punir, renoncer à se venger[^antidote_pardon], c'est ne pas garder de rancoeur ou de pensées malveillantes envers le coupable.[^antidote_pardon] [^tlfi_pardon]
+* Le **pardon** c'est renoncer à punir, renoncer à se venger[^antidote_pardon], c'est ne pas garder de rancœur ou de pensées malveillantes envers le coupable.[^antidote_pardon] [^tlfi_pardon]
 
 * La **réconciliation** c'est l'action de rétablir l'amitié ou l'entente entre des personnes ou des groupes hostiles[^antidote_reconciliation], c'est se remettre d'accord.[^tlfi_reconcilier]
 
@@ -421,7 +421,7 @@ Enfin, le pardon ce n'est pas un retour à la relation d'avant, faire comme s'il
 
 Comme le dit le pasteur Sam Storms[^storms_forgiveness] :
 
-> Le pardon ne signifie pas que vous devez ignorer qu'un tort a été fait ou que vous niez qu'un péché a été commis. Le pardon ne signifie pas que vous fermez les yeux sur l'atrocité morale et prétendez que cela n'a pas fait de mal. Il ne signifie pas que cela n'a pas vraiment d'importance si la personne fautive doit ou non rendre des comptes. On ne vous demande pas non plus de diminuer la gravité de l'infraction ou de dire aux autres: "Oh, n'y pensez pas; ce n'était vraiment pas si grave après tout." Le pardon signifie simplement que vous décidez dans votre coeur de laisser Dieu être le vengeur.
+> Le pardon ne signifie pas que vous devez ignorer qu'un tort a été fait ou que vous niez qu'un péché a été commis. Le pardon ne signifie pas que vous fermez les yeux sur l'atrocité morale et prétendez que cela n'a pas fait de mal. Il ne signifie pas que cela n'a pas vraiment d'importance si la personne fautive doit ou non rendre des comptes. On ne vous demande pas non plus de diminuer la gravité de l'infraction ou de dire aux autres: "Oh, n'y pensez pas; ce n'était vraiment pas si grave après tout." Le pardon signifie simplement que vous décidez dans votre cœur de laisser Dieu être le vengeur.
 >
 > Nous ne devons jamais accepter le mensonge selon lequel pardonner signifie que le péché est ignoré ou que l'auteur n'est pas tenu responsable de ses actes.
 >

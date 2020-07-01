@@ -21,7 +21,7 @@ Cet article ne présente que quelques extraits. Pour en savoir plus, vous pouvez
 
 Vous pouvez également lire ma **traduction en français du chapitre 10** de ce même livre, [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %}).
 
-Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'oeuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
 Vous pouvez enfin **vous initier à la rationalité** en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-06-03-introduction-rationalite %})
 
@@ -447,7 +447,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait (page 119)
 
-> Dans sa vision, Thofozi devait faire tout son possible pour mériter le paradis. Cette vision est l'un des piliers les plus importants du message du salut par les oeuvres de Stegen. En conséquence, des conditions préalables sont posées à la justification et à l'expiation. L'individu humain devient celui qui prend l'initiative de sa rédemption. On pourrait donc dire qu'il existe des idées arminiennes extrêmes à Kwasizabantu.
+> Dans sa vision, Thofozi devait faire tout son possible pour mériter le paradis. Cette vision est l'un des piliers les plus importants du message du salut par les œuvres de Stegen. En conséquence, des conditions préalables sont posées à la justification et à l'expiation. L'individu humain devient celui qui prend l'initiative de sa rédemption. On pourrait donc dire qu'il existe des idées arminiennes extrêmes à Kwasizabantu.
 
 ### L'autorité d'Erlo Stegen
 
@@ -547,7 +547,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 2 (page 135)
 
-> Puisque Stegen se conforme superficiellement à la théologie chrétienne, pour les croyants européens il est difficile de reconnaître l'influence de la tradition zouloue sur les habitudes du mouvement de réveil, d'autant plus qu'ils considèrent ces habitudes comme le résultat du réveil et conformes à la volonté de Dieu. Le coeur de ce soi-disant réveil se situe en dehors de la spiritualité chrétienne.
+> Puisque Stegen se conforme superficiellement à la théologie chrétienne, pour les croyants européens il est difficile de reconnaître l'influence de la tradition zouloue sur les habitudes du mouvement de réveil, d'autant plus qu'ils considèrent ces habitudes comme le résultat du réveil et conformes à la volonté de Dieu. Le cœur de ce soi-disant réveil se situe en dehors de la spiritualité chrétienne.
 
 ### *uMoya* à Kwasizabantu
 

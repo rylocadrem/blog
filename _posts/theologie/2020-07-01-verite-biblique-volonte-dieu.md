@@ -2,7 +2,7 @@
 layout: post
 title:  "Vérité biblique et volonté de Dieu"
 excerpt: "<i>Que dit la Bible ?</i> et <i>Quelle est la volonté de Dieu ?</i> sont deux questions cruciales pour chaque chrétien. Et je crois que nous cherchons tous à y répondre. Pourtant il me semble que leurs questions corolaires, à savoir <i>Comment savoir ce que dit la Bible ?</i> et <i>Comment connaître la volonté de Dieu ?</i> restent souvent sans vraie réponse."
-date: 2020-06-27 21:40:00 +0200
+date: 2020-07-01 07:00:00 +0200
 categories: theologie
 ---
 
@@ -27,7 +27,7 @@ Il me parait donc pertinent de faire une petite étude sur le sujet, étayée pa
 
 ## Comment savoir ce que dit la Bible
 
-### Pourquoi interpréter la bible ?
+### Pourquoi interpréter la Bible ?
 
 On peut se demander *faut-il interpréter la Bible ?* Et si oui, *pourquoi ?*
 
@@ -42,7 +42,7 @@ Le *Dictionnaire de l'Académie Française*[^daf_interpreter] donne cette défin
 
 C'est ce sens premier que je retiens dans cet article, excluant les sens secondaires qui sont "extrapoler, passer à une conclusion à partir de données incomplètes" ou encore "donner un sens personnel, parmi d'autres possibles, à un acte, à un fait, dont l'explication n'apparaît pas de manière évidente". Car ce n'est pas de cela dont il est question ici.
 
-En réalité nous sommes tous des interprètes, que nous le voulions ou non. Et l'interprétation est même au coeur du Nouveau Testament, au coeur de l'enseignement de Jésus et des apôtres, au coeur de la foi chrétienne.
+En réalité nous sommes tous des interprètes, que nous le voulions ou non. Et l'interprétation est même au cœur du Nouveau Testament, au cœur de l'enseignement de Jésus et des apôtres, au cœur de la foi chrétienne.
 
 > Et, commençant par Moïse et par tous les Prophètes, il leur fit l'interprétation de ce qui, dans toutes les Écritures, le concernait.
 >
@@ -50,7 +50,7 @@ En réalité nous sommes tous des interprètes, que nous le voulions ou non. Et 
 
 Dans les Actes on lit l'histoire de Philippe et de l'eunuque éthiopien :
 
-> Philippe accourut et entendit l'Ethiopien qui lisait le Prophète Esaïe. Il lui dit : Comprends-tu ce que tu lis ? Il répondit : Comment le pourrais-je, si personne ne me guide ? Et il invita Philippe à monter s'asseoir avec lui. [...] Alors Philippe prit la parole et, commençant par cette Ecriture, il lui annonça la bonne nouvelle de Jésus.
+> Philippe accourut et entendit l'Éthiopien qui lisait le Prophète Esaïe. Il lui dit : Comprends-tu ce que tu lis ? Il répondit : Comment le pourrais-je, si personne ne me guide ? Et il invita Philippe à monter s'asseoir avec lui. [...] Alors Philippe prit la parole et, commençant par cette Écriture, il lui annonça la bonne nouvelle de Jésus.
 >
 > — Actes 8:30-31,35 (NBS)
 
@@ -72,7 +72,7 @@ Cependant beaucoup d'entre nous, je crois, avons souvent lu la Bible avec un *se
 
 Le danger, c'est qu'alors cela signifierait que toute personne en désaccord avec nous ne serait en fait pas fidèle à la Bible ; puisque notre point de vue nous aurait été révélé directement par Dieu.
 
-Cette approche, outre le fait qu'elle n'est enseignée nulle-part dans les Écritures comme étant normative, rend non seulement la discussion avec les autres très difficile, mais réduit également la possibilité que notre interprétation soit à un moment donné imparfaite, et puisse changer, croître ou se développer.
+Cette approche, outre le fait qu'elle n'est enseignée nullepart dans les Écritures comme étant normative, rend non seulement la discussion avec les autres très difficile, mais réduit également la possibilité que notre interprétation soit à un moment donné imparfaite, et puisse changer, croître ou se développer.
 
 D'ailleurs, Jean Calvin écrivait à propos de cette méthode d'interprétation dite "allégorique" ou "spirituelle"[^calvin_context] :
 
@@ -200,9 +200,9 @@ Tableau de comparaison :
 | Bible de Lausanne                        | 1872 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Synodale                                 | 1910 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Bible du Centenaire                      | 1947 | Protestante | Littérale      | Standard           | Massorétique et Pentateuque Samaritain | Texte Minoritaire               | Non               |
-| Parole de Vie                            | 2000 | oecuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
-| TOB                                      | 1988 | oecuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
-| Bible en français courant                | 1982 | oecuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
+| Parole de Vie                            | 2000 | Œcuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
+| TOB                                      | 1988 | Œcuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
+| Bible en français courant                | 1982 | Œcuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
 | Sacy                                     | 1867 | Catholique  | Semi-littérale | Soutenu            | Vulgate                                | Vulgate                         | Oui               |
 | Crampon                                  | 1904 | Catholique  | Littérale      | Soutenu            | Massorétique                           | Texte Reçu                      | Oui               |
 | Vulgate Glaire                           | 1947 | Catholique  | Littérale      | Standard           | Vulgate                                | Vulgate                         | Oui               |
@@ -270,11 +270,11 @@ A titre d'exemple, voici quelques écarts avec le Texte Minoritaire :
 | Matthieu 9:13 | Car ne ne suis pas venu appeler des justes <span style="color: red">à la repentance</span> mais des pécheurs. |
 | Marc 16:9-20 | *Le passage n'est pas présent dans les manuscrits les plus anciens et il y a "une rupture évidente de style et de vocabulaire avec le reste du livre"* |
 | Ephésiens 5:9 | Car le fruit de <span style="color: red">l'Esprit</span> <span style="color: blue">la lumière</span> consiste en toute sorte de bonté, de justice et de vérité |
-| Actes 8:37 | <span style="color: red">Philippe dit : si tu crois de tout ton coeur, cela est possible. L'eunuque répondit : Je crois que Jésus-Christ est le Fils de Dieu.</span> (*Le verset 37 n'est pas présent dans les manuscrits les plus anciens.*)|
+| Actes 8:37 | <span style="color: red">Philippe dit : si tu crois de tout ton cœur, cela est possible. L'eunuque répondit : Je crois que Jésus-Christ est le Fils de Dieu.</span> (*Le verset 37 n'est pas présent dans les manuscrits les plus anciens.*)|
 | Romains 8:1 | Il n'y a donc maintenant aucune condamnation pour ceux qui sont en Jésus-Christ<span style="color: red">, qui marchent, non selon la chair, mais selon l'esprit</span>. |
 | 1 Jean 5:7-8 | Car il y en a trois <span style="color: red">dans le ciel qui rendent témoignage : Le Père, la Parole, et le Saint-Esprit ; et ces trois-là ne sont qu'un. Il y en a aussi trois</span> qui rendent témoignage <span style="color: red">sur la terre</span>, à savoir l'Esprit, l'eau, et le sang<span style="color: red">, et ces trois-là se rapportent à un.</span> |
 | Jude 1:25 | A Dieu seul, <span style="color: red">sage et</span> notre Sauveur, <span style="color: blue">par Jésus-Christ, notre Seigneur,</span> soient gloire, majesté, pouvoir et autorité <span style="color: blue">dès avant tous les temps,</span> maintenant et pour tous les temps ! Amen ! |
-| Appocalypse 22:19 | Et si quelqu’un retranche des paroles du livre de cette prophétie, Dieu retranchera sa part <span style="color: red">du livre de vie</span> <span style="color: blue">de l’arbre de la vie</span> et de la ville sainte décrits dans ce livre. |
+| Appocalypse 22:19 | Et si quelqu'un retranche des paroles du livre de cette prophétie, Dieu retranchera sa part <span style="color: red">du livre de vie</span> <span style="color: blue">de l'arbre de la vie</span> et de la ville sainte décrits dans ce livre. |
 
 ### La critique textuelle
 
@@ -338,13 +338,11 @@ Je prends ici quelques exemples de passages dont le sens a été tordu, et que j
 
 En sortant de la [secte Kwasizabantu]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %}), où les interprétations instrumentalisées sont la norme,  savoir rectifier ce genre d'erreur est d'une importance capitale pour moi et, je l'espère, pour tous ceux qui ont quitté KSB.
 
-J'analyserai Matthieu 7:1 et 2 Corinthiens 3:6 en détails, et les autres versets bien plus brièvement.
-
-### Ne jugez pas, afin de ne pas être jugés (Matthieu 7:1)
-
-Mon analyse peut être lue dans cet article dédié : [Un chrétien peut-il juger ?]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}), notamment la partie [Une exégèse de Matthieu 7:1]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}#une-exégèse-de-matthieu-71).
+J'analyserai 2 Corinthiens 3:6 et Matthieu 7:1 en détails, et les autres versets bien plus brièvement.
 
 ### La lettre tue, mais l'Esprit vivifie (2 Corinthiens 3:6)
+
+Ce premier passage estd'une grande importance car l'interprétation erronée qui en est faite est en rapport direct avec le sujet de cet article.
 
 #### L'interprétation erronée
 
@@ -384,6 +382,20 @@ Plus de 70 pasteurs et théologiens de différentes dénominations protestantes 
 
 Leurs enseignements sur l'interprétation "spirituelle" de la Bible sont donc à considérer avec la plus grande prudence.
 
+Comme le résume Sam Storms[^storms] à propos de ceux qui abordent la Bible de cette manière, et qu'il désigne sous le nom de *mystiques* :
+
+> Les mystiques ont tendance à interpréter les Écritures de manière allégorique. Ils ont ainsi souvent été donnés à des idées fantaisistes sur le sens et l'application de la Parole.
+>
+> L'accent mystique sur la relation amoureuse entre Dieu et l'homme peut souvent conduire à négliger la sainteté divine. Il est également possible, dans la quête mystique de l'intimité avec Dieu, de surestimer le fruit subjectif à l'exclusion du fondement objectif.
+>
+> Il est possible, dans la quête mystique de la révélation visionnaire, d'accorder l'autorité religieuse à son expérience plutôt qu'à l'Écriture seule. Nous ne devons jamais oublier que toute expérience doit être interprétée. Tous les états d'esprit et émotions subjectifs doivent être mis sous le projecteur des principes objectifs de la Parole écrite de Dieu. Le mysticisme a conduit certains à conclure qu'en raison des profondeurs d'intimité qu'ils éprouvent avec Dieu, la révélation objective n'est plus essentielle.
+>
+> Il est possible, dans la quête du mystique d'intimité avec Dieu, de perdre de vue la distinction entre Créateur et créature. C'est peut-être la plus grande erreur parmi les mystiques. Quelques-uns des mystiques ont mis l'accent sur "l'unité" ou "l'union" avec Dieu à un point tel qu'ils brouillaient la distinction fondamentale entre l'homme et Dieu. Dans notre désir de nous rapprocher de Dieu, nous ne devons jamais perdre de vue qu'il est Dieu et nous ne le sommes pas!
+>
+> De nombreux mystiques ont tendance à dénigrer le rôle de l'intellect dans la croissance spirituelle et l'amour pour Dieu. C'est-à-dire que l'anti-intellectualisme est une caractéristique commune à de nombreuses variétés de mysticisme. Une indication de cette tendance est lorsque les mystiques abandonnent la discipline de l'étude des Écritures au profit de la contemplation et de l'illumination. C'est souvent le résultat de leur suspicion tacite et de leur méfiance à l'égard de l'intellect ainsi que de leur tendance à valoriser l'expérience par rapport à la raison.
+>
+> Enfin, le but ultime du mystique d'union avec Dieu et la vision béatifique devient souvent la récompense de l'effort humain plutôt que le don de la grâce divine.
+
 #### Comment comprendre ce verset ?
 
 Commençons déjà par lire le verset dans son intégralité :
@@ -400,7 +412,7 @@ Ensuite lisons les deux verset suivants :
 >
 > — 2 Corinthiens 3:7-8 (NBS)
 
-Ces versets explicitent clairement que la *lettre* désigne la loi de Moïse, par opposition à l'oeuvre de Christ.
+Ces versets explicitent clairement que la *lettre* désigne la loi de Moïse, par opposition à l'œuvre de Christ.
 
 On le voit encore au verset 14 :
 
@@ -426,7 +438,7 @@ Ainsi que dans celle aux Galates :
 
 Finalement, que pouvons-nous tirer de ce verset ?
 
-Comme dans tous ces écrits, Paul défend le véritable message de l'Évangile, le salut par grâce au moyen de la foi seule. Mais comme partout et à toutes les époques, de faux enseignants veulent ajouter quelque chose à l'oeuvre de Christ. Ici Paul réaffirme que la loi, l'ancienne alliance donne la mort et que la salut, la vie ne s'obtient que par la foi en Christ.
+Comme dans tous ces écrits, Paul défend le véritable message de l'Évangile, le salut par grâce au moyen de la foi seule. Mais comme partout et à toutes les époques, de faux enseignants veulent ajouter quelque chose à l'œuvre de Christ. Ici Paul réaffirme que la loi, l'ancienne alliance donne la mort et que la salut, la vie ne s'obtient que par la foi en Christ.
 
 #### L'avis des commentateurs
 
@@ -454,7 +466,7 @@ Matthew Henry écrit[^henry] :
 >
 > L'Évangile dépasse tellement la loi en gloire, qu'il éclipse la gloire de la dispense légale. Mais même le Nouveau Testament sera une lettre mortelle, si il est montré comme un simple système ou une forme, et sans dépendance à Dieu pour lui donner un pouvoir vivifiant.
 
-Jean Calvin a écrit[^calvin_com] :
+Jean Calvin a écrit[^calvin_com_3] :
 
 > Il ne fait aucun doute que par la lettre, Paul voulait dire l'Ancien Testament, comme par le mot Esprit, il signifie l'Évangile ; car, quand il se dit ministre de la nouvelle alliance, il ajoute aussi immédiatement qu'il est ministre de l'Esprit; et c'est à cet égard qu'il oppose la lettre à l'Esprit.
 
@@ -470,44 +482,107 @@ Warren W. Wiersbe écrit[^wiersbe] :
 >
 > Un ministère légaliste engendre la mort. Les prédicateurs spécialisés dans les règles et les jugements maintiennent leur communauté sous un sombre nuage de culpabilité, lui ôtant toute joie, toute puissance et tout témoignage efficace pour le Christ. Les chrétiens qui se mesurent constamment aux autres, en comparant leurs "résultats" et en se concurrençant, ne tardent pas à découvrir qu'ils s'appuient sur la chair et non sur la puissance de l'Esprit. Aucune règle n'a jamais pu transformer la vie d'un individu, pas même les dix commandements. Seule la grâce de Dieu, dirigée par son Esprit, peut transformer des pécheurs perdus en lettres vivantes qui glorifient Jésus-Christ.
 
+### Ne jugez pas, afin de ne pas être jugés (Matthieu 7:1)
+
+Mon analyse peut être lue dans cet article dédié : [Un chrétien peut-il juger ?]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}), notamment la partie [Une exégèse de Matthieu 7:1]({{ site.baseurl }}{% post_url theologie/2020-06-12-chretien-juger %}#une-exégèse-de-matthieu-71).
+
 ### Je connais les projets que je forme pour vous, projets de paix et non de malheur (Jérémie 29:11)
 
-**L'interprétation erronée** :
+**Interprétation erronée** : promesse de bonheur, de succès ou de réussite, à court terme, pour notre vie
 
-Dieu a un plan merveilleux pour notre vie, un plan de succès et de réussites.
+**Interprétation biblique** : promesse de fidélité, à long terme
 
-**L'interprétation biblique** :
+On en apprend sur le contexte en lisant le chapitre précédent, où Jérémie prononce un jugement sur le faux prophète Hanania. Ce dernier avait dit au peuple que Dieu le libèrerait de Babylone et le ferait rentrer chez lui dans les deux ans. Son message était attrayant pour les hébreux mais était faux. Dieu a donc condamné Hanania à mourrir (Jérémie 28: 15-17).
 
-Voici l'explication que donne Francis Chan[^chan] :
+Au lieu de cela, Jérémie annonce au peuple qu'il vivra en exil à Babylone pendant encore 70 ans. Il annonce donc aux destinataires de la lettre la terrible nouvelle que la plupart d'entre eux mourront loin de Jérusalem.
 
-> Le contexte historique d’un passage permet souvent d’éclairer le sens du passage. Il faudra parfois consulter des ressources extérieures, comme une Bible d’étude, un dictionnaire biblique ou un commentaire. Mais bien souvent, les indications historiques se trouvent dans la Bible elle-même. L’Ancien Testament, par exemple, est truffé de récits historiques détaillés. Le Nouveau Testament, lui, fournit un nombre considérable de données historiques, tout particulièrement dans les Évangiles et le livre des Actes.
+Tout celà se comprend bien en lisant les versets précédant et suivant Jérémie 29:11 :
+
+> Car ainsi parle le Seigneur des Armées, le Dieu d'Israël : Ne vous laissez pas tromper par vos prophètes, ceux qui sont parmi vous, ni par vos devins ; ne prêtez pas attention aux rêves que vous faites ! Car c'est mensongèrement qu'ils vous parlent en prophètes en mon nom. Je ne les ai pas envoyés – déclaration du Seigneur .
 >
-> Prenons un exemple. Entrez dans n’importe quelle librairie chrétienne et vous trouverez toutes sortes de bibelots sur lesquels est inscrit le verset de Jérémie 29.11 : *En effet, moi, je connais les projets que je forme pour vous, déclare l’Éternel, projets de paix et non de malheur, afin de vous donner un avenir et de l’espérance*. Les gens aiment ce verset parce qu’ils l’interprètent comme si Dieu promettait de nous garder de tout mal et de nous bénir. Mais Jérémie avait-il réellement cette intention ?
+> Mais ainsi parle le Seigneur : Dès que soixante-dix ans seront écoulés pour Babylone, j'interviendrai pour vous et je réaliserai à votre égard ma bonne parole en vous ramenant en ce lieu. Je connais, moi, les plans que je prépare à votre intention – déclaration du Seigneur – non pas des plans de malheur, mais des plans de paix, afin de vous donner un avenir et un espoir.
 >
-> Regardons le contexte historique : Jérémie écrivait aux Juifs exilés à Babylone. Ils avaient été déportés en captivité à cause de leur manque de fidélité envers Dieu. Jérémie leur a annoncé qu’ils passeraient 70 années en captivité et qu’ils devaient donc s’installer dans le pays et chercher à bénir Babylone pendant qu’ils s’y trouvaient. Puis vient Jérémie 29.11. Dieu a promis qu’il avait effectivement un plan pour son peuple et qu’il le restaurerait dans le pays d’Israël quand les jours d’exil seraient écoulés.
+> Alors, vous m'invoquerez, et vous pourrez partir ; vous me prierez, et je vous entendrai. Vous me rechercherez et vous me trouverez, car vous me chercherez de tout votre cœur. Je me laisserai trouver par vous – déclaration du Seigneur – et je rétablirai votre situation ; je vous rassemblerai de toutes les nations et de tous les lieux où je vous ai bannis, – déclaration du Seigneur – et je vous ramènerai en ce lieu d'où je vous ai exilés. '
 >
-> Le contexte historique révèle que Jérémie 29.11 n’est pas une sorte de chèque en blanc du Seigneur. Dieu ne nous promet pas, dans ce texte, que rien de mal ne nous arrivera à nous aujourd’hui. Nous avons beaucoup à apprendre de la manière dont Dieu s’est occupé d’Israël pendant leurs années d’exil et de châtiment. Nous pouvons même constater la compassion de Dieu dans cette histoire et ainsi acquérir l’assurance que ce même Dieu compatissant prendra soin de nous aujourd’hui. Mais partir du principe que ces paroles pourraient s’appliquer directement à chaque circonstance de ma vie aujourd’hui, comme une promesse de prospérité, c’est tordre les Écritures. Le contexte historique n’influence pas toujours la signification d’un passage, mais nous devons toujours prendre en considération les destinataires des auteurs bibliques, ainsi que les raisons qui ont poussé à la rédaction du message.
+> — Jérémie 29:8-14 (NBS)
 
-Pour en savoir plus, regardez [la prédication de Guillaume Bourin à ce sujet](https://www.youtube.com/watch?v=nMT8c6W-kC4).
+En complément, voici le commentaire que fait Francis Chan[^chan] :
 
+> Le contexte historique d'un passage permet souvent d'éclairer le sens du passage. Il faudra parfois consulter des ressources extérieures, comme une Bible d'étude, un dictionnaire biblique ou un commentaire. Mais bien souvent, les indications historiques se trouvent dans la Bible elle-même. L'Ancien Testament, par exemple, est truffé de récits historiques détaillés. Le Nouveau Testament, lui, fournit un nombre considérable de données historiques, tout particulièrement dans les Évangiles et le livre des Actes.
+>
+> Prenons un exemple. Entrez dans n'importe quelle librairie chrétienne et vous trouverez toutes sortes de bibelots sur lesquels est inscrit le verset de Jérémie 29.11 : *En effet, moi, je connais les projets que je forme pour vous, déclare l'Éternel, projets de paix et non de malheur, afin de vous donner un avenir et de l'espérance*. Les gens aiment ce verset parce qu'ils l'interprètent comme si Dieu promettait de nous garder de tout mal et de nous bénir. Mais Jérémie avait-il réellement cette intention ?
+>
+> Regardons le contexte historique : Jérémie écrivait aux Juifs exilés à Babylone. Ils avaient été déportés en captivité à cause de leur manque de fidélité envers Dieu. Jérémie leur a annoncé qu'ils passeraient 70 années en captivité et qu'ils devaient donc s'installer dans le pays et chercher à bénir Babylone pendant qu'ils s'y trouvaient. Puis vient Jérémie 29.11. Dieu a promis qu'il avait effectivement un plan pour son peuple et qu'il le restaurerait dans le pays d'Israël quand les jours d'exil seraient écoulés.
+>
+> Le contexte historique révèle que Jérémie 29.11 n'est pas une sorte de chèque en blanc du Seigneur. Dieu ne nous promet pas, dans ce texte, que rien de mal ne nous arrivera à nous aujourd'hui. Nous avons beaucoup à apprendre de la manière dont Dieu s'est occupé d'Israël pendant leurs années d'exil et de châtiment. Nous pouvons même constater la compassion de Dieu dans cette histoire et ainsi acquérir l'assurance que ce même Dieu compatissant prendra soin de nous aujourd'hui. Mais partir du principe que ces paroles pourraient s'appliquer directement à chaque circonstance de ma vie aujourd'hui, comme une promesse de prospérité, c'est tordre les Écritures. Le contexte historique n'influence pas toujours la signification d'un passage, mais nous devons toujours prendre en considération les destinataires des auteurs bibliques, ainsi que les raisons qui ont poussé à la rédaction du message.
+
+Pour en savoir plus, regardez [la prédication de Guillaume Bourin à ce sujet](https://www.youtube.com/watch?v=nMT8c6W-kC4) :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/nMT8c6W-kC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Je peux tout par celui qui me fortifie (Philippiens 4:13)
 
-### La prière de la foi sauvera le malade et le Seigneur le relèvera. S'il a commis des péchés, le pardon lui sera accordé. (Jacques 5:15)
+**Interprétation erronée** : celui qui croit en Jésus peut surmonter tous les obstacles de la vie et réussir tout ce qu'il entreprend
 
-### Que chacun soit soumis aux autorités établies ; car il n’y a pas d’autorité qui ne vienne de Dieu, et celles qui existent ont été instituées par Dieu (Romains 13:1)
+**Interprétation biblique** : celui qui croit en Jésus peut se contenter de toute condition et endurer toute persécution
 
-### Demandez, et l’on vous donnera ; cherchez, et vous trouverez ; frappez, et l’on vous ouvrira (Luc 11:9)
+Paul écrit ce verset alors qu'il est prisonnier et attend son jugement et sa potentielle exécution. Il écrit aux Philippiens qu'ils doivent puiser leur force en Christ face à l'adversité.
 
-### Tout contribue au bien de ceux qui aiment Dieu (Romains 8:28)
+> Je ne dis pas cela en raison d'un manque ; moi, en effet, j'ai appris à me contenter de l'état où je me trouve. Je sais vivre humblement comme je sais vivre dans l'abondance. En tout et partout, j'ai appris à être rassasié et à avoir faim, à être dans l'abondance et à être dans le manque. Je peux tout en celui qui me rend puissant.
+>
+> — Philippiens 4:11-13 (NBS)
+
+Comme l'explique le commentaire de la Bible de Neuchâtel[^neuchatel_p413] :
+
+> Par ces der­niers mots, qui in­diquent si bien la plé­ni­tude de la grâce dont Dieu peut com­bler un pauvre pé­cheur, Paul se hâte de don­ner à *Celui qui le fortifie* toute la gloire de cette dif­fi­cile science du conten­te­ment d'es­prit, même au sein des pri­va­tions.
+
+### Que chacun soit soumis aux autorités établies ; car il n'y a pas d'autorité qui ne vienne de Dieu, et celles qui existent ont été instituées par Dieu (Romains 13:1)
+
+**Interprétation erronée** : les Chrétiens doivent obéir en toute chose aux autorités
+
+**Interprétation biblique** : les Chrétiens doivent êtres soumis aux autorités en général, ne pas se faire justice eux-mêmes et ne pas utiliser leur foi comme une excuse pour désobéir aux lois
+
+Ce verset a été instrumentalisé par des chrétiens au cours de l'histoire par exemple pour exiger le maintien de l'esclavage aux États-Unis[^atlantic] ou justifier la ségragation raciale en Afrique-du-Sud.[^munro]
+
+Lisons ce verset dans son contexte :
+
+> Que chacun soit soumis aux autorités établies ; car il n'y a pas d'autorité qui ne vienne de Dieu, et celles qui existent ont été instituées par Dieu. C'est pourquoi celui qui résiste à l'autorité s'oppose à l'ordre de Dieu ; ceux qui s'opposent attireront un jugement sur eux-mêmes. Les chefs, en effet, ne sont pas à craindre quand on fait le bien, mais quand on fait le mal. Veux-tu ne pas craindre l'autorité ? Fais le bien, et tu auras son approbation, car elle est au service de Dieu pour ton bien. Mais si tu fais le mal, crains, car ce n'est pas pour rien qu'elle porte l'épée : elle est en effet au service de Dieu pour faire justice, pour la colère, contre celui qui pratique le mal. C'est pourquoi il est nécessaire d'être soumis – non seulement à cause de la colère, mais encore par motif de conscience. C'est aussi pour cela que vous payez des impôts. Car les gouvernants sont attachés au service de Dieu pour cette fonction même. Rendez à chacun ce qui lui est dû – l'impôt à qui vous devez l'impôt, la taxe à qui vous devez la taxe, la crainte à qui vous devez la crainte, l'honneur à qui vous devez l'honneur.
+>
+> — Romains 13:1-7 (NBS)
+
+Ces versets indiquent que le chrétien ne doit pas utiliser la liberté conférée par sa foi comme une excuse pour ne pas obéir, pour ne pas payer l'impôt, etc. Dans le contexte plus large de l'épitre, notamment du chapitre 12, on voit que ce passage s'inscrit dans une exhortation à s'en remettre aux autorités civiles pour la justice ("ne vous faites pas justice vous-mêmes") et, en particulier pour les chrétiens d'origine juive vivant à Rome, à ne pas chercher à renverser le gouvernement laïque pour instaurer un gouvernement religieux chrétien.
+
+Comme le dit Thomas d'Aquin[^aquin] :
+
+> L'ordre d'autorité vient de Dieu, comme le dit l'apôtre dans Romains 13: 1-7. Pour cette raison, le devoir d'obéissance est, pour le chrétien, une conséquence de cette dérivation de l'autorité de Dieu, et cesse quand cela cesse.
+>
+> L'autorité peut ne pas venir de Dieu pour deux raisons : soit à cause de la manière dont l'autorité a été obtenue, soit à cause de l'usage qui en est fait.
+
+Jean Calvin donne des explications détaillées dans l'*Institution de la religion chrétienne*[^irc] et dans son commentaire sur l'épitre aux Romains[^calvin_com_3], dont voici des extraits :
+
+> Ce qui est affirmé c'est que le droit à gouverner est ordonné de Dieu pour le bien commun.
+
+> Tous les pouvoirs ont été ordonnés par Dieu, y compris non seulement le roi mais aussi tous les magistrats inférieurs. Ces fonctionnaires de rang inférieur devaient résister aux rois lorsqu'ils tyrannisaient et insultent les plus humbles du peuple. La Bible appelle à résister à l'obéissance servile aux désirs dépravés d'une autorité légalement constituée.
+
+C'est cette affirmation de Calvin que le théologien Wayne Grudem reformule selon ses termes[^grudem] :
+
+> Il est moralement juste pour un fonctionnaire inférieur de protéger les citoyens dont il a la garde contre un fonctionnaire supérieur qui commet des crimes contre ces citoyens.
+
+Et le commentateur Steve Scott ajoute[^patheos_romans13] :
+
+> Romains 13 souffre d'une division de chapitre artificielle mal placée [reppelons que les chapitres et versets n'existent pas dans les textes originaux] qui, si elle est lue à partir de Romains 13:1, déforme le vrai sens du contexte général découlant du chapitre 12.
+>
+> Le contexte général dit que si quelqu'un commet un mal contre vous, vous ne vous vengerez pas, mais permettrez au magistrat civil de punir le malfaiteur. Si vous commencez à lire en Romains 13:1, il semble que le texte justifie un gouvernement autoritaire et exige que nous obéissions à toutes les lois. Mais pris dans le contexte global, le chapitre 13 nous dit en fait que si nous commettons le mal, alors nous devons nous soumettre à la punition qui nous est donnée. Il s'agit beaucoup moins d'obéir au gouvernement et de lui être fidèle que d'accepter la justice lorsque nous faisons le mal.
+
+Pour en savoir plus, écoutez [l'émission de Raymond Perron sur le sujet](https://pca.st/g658hh2b).
 
 ## Comment connaitre la volonté de Dieu ?
 
-<!-- TODO -->
+Maintenant que nous avons vu le *comment* de la vérité biblique, qu'en est-il de la volonté de Dieu ? En réalité, la réponse est simple.
 
 ### Les fausses bonnes méthodes
 
-Chaque jour, nous prenons des décisions sans même nous en rendre compte. Mais pour celles que nous estimons plus importantes, nous nous demandons: "Quelle est la volonté de Dieu ?" Dans son livre Suis-moi[^platt], le pasteur David Platt relève quelques *fausses bonnes méthodes* :
+Chaque jour, nous prenons des décisions sans même nous en rendre compte. Mais pour celles que nous estimons plus importantes, nous nous demandons: "Quelle est la volonté de Dieu ?" Dans son livre *Suis-moi*[^platt], le pasteur David Platt relève quelques *fausses bonnes méthodes* :
 
 1. **La méthode du doigt au hasard** : fermez les yeux, ouvrez votre Bible au hasard et mettez le doigt sur un verset; puis ouvrez les yeux et découvrez les projets que Dieu a pour vous.
 
@@ -519,7 +594,7 @@ Chaque jour, nous prenons des décisions sans même nous en rendre compte. Mais 
 
 5. **La méthode de la porte ouverte (ou fermée)** : voir les opportunités ou les blocages comme un "oui" ou un "non" de Dieu.
 
-De celles-ci, les méthodes de la *paix intérieure* et de la *porte ouverte* sont les plus répandues chez les chrétiens. Et comme le dit Guillaume Bourin[^gb_volonte], ce qu'on prend pour la voix de Dieu n'est souvent que notre propre voix et on peut rapidement se leurrer.
+De celles-ci, les méthodes de la *paix intérieure* et de la *porte ouverte* sont les plus répandues chez les chrétiens. Et comme le dit Guillaume Bourin[^gb_volonte] : ce qu'on prend pour la voix de Dieu n'est souvent que notre propre voix et on peut rapidement se leurrer.
 
 ### Les volontés de Dieu
 
@@ -527,13 +602,21 @@ Lorsqu'on parle de *volonté de Dieu*, on peut parler de trois choses distinctes
 
 * La *volonté souveraine* de Dieu : tout arrive car Dieu l'a permis
 * La *volonté morale* de Dieu : le désir de Dieu, ses préceptes
-* La *volonté individuelle* de Dieu : les choix que Dieu veut que nous fassions spécifiquement (qui épouser, où étudier, etc.)
+* La *volonté spécifique* de Dieu : les choix que Dieu veut que nous fassions spécifiquement (qui épouser, où étudier, etc.)
 
-Or la *volonté individuelle* de Dieu n'a aucun fondement biblique[^glass].
+Or la *volonté spécifique* de Dieu n'a aucun fondement biblique.[^glass]
 
 ### La méthode biblique
 
-Il s'agit simplement de respecter la volonté morale Dieu comme révélée dans sa Parole puis de jouir de notre liberté chrétienne en prenant nos propres décisions avec sagesse.[^coram_deo_volonte] [^muller] [^piper_will]
+Comme le résume John Piper[^piper_will_2] :
+
+> La Bible ne nous dit pas quelle personne épouser, ni quelle voiture conduire, ni si nous devons devenir propriétaire d'une maison ou non, ni où prendre nos vacances, ni quel forfait téléphonique choisir, ni quelle marque de jus d'orange nous pouvons boire. Elle ne donne pas de réponse spécifique à tous les choix que nous devons faire.
+>
+> Il est nécessaire que notre intelligence soit renouvelée, afin qu'elle soit formée et gouvernée par la volonté de Dieu révélée dans la Bible, afin que nous puissions voir et évaluer chaque facteur pertinent avec l'esprit de Christ, et discerner ce que Dieu nous appelle à faire. C'est très différent de nos efforts pour chercher constamment à entendre la voix de Dieu afin de faire nos choix. Les personnes qui s'attendent constamment à entendre une voix conduire leur vie ne sont pas en accord avec Romains 12:2.
+>
+> Il y a un monde de différence entre prier et travailler à une intelligence renouvelée qui discerne comment appliquer la Parole de Dieu, d'un côté, et l'habitude de demander à Dieu une nouvelle révélation de ce que vous devez faire. La divination ne demande pas de transformation de votre part, ni sanctification, ni d'être libéré par la vérité de sa Parole révélée (Jean 8:32 ; 17:17). Trouver la volonté de Dieu est discerner l'application des Écritures dans les situations de la vie en utilisant notre intelligence renouvelée.
+
+Il s'agit donc simplement de respecter la volonté morale Dieu comme révélée dans sa Parole puis de jouir de notre liberté chrétienne en prenant nos propres décisions avec sagesse.[^coram_deo_volonte] [^muller] [^piper_will]
 
 ## Quelques ressources
 
@@ -543,7 +626,7 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
 
 * Livres
   * [[13.90€] La prédication textuelle : Comment bien communiquer la Parole de Dieu aujourd'hui](https://maisonbible.fr/fr/48632-predication-textuelle--la---comment-bien-communiquer-la-parole-de-dieu-aujourd-hui-coll--9marks-batir-des-eglises-en-bonne-sante-9782362494475.html) de David Helm
-  * [[15.00€] Creuser l'Ecriture : Une boîte à outils pour déterminer le sens d'un passage biblique](https://maisonbible.fr/fr/39433-creuser-l-ecriture--une-bo-te-a-outils-pour-determiner-le-sens-d-un-passage-biblique-9782358430456.html) de Nigel Beynon et Andrew Sach
+  * [[15.00€] Creuser l'Écriture : Une boîte à outils pour déterminer le sens d'un passage biblique](https://maisonbible.fr/fr/39433-creuser-l-ecriture--une-bo-te-a-outils-pour-determiner-le-sens-d-un-passage-biblique-9782358430456.html) de Nigel Beynon et Andrew Sach
   * [[20.00€] Introduction à l'herméneutique biblique](https://maisonbible.fr/fr/28127-introduction-a-l-hermeneutique-biblique-9782904407697.html) de Matthieu Sanders
   * [[23.90€] Manuel du prédicateur : Du texte au message](https://maisonbible.fr/fr/53949-manuel-du-predicateur--du-texte-au-message-9782358431231.html) de Florent Varak et Philippe Viguier
 * Articles en ligne
@@ -578,14 +661,17 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
   * [Discerner la volonté de Dieu](https://www.youtube.com/watch?v=vus7EoyTohs) de Guillaume Bourin
   * [Comment distinguer entre nos pensées et les pensées venant de Dieu ?](https://www.youtube.com/watch?v=MboXzlM5V3Y) de Florent Varak
   * [Comment trouver la volonté de Dieu ?](https://www.youtube.com/watch?v=mB9r_6mUYxc) de John Glass
+  * [How Do I Find God's Will for My Life?](https://www.youtube.com/watch?v=u-LvOF4BNGA) de John Piper
+  * [How Do I Know God's Calling for My Life?](https://www.youtube.com/watch?v=J9Mc5iyqTmU) de John Piper
 * Podcasts
   * [Coram Deo - Connaître la volonté de Dieu, oui mais comment?](https://soundcloud.com/coramdeopodcasts/016-connaitre-la-volonte-de-dieu-oui-mais-comment) de Pascal Denault et Guillaume Bourin
   * [Coram Deo – La volonté de Dieu, ma perception et mes intuitions](https://soundcloud.com/coramdeopodcasts/089-la-volonte-de-dieu-ma-perception-et-mes-intuitions) de Pascal denault, Guillaume Bourin, Ken Taylor et Franck Segonne
 * Articles
-  * [Méfiez-vous lorsque votre coeur est en paix](https://evangile21.thegospelcoalition.org/article/mefiez-vous-lorsque-votre-coeur-est-en-paix/) de Matt Rogers
+  * [Méfiez-vous lorsque votre cœur est en paix](https://evangile21.thegospelcoalition.org/article/mefiez-vous-lorsque-votre-cœur-est-en-paix/) de Matt Rogers
 * Prédications
   * [Quelle est la volonté de Dieu et comment la connaître ?](https://www.desiringgod.org/messages/what-is-the-will-of-god-and-how-do-we-know-it) de John Piper
   * [Libres pour faire la volonté de Dieu – Rm 12.1-2](https://www.youtube.com/watch?v=99uZrFxIp6o) de Pascal Denault
+  * [How to Know the Will of God](https://www.youtube.com/watch?v=yIOgYPkNA7g) de John Piper
 
 ### Pour approfondir le sujet *Comment connaître la volonté de Dieu*
 
@@ -658,8 +744,6 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
 
 [^harris]: Harris, M. J. (2013). *The Second Epistle to the Corinthians (The New International Greek Testament Commentary)*. Van Haren Publishing.
 
-[^calvin_com]: Calvin, J. (1854). *Commentaires de Jehan Calvin sur le Nouveau Testament : le tout reveu diligemment et comme traduit de nouveau, tant le texte que la glose* (Vol. 3). Ch. Meyrueis.
-
 [^wiersbe]: Wiersbe, W. W. (2007). *Wiersbe Bible Commentary NT (Wiersbe Bible Commentaries)*. David C Cook.
 
 [^chrysostom]: Chrysostom, J., & Ashworth, J. (1848). *The Homilies of S. John Chrysostom on the Second Epistle of St. Paul the Apostle to the Corinthians*. John Henry Parker.
@@ -688,4 +772,26 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
 
 [^piper_will]: Piper, J. (2015, 27 septembre). *How to Know the Will of God : Finding Direction with the Renewed Mind*. Desiring God. <https://www.desiringgod.org/messages/how-to-know-the-will-of-god>
 
+[^piper_will_2]: Piper, J. (2020, 1 juillet). *Quelle est la volonté de Dieu et comment la connaître?* Desiring God. <https://www.desiringgod.org/messages/what-is-the-will-of-god-and-how-do-we-know-it?lang=fr>
+
 [^chan]: Chan, F., Beuving, M., & Platt, D. (2015). *Multipliez-vous : Des disciples qui font des disciples*. BLF Europe.
+
+[^neuchatel_p413]: Godet, F. (1899). *Philippiens 4 - Commentaire biblique du verset 13 Bible annotée*. Consulté à l'adresse <https://www.levangile.com/Bible-Annotee-Philippiens-4-Note-13.htm>
+
+[^calvin_com_1]: Calvin, J. (1854). *Commentaires de Jehan Calvin sur le Nouveau Testament : le tout reveu diligemment et comme traduit de nouveau, tant le texte que la glose* (Vol. 1). Ch. Meyrueis.
+
+[^calvin_com_3]: Calvin, J. (1854). *Commentaires de Jehan Calvin sur le Nouveau Testament : le tout reveu diligemment et comme traduit de nouveau, tant le texte que la glose* (Vol. 3). Ch. Meyrueis.
+
+[^aquin]: Aquinas, T. *Commentaries on the Sentences of Peter Lombard*. Brill.
+
+[^irc]: Calvin, J. (1536). *Institution de la religion chrétienne*.
+
+[^atlantic]: Mullen, L. (2018, 4 septembre). *Romans 13 : A History of Jeff Sessions's Favorite Verse*. The Atlantic. <https://www.theatlantic.com/ideas/archive/2018/06/romans-13/562916/>
+
+[^munro]: Munro, W. (1990). *Romans 13 : 1-7 Apartheid's Last Biblical Refuge*. Biblical Theology Bulletin : Journal of Bible and Culture, 20(4), 161‑168. <https://doi.org/10.1177/014610799002000405>
+
+[^grudem]: Grudem, W. A. (2010). *Politics According to the Bible*. Zondervan.
+
+[^patheos_romans13]: Giles, K. (2019, 5 juillet). *The Wackadoodle Way Christians Use Romans 13*. Patheos. <https://www.patheos.com/blogs/keithgiles/2019/07/the-wackadoodle-way-christians-use-romans-13/>
+
+[^storms]: Storms, S. (s. d.). *10 Things You Should Know about Mysticism. Sam Storms*. Consulté le 1er juillet 2020, à l'adresse <https://www.samstorms.org/all-articles/post/article-10-things-you-should-know-about-mysticism>

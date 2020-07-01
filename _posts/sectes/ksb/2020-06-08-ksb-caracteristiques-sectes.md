@@ -21,7 +21,7 @@ Cet article ne présente que le chapitre 10. Pour en savoir plus, vous pouvez li
 
 Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] Est-ce un réveil authentique : extraits choisis]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %})
 
-Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'oeuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
 Vous pouvez enfin vous initier à la rationalité en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-06-03-introduction-rationalite %})
 
@@ -65,7 +65,7 @@ Une méthode pour briser mentalement un coéquipier est le soi-disant "siège ch
 
 Un exemple de cela: les dirigeants attendent une occasion d'accuser la personne ciblée de quelque chose. Une réaction à quelqu'un, même si cela est pleinement justifié, peut être suffisante. On dit alors à la personne: "Ce que ce frère a fait n'est pas bon. Mais ta réaction est bien pire." Les dirigeants ont laissé le coupable s'en aller à l'abri des regards et l'innocent devient victime.
 
-Kobus du Preez note à propos de son séjour à Kwasizabantu que toute personne ayant une volonté propre a été brisée spirituellement. Le verbe zoulou utilisé pour cela est *ukushuka*. Ce terme est utilisé pour parler du tannage du cuir nu jusqu'à ce qu'il soit souple et doux. Les coéquipiers de Stegen, qui ont dû passer par ce processus eux-mêmes, ont malmené la victime jusqu'à ce qu'elle soit mentalement brisée. Le sujet de la discussion est dramatisé selon les besoins et évite le véritable coeur du problème. Tout ce qui compte, c'est l'effet recherché : l'acquiescement de la victime, que la conscience s'y rallie ou non.
+Kobus du Preez note à propos de son séjour à Kwasizabantu que toute personne ayant une volonté propre a été brisée spirituellement. Le verbe zoulou utilisé pour cela est *ukushuka*. Ce terme est utilisé pour parler du tannage du cuir nu jusqu'à ce qu'il soit souple et doux. Les coéquipiers de Stegen, qui ont dû passer par ce processus eux-mêmes, ont malmené la victime jusqu'à ce qu'elle soit mentalement brisée. Le sujet de la discussion est dramatisé selon les besoins et évite le véritable cœur du problème. Tout ce qui compte, c'est l'effet recherché : l'acquiescement de la victime, que la conscience s'y rallie ou non.
 
 Helga Tonsch, ancienne épouse de l'ancien dirigeant suisse Hans Koller, a été mise à rude épreuve par des coéquipiers suisses pendant des années. Quand elle a menacé de quitter le mouvement, Friedel Stegen lui a dit: "Soit tu pries pour que la mort t'emporte, soit tu te soumets à moi". Pendant les deux années suivantes, elle a vécu un stress énorme, priant Dieu pour être autorisée à mourir. Elle a finalement quitté Kwasizabantu et a divorcé de son mari.
 
@@ -121,7 +121,7 @@ Chacun est invité à venir voir de ses propres yeux "le grand travail que Dieu 
 
 ### L'engouement
 
-Lors d'une conférence de Noël à Metz (1998), Friedel Stegen a réalisé un exploit magistral de dynamique de groupe. Il a appelé les disciples à monter sur le podium pour s'engager à mener une vie sexuellement pure. Ils ont formé un fan-club qui a inauguré le début du choeur de jeunes Eurochor. Les jeunes se sont laissé manipuler et sont devenus des marionnettes et des adulateurs. À partir de ce moment, ils ont dû vivre selon les règles de Friedel Stegen. Lors des conférences internationales d'été, Friedel Stegen a lancé un appel similaire à plusieurs reprises. Cependant, ceux-ci sont allés beaucoup plus loin en faisant que tout le monde se lève et promette de ne plus jamais pécher – même si toute personne rationnelle sait qu'il est absolument impossible de vivre sans péché.
+Lors d'une conférence de Noël à Metz (1998), Friedel Stegen a réalisé un exploit magistral de dynamique de groupe. Il a appelé les disciples à monter sur le podium pour s'engager à mener une vie sexuellement pure. Ils ont formé un fan-club qui a inauguré le début du chœur de jeunes Eurochor. Les jeunes se sont laissé manipuler et sont devenus des marionnettes et des adulateurs. À partir de ce moment, ils ont dû vivre selon les règles de Friedel Stegen. Lors des conférences internationales d'été, Friedel Stegen a lancé un appel similaire à plusieurs reprises. Cependant, ceux-ci sont allés beaucoup plus loin en faisant que tout le monde se lève et promette de ne plus jamais pécher – même si toute personne rationnelle sait qu'il est absolument impossible de vivre sans péché.
 
 ## Le contrôle de l'information et de l'environnement
 
@@ -137,7 +137,7 @@ Tous ceux qui restent à Kwasizabantu sont censurés, bien qu'ils ne le sachent 
 
 Ils essaient de garder le "poison" des médias, d'autres groupes religieux ou du matériel critique des anciens membres hors de portée des membres. La plupart des membres vivent sur le site pendant des années sans être conscients de ce qui se passe autour d'eux dans la société. Ils ont perdu leur capacité de poser des questions critiques sur ce qui se passe sur le site, sinon ils seraient punis. Si quelqu'un est renvoyé, personne n'ose demander la raison ou l'interrogateur peut devenir la prochaine victime. Les membres qui consultent par exemple le site [ksb-alert.com](https://ksb-alert.com) sur les circonstances désespérées de Kwasizabantu sont menacés de voir l'adversité et la calamité s'abattre sur eux.
 
-Ils effraient les membres en disant que le diable leur volera "la vérité". Stegen a saisi la toute première occasion de se rendre aux Pays-Bas lorsque des informations critiques à son sujet ont été diffusées. Il a averti que le diable pourrait dévaster le travail aux Pays-Bas en un clin d'oeil. Lors d'une réunion, Stegen a nommé un certain nombre d'adversaires, d'anciens coéquipiers, en particulier: Jens Nissen, Colin N. Peckham et Erwin Redinger. Ces gens n'avaient apparemment aucune compréhension spirituelle du réveil et ne montraient aucun fruit spirituel.
+Ils effraient les membres en disant que le diable leur volera "la vérité". Stegen a saisi la toute première occasion de se rendre aux Pays-Bas lorsque des informations critiques à son sujet ont été diffusées. Il a averti que le diable pourrait dévaster le travail aux Pays-Bas en un clin d'œil. Lors d'une réunion, Stegen a nommé un certain nombre d'adversaires, d'anciens coéquipiers, en particulier: Jens Nissen, Colin N. Peckham et Erwin Redinger. Ces gens n'avaient apparemment aucune compréhension spirituelle du réveil et ne montraient aucun fruit spirituel.
 
 Les membres sont tenus d'assister aux sermons quotidiens ou hebdomadaires. Les réunions à Kwasizabantu ressemblent plus à des séances d'endoctrinement qu'à des services. Quiconque n'assiste pas régulièrement aux services ne présente aucune preuve d'abandon complet et ne peut pas grandir spirituellement. Lors de conférences gratuites, les mêmes sujets sont élaborés pendant des heures, de sorte que le public est exposé à un lavage de cerveau. Les nouveaux arrivants ne pourront jamais entendre immédiatement l'un des secrets bien cachés. Ils sont initiés étape par étape à la doctrine sans aucune connaissance de ses fondements. Le degré d'initiation d'une personne dépend de sa place dans l'échelle hiérarchique. Les personnes intelligentes se voient généralement attribuer des postes de responsabilité pour les garder à l'abri des méfaits.
 
@@ -193,7 +193,7 @@ Les jeunes femmes qui ont été agressées par un conseiller ont été forcées 
 
 ### Une ambivalence
 
-Il est évident que la politique de Stegen de garder les irrégularités secrètes ne lui a finalement causé que des problèmes. Au cours des années, des centaines de coéquipiers et peut-être même des milliers de membres et de sympathisants se sont détournés de lui. Bien qu'ils aient d'abord cru à Stegen et lui aient donné leur coeur, ils ont développé une attitude ambivalente en raison des nombreux conflits qui les affligeaient.
+Il est évident que la politique de Stegen de garder les irrégularités secrètes ne lui a finalement causé que des problèmes. Au cours des années, des centaines de coéquipiers et peut-être même des milliers de membres et de sympathisants se sont détournés de lui. Bien qu'ils aient d'abord cru à Stegen et lui aient donné leur cœur, ils ont développé une attitude ambivalente en raison des nombreux conflits qui les affligeaient.
 
 K.H. Wicker dit ceci: "Si nous avons remarqué de mauvais développements, vu des fautes ou été en mesure de déterminer que l'enseignement et la pratique de Kwasizabantu militaient contre la Parole de Dieu, nous avons immédiatement mis de telles pensées de côté. Nous ne voulions ni corriger ni critiquer. Dans ces situations, nous avons toujours eu l'impression que nous n'étions toujours pas aussi agréables à Dieu que les frères Kwasizabantu. Nous n'avons même pas osé penser ou agir différemment des habitants de Kwasizabantu, parce que nous comprenions que c'était un péché".
 
@@ -231,9 +231,9 @@ Lorsque "l'Esprit de Dieu" est descendu à Mapumulo, Stegen a découvert qu'il p
 
 Le croyant doit être réconcilié avec Dieu à travers l'institut hiérarchique de Kwasizabantu, car Dieu lui a confié son autorité de pardonner. La rédemption et une relation restaurée entre le croyant et Dieu en dépendent. Stegen a convaincu ses disciples qu'ils peuvent recevoir le pardon en confessant leurs péchés à un conseiller. Il attribue lui-même l'autorité et pense qu'il peut empêcher ceux qui l'ont quitté de recevoir la grâce de Dieu (voir chapitre 8).
 
-### La rédemption par les oeuvres
+### La rédemption par les œuvres
 
-D'un point de vue spirituel, les membres essaient par répétition de gagner la faveur du conseiller et la faveur de Dieu pour être sûrs qu'ils sont toujours sur la bonne voie. Cette conviction donne lieu à la justice des oeuvres. Mais la justice des oeuvres n'apporte pas l'assurance du salut parce qu'elle n'est pas basée sur le sacrifice de Christ. Travailler pour Kwasizabantu est subtilement changé en mensonge selon lequel on travaille pour Dieu.
+D'un point de vue spirituel, les membres essaient par répétition de gagner la faveur du conseiller et la faveur de Dieu pour être sûrs qu'ils sont toujours sur la bonne voie. Cette conviction donne lieu à la justice des œuvres. Mais la justice des œuvres n'apporte pas l'assurance du salut parce qu'elle n'est pas basée sur le sacrifice de Christ. Travailler pour Kwasizabantu est subtilement changé en mensonge selon lequel on travaille pour Dieu.
 
 ### La rédemption par la confession des péchés
 
@@ -257,7 +257,7 @@ Stegen agit comme si la Bible avait une autorité suprême. Il n'hésite pas à 
 
 ### Des doctrines inviolables
 
-Les doctrines sacrées de Kwasizabantu ne peuvent être qu'acceptées ou rejetées et sont inébranlables. L'interprétation que Stegen fait de la Bible est la seule vérité. Toute tentative de changer de point de vue est vue comme un piétinement de la doctrine sacrée du mouvement. Stegen rejette toute forme de critique et pense que tout ce qui n'est pas des applaudissements inconditionnels équivaut à de l'antagonisme. Stegen est prêt dans certaines circonstances à adapter la "vérité", car il estime que la fin justifie les moyens. Il pense qu'ainsi il peut protéger "l'oeuvre de Dieu" ou "sauver" les gens. Et donc il donne à ses coéquipiers la tâche de dire à tout le monde que le réveil continue de croître et que de plus en plus de personnes viennent à la Mission, même si ce n'est catégoriquement pas le cas. Il n'y a aucune légitimité biblique ou théologique pour cette pratique. Bien au contraire: la Bible rejette de telles pratiques.
+Les doctrines sacrées de Kwasizabantu ne peuvent être qu'acceptées ou rejetées et sont inébranlables. L'interprétation que Stegen fait de la Bible est la seule vérité. Toute tentative de changer de point de vue est vue comme un piétinement de la doctrine sacrée du mouvement. Stegen rejette toute forme de critique et pense que tout ce qui n'est pas des applaudissements inconditionnels équivaut à de l'antagonisme. Stegen est prêt dans certaines circonstances à adapter la "vérité", car il estime que la fin justifie les moyens. Il pense qu'ainsi il peut protéger "l'œuvre de Dieu" ou "sauver" les gens. Et donc il donne à ses coéquipiers la tâche de dire à tout le monde que le réveil continue de croître et que de plus en plus de personnes viennent à la Mission, même si ce n'est catégoriquement pas le cas. Il n'y a aucune légitimité biblique ou théologique pour cette pratique. Bien au contraire: la Bible rejette de telles pratiques.
 
 ### Des doctrines savantes
 

@@ -5,7 +5,7 @@ name: "versions-bible"
 categories: theologie
 ---
 
-Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})
+Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-07-01-verite-biblique-volonte-dieu %})
 {: .read-full-info}
 
 Je récapitule dans le tableau ci-après les différences entre les principales traductions françaises de la Bible, excluant celles d'avant 1700, en prenant en compte plusieurs critères :
@@ -52,9 +52,9 @@ Tableau de comparaison :
 | Bible de Lausanne                        | 1872 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Synodale                                 | 1910 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Reçu                      | Non               |
 | Bible du Centenaire                      | 1947 | Protestante | Littérale      | Standard           | Massorétique et Pentateuque Samaritain | Texte Minoritaire               | Non               |
-| Parole de Vie                            | 2000 | oecuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
-| TOB                                      | 1988 | oecuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
-| Bible en français courant                | 1982 | oecuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
+| Parole de Vie                            | 2000 | Œcuménique  | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Oui               |
+| TOB                                      | 1988 | Œcuménique  | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Oui               |
+| Bible en français courant                | 1982 | Œcuménique  | Dynamique      | Courant            | Massorétique et Septante               | Texte Minoritaire               | Oui               |
 | Sacy                                     | 1867 | Catholique  | Semi-littérale | Soutenu            | Vulgate                                | Vulgate                         | Oui               |
 | Crampon                                  | 1904 | Catholique  | Littérale      | Soutenu            | Massorétique                           | Texte Reçu                      | Oui               |
 | Vulgate Glaire                           | 1947 | Catholique  | Littérale      | Standard           | Vulgate                                | Vulgate                         | Oui               |

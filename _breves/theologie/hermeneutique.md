@@ -5,7 +5,7 @@ name: "hermeneutique"
 categories: theologie
 ---
 
-Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-06-27-verite-biblique-volonte-dieu %})
+Lisez l'article complet ici : [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-07-01-verite-biblique-volonte-dieu %})
 {: .read-full-info}
 
 Voici un petit résumé des principes herméneutiques fondamentaux.[^predication_textuelle] [^intro_hermeneutique] [^tpsg_hermeneutique] [^creuser_ecriture]
@@ -48,7 +48,7 @@ Enfin, il faut toujours s'assurer de la validité de notre interprétation. Se p
 
 * Livres
   * [[13.90€] La prédication textuelle : Comment bien communiquer la Parole de Dieu aujourd'hui](https://maisonbible.fr/fr/48632-predication-textuelle--la---comment-bien-communiquer-la-parole-de-dieu-aujourd-hui-coll--9marks-batir-des-eglises-en-bonne-sante-9782362494475.html) de David Helm
-  * [[15.00€] Creuser l'Ecriture : Une boîte à outils pour déterminer le sens d'un passage biblique](https://maisonbible.fr/fr/39433-creuser-l-ecriture--une-bo-te-a-outils-pour-determiner-le-sens-d-un-passage-biblique-9782358430456.html) de Nigel Beynon et Andrew Sach
+  * [[15.00€] Creuser l'Écriture : Une boîte à outils pour déterminer le sens d'un passage biblique](https://maisonbible.fr/fr/39433-creuser-l-ecriture--une-bo-te-a-outils-pour-determiner-le-sens-d-un-passage-biblique-9782358430456.html) de Nigel Beynon et Andrew Sach
   * [[20.00€] Introduction à l'herméneutique biblique](https://maisonbible.fr/fr/28127-introduction-a-l-hermeneutique-biblique-9782904407697.html) de Matthieu Sanders
   * [[23.90€] Manuel du prédicateur : Du texte au message](https://maisonbible.fr/fr/53949-manuel-du-predicateur--du-texte-au-message-9782358431231.html) de Florent Varak et Philippe Viguier
 * Articles
