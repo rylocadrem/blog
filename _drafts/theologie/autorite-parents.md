@@ -8,7 +8,7 @@ categories: theologie
 
 {% include wip-warning.html %}
 
-Table des matières :
+Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}

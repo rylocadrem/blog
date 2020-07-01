@@ -10,20 +10,20 @@ Cet article est une traduction du chapitre 10 de l'enquête missiologique d'Albe
 
 <!--plus-->
 
-Table des matières :
+Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
 
 ## Introduction
 
-Cet article ne présente que le chapitre 10. Pour en savoir plus, vous pouvez lire le livre d'Albert Pilon (en anglais), disponible en pdf : [Is this a genuine revival.pdf]({{ site.baseurl }}/assets/files/Is this a genuine revival.pdf){:target="_blank"}
+Cet article ne présente que le chapitre 10. Pour en savoir plus, vous pouvez lire le livre d'Albert Pilon (en anglais), disponible en pdf : [Is this a genuine revival.pdf]({{ site.baseurl }}/assets/files/Is this a genuine revival.pdf){:target="_blank"}
 
-Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] Est-ce un réveil authentique : extraits choisis]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %})
+Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] Est-ce un réveil authentique : extraits choisis]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-extraits-choisis %})
 
-Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
-Vous pouvez enfin vous initier à la rationalité en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-06-03-introduction-rationalite %})
+Vous pouvez enfin vous initier à la rationalité en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-06-03-introduction-rationalite %})
 
 ## Kwasizabantu évaluée en rapport aux caractéristiques des sectes
 
@@ -65,11 +65,11 @@ Une méthode pour briser mentalement un coéquipier est le soi-disant "siège ch
 
 Un exemple de cela: les dirigeants attendent une occasion d'accuser la personne ciblée de quelque chose. Une réaction à quelqu'un, même si cela est pleinement justifié, peut être suffisante. On dit alors à la personne: "Ce que ce frère a fait n'est pas bon. Mais ta réaction est bien pire." Les dirigeants ont laissé le coupable s'en aller à l'abri des regards et l'innocent devient victime.
 
-Kobus du Preez note à propos de son séjour à Kwasizabantu que toute personne ayant une volonté propre a été brisée spirituellement. Le verbe zoulou utilisé pour cela est *ukushuka*. Ce terme est utilisé pour parler du tannage du cuir nu jusqu'à ce qu'il soit souple et doux. Les coéquipiers de Stegen, qui ont dû passer par ce processus eux-mêmes, ont malmené la victime jusqu'à ce qu'elle soit mentalement brisée. Le sujet de la discussion est dramatisé selon les besoins et évite le véritable cœur du problème. Tout ce qui compte, c'est l'effet recherché : l'acquiescement de la victime, que la conscience s'y rallie ou non.
+Kobus du Preez note à propos de son séjour à Kwasizabantu que toute personne ayant une volonté propre a été brisée spirituellement. Le verbe zoulou utilisé pour cela est *ukushuka*. Ce terme est utilisé pour parler du tannage du cuir nu jusqu'à ce qu'il soit souple et doux. Les coéquipiers de Stegen, qui ont dû passer par ce processus eux-mêmes, ont malmené la victime jusqu'à ce qu'elle soit mentalement brisée. Le sujet de la discussion est dramatisé selon les besoins et évite le véritable cœur du problème. Tout ce qui compte, c'est l'effet recherché : l'acquiescement de la victime, que la conscience s'y rallie ou non.
 
 Helga Tonsch, ancienne épouse de l'ancien dirigeant suisse Hans Koller, a été mise à rude épreuve par des coéquipiers suisses pendant des années. Quand elle a menacé de quitter le mouvement, Friedel Stegen lui a dit: "Soit tu pries pour que la mort t'emporte, soit tu te soumets à moi". Pendant les deux années suivantes, elle a vécu un stress énorme, priant Dieu pour être autorisée à mourir. Elle a finalement quitté Kwasizabantu et a divorcé de son mari.
 
-Dès que Stegen constate qu'il y a un problème de critique, il appelle les coéquipiers pour effectuer une purge. Il commence par dire qu'il y a des traîtres parmi eux. Tout le monde est soumis à un interrogatoire rapproché et personne ne quitte la pièce tant que les auteurs n'ont pas été identifiés. Quand Stegen demande: "Qui est du côté du Seigneur ?" ses amis lèvent la main en signe de loyauté inconditionnelle. Les autres doivent s'humilier et quiconque n'est pas "converti" est démis de ses fonctions et finalement expulsé.
+Dès que Stegen constate qu'il y a un problème de critique, il appelle les coéquipiers pour effectuer une purge. Il commence par dire qu'il y a des traîtres parmi eux. Tout le monde est soumis à un interrogatoire rapproché et personne ne quitte la pièce tant que les auteurs n'ont pas été identifiés. Quand Stegen demande: "Qui est du côté du Seigneur ?" ses amis lèvent la main en signe de loyauté inconditionnelle. Les autres doivent s'humilier et quiconque n'est pas "converti" est démis de ses fonctions et finalement expulsé.
 
 Parfois, les dirigeants se réunissent pendant des jours et des nuits consécutifs pour traquer les membres dissidents. D'anciens membres appellent ces réunions des "cours de justice". Entre autres choses, on sait que des écoliers ont été expulsés de la Mission avec seulement leur valise au milieu de la nuit.
 
@@ -113,7 +113,7 @@ Stegen a émis de sérieux avertissements au sujet de l'ANC naissant, qu'il cons
 
 ### L'amour et l'amitié
 
-En entrant, les étrangers font l'expérience d'un bain chaleureux de convivialité et d'hospitalité. Ceux qui ont une position sociale importante ou qui sont aisés sont accueillis avec un traitement spécial VIP. Les histoires de réveil et de grands miracles dissipent les doutes. Le résultat est que les visiteurs se laissent dorloter. Malgré la convivialité, il y a une distance tangible avec les étrangers. Ils sont conduits discrètement sur "le chemin du jardin". Cet amour n'est pas inconditionnel, mais dépend de la participation et des résultats des étrangers. Ceux qui ne se rendent pas sont abandonnés, après quoi l'attention est dirigée vers de nouvelles personnes. Friedel Stegen a déclaré un jour que les visiteurs ne sont pas convaincus par le "message de réveil" mais par la façon particulière dont ils sont traités ! Il est parfaitement clair que Kwasizabantu a deux visages, l'un pour le traitement de ses adeptes et l'autre pour les étrangers, dans lesquels la technique du *bombardement d'amour* est utilisée.
+En entrant, les étrangers font l'expérience d'un bain chaleureux de convivialité et d'hospitalité. Ceux qui ont une position sociale importante ou qui sont aisés sont accueillis avec un traitement spécial VIP. Les histoires de réveil et de grands miracles dissipent les doutes. Le résultat est que les visiteurs se laissent dorloter. Malgré la convivialité, il y a une distance tangible avec les étrangers. Ils sont conduits discrètement sur "le chemin du jardin". Cet amour n'est pas inconditionnel, mais dépend de la participation et des résultats des étrangers. Ceux qui ne se rendent pas sont abandonnés, après quoi l'attention est dirigée vers de nouvelles personnes. Friedel Stegen a déclaré un jour que les visiteurs ne sont pas convaincus par le "message de réveil" mais par la façon particulière dont ils sont traités ! Il est parfaitement clair que Kwasizabantu a deux visages, l'un pour le traitement de ses adeptes et l'autre pour les étrangers, dans lesquels la technique du *bombardement d'amour* est utilisée.
 
 ### La sécurité et la crise personnelle
 
@@ -127,13 +127,13 @@ Lors d'une conférence de Noël à Metz (1998), Friedel Stegen a réalisé un ex
 
 ### La secte veut l'amener au point qu'il accepte d'être placé volontairement dans une "prison"
 
-Que veut Dieu ? Personne ne le sait à part les prophétesses zouloues de Stegen. Donc, personne ne peut se permettre de manquer l'enseignement des frères, même des théologiens formés qui ont rejoint Kwasizabantu. L'un d'eux a dit qu'il avait une plus grande estime pour la sagesse de Stegen que pour ses études universitaires. Ses partisans admirent sa sagesse et ses idées et considèrent ses déclarations comme relevant de la plus haute sagesse imaginable. Certains membres sont tellement influencés qu'ils vendent "librement" leurs maisons et en sacrifient le produit, avec la devise "Les frères ont donné leur vie pour nous".
+Que veut Dieu ? Personne ne le sait à part les prophétesses zouloues de Stegen. Donc, personne ne peut se permettre de manquer l'enseignement des frères, même des théologiens formés qui ont rejoint Kwasizabantu. L'un d'eux a dit qu'il avait une plus grande estime pour la sagesse de Stegen que pour ses études universitaires. Ses partisans admirent sa sagesse et ses idées et considèrent ses déclarations comme relevant de la plus haute sagesse imaginable. Certains membres sont tellement influencés qu'ils vendent "librement" leurs maisons et en sacrifient le produit, avec la devise "Les frères ont donné leur vie pour nous".
 
-### La façon dont une secte surveille ce que quelqu'un voit, entend, lit, écrit et vit ; même ce que quelqu'un dit doit être surveillé
+### La façon dont une secte surveille ce que quelqu'un voit, entend, lit, écrit et vit ; même ce que quelqu'un dit doit être surveillé
 
 Tous ceux qui restent à Kwasizabantu sont censurés, bien qu'ils ne le sachent pas. Les coéquipiers sont informés des indicateurs qui peuvent suggérer des opinions déviantes ou des perceptions incorrectes de quoi que ce soit, car une telle attitude est le signe que quelqu'un est sur le point de devenir un traître. Quiconque nourrit des opinions erronées commet, aux yeux de Stegen et de ses compagnons, un crime plutôt qu'une erreur. Un déni de "la vérité" ne peut être que le résultat de la méchanceté. Les anciens membres qui nient "la vérité" ne manquent pas de connaissances ou de perspicacité et ne sont pas mal informés mais sont eux-mêmes mauvais. Les membres détestent les anciens membres et ceux qui s'égarent au sein du mouvement, car ils s'accrochent à l'ancien monde.
 
-### Comment les sectes contrôlent-elles les informations et l'environnement ?
+### Comment les sectes contrôlent-elles les informations et l'environnement ?
 
 Ils essaient de garder le "poison" des médias, d'autres groupes religieux ou du matériel critique des anciens membres hors de portée des membres. La plupart des membres vivent sur le site pendant des années sans être conscients de ce qui se passe autour d'eux dans la société. Ils ont perdu leur capacité de poser des questions critiques sur ce qui se passe sur le site, sinon ils seraient punis. Si quelqu'un est renvoyé, personne n'ose demander la raison ou l'interrogateur peut devenir la prochaine victime. Les membres qui consultent par exemple le site [ksb-alert.com](https://ksb-alert.com) sur les circonstances désespérées de Kwasizabantu sont menacés de voir l'adversité et la calamité s'abattre sur eux.
 
@@ -157,33 +157,33 @@ Kwasizabantu a un vocabulaire qui lui est propre, quelques mots composés de ter
 
 Malgré sa redéfinition des termes chrétiens, Kwasizabantu vise à donner l'impression que ses enseignements sont confirmés par la Bible. C'est une mauvaise utilisation de la Bible. Et en chantant des chants spirituels bien connus, Kwasizabantu amène ses membres à croire qu'ils font partie de l'Église chrétienne universelle. Tout membre qui a appris à réinterpréter des termes, des phrases et des mots familiers deviendra inconsciemment l'esclave du mouvement.
 
-Voici quelques exemples de ces *clichés* :
+Voici quelques exemples de ces *clichés* :
 
-1. "J'ai confessé tous mes péchés" : c'est le plus haut niveau de vie spirituelle, "naître de nouveau n'est pas important, l'essentiel est que Dieu soit pour nous".
+1. "J'ai confessé tous mes péchés" : c'est le plus haut niveau de vie spirituelle, "naître de nouveau n'est pas important, l'essentiel est que Dieu soit pour nous".
 
-2. "Y a-t-il quelque chose entre Dieu et vous ?" : il ne peut y avoir de péché entre Dieu et l'homme.
+2. "Y a-t-il quelque chose entre Dieu et vous ?" : il ne peut y avoir de péché entre Dieu et l'homme.
 
-3. "Confession des péchés" : les péchés doivent être confessés en détail à un conseiller.
+3. "Confession des péchés" : les péchés doivent être confessés en détail à un conseiller.
 
-4. "Demander la prière" : un conseiller s'occupe de l'avenir du croyant.
+4. "Demander la prière" : un conseiller s'occupe de l'avenir du croyant.
 
-5. "Purifier sa vie" : tous les péchés du passé doivent être confessés en détail à un conseiller.
+5. "Purifier sa vie" : tous les péchés du passé doivent être confessés en détail à un conseiller.
 
-6. "Les frères ont donné leur vie pour nous" : Stegen et son frère Friedel ont tout sacrifié pour nous, il serait donc injuste de ne pas faire ce qu'ils nous demandent.
+6. "Les frères ont donné leur vie pour nous" : Stegen et son frère Friedel ont tout sacrifié pour nous, il serait donc injuste de ne pas faire ce qu'ils nous demandent.
 
-7. La voie pure (également appelée "le standard élevé") : ce sont des limitations comportementales qui ne peuvent pas résister à l'épreuve des Écritures.
+7. La voie pure (également appelée "le standard élevé") : ce sont des limitations comportementales qui ne peuvent pas résister à l'épreuve des Écritures.
 
-8. Dès que Stegen remarque qu'il y a une suggestion de critique parmi les membres et les coéquipiers, il les appelle tous ensemble et demande : "Qui est du côté du Seigneur ?"
+8. Dès que Stegen remarque qu'il y a une suggestion de critique parmi les membres et les coéquipiers, il les appelle tous ensemble et demande : "Qui est du côté du Seigneur ?"
 
-9. Chacun est censé éprouver sa vie à "la lumière du réveil" : cela signifie tester selon les règles non écrites de Kwasizabantu.
+9. Chacun est censé éprouver sa vie à "la lumière du réveil" : cela signifie tester selon les règles non écrites de Kwasizabantu.
 
-10. Nous nous en tenons à ce que "Dieu nous a montré" : Stegen utilise ce cliché pour exiger la soumission et l'obéissance de ses adeptes.
+10. Nous nous en tenons à ce que "Dieu nous a montré" : Stegen utilise ce cliché pour exiger la soumission et l'obéissance de ses adeptes.
 
 ## Le contrôle des normes
 
 ### Les commandements et les interdictions
 
-Puisque Stegen revendique l'autorité divine au sein du système de croyances qu'il a créé, c'est lui qui établit les restrictions, les règlementations et les tabous, généralement sur la base de révélations. Il a créé toute une série de limitations de comportement, tel que : personne ne peut manquer une réunion, se dire malade, se sentir fatigué ou montrer de la colère. Pour les femmes, cela signifie une interdiction des bijoux et du maquillage, et la jupe est devenue un symbole religieux : seules les jupes ou les robes longues (sans fente) étaient autorisées. Il n'y a pas de document manuscrit pour ces règles de vie non écrites, qui équivalent à un code de conduite de groupe.
+Puisque Stegen revendique l'autorité divine au sein du système de croyances qu'il a créé, c'est lui qui établit les restrictions, les règlementations et les tabous, généralement sur la base de révélations. Il a créé toute une série de limitations de comportement, tel que : personne ne peut manquer une réunion, se dire malade, se sentir fatigué ou montrer de la colère. Pour les femmes, cela signifie une interdiction des bijoux et du maquillage, et la jupe est devenue un symbole religieux : seules les jupes ou les robes longues (sans fente) étaient autorisées. Il n'y a pas de document manuscrit pour ces règles de vie non écrites, qui équivalent à un code de conduite de groupe.
 
 ### La sainteté et l'impur
 
@@ -203,7 +203,7 @@ Les anciens membres peuvent être pris entre deux esprits pendant des années. P
 
 ### L'histoire personnelle
 
-Ceux qui deviennent membres de Kwasizabantu courent le risque de perdre leur identité ; au lieu de choisir leur propre voie, ils appliquent docilement la nouvelle doctrine du salut. Ils sont coupés de leur histoire, de celle de leur famille, mais aussi de leur culture, de leur langue, de la nature qui les entoure et de leurs sentiments. Les recrues sont ainsi privées d'une partie essentielle de leur identité. En récompense de leur coopération, Stegen emmène des coéquipiers avec lui en tournée et leur promet la sécurité dans l'au-delà s'ils restent fidèles.
+Ceux qui deviennent membres de Kwasizabantu courent le risque de perdre leur identité ; au lieu de choisir leur propre voie, ils appliquent docilement la nouvelle doctrine du salut. Ils sont coupés de leur histoire, de celle de leur famille, mais aussi de leur culture, de leur langue, de la nature qui les entoure et de leurs sentiments. Les recrues sont ainsi privées d'une partie essentielle de leur identité. En récompense de leur coopération, Stegen emmène des coéquipiers avec lui en tournée et leur promet la sécurité dans l'au-delà s'ils restent fidèles.
 
 ### L'histoire du mouvement
 
@@ -211,15 +211,15 @@ Dans les chapitres précédents, nous avons montré que justice n'est pas rendue
 
 ### Les prophéties
 
-Stegen tire son autorité de ses prophétesses zouloues, non seulement sur les questions de tous les jours, mais aussi sur des sujets politiques et financiers. En mars 1989, Josiphina Nsibande a reçu un "message de Dieu" concernant les premières élections en Namibie. Comme le jeune David, Kwasizabantu s'attaquerait aux combattants de la liberté Swapo, le tout-puissant Goliath, en leur apportant l'évangile et en les battant ainsi politiquement. Dans cette action, le colonel Tobie Vermaak était également impliqué. La première chorale, qui comprend l'élite spirituelle de Kwasizabantu, s'est même retrouvée dans la ligne de mire de cette action. Après cette victoire, l'équipe de Kwasizabantu se répandrait dans le monde entier pour prêcher l'Évangile. Mais les choses se sont passées différemment : Swapo a remporté les élections et Kwasizabantu ne pouvait que regarder impuissante.
+Stegen tire son autorité de ses prophétesses zouloues, non seulement sur les questions de tous les jours, mais aussi sur des sujets politiques et financiers. En mars 1989, Josiphina Nsibande a reçu un "message de Dieu" concernant les premières élections en Namibie. Comme le jeune David, Kwasizabantu s'attaquerait aux combattants de la liberté Swapo, le tout-puissant Goliath, en leur apportant l'évangile et en les battant ainsi politiquement. Dans cette action, le colonel Tobie Vermaak était également impliqué. La première chorale, qui comprend l'élite spirituelle de Kwasizabantu, s'est même retrouvée dans la ligne de mire de cette action. Après cette victoire, l'équipe de Kwasizabantu se répandrait dans le monde entier pour prêcher l'Évangile. Mais les choses se sont passées différemment : Swapo a remporté les élections et Kwasizabantu ne pouvait que regarder impuissante.
 
-Les prophétesses zouloues ont également joué un grand rôle dans la mine de diamants de Klipdam à Kimberly. Friedel Stegen, qui a dirigé ce projet, a appelé les membres du mouvement à investir dans le "royaume de Dieu". Finalement, la mine n'a pas démarré et il s'est avéré que tout l'argent avait disparu à l'insu de Friedel Stegen. Les dirigeants ont alors décidé de planter 150 hectares de pêchers à cet endroit, encore une fois avec des conséquences désastreuses : des kilomètres autour pas une goutte d'eau n'était disponible. Stegen a commis des erreurs stupides en écoutant les prophétesses zouloues et a gaspillé de grosses sommes d'argent. Cela contraste fortement avec ce que les dirigeants imposent à leurs membres : quiconque a déjà pris quoi que ce soit, même juste un petit objet, a dû le rendre ou rembourser. Cela ne fait aucune différence depuis combien de temps c'était ou à quelle distance.
+Les prophétesses zouloues ont également joué un grand rôle dans la mine de diamants de Klipdam à Kimberly. Friedel Stegen, qui a dirigé ce projet, a appelé les membres du mouvement à investir dans le "royaume de Dieu". Finalement, la mine n'a pas démarré et il s'est avéré que tout l'argent avait disparu à l'insu de Friedel Stegen. Les dirigeants ont alors décidé de planter 150 hectares de pêchers à cet endroit, encore une fois avec des conséquences désastreuses : des kilomètres autour pas une goutte d'eau n'était disponible. Stegen a commis des erreurs stupides en écoutant les prophétesses zouloues et a gaspillé de grosses sommes d'argent. Cela contraste fortement avec ce que les dirigeants imposent à leurs membres : quiconque a déjà pris quoi que ce soit, même juste un petit objet, a dû le rendre ou rembourser. Cela ne fait aucune différence depuis combien de temps c'était ou à quelle distance.
 
 ## Le contrôle de Dieu
 
 ### L'organisation de Dieu
 
-La conviction et la passion avec lesquelles Stegen proclame son message sont en grande partie responsables de son influence sur les autres. Il s'attribue l'autorité divine à lui-même, à son enseignement et à ses tâches, et parle comme un petit pape *ex cathedra*. Lui et ses partisans voient Kwasizabantu comme le mouvement de Dieu. En fait, les choses sont inversées : Stegen a "la domination" sur Dieu et l'utilise comme un cachet d'approbation sur son mouvement et tout ce qu'il conçoit.
+La conviction et la passion avec lesquelles Stegen proclame son message sont en grande partie responsables de son influence sur les autres. Il s'attribue l'autorité divine à lui-même, à son enseignement et à ses tâches, et parle comme un petit pape *ex cathedra*. Lui et ses partisans voient Kwasizabantu comme le mouvement de Dieu. En fait, les choses sont inversées : Stegen a "la domination" sur Dieu et l'utilise comme un cachet d'approbation sur son mouvement et tout ce qu'il conçoit.
 
 ### Le canal de communication de Dieu
 
@@ -251,7 +251,7 @@ Le fait que Kwasizabantu n'ait pas besoin d'une formation biblique pour l'éduca
 
 ### Des citations non bibliques
 
-Stegen agit comme si la Bible avait une autorité suprême. Il n'hésite pas à donner à la conférence annuelle des prédicateurs le titre de "Comme le dit l'Écriture". Bien qu'il n'ait reçu aucune formation théologique, il aime être appelé "révérend" ou "ministre". Pour lui, la Bible n'est pas le seul arbitre d'un différend ; l'autorité suprême appartient à lui-même et à ses prophétesses zouloues. Ce qu'ils ont vu et interprété est présenté comme la Parole de Dieu. Le fait que l'on devrait obéir au Christ plutôt qu'aux hommes est subtilement remplacé par le mensonge selon lequel on devrait obéir aux dirigeants de Kwasizabantu. Les citations de la Bible ne servent que de camouflage à la propre religion de Stegen.
+Stegen agit comme si la Bible avait une autorité suprême. Il n'hésite pas à donner à la conférence annuelle des prédicateurs le titre de "Comme le dit l'Écriture". Bien qu'il n'ait reçu aucune formation théologique, il aime être appelé "révérend" ou "ministre". Pour lui, la Bible n'est pas le seul arbitre d'un différend ; l'autorité suprême appartient à lui-même et à ses prophétesses zouloues. Ce qu'ils ont vu et interprété est présenté comme la Parole de Dieu. Le fait que l'on devrait obéir au Christ plutôt qu'aux hommes est subtilement remplacé par le mensonge selon lequel on devrait obéir aux dirigeants de Kwasizabantu. Les citations de la Bible ne servent que de camouflage à la propre religion de Stegen.
 
 ## Le contrôle des doctrines
 
@@ -261,7 +261,7 @@ Les doctrines sacrées de Kwasizabantu ne peuvent être qu'acceptées ou rejeté
 
 ### Des doctrines savantes
 
-En invitant des conférenciers avec une formation théologique aux conférences des prédicateurs, l'impression est créée que l'enseignement de Kwasizabantu soutient leurs points de vue académiques. Kwasizabantu est capable à maintes reprises de trouver des gens qui ne sont pas au fait de sa situation et qui se trouvent honorés de parler devant un public aussi grand. Stegen crée ainsi l'impression qu'il travaille avec le "Corps du Christ". Les conférenciers invités n'ont qu'une valeur instrumentale dans la mesure où leur sympathie est bonne pour la communauté. Stegen induit ses disciples et le public en erreur lorsqu'il déclare avoir besoin de "la sagesse du peuple de Dieu" pour édifier ses disciples. Si Stegen veut dire ce qu'il dit, pourquoi alors ne voulait-il pas par exemple coopérer avec la Commission de l'Alliance Évangélique d'Afrique du Sud, qui voulait appliquer le principe juridique de "l'écoute des deux côtés" ?
+En invitant des conférenciers avec une formation théologique aux conférences des prédicateurs, l'impression est créée que l'enseignement de Kwasizabantu soutient leurs points de vue académiques. Kwasizabantu est capable à maintes reprises de trouver des gens qui ne sont pas au fait de sa situation et qui se trouvent honorés de parler devant un public aussi grand. Stegen crée ainsi l'impression qu'il travaille avec le "Corps du Christ". Les conférenciers invités n'ont qu'une valeur instrumentale dans la mesure où leur sympathie est bonne pour la communauté. Stegen induit ses disciples et le public en erreur lorsqu'il déclare avoir besoin de "la sagesse du peuple de Dieu" pour édifier ses disciples. Si Stegen veut dire ce qu'il dit, pourquoi alors ne voulait-il pas par exemple coopérer avec la Commission de l'Alliance Évangélique d'Afrique du Sud, qui voulait appliquer le principe juridique de "l'écoute des deux côtés" ?
 
 ### Des enseignements chrétiens
 

@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "[Traduction] Est-ce un réveil authentique : extraits choisis"
+title:  "[Traduction] Est-ce un réveil authentique : extraits choisis"
 excerpt_separator: <!--plus-->
 date:   2020-06-08 10:00:00 +0200
 categories: sectes ksb
 ---
 
-Cet article présente quelques extraits, traduits en français, de l'enquête missiologique d'Albert Pilon sur le réveil parmi les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?* (Est-ce un réveil authentique ?).
+Cet article présente quelques extraits, traduits en français, de l'enquête missiologique d'Albert Pilon sur le réveil parmi les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?* (Est-ce un réveil authentique ?).
 
 <!--plus-->
 
-Table des matières :
+Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
 
 ## Introduction
 
-Cet article ne présente que quelques extraits. Pour en savoir plus, vous pouvez lire **le livre d'Albert Pilon (en anglais)**, disponible en pdf : [Is this a genuine revival.pdf]({{ site.baseurl }}/assets/files/Is this a genuine revival.pdf){:target="_blank"}
+Cet article ne présente que quelques extraits. Pour en savoir plus, vous pouvez lire **le livre d'Albert Pilon (en anglais)**, disponible en pdf : [Is this a genuine revival.pdf]({{ site.baseurl }}/assets/files/Is this a genuine revival.pdf){:target="_blank"}
 
 Vous pouvez également lire ma **traduction en français du chapitre 10** de ce même livre, [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %}).
 
-Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
-Vous pouvez enfin **vous initier à la rationalité** en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-06-03-introduction-rationalite %})
+Vous pouvez enfin **vous initier à la rationalité** en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-06-03-introduction-rationalite %})
 
 ## Chapitre 1 | Le réveil de Kwasizabantu comparé aux réveils dont il est issu
 
@@ -57,7 +57,7 @@ Vous pouvez enfin **vous initier à la rationalité** en lisant cet article : [I
 
 > Erlo Stegen s'autorise aucun doute à propos des évènements surnaturels. Il affirme qu'à chaque heure du jour des centaines de païens arrivaient, spontanément et pleins de conviction de péché, pleurant de remords et plaidant pour le salut et qu'arrivant de près comme de loin ils venaient à Mapumulo pour écouter l'Évangile. "Il nous suffisant de sortir de la maison et de regarder, à n'importe quel moment de la journée, chaque jour de la semaine, il y avait toujours au moins cent ou deux cents personnes qui attendaient."[^34_69]
 >
-> Stegen affirme : "Dieu avait allumé son feu qui se propageait à travers monts et vallées, de sorte qu'en une semaine, en une journée en fait, des milliers de personnes se sont converties. Cela s'est produit chez les Zoulous et les Xhosas en Afrique du Sud.[^34_70]
+> Stegen affirme : "Dieu avait allumé son feu qui se propageait à travers monts et vallées, de sorte qu'en une semaine, en une journée en fait, des milliers de personnes se sont converties. Cela s'est produit chez les Zoulous et les Xhosas en Afrique du Sud.[^34_70]
 
 ### Les personnalités du réveil
 
@@ -164,7 +164,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 > Dans la religion zouloue, lorsque l'adversité afflige une personne, cela signifie que les esprits ancestraux sont mécontents. La personne rend alors visite à un devin, dont le travail consiste à rechercher la cause et à l'aider à retrouver ses forces.[^68_54]
 
-### Magie blanche : guérisseurs et devins
+### Magie blanche : guérisseurs et devins
 
 #### Extrait 1 (page 69)
 
@@ -206,7 +206,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 
 > La Commission de l'Alliance Évangélique Sud-Africaine, a déclaré en juin 2000 que Magasa (Hilda Dube) avait reçu de prétendus "messages de Dieu", que Stegen considère comme authentiques et impose à sa congrégation. Pour la commission, cela est inacceptable et incompatible avec les normes bibliques.[^77_16]
 
-### Des contacts avec des satanistes ?
+### Des contacts avec des satanistes ?
 
 #### Extrait (pages 78-79)
 
@@ -218,19 +218,19 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > Lorsque j'en ai parlé à mon conseiller (Olsen), il a dit que les Occidentaux avaient beaucoup de mal à comprendre la manière africaine de faire les choses.
 >
-> Lors de réunions spéciales dirigées par les tantes, Imbali Mxolo et Elaine Moodley, on interrogeait les participants : "Lequel d'entre vous a parlé à Satan récemment ?"
+> Lors de réunions spéciales dirigées par les tantes, Imbali Mxolo et Elaine Moodley, on interrogeait les participants : "Lequel d'entre vous a parlé à Satan récemment ?"
 >
 > J'ai aussi été interrogé. Les tantes voulaient me forcer à admettre que je pouvais sentir des démons penchés sur mes épaules[^79_19].
 >
 > Lors d'une autre réunion, on nous a présenté un homme qui était aux réunions depuis le début. C'était une *éponge*, quelqu'un qui avait eu une "expérience hors du corps". *L'éponge* et les tantes Imbali et Elaine ont dit qu'ils se rencontraient régulièrement en dehors de leur corps.
 >
-> *L'éponge* est allée se tenir devant moi ce soir-là, m'a regardé droit dans les yeux et a dit : "Je t'ai rencontré *sous la mer* en 2003." Ma première réaction a été de rire et de le nier bien sûr, car en 2003 j'étais capitaine dans l'Armée du Salut.
+> *L'éponge* est allée se tenir devant moi ce soir-là, m'a regardé droit dans les yeux et a dit : "Je t'ai rencontré *sous la mer* en 2003." Ma première réaction a été de rire et de le nier bien sûr, car en 2003 j'étais capitaine dans l'Armée du Salut.
 >
-> J'ai dit aux tantes : "vous pouvez me faire comparaitre devant la chorale (la chorale des coéquipiers joue le rôle de tribunal) et laisser le Saint-Esprit révéler la vérité, parce que je n'ai rien à cacher".
+> J'ai dit aux tantes : "vous pouvez me faire comparaitre devant la chorale (la chorale des coéquipiers joue le rôle de tribunal) et laisser le Saint-Esprit révéler la vérité, parce que je n'ai rien à cacher".
 >
 > Les accusations contre moi ont persisté et j'ai été renvoyé de la chorale pour "réfléchir à ma vie". Il est devenu de plus en plus clair pour moi que les "tantes" étaient fausses, changeant de couleur comme des caméléons. Mon monde s'est effondré et je me suis demandé s'ils étaient vraiment en contact avec le Dieu chrétien.
 >
-> J'étais prêt à confesser mes péchés, mais comment prouver que je n'avais rien à voir avec les *rencontres sous la mer* ?
+> J'étais prêt à confesser mes péchés, mais comment prouver que je n'avais rien à voir avec les *rencontres sous la mer* ?
 >
 > Je suis convaincu que Thofozi tire les ficelles à Kwasizabantu. Avec les "tantes", elle révèle toutes sortes de secrets. Les gens sont tellement aveuglés qu'ils ne voient pas quel est le pouvoir qui lui a donné cette autorité.
 
@@ -296,7 +296,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 >
 > Les conseillers "examinent" les problèmes familiaux avec chacun individuellement, afin que chacun vive dans la peur qu'un membre de leur foyer parle d'eux.
 >
-> Le mari et la femme ne dépendent pas l'un de l'autre : entre eux se trouve le conseiller. De même, les enfants ne font pas confiance à leurs parents pour leur direction et leur protection.
+> Le mari et la femme ne dépendent pas l'un de l'autre : entre eux se trouve le conseiller. De même, les enfants ne font pas confiance à leurs parents pour leur direction et leur protection.
 
 #### Extrait 6 (page 86)
 
@@ -311,7 +311,7 @@ qu'il imposait la religion zouloue aux chrétiens. Stegen y a réagi avec colèr
 > Les naissances hors mariage sont également généralement imputées aux femmes. Les dirigeants blâment les femmes et laissent les hommes à l'abri des regards[^87_53] (cf. le cas de Dieter Stegen[^87_53_bis]).
 >
 > Malheureusement, les victimes ne sont pas crues. Si quelqu'un questionne les
-dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vous cette question ? Si Dieu a pardonné à un frère, il est terrible que vous ne pardonniez pas".
+dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vous cette question ? Si Dieu a pardonné à un frère, il est terrible que vous ne pardonniez pas".
 
 ### Conclusions sur la sexualité et le mariage
 
@@ -347,11 +347,11 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 1 (page 101)
 
-> À la question de savoir si Redinger, Ximba et Mbambo, coéquipiers dès le début, ont vu des centaines de Zoulous ou Xhosa se convertir, ils ont tous répondu à l'unanimité :
+> À la question de savoir si Redinger, Ximba et Mbambo, coéquipiers dès le début, ont vu des centaines de Zoulous ou Xhosa se convertir, ils ont tous répondu à l'unanimité :
 >
 > "Parfois, nous avons vu 10 ou tout au plus 20 Zoulous qui s'étaient présentés. D'autres ont été récupérés avec le Land Rover de Stegen. Peut-être que certains d'entre eux ont eu une conversation spirituelle avec Stegen, mais personne n'est au courant d'une conversion permanente."
 >
-> Quand j'ai demandé à Ximba si c'était vraiment vrai, il a répondu: "Est-ce que vous les avez déjà vus ces gens ?"
+> Quand j'ai demandé à Ximba si c'était vraiment vrai, il a répondu: "Est-ce que vous les avez déjà vus ces gens ?"
 
 #### Extrait 2 (pages 101-102)
 
@@ -373,7 +373,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 2 (page 104)
 
-> La réponse de Koch était étonnante : "il était normal qu'un auteur ajoute ou omette des choses", a-t-il affirmé.[^104_17]
+> La réponse de Koch était étonnante : "il était normal qu'un auteur ajoute ou omette des choses", a-t-il affirmé.[^104_17]
 
 #### Extrait 3 (page 104)
 
@@ -381,13 +381,13 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 4 (page 105)
 
-> Anna Gretha, une fille paralysée, a prétendument été guérie : les aides de Stegen l'ont relevée et fait faire quelques pas. Mais le lendemain elle ne marchait toujours pas.
+> Anna Gretha, une fille paralysée, a prétendument été guérie : les aides de Stegen l'ont relevée et fait faire quelques pas. Mais le lendemain elle ne marchait toujours pas.
 
 #### Extrait 5 (page 105)
 
 > Malheureusement, les témoins oculaires ne se souviennent de rien de tout cela (prétendue guérison d'un aveugle). Ils se souviennent ce jour-là de la prière de Stegen pour le père aveugle d'Alpheus Mdlalose. On a prié pour lui à huis clos (à côté de la salle de réunion).
 >
-> Lorsque des applaudissements ont été entendus, tout le monde dans la salle a pensé que l'homme était guéri. Mais il est parti comme il est venu : avec un bâton dans la main, conduit par un garçon.
+> Lorsque des applaudissements ont été entendus, tout le monde dans la salle a pensé que l'homme était guéri. Mais il est parti comme il est venu : avec un bâton dans la main, conduit par un garçon.
 
 #### Extrait 6 (page 105)
 
@@ -405,7 +405,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 3 (page 106)
 
-> Il était plutôt surpris de ne voir que 20 personnes. Du Preez a expliqué que tous ceux qui étaient venus étaient là. Le soir même, j'ai cherché Stegen pour le consulter sur quelque chose. Soudain, j'ai entendu sa voix depuis la chambre des mamas et je me suis arrêté dans le couloir pour écouter. Je l'ai entendu crier: "Nous avons un grand nombre de personnes présentes !" Il voulait que Robert Mäder, un coéquipier qui séjournait en Suisse à l'époque, pense qu'il y avait beaucoup plus de visiteurs que la normale.[^106_28]
+> Il était plutôt surpris de ne voir que 20 personnes. Du Preez a expliqué que tous ceux qui étaient venus étaient là. Le soir même, j'ai cherché Stegen pour le consulter sur quelque chose. Soudain, j'ai entendu sa voix depuis la chambre des mamas et je me suis arrêté dans le couloir pour écouter. Je l'ai entendu crier: "Nous avons un grand nombre de personnes présentes !" Il voulait que Robert Mäder, un coéquipier qui séjournait en Suisse à l'époque, pense qu'il y avait beaucoup plus de visiteurs que la normale.[^106_28]
 
 ### Vérification du nombre de personnes assistant aux rencontres en Europe
 
@@ -435,7 +435,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait (page 113)
 
-> Cette affirmation a une valeur émotionnelle négative, car les croyants sont constamment préoccupés par eux-mêmes. Avec la déclaration : "Le monde est entre nos mains", Stegen place fermement la responsabilité du côté des croyants, provoquant à nouveau des sentiments de culpabilité. Les croyants se retrouvent dans un cycle sans fin de confession des péchés.
+> Cette affirmation a une valeur émotionnelle négative, car les croyants sont constamment préoccupés par eux-mêmes. Avec la déclaration : "Le monde est entre nos mains", Stegen place fermement la responsabilité du côté des croyants, provoquant à nouveau des sentiments de culpabilité. Les croyants se retrouvent dans un cycle sans fin de confession des péchés.
 
 ### Le mariage
 
@@ -529,7 +529,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait (page 133)
 
-> La question est, pourquoi Stegen pourrait-il parler des mots qu'aucun humain ne saurait prononcer ? La réponse est qu'ils ne viennent pas du Dieu chrétien et ce qu'il dit, il n'a pas entendu dans le ciel.
+> La question est, pourquoi Stegen pourrait-il parler des mots qu'aucun humain ne saurait prononcer ? La réponse est qu'ils ne viennent pas du Dieu chrétien et ce qu'il dit, il n'a pas entendu dans le ciel.
 
 ### La prière
 
@@ -577,7 +577,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 2 (page 137)
 
-> Se sont-ils laissé séduire loin de la vérité biblique et devenus complètement aveugles ?
+> Se sont-ils laissé séduire loin de la vérité biblique et devenus complètement aveugles ?
 
 ### La confession des péchés
 
@@ -611,7 +611,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 1 (page 144)
 
-> Le concept de justification par la foi en Christ de la Lettre aux Romains est complètement ignoré par Stegen, car il supprimerait le fondement le plus important de sa doctrine : à savoir la confession persistante des péchés en conseil.
+> Le concept de justification par la foi en Christ de la Lettre aux Romains est complètement ignoré par Stegen, car il supprimerait le fondement le plus important de sa doctrine : à savoir la confession persistante des péchés en conseil.
 
 #### Extrait 2 (page 145)
 
@@ -651,7 +651,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 > Les conseillers sont le point de contact central pour les membres de la congrégation. Pour la prière, les besoins et les questions, etc., ils doivent contacter le conseiller. Les dirigeants ont mis en place un réseau de conseillers qui sont en contact étroit avec eux. Les dirigeants et les conseillers exercent leur autorité sur la vie des membres, leur donnent subtilement des conseils sur le choix du mariage, de l'éducation, du travail et influencent le cours de leur vie.
 >
-> Ils traitent du passé et de l'avenir du croyant : les péchés commis doivent être confessés et chaque décision doit être priée avec eux. Chaque membre doit avoir un conseiller à qui il "peut" confesser ses péchés. Dieu ne répondra aux prières et n'interviendra ou ne guérira que si tous les péchés sont confessés.
+> Ils traitent du passé et de l'avenir du croyant : les péchés commis doivent être confessés et chaque décision doit être priée avec eux. Chaque membre doit avoir un conseiller à qui il "peut" confesser ses péchés. Dieu ne répondra aux prières et n'interviendra ou ne guérira que si tous les péchés sont confessés.
 
 #### Extrait 2 (pages 148-149)
 
@@ -659,7 +659,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Extrait 3 (page 149)
 
-> De temps en temps, quelqu'un est envoyé chez le conseiller pour avouer des péchés dont l'intéressé n'a absolument pas conscience. La victime doit emprunter un chemin d'humiliation profonde : arrête de travailler et va confesser son péché à tout le monde.
+> De temps en temps, quelqu'un est envoyé chez le conseiller pour avouer des péchés dont l'intéressé n'a absolument pas conscience. La victime doit emprunter un chemin d'humiliation profonde : arrête de travailler et va confesser son péché à tout le monde.
 
 #### Extrait 4 (page 149)
 
@@ -677,7 +677,7 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 #### Texte intégral (page 151)
 
-> La distance entre le pasteur (le clergé) et le laïc rappelle la période pré-Réforme. En souscrivant à ce point de vue, Kwasizabantu se retourne précisément opposée au point de départ de la Réforme : le sacerdoce universel de tous les croyants.
+> La distance entre le pasteur (le clergé) et le laïc rappelle la période pré-Réforme. En souscrivant à ce point de vue, Kwasizabantu se retourne précisément opposée au point de départ de la Réforme : le sacerdoce universel de tous les croyants.
 
 ### Questionnaire
 
@@ -697,11 +697,11 @@ dirigeants sur le comportement des hommes, la réponse est : "Pourquoi posez-vou
 
 Dans ce chapitre, l'auteur passe en revue quelques critères d'identification des sectes.
 
-Vous pouvez en apprendre plus en lisant cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
+Vous pouvez en apprendre plus en lisant cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
 ## Chapitre 10 | Kwasizabantu évaluée en rapport aux caractéristiques des sectes
 
-Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %})
+Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport aux caractéristiques des sectes]({{ site.baseurl }}{% post_url sectes/ksb/2020-06-08-ksb-caracteristiques-sectes %})
 
 ## Chapitre 11 | Expériences personnelles
 
@@ -715,15 +715,15 @@ Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport 
 
 #### Extrait 1 (page 206)
 
-> Le réveil de Kwasizabantu a laissé une trace de destruction et de dévastation dans son sillage : êtres humains brisés, divorces, violences spirituelles et physiques, passages à tabac, catastrophes financières, etc.
+> Le réveil de Kwasizabantu a laissé une trace de destruction et de dévastation dans son sillage : êtres humains brisés, divorces, violences spirituelles et physiques, passages à tabac, catastrophes financières, etc.
 
 #### Extrait 2 (page 207)
 
-> Stegen est tout sauf un grand homme : c'est un grand acteur jouant le rôle d'un grand homme.
+> Stegen est tout sauf un grand homme : c'est un grand acteur jouant le rôle d'un grand homme.
 
 #### Extrait 3 (page 207)
 
-> J'en suis venu à la conclusion qu'une personne peut être entraînée vers le mal au nom du Seigneur Jésus-Christ. Il y a plus qu'assez d'exemples de cela dans l'histoire de l'église !
+> J'en suis venu à la conclusion qu'une personne peut être entraînée vers le mal au nom du Seigneur Jésus-Christ. Il y a plus qu'assez d'exemples de cela dans l'histoire de l'église !
 
 ## Annexe 3 | Témoignages de victimes ou de leurs parents
 
@@ -745,7 +745,7 @@ Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport 
 >
 > Un garçon est venu vers moi et s'est tenu à côté de moi et m'a dit: "Nous n'avons pas le droit de parler mais remonte ma chemise". À mon horreur, il avait une blessure au dos et j'ai pu voir également des endroits qui saignaient encore.
 >
-> J'ai demandé : "Pourquoi avez-vous été battu comme ça ?" Sa réponse a été: "Parce que les chrétiens ne sont pas du monde, de ceux qui se réjouissent d'un voyage à la mer". C'était donc la raison.
+> J'ai demandé : "Pourquoi avez-vous été battu comme ça ?" Sa réponse a été: "Parce que les chrétiens ne sont pas du monde, de ceux qui se réjouissent d'un voyage à la mer". C'était donc la raison.
 >
 > Ils avaient été conduits dans un bois où ils ont été battus avec violence.
 >
@@ -844,7 +844,7 @@ Lisez l'intégralité du chapitre 10 : [[KSB] Kwasizabantu évaluée en rapport 
 
 [^85_46]: *Ein Nein bleibt ein Nein* (*Un non reste un non*), KSB Alert
 
-[^85_47]: *Bräutigam – unbekannt!* (*Marié - inconnu !), KSB Alert
+[^85_47]: *Bräutigam – unbekannt!* (*Marié - inconnu !), KSB Alert
 
 [^85_48]: Interview de D. Lütolf en aout 2007
 

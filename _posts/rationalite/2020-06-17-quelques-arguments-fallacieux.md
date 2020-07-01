@@ -6,7 +6,7 @@ date:   2020-06-17 17:30:00 +0200
 categories: rationalite
 ---
 
-Table des matières :
+Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
@@ -15,7 +15,7 @@ Table des matières :
 
 Un *argument fallacieux* (ou *raisonnement fallacieux*) est un raisonnement invalide[^fallacies_judgment] [^az_logic] [^death_argument] qui peut pourtant avoir une apparence de validité logique.
 
-Richard Whately, économiste, logicien et théologien anglais du 19ème siècle, donne cette définition[^fallacies_judgment] :
+Richard Whately, économiste, logicien et théologien anglais du 19ème siècle, donne cette définition[^fallacies_judgment] :
 
 > Tout argument, ou argument apparent, qui prétend être décisif au sujet de la question en cours d'examen, mais qui ne l'est pas en réalité.
 
@@ -27,9 +27,9 @@ Dans cet article je vais brièvement présenter quelques arguments fallacieux so
 
 Apprendre à détecter les arguments fallacieux est un excellent point de départ pour évaluer la solidité d'un argumentaire.
 
-Ce n'est cependant pas suffisant pour avoir une réflexion logique rigoureuse : il faut encore étudier les différents biais cognitifs, ce qui constitue une preuve, les différents niveaux de preuve, les méthodes de raisonnement, etc. Ces sujets feront l'objet d'articles ultérieurs.
+Ce n'est cependant pas suffisant pour avoir une réflexion logique rigoureuse : il faut encore étudier les différents biais cognitifs, ce qui constitue une preuve, les différents niveaux de preuve, les méthodes de raisonnement, etc. Ces sujets feront l'objet d'articles ultérieurs.
 
-J'ai classé les arguments fallacieux en 4 catégories distinctes :
+J'ai classé les arguments fallacieux en 4 catégories distinctes :
 
 * Manipulations de l'esprit
 * Manipulations des émotions
@@ -47,11 +47,11 @@ J'ai classé les arguments fallacieux en 4 catégories distinctes :
 
 C'est notamment prétendre que quelque chose est vrai parce qu'un expert ou une figure d'autorité l'a dit.
 
-Note 1 : il ne faut pas confondre l'argument d'autorité avec la confiance accordée à priori à la parole d'un expert, notamment dans un raisonnement par [inférence bayésienne](https://fr.wikipedia.org/wiki/Inférence_bayésienne). Jusqu'à preuve du contraire, la parole d'un expert (validé par ses pairs et dans son domaine d'expertise) est "plutôt digne de confiance". Il est donc rationnel d'accorder plus de crédit à la parole d'un expert jusqu'à l'apparition d'un niveau de preuve supérieur ([voir annexe 1](#annexe-1--les-niveaux-de-preuve)).
+Note 1 : il ne faut pas confondre l'argument d'autorité avec la confiance accordée à priori à la parole d'un expert, notamment dans un raisonnement par [inférence bayésienne](https://fr.wikipedia.org/wiki/Inférence_bayésienne). Jusqu'à preuve du contraire, la parole d'un expert (validé par ses pairs et dans son domaine d'expertise) est "plutôt digne de confiance". Il est donc rationnel d'accorder plus de crédit à la parole d'un expert jusqu'à l'apparition d'un niveau de preuve supérieur ([voir annexe 1](#annexe-1--les-niveaux-de-preuve)).
 
-Note 2 : on parle parfois d'argument d'autorité *anonyme* quand on cite une source anonyme ("des experts", "les scientifiques") comme autorité.
+Note 2 : on parle parfois d'argument d'autorité *anonyme* quand on cite une source anonyme ("des experts", "les scientifiques") comme autorité.
 
-Exemples :
+Exemples :
 
 * *L'arme nucléaire est nuisible, le prix Nobel Georges Charpak l'a affirmé.* Georges Charpak est prix Nobel de physique, par conséquent ses opinions en matière de politique ou affaires militaires n'ont pas plus de valeur à priori que celles de n'importe qui.
 * *Albert Einstein a affirmé que l'univers n'est pas en expansion.* Albert Einstein est bien expert dans le domaine concerné (la physique) mais il a révisé sa position plus tard. De plus, l'expansion de l'univers est maintenant étayée par des preuves plus solides qu'une simple parole d'expert.
@@ -60,49 +60,49 @@ Exemples :
 
 **Prétendre quelque chose comme vrai, efficace ou raisonnable parce que c'est couramment pratiqué.**
 
-Exemples :
+Exemples :
 
 * *L'hydroxychloroquine n'est pas toxique, des millions de personnes en prennent chaque année depuis plus de 30 ans.* Cela ne suppose en rien de la toxicité, d'autant que la dose et le contexte jouent un rôle prépondérant.
-* *Boire un verre de vin par jour n'est pas mauvais pour la santé, tout le monde le fait !*
+* *Boire un verre de vin par jour n'est pas mauvais pour la santé, tout le monde le fait !*
 
 #### Appel à l'ignorance
 
 **Prétendre que quelque chose est vrai ou faux parce que le contraire n'a pas été démontré.**
 
-Note 1 : en l'absence de preuves il est toutefois rationnel de prendre pour hypothèse de départ celle qui soulève le moins d'inconnues (selon le principe de parcimonie "les hypothèses *suffisantes les plus simples* doivent être préférées")[^ockham].
+Note 1 : en l'absence de preuves il est toutefois rationnel de prendre pour hypothèse de départ celle qui soulève le moins d'inconnues (selon le principe de parcimonie "les hypothèses *suffisantes les plus simples* doivent être préférées")[^ockham].
 
-Note 2 : cet argument est fortement lié au *renversement de la charge de la preuve* (voir plus loin).
+Note 2 : cet argument est fortement lié au *renversement de la charge de la preuve* (voir plus loin).
 
-Exemples :
+Exemples :
 
 * *Dieu existe puisque personne n'a prouvé qu'il n'existe pas*
-* *Nous n'avons pas prouvé que le noyau de la Lune n'est pas rempli de travers de porc ; par conséquent, le noyau de la Lune est rempli de travers de porc*
+* *Nous n'avons pas prouvé que le noyau de la Lune n'est pas rempli de travers de porc ; par conséquent, le noyau de la Lune est rempli de travers de porc*
 
 #### Appel à l'incrédulité
 
 **Prétendre que quelque chose est vrai ou faux parce que le contraire serait "incroyable".**
 
-Exemples :
+Exemples :
 
-* *Comment croire que les anciens Égyptiens ont pu construire les pyramides avec leurs outils primitifs ? Des êtres supérieurs les ont forcément aidés.*
-* *Des hommes seraient allés jusqu'à la lune et auraient marché dessus ? C'est trop incroyable pour être vrai !*
+* *Comment croire que les anciens Égyptiens ont pu construire les pyramides avec leurs outils primitifs ? Des êtres supérieurs les ont forcément aidés.*
+* *Des hommes seraient allés jusqu'à la lune et auraient marché dessus ? C'est trop incroyable pour être vrai !*
 
 #### Appel à la popularité
 
 **Prétendre que quelque chose est vrai parce que beaucoup ou la majorité des gens le croit.**
 
-Note : le pendant (prétendre que quelque chose est vrai parce que peu de gens le croient) est basé sur le même raisonnement fallacieux.
+Note : le pendant (prétendre que quelque chose est vrai parce que peu de gens le croient) est basé sur le même raisonnement fallacieux.
 
-Exemples :
+Exemples :
 
 * *Le lait est bon pour la croissance des os, tout le monde le dit.*
-* *Neuf personnes sur dix ne peuvent pas se tromper !*
+* *Neuf personnes sur dix ne peuvent pas se tromper !*
 
 #### Appel à la nouveauté
 
 **Prétendre qu'une chose est vrai ou mieux parce que plus récente.**
 
-Exemples :
+Exemples :
 
 * *Pour perdre du poids, les derniers régimes sont les meilleurs.*
 * *Ce logiciel fonctionne mieux car il est plus récent.*
@@ -111,7 +111,7 @@ Exemples :
 
 **Prétendre qu'une chose est vrai ou mieux parce que plus ancienne.**
 
-Exemples :
+Exemples :
 
 * *Le soin par les plantes est plus efficace, nos ancêtres se soignaient ainsi.*
 * *Les femmes ne devraient pas voter, ce n'est qu'une lubie de nos sociétés modernes.*
@@ -120,7 +120,7 @@ Exemples :
 
 **Prétendre qu'une chose est bonne car naturelle ou mauvaise car non naturelle.**
 
-Exemples :
+Exemples :
 
 * *Un remède naturel à base de plantes est meilleur qu'un médicament de synthèse.*
 * *La polygamie est une bonne chose, on la trouve dans la nature.*
@@ -129,7 +129,7 @@ Exemples :
 
 **Prétendre qu'une chose est vraie ou bonne car issue d'une culture jugée "exotique".**
 
-Exemples :
+Exemples :
 
 * *Il vaut mieux se disputer avec quelqu'un d'intelligent que parler à un imbécile. — Proverbe chinois*
 * *L'acuponcture est efficace, elle vient de la médecine chinoise.*
@@ -140,9 +140,9 @@ Exemples :
 
 **Supporter une proposition en renforçant la peur envers une alternative.**
 
-Note : la subtilité réside dans le fait que l'argument peut être logiquement valide, mais utilise la peur pour lui donner de l'importance, éviter d'expliciter les liens de causalité ou en cacher les faiblesses.
+Note : la subtilité réside dans le fait que l'argument peut être logiquement valide, mais utilise la peur pour lui donner de l'importance, éviter d'expliciter les liens de causalité ou en cacher les faiblesses.
 
-Exemples :
+Exemples :
 
 * *Nous devons augmenter les impôts, sinon de plus en plus d'hôpitaux devront fermer.*
 * *Tu devrais arrêter de fumer, sinon tu mourras jeune, comme ton père.*
@@ -151,25 +151,25 @@ Exemples :
 
 **Utiliser un compliment pour tenter de gagner un appui à ses propos.**
 
-Exemples :
+Exemples :
 
 * *Les lecteurs cultivés remarqueront tout de suite l'efficacité de cette proposition.*
-* *Tu es intelligent, tu devrais être d'accord avec moi !*
+* *Tu es intelligent, tu devrais être d'accord avec moi !*
 
 #### Appel à la pitié
 
 **Utiliser la pitié pour influencer.**
 
-Exemples :
+Exemples :
 
 * *Vous ne pouvez pas me verbaliser ! Je vais rendre visite à mon père mourant.*
-* *Pensez aux enfants !*
+* *Pensez aux enfants !*
 
 #### Appel au ridicule
 
 **Présenter les arguments de son adversaire de manière à les rendre absurdes.**
 
-Exemples :
+Exemples :
 
 * *La foi en Dieu, c'est comme croire au père Noël.*
 * *Si la théorie de l'évolution était vraie, cela voudrait dire que mon grand-père est un gorille.*
@@ -180,18 +180,18 @@ Exemples :
 
 **Modifier les prémisses d'un raisonnement pour échapper à la réfutation.**
 
-Note : modifier les prémisses d'un raisonnement peut être valide si cela est supporté par des éléments factuels.
+Note : modifier les prémisses d'un raisonnement peut être valide si cela est supporté par des éléments factuels.
 
-Exemples :
+Exemples :
 
-* *– Les farfadets existent ! – Alors pourquoi est-ce qu'ils n'ont jamais été observés ? – C'est parce qu'ils sont invisibles !*
+* *– Les farfadets existent ! – Alors pourquoi est-ce qu'ils n'ont jamais été observés ? – C'est parce qu'ils sont invisibles !*
 * Tester l'efficacité d'un médicament et changer les critères de mesure après coup sans raison valable.
 
 #### Postulat irréfutable
 
 **Soutenir une hypothèse alors qu'elle ne peut pas, par sa nature, être réfutée.**
 
-Exemples :
+Exemples :
 
 * *Des licornes miniatures, invisibles et indétectables vivent dans mes cheveux.*
 * *Il ment car il est possédé par un démon.*
@@ -200,7 +200,7 @@ Exemples :
 
 **Mettre en avant les informations confirmant ses hypothèses et passer sous silence celles qui les contredisent.**
 
-Exemples :
+Exemples :
 
 * *Dire "une étude a montré que le glyphosate est cancérigène" alors que d'autres montrent l'inverse.*
 * Un employeur qui croit qu'un candidat à un emploi est très intelligent peut ne prêter qu'attention aux informations indiquant que le candidat serait en effet très intelligent.
@@ -209,16 +209,16 @@ Exemples :
 
 **Présenter deux options comme si elles étaient les deux seules possibles.**
 
-Exemples :
+Exemples :
 
-* *Êtes-vous avec nous ou avec les terroristes ?*
-* *Faut-il augmenter ou réduire les impôts ?*
+* *Êtes-vous avec nous ou avec les terroristes ?*
+* *Faut-il augmenter ou réduire les impôts ?*
 
 #### Mensonge
 
 **Ne pas dire ou nier ce qu'on sait être vrai.**
 
-Exemples :
+Exemples :
 
 * *Je n'ai pas de compte en Suisse.*
 * *La Terre est plate.*
@@ -227,16 +227,16 @@ Exemples :
 
 **Affirmer qu'une première étape relativement petite conduit à une chaine d'évènements aboutissant à un effet significatif (généralement négatif).**
 
-Exemples :
+Exemples :
 
 * *Si nous acceptons le paquet de cigarettes neutre, dans six mois, on vous proposera la bouteille de vin neutre, et c'en sera fini de nos appellations, et c'en sera fini de nos terroirs, et c'en sera fini de notre savoir-faire.*
-* *Si on autorise les préservatifs à l'école, ce sera quoi la prochaine fois ? Des flingues ? De la drogue ?*
+* *Si on autorise les préservatifs à l'école, ce sera quoi la prochaine fois ? Des flingues ? De la drogue ?*
 
 #### Pétition de principe
 
 **Supposer dans les prémisses la proposition qu'on doit prouver.**
 
-Exemples :
+Exemples :
 
 * *Les phénomènes paranormaux existent parce que j'ai eu des expériences qui ne peuvent être considérées que comme paranormales.*
 * *L'opium induit le sommeil car il a une qualité soporifique.*
@@ -247,9 +247,9 @@ Exemples :
 
 **Considérer une anecdote comme plus probante que des preuves d'un niveau supérieur.**
 
-Note : l'anecdote est un indice de valeur moyenne ou forte et n'a pas de valeur probante ([voir annexe](#annexe-1--les-niveaux-de-preuve)).
+Note : l'anecdote est un indice de valeur moyenne ou forte et n'a pas de valeur probante ([voir annexe](#annexe-1--les-niveaux-de-preuve)).
 
-Exemples :
+Exemples :
 
 * *Je connais une personne qui...*.
 * *Le professeur X m'a parlé d'un cas où...*
@@ -258,9 +258,9 @@ Exemples :
 
 **Dégager une conclusion générale à partir de preuves insuffisantes.**
 
-Note : généralement les preuves insuffisantes sont une expérience isolée ou un échantillon non représentatif.
+Note : généralement les preuves insuffisantes sont une expérience isolée ou un échantillon non représentatif.
 
-Exemples :
+Exemples :
 
 * *Mon ami français boit du vin, donc les Français aiment le vin.*
 * *Les derniers attentats ont été perpétrés par des musulmans, donc les musulmans sont des terroristes.*
@@ -269,7 +269,7 @@ Exemples :
 
 **Attribuer une propriété d'un ensemble à une partie.**
 
-Exemples :
+Exemples :
 
 * *Les Français mangent beaucoup de fromage. Donc toi, qui es français, tu en manges aussi beaucoup.*
 * *Cette maison est plus petite que les autres, donc ses portes sont aussi plus petites.*
@@ -278,7 +278,7 @@ Exemples :
 
 **Prétendre qu'une série d'évènements indépendants passés affectera des évènements futurs.**
 
-Exemple :
+Exemple :
 
 * *À pile ou face, je n'ai obtenu que des faces, 10 fois de suite. Au prochain coup, j'ai plus de chance d'obtenir pile.*
 * *Cette femme a déjà eu trois filles, son prochain enfant a plus de chances d'être un garçon.*
@@ -287,7 +287,7 @@ Exemple :
 
 **Prétendre que la vérité est un compromis entre deux positions opposées.**
 
-Exemples :
+Exemples :
 
 * *— L'eau est chaude — Non elle est froide — Considérons qu'elle est tiède.*
 * *— Cette voiture vaut 10k€ — Non elle en vaut 20k€ — Considérons qu'elle vaut 15k€.*
@@ -296,7 +296,7 @@ Exemples :
 
 **Rejeter une mesure ou une explication au motif qu'elle n'est pas parfaite.**
 
-Exemples :
+Exemples :
 
 * *Il ne faut pas développer ce vaccin, il ne marche que dans 80 % des cas.*
 * *Il arrive que les forces de l'ordre commettent des violences injustifiées en service, il faudrait donc supprimer la police.*
@@ -305,7 +305,7 @@ Exemples :
 
 **Prétende que la vérité est relative à une personne ou à un groupe.**
 
-Exemples :
+Exemples :
 
 * *C'est peut-être vrai pour les autres mais pas pour moi.*
 * *Je sais que ma position est contradictoire, mais les contradictions sont vraies dans ma façon de penser.*
@@ -314,7 +314,7 @@ Exemples :
 
 **User d'équivoques (expressions qui peuvent être interprétées de différentes façons).**
 
-Exemples :
+Exemples :
 
 * *Puisque seul l'homme [=humain] est rationnel et qu'aucune femme n'est un homme [=mâle], aucune femme n'est donc rationnelle.*
 * *Ce décès a rendu Jean fou [=en colère]; les fous [=fous] devraient être enfermés; Jean doit donc être enfermé.*
@@ -323,42 +323,42 @@ Exemples :
 
 **Considérer une condition suffisante comme nécessaire.**
 
-Exemples :
+Exemples :
 
 * *S'il pleut, le sol est mouillé. Le sol est mouillé, donc il pleut.*
 * *Si j'ai 18 ans ou plus, alors je suis majeur en France. Je suis majeur en France. Donc j'ai 18 ans ou plus.*
 
-Note : ce dernier exemple est intéressant car la conclusion est vraie mais le raisonnement est faux. En effet il fait intervenir implicitement la réciproque de la proposition initiale, qui se trouve être vraie. Pour mieux voir l'erreur, essayez de remplacer "18 ans" par "40 ans".
+Note : ce dernier exemple est intéressant car la conclusion est vraie mais le raisonnement est faux. En effet il fait intervenir implicitement la réciproque de la proposition initiale, qui se trouve être vraie. Pour mieux voir l'erreur, essayez de remplacer "18 ans" par "40 ans".
 
 #### Négation de l'antécédent
 
 **Considérer que la réciproque d'une implication est toujours vraie.**
 
-Exemples :
+Exemples :
 
 * *S'il pleut alors le sol est mouillé. Il ne pleut pas, donc le sol n'est pas mouillé.*
 * *Si j'ai 18 ans ou plus, alors je suis majeur en France. J'ai moins de 18 ans. Donc je ne suis pas majeur en France.*
 
-Note : cet exemple contient la même erreur que pour *l'affirmation du conséquent* vue avant. Essayez de remplacer "18 ans" par "40 ans".
+Note : cet exemple contient la même erreur que pour *l'affirmation du conséquent* vue avant. Essayez de remplacer "18 ans" par "40 ans".
 
 #### Confusion corrélation/causalité
 
 **Prétendre que si deux évènements sont corrélés alors il y a un lien de cause à effet entre les deux.**
 
-Exemples :
+Exemples :
 
 * *La crème glacée provoque des noyades* (il existe une corrélation entre la vente de crème glacée et le nombre de morts par noyade).
 * *Les pirates refroidissent la Terre* (il y a une corrélation inverse entre le nombre de pirates et la température moyenne sur Terre).
 
-Note : le site [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) liste des corrélations fortuites entre un grand nombre de variables.
+Note : le site [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) liste des corrélations fortuites entre un grand nombre de variables.
 
 #### Post hoc ergo propter hoc
 
 **Prétendre que si un évènement suit un autre alors le premier doit être la cause du second.**
 
-Note : locution latine signifiant *à la suite de cela, donc à cause de cela*.
+Note : locution latine signifiant *à la suite de cela, donc à cause de cela*.
 
-Exemples :
+Exemples :
 
 * *Depuis l'élection du président, le taux de chômage est au plus haut. Donc, le président a détruit l'emploi.*
 * *J'ai guéri après avoir pris ce remède, donc il est efficace.*
@@ -367,9 +367,9 @@ Exemples :
 
 **Inférence injustifiée entre deux éléments ayant des propriétés à priori communes mais qui ne sont pas comparables dans leur importance, dans leur signification ou leur portée.**
 
-Note : consiste généralement à introduire une propriété qui est unique à un des éléments, pour conclure que cette propriété est commune à tous les éléments.
+Note : consiste généralement à introduire une propriété qui est unique à un des éléments, pour conclure que cette propriété est commune à tous les éléments.
 
-Exemples :
+Exemples :
 
 * *Dire que les humains sont immortels c'est comme dire qu'une voiture pourrait rouler sans épuiser son carburant.*
 * *Forcer les gens à déclarer leurs armes à feu c'est comme les nazis forçant les juifs à se déclarer.*
@@ -380,61 +380,61 @@ Exemples :
 
 **Rejeter les propos d'un adversaire en lui opposant ses propres paroles ou ses propres actes.**
 
-Exemples :
+Exemples :
 
 * *Tu ne peux pas me dire que fumer est dangereux puisque tu fumes toi-même.*
-* *Comment peut-on lire ce que Jean-Jacques Rousseau peut écrire sur l'éducation des enfants alors qu'il a abandonné les siens ?*
+* *Comment peut-on lire ce que Jean-Jacques Rousseau peut écrire sur l'éducation des enfants alors qu'il a abandonné les siens ?*
 
 #### Argument ad personam
 
 **Porter une attaque personnelle sans rapport avec le fond du débat.**
 
-Exemples :
+Exemples :
 
 * *Hannah Arendt n'est pas une philosophe à laquelle on puisse faire référence parce qu'elle a eu une relation avec un nazi en la personne de Martin Heidegger.*
-* *De toute façon vous n'êtes qu'un stupide fasciste !*
+* *De toute façon vous n'êtes qu'un stupide fasciste !*
 
 #### Renverser la charge de la preuve
 
 **Avancer un argument sans preuve et prétendre que c'est à l'adversaire de prouver le contraire.**
 
-Note 1 : Privilégier une hypothèse plutôt qu'une autre en suivant le principe de parcimonie reste un processus rationnel valide.
+Note 1 : Privilégier une hypothèse plutôt qu'une autre en suivant le principe de parcimonie reste un processus rationnel valide.
 
-Note 2 : Il est utile de se rappeler ces deux principes de base :
+Note 2 : Il est utile de se rappeler ces deux principes de base :
 
 * Les affirmations extraordinaires exigent des preuves extraordinaires.
 * Ce qui est affirmé sans preuve peut être rejeté sans preuve.
 
-Exemples :
+Exemples :
 
 * *Prouvez-moi que le yéti n'existe pas, sinon c'est qu'il existe.*
-* *Tu dis qu'il n'y a pas de théière en orbite autour du soleil ? Eh bien prouve le !*
+* *Tu dis qu'il n'y a pas de théière en orbite autour du soleil ? Eh bien prouve le !*
 
 #### Déshonneur par association
 
 **Disqualifier des propos en les associant à un personnage détesté.**
 
-Exemples :
+Exemples :
 
 * *Vous êtes d'accord sur un point avec un extrémiste. Êtes-vous extrémiste ?*
-* *Tu sais qui regardent aussi ce film ? Les tueurs en série !*
+* *Tu sais qui regardent aussi ce film ? Les tueurs en série !*
 
 #### Honneur par association
 
 **Donner du crédit à des propos en les associant à un personnage aimé.**
 
-Exemples :
+Exemples :
 
-* *Comme moi, Galilée a été persécuté de son temps, et il avait raison !* On appelle ce cas particulier [l'appel à Galilée](https://fr.wikipedia.org/wiki/Appel_à_Galilée).
+* *Comme moi, Galilée a été persécuté de son temps, et il avait raison !* On appelle ce cas particulier [l'appel à Galilée](https://fr.wikipedia.org/wiki/Appel_à_Galilée).
 * *Le président a beaucoup de points communs avec Napoléon Bonaparte, c'est donc un grand stratège.*
 
 #### Attaque personnelle de circonstance
 
 **Déconsidérer une preuve à cause des intérêts de l'entité qui l'apporte.**
 
-Note : un conflit d'intérêts invite à une plus grande attention mais n'est pas un motif disqualifiant en soi.
+Note : un conflit d'intérêts invite à une plus grande attention mais n'est pas un motif disqualifiant en soi.
 
-Exemples :
+Exemples :
 
 * *Cette étude sur le glyphosate a été financée par Monsanto, qui le produit. Elle nest donc pas digne de confiance.*
 * *Ce scientifique est financé par le gouvernement, ce qu'il dit est donc faux.*
@@ -443,27 +443,27 @@ Exemples :
 
 **Réfuter ou approuver une hypothèse non pas en analysant son contenu mais en se fondant sur sa genèse.**
 
-Note : la provenance d'une hypothèse peut parfois appeler à la méfiance (notamment lorsqu'issue de personnes ou groupes ayant un historique de fausses hypothèses) sans que cela ne la rejette pour autant.
+Note : la provenance d'une hypothèse peut parfois appeler à la méfiance (notamment lorsqu'issue de personnes ou groupes ayant un historique de fausses hypothèses) sans que cela ne la rejette pour autant.
 
-Exemples :
+Exemples :
 
-* *Porter une alliance est sexiste. Ne sais-tu pas que la bague symbolisait à l'origine des chaines de cheville portées par les femmes pour les empêcher de fuir leur mari ?*
+* *Porter une alliance est sexiste. Ne sais-tu pas que la bague symbolisait à l'origine des chaines de cheville portées par les femmes pour les empêcher de fuir leur mari ?*
 * *Tu l'as lu dans les journaux, mais les journaux ne sont pas fiables.*
 
 #### Argument de l'homme de paille
 
 **Réfuter la position de son adversaire présentée volontairement de façon erronée (généralement une caricature grossièrement simplifiée).**
 
-Exemples :
+Exemples :
 
-* *Les adversaires de l'astrologie prétendent que les astres n'ont pas d'influence sur nous. Allez donc demander aux marins si la Lune n'a pas d'influence sur les marées !*
-* *Vous ne voulez pas mettre au point ce programme de construction de porte-avions ; je ne comprends pas pourquoi vous voulez laisser notre pays sans défense.*
+* *Les adversaires de l'astrologie prétendent que les astres n'ont pas d'influence sur nous. Allez donc demander aux marins si la Lune n'a pas d'influence sur les marées !*
+* *Vous ne voulez pas mettre au point ce programme de construction de porte-avions ; je ne comprends pas pourquoi vous voulez laisser notre pays sans défense.*
 
 ## Annexe 1 – Les niveaux de preuve
 
 On peut hiérarchiser les preuves selon des niveaux de fiabilité.[^afis_preuve] [^grades_burns] [^grades_bjm] [^grades_hadorn] [^grades_petrisor] [^grades_wilson] [^grades_has]
 
-En voici un résumé :
+En voici un résumé :
 
 * Niveau de preuve très élevé (Grade A – Preuve établie)
   * Consensus scientifique
@@ -483,7 +483,7 @@ En voici un résumé :
   * Études prospectives non contrôlées
   * Études épidémiologiques descriptives
 
-On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante** :
+On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante** :
 
 * Indices forts
   * Parole d'expert
@@ -496,13 +496,13 @@ On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante** 
   * Témoignage individuel indirect
   * Sagesse populaire
 
-Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice moyen ou fort.
+Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice moyen ou fort.
 
 ## Annexe 2 – Analyses de discours
 
 ### Exemple 1 – Message du Cardinal O'Brien contre le mariage homosexuel
 
-Le texte original en anglais est disponible dans cet article du *Telegraph* : <https://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html>
+Le texte original en anglais est disponible dans cet article du *Telegraph* : <https://www.telegraph.co.uk/comment/9121424/We-cannot-afford-to-indulge-this-madness.html>
 
 Il s'agit d'un texte du Cardinal O'Brien, président de la Conférence Épiscopale d'Écosse et catholique le plus haut placé de Grande-Bretagne à l'époque, contre l'institution du mariage homosexuel en Grande-Bretagne. Ironie du sort, le pape Benoit XVI contraindra le cardinal à démissionner en 2013 après qu'il ait admis des attouchements sexuels sur de jeunes prêtres depuis les années 1980.[^obrien_guardian_1] [^obrien_guardian_2]
 
@@ -520,147 +520,147 @@ C'est vrai.[^uk_civil_partnership]
 
 > Lorsque ces arrangements ont été introduits, les partisans ont eu du mal à faire remarquer qu'ils ne voulaient pas le mariage, acceptant que le mariage n'avait jamais signifié que l'union légale d'un homme et d'une femme.
 
-[Généralisation abusive](#généralisation-abusive) : dire *les partisans* est une généralisation abusive car rien n'indique qu'une part significative des partisans défende cette position.
+[Généralisation abusive](#généralisation-abusive) : dire *les partisans* est une généralisation abusive car rien n'indique qu'une part significative des partisans défende cette position.
 
 > Ceux d'entre nous qui n'étaient pas en faveur du partenariat civil, estimant que de telles relations sont préjudiciables au bien-être physique, mental et spirituel des personnes impliquées, ont averti qu'à terme le mariage serait également exigé. On nous accusait d'alarmisme à l'époque, et pourtant, de telles exigences nous sont imposées.
 
 [Cherry-picking](#cherry-picking): les membres des communautés LGBT ont en effet une plus grande prévalence de troubles mentaux et détresse psychologique.[^raifman] [^cochran] Cependant cet écart est principalement du à une forme de stress post-traumatique induit par la pression sociale[^raifman] [^cochran] [^almeida] et à une discrimination dans l'accès aux soins.[^cochran] [^hatzenbuehler] En outre, les partenariats civils et mariages pour les homosexuels conduisent à une meilleure santé, notamment psychologique.[^raifman] [^hatzenbuehler] [^gonzales] [^hatzenbuehler_2]
 
-[Appel à la pitié](#appel-à-la-pitié) : "on nous accusait d'alarmisme" appelle à la pitié face à une position de victime.
+[Appel à la pitié](#appel-à-la-pitié) : "on nous accusait d'alarmisme" appelle à la pitié face à une position de victime.
 
 > Étant donné que tous les droits légaux du mariage sont déjà disponibles pour les couples homosexuels, il est clair que cette proposition ne concerne pas les droits, mais plutôt une tentative de redéfinir le mariage pour l'ensemble de la société à la demande d'une petite minorité de militants.
 
 Le mariage et le partenariat civil en Angleterre et au Pays-de-Galle sont en effet quasiment identiques d'un point de vue légal.[^mariage_civil] Il faut cependant noter qu'ici le mariage religieux est reconnu (mais qu'un partenariat civil ne peut pas être religieux), et que certaines religions reconnaissent les unions homosexuelles (cf. [Religious support on same-sex marriage](https://en.wikipedia.org/wiki/Religious_views_on_same-sex_marriage#Religious_support)).
 
-[Appel à la peur](#appel-à-la-peur) : "une tentative de redéfinir le mariage pour l'ensemble de la société" induit une peur de la corruption de chacun.
+[Appel à la peur](#appel-à-la-peur) : "une tentative de redéfinir le mariage pour l'ensemble de la société" induit une peur de la corruption de chacun.
 
-[Cherry-picking](#cherry-picking) : réduire la complexité de ce phénomène sociétal à "une petite minorité de militants" n'est pas représentatif de la réalité.[^becker] [^sherkat] [^lax] [^andersen]
+[Cherry-picking](#cherry-picking) : réduire la complexité de ce phénomène sociétal à "une petite minorité de militants" n'est pas représentatif de la réalité.[^becker] [^sherkat] [^lax] [^andersen]
 
 > Redéfinir le mariage aura d'énormes implications pour ce qui est enseigné dans nos écoles et pour la société en général. Il redéfinira la société puisque l'institution du mariage est l'un des éléments fondamentaux de la société. Les répercussions de la promulgation du mariage homosexuel seront immenses.
 
-[Pente glissante](#pente-glissante) : tout le paragraphe.
+[Pente glissante](#pente-glissante) : tout le paragraphe.
 
-[Appel à la peur](#appel-à-la-peur) : "énormes implications", "dans nos écoles", "répercussions immenses", etc.
+[Appel à la peur](#appel-à-la-peur) : "énormes implications", "dans nos écoles", "répercussions immenses", etc.
 
-[Appel à la tradition](#appel-à-la-tradition) : "redéfinira la société", "l'un des éléments fondamentaux de la société".
+[Appel à la tradition](#appel-à-la-tradition) : "redéfinira la société", "l'un des éléments fondamentaux de la société".
 
-> Mais peut-on simplement redéfinir des termes par pur caprice ? Un mot dont le sens a été clairement compris dans chaque société à travers l'histoire peut-il soudainement être changé pour signifier autre chose?
+> Mais peut-on simplement redéfinir des termes par pur caprice ? Un mot dont le sens a été clairement compris dans chaque société à travers l'histoire peut-il soudainement être changé pour signifier autre chose?
 
-[Appel à la tradition](#appel-à-la-tradition) : "le mariage ne peut pas changer car il a toujours été ainsi".
+[Appel à la tradition](#appel-à-la-tradition) : "le mariage ne peut pas changer car il a toujours été ainsi".
 
-[Mensonge](#mensonge) : affirmer que le mariage (au sens de l'union d'un homme et d'une femme) est partagé par "chaque société à travers l'histoire" est faux. On trouve de nombreux cas d'unions homosexuelles (hommes ou femmes) dans différentes cultures anciennes. Parfois (Mésopotamie ancienne, province Fujian en Chine, Sparte antique, etc.), il s'agissait de mariages légaux ou religieux de même valeur que les mariages hétérosexuels.[^lahey] [^dynes] [^hinsch] [^bullough]
+[Mensonge](#mensonge) : affirmer que le mariage (au sens de l'union d'un homme et d'une femme) est partagé par "chaque société à travers l'histoire" est faux. On trouve de nombreux cas d'unions homosexuelles (hommes ou femmes) dans différentes cultures anciennes. Parfois (Mésopotamie ancienne, province Fujian en Chine, Sparte antique, etc.), il s'agissait de mariages légaux ou religieux de même valeur que les mariages hétérosexuels.[^lahey] [^dynes] [^hinsch] [^bullough]
 
-[Sophisme génétique](#sophisme-génétique) : rejet de la proposition car émanant (soi-disant) d'un "pur caprice".
+[Sophisme génétique](#sophisme-génétique) : rejet de la proposition car émanant (soi-disant) d'un "pur caprice".
 
-> Si le mariage homosexuel est promulgué par la loi, qu'arrivera-t-il à l'enseignant qui veut dire aux élèves que le mariage ne peut signifier - et n'a jamais signifié - que l'union d'un homme et d'une femme ?
+> Si le mariage homosexuel est promulgué par la loi, qu'arrivera-t-il à l'enseignant qui veut dire aux élèves que le mariage ne peut signifier - et n'a jamais signifié - que l'union d'un homme et d'une femme ?
 
-[Appel à la tradition](#appel-à-la-tradition) : "le mariage ne peut pas changer car il a toujours été ainsi".
+[Appel à la tradition](#appel-à-la-tradition) : "le mariage ne peut pas changer car il a toujours été ainsi".
 
-[Mensonge](#mensonge) : voir précédent paragraphe.
+[Mensonge](#mensonge) : voir précédent paragraphe.
 
-[Appel à la peur](#appel-à-la-peur) : "qu'arrivera-t-il à l'enseignant ?".
+[Appel à la peur](#appel-à-la-peur) : "qu'arrivera-t-il à l'enseignant ?".
 
-> Le droit de cet enseignant de maintenir et d'enseigner ce point de vue sera-t-il respecté ou sera-t-il supprimé ? Les enseignants et les élèves deviendront-ils simplement les prochaines victimes de la tyrannie de la tolérance, les hérétiques, dont la dissidence de l'orthodoxie imposée par l'État doit être écrasée à tout prix ?
+> Le droit de cet enseignant de maintenir et d'enseigner ce point de vue sera-t-il respecté ou sera-t-il supprimé ? Les enseignants et les élèves deviendront-ils simplement les prochaines victimes de la tyrannie de la tolérance, les hérétiques, dont la dissidence de l'orthodoxie imposée par l'État doit être écrasée à tout prix ?
 
-[Pente glissante](#pente-glissante) : tout le paragraphe.
+[Pente glissante](#pente-glissante) : tout le paragraphe.
 
-[Appel à la peur](#appel-à-la-peur) : "victimes de la tyrannie", "orthodoxie imposée", "écrasée".
+[Appel à la peur](#appel-à-la-peur) : "victimes de la tyrannie", "orthodoxie imposée", "écrasée".
 
-[Sophisme génétique](#sophisme-génétique) : rejet de la proposition car émanant (soi-disant) de l'état.
+[Sophisme génétique](#sophisme-génétique) : rejet de la proposition car émanant (soi-disant) de l'état.
 
 > À l'article 16 de la Déclaration universelle des droits de l'homme, le mariage est défini comme une relation entre hommes et femmes. Mais lorsque nos politiciens suggèrent d'abandonner la compréhension établie du mariage et de renverser sa signification, ils sont ridicules.
 
-[Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique.
+[Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique.
 
-[Mensonge](#mensonge) : l'article 16 de la Déclaration universelle des droits de l'homme déclare "l'homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille"[^dudh]. Elle ne restreint pas le mariage à l'union d'un homme et d'une femme mais affirme le droit au mariage pour les hommes et les femmes.
+[Mensonge](#mensonge) : l'article 16 de la Déclaration universelle des droits de l'homme déclare "l'homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille"[^dudh]. Elle ne restreint pas le mariage à l'union d'un homme et d'une femme mais affirme le droit au mariage pour les hommes et les femmes.
 
-[Appel à la tradition](#appel-à-la-tradition) : "défini dans la Déclaration universelle des droits de l'homme" (rédigée en 1948), "compréhension établie".
+[Appel à la tradition](#appel-à-la-tradition) : "défini dans la Déclaration universelle des droits de l'homme" (rédigée en 1948), "compréhension établie".
 
-[Argument ad personam](#argument-ad-personam) : "ils sont ridicules".
+[Argument ad personam](#argument-ad-personam) : "ils sont ridicules".
 
 > Au lieu de cela, leur tentative de redéfinir la réalité reçoit une écoute polie, on cède à leur folie. Leur proposition représente une subversion grotesque d'un droit de l'homme universellement accepté.
 
-[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : "tentative de redéfinir la réalité".
+[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : "tentative de redéfinir la réalité".
 
-[Argument ad personam](#argument-ad-personam) : "leur folie", "grotesque".
+[Argument ad personam](#argument-ad-personam) : "leur folie", "grotesque".
 
-[Mensonge](#mensonge) : "un droit de l'homme" et "universellement accepté". Voir paragraphes précédents.
+[Mensonge](#mensonge) : "un droit de l'homme" et "universellement accepté". Voir paragraphes précédents.
 
 > En tant qu'institution, le mariage est antérieur à l'existence de tout état ou gouvernement. Il n'a pas été créé par les gouvernements et ne devrait pas être modifié par eux.
 
-[Appel à la tradition](#appel-à-la-tradition) : "le mariage est antérieur", "ne devrait pas être modifié".
+[Appel à la tradition](#appel-à-la-tradition) : "le mariage est antérieur", "ne devrait pas être modifié".
 
 > Au lieu de cela, reconnaissant les innombrables avantages que le mariage apporte à la société, ils devraient agir pour protéger et maintenir le mariage, et non l'attaquer ou le démanteler.
 
-[Faux dilemme](#faux-dilemme) : "détruire le mariage" opposé à "préserver le mariage dans son état actuel".
+[Faux dilemme](#faux-dilemme) : "détruire le mariage" opposé à "préserver le mariage dans son état actuel".
 
-[Appel à la peur](#appel-à-la-peur) : "l'attaquer ou le démanteler".
+[Appel à la peur](#appel-à-la-peur) : "l'attaquer ou le démanteler".
 
-[Équivocation](#équivocation) : utilisation de l'équivoque "mariage" : l'institution religieuse vs l'institution légale.
+[Équivocation](#équivocation) : utilisation de l'équivoque "mariage" : l'institution religieuse vs l'institution légale.
 
-[Mensonge](#mensonge) : dire que "les innombrables avantages que le mariage apporte à la société"[^jiang] sont propres aux unions hétérosexuelles n'est pas conforme à la réalité.[^meezan] [^allen]
+[Mensonge](#mensonge) : dire que "les innombrables avantages que le mariage apporte à la société"[^jiang] sont propres aux unions hétérosexuelles n'est pas conforme à la réalité.[^meezan] [^allen]
 
 > C'est un point de vue qui aurait été approuvé et accepté il y a seulement quelques années, mais aujourd'hui, à faire avancer une compréhension traditionnelle du mariage on risque d'être qualifié de bigot intolérant.
 
-[Appel à la tradition](#appel-à-la-tradition) : "un point de vue qui aurait été approuvé et accepté il y a seulement quelques années", "compréhension traditionnelle du mariage".
+[Appel à la tradition](#appel-à-la-tradition) : "un point de vue qui aurait été approuvé et accepté il y a seulement quelques années", "compréhension traditionnelle du mariage".
 
-[Appel à la pitié](#appel-à-la-pitié) : "on me traite de bigot intolérant".
+[Appel à la pitié](#appel-à-la-pitié) : "on me traite de bigot intolérant".
 
 > Il ne fait aucun doute qu'en tant que société, nous sommes devenus blasés quant à l'importance du mariage en tant qu'influence stabilisatrice et moins enclins à le considérer comme une institution valable.
 
-[Généralisation abusive](#généralisation-abusive) : "en tant que société", "nous"
+[Généralisation abusive](#généralisation-abusive) : "en tant que société", "nous"
 
 > Il a été endommagé et miné au cours d'une génération, mais le mariage a toujours existé pour rapprocher les hommes et les femmes afin que les enfants nés de ces unions aient une mère et un père.
 
-[Appel à la tradition](#appel-à-la-tradition) : "a toujours existé".
+[Appel à la tradition](#appel-à-la-tradition) : "a toujours existé".
 
-[Mensonge](#mensonge) : voir paragraphes précédents sur le mariage dans l'histoire et les différentes cultures.
+[Mensonge](#mensonge) : voir paragraphes précédents sur le mariage dans l'histoire et les différentes cultures.
 
-> Cela nous amène à la seule perspective qui semble complètement perdue ou ignorée : le point de vue de l'enfant. Tous les enfants méritent de commencer leur vie avec une mère et un père ; les preuves en faveur de la stabilité et du bien-être qui en découlent sont accablantes et sans équivoque. Cela ne peut pas être fourni par un couple de même sexe, aussi bien intentionné soit-il.
+> Cela nous amène à la seule perspective qui semble complètement perdue ou ignorée : le point de vue de l'enfant. Tous les enfants méritent de commencer leur vie avec une mère et un père ; les preuves en faveur de la stabilité et du bien-être qui en découlent sont accablantes et sans équivoque. Cela ne peut pas être fourni par un couple de même sexe, aussi bien intentionné soit-il.
 
-[Appel à la peur](#appel-à-la-peur) : "perspective qui semble complètement perdue ou ignorée : le point de vue de l'enfant".
+[Appel à la peur](#appel-à-la-peur) : "perspective qui semble complètement perdue ou ignorée : le point de vue de l'enfant".
 
-[Appel à la pitié](#appel-à-la-pitié) : "tous les enfants méritent de commencer leur vie avec une mère et un père".
+[Appel à la pitié](#appel-à-la-pitié) : "tous les enfants méritent de commencer leur vie avec une mère et un père".
 
-[Confusion corrélation/causalité](#confusion-corrélationcausalité) et [négation de l'antécédent](#négation-de-lantécédent) : l'éducation dans un couple marié hétérosexuel est bien corrélée au bien-être des enfants mais il n'y a pas de causalité et la réciproque (bien être implique parents hétérosexuels) n'est pas vraie (voir point suivant).
+[Confusion corrélation/causalité](#confusion-corrélationcausalité) et [négation de l'antécédent](#négation-de-lantécédent) : l'éducation dans un couple marié hétérosexuel est bien corrélée au bien-être des enfants mais il n'y a pas de causalité et la réciproque (bien être implique parents hétérosexuels) n'est pas vraie (voir point suivant).
 
-[Mensonge](#mensonge) : l'affirmation selon laquelle les couples homosexuels ne peuvent apporter la même stabilité et le même bien-être aux enfants que les couples hétérosexuels n'est pas supportée par les faits.[^meezan] [^allen] [^prickett] [^bos] [^crowl] [^rivers] [^fedewa]
+[Mensonge](#mensonge) : l'affirmation selon laquelle les couples homosexuels ne peuvent apporter la même stabilité et le même bien-être aux enfants que les couples hétérosexuels n'est pas supportée par les faits.[^meezan] [^allen] [^prickett] [^bos] [^crowl] [^rivers] [^fedewa]
 
 > Le mariage homosexuel éliminerait entièrement dans la loi l'idée de base d'une mère et d'un père pour chaque enfant. Cela créerait une société qui choisit délibérément de priver un enfant d'une mère ou d'un père.
 
-[Pétition de principe](#pétition-de-principe) : "priver un enfant d'une mère ou d'un père est mal car on le prive d'une mère ou d'un père".
+[Pétition de principe](#pétition-de-principe) : "priver un enfant d'une mère ou d'un père est mal car on le prive d'une mère ou d'un père".
 
-> D'autres dangers existent. Si le mariage peut être redéfini pour ne plus signifier homme et femme mais deux hommes ou deux femmes, pourquoi s'arrêter là ? Pourquoi ne pas permettre à trois hommes ou à une femme et à deux hommes de se marier s'ils s'engagent mutuellement ? Si le mariage concerne simplement des adultes qui s'aiment, sur quelle base peut-on empêcher trois adultes qui s'aiment de se marier ?
+> D'autres dangers existent. Si le mariage peut être redéfini pour ne plus signifier homme et femme mais deux hommes ou deux femmes, pourquoi s'arrêter là ? Pourquoi ne pas permettre à trois hommes ou à une femme et à deux hommes de se marier s'ils s'engagent mutuellement ? Si le mariage concerne simplement des adultes qui s'aiment, sur quelle base peut-on empêcher trois adultes qui s'aiment de se marier ?
 
-[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : réduire la légalisation du mariage homosexuel à une "redéfinition" du mariage.
+[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : réduire la légalisation du mariage homosexuel à une "redéfinition" du mariage.
 
-[Pente glissante](#pente-glissante) : tout le paragraphe. Cet argument est invalide car il peut d'une part fonctionner dans les deux sens (on pourrait par exemple dire qu'interdire le mariage homosexuel conduira ensuite à interdire le mariage interracial, ou le mariage de personnes infertiles) ou sur d'autres sujets (par exemple dire qu'instaurer une démocratie conduira à l'anarchie). D'autre part, affirmer que la motivation est une abolition des règles, et donc que cela conduira aux conséquences décrites, est une simplification erronée.
+[Pente glissante](#pente-glissante) : tout le paragraphe. Cet argument est invalide car il peut d'une part fonctionner dans les deux sens (on pourrait par exemple dire qu'interdire le mariage homosexuel conduira ensuite à interdire le mariage interracial, ou le mariage de personnes infertiles) ou sur d'autres sujets (par exemple dire qu'instaurer une démocratie conduira à l'anarchie). D'autre part, affirmer que la motivation est une abolition des règles, et donc que cela conduira aux conséquences décrites, est une simplification erronée.
 
-> En novembre 2003, après une décision judiciaire rendue dans le Massachusetts pour légaliser le mariage homosexuel, les bibliothèques scolaires ont dû stocker de la littérature homosexuelle; les écoliers du primaire ont reçu des histoires de fées homosexuelles telles que King & King. Certains élèves du secondaire ont même reçu un manuel explicite de plaidoyer homosexuel intitulé Le petit livre noir : Queer au 21e siècle. L'éducation devait subitement se conformer à ce qui était désormais considéré comme « normal ».
+> En novembre 2003, après une décision judiciaire rendue dans le Massachusetts pour légaliser le mariage homosexuel, les bibliothèques scolaires ont dû stocker de la littérature homosexuelle; les écoliers du primaire ont reçu des histoires de fées homosexuelles telles que King & King. Certains élèves du secondaire ont même reçu un manuel explicite de plaidoyer homosexuel intitulé Le petit livre noir : Queer au 21e siècle. L'éducation devait subitement se conformer à ce qui était désormais considéré comme « normal ».
 
-Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, dans l'école *Estabrook Elementary School* en 2006. Le livre *Le petit livre noir : Queer au 21e siècle* a bien été proposé à la sortie du lycée *Brookline High School* en 2005 par une association militant pour les droits des personnes LGBT.
+Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, dans l'école *Estabrook Elementary School* en 2006. Le livre *Le petit livre noir : Queer au 21e siècle* a bien été proposé à la sortie du lycée *Brookline High School* en 2005 par une association militant pour les droits des personnes LGBT.
 
-[Preuves anecdotiques](#preuves-anecdotiques), [cherry-picking](#cherry-picking) et [généralisation abusive](#généralisation-abusive) : généraliser ces cas et, de plus, les attribuer à une volonté systématique de l'état est mensonger.
+[Preuves anecdotiques](#preuves-anecdotiques), [cherry-picking](#cherry-picking) et [généralisation abusive](#généralisation-abusive) : généraliser ces cas et, de plus, les attribuer à une volonté systématique de l'état est mensonger.
 
 > Fourbement, le gouvernement a suggéré que le mariage homosexuel ne serait pas obligatoire et que les églises pourraient choisir de ne pas le célébrer. C'est incroyablement arrogant.
 
-[Argument ad personam](#argument-ad-personam) : "fourbement", "arrogant".
+[Argument ad personam](#argument-ad-personam) : "fourbement", "arrogant".
 
 > Aucun gouvernement n'a l'autorité morale de démanteler le sens universellement compris du mariage.
 
 [Appel à la tradition](#appel-à-la-tradition), [appel à la popularité](#appel-à-la-popularité) et [généralisation abusive](#généralisation-abusive).
 
-> Imaginez un instant que le gouvernement ait décidé de légaliser l'esclavage mais nous assure que « personne ne sera contraint de garder un esclave ». De telles assurances sans valeur calmeraient-elles notre fureur ? Vont-elles justifier le démantèlement d'un droit humain fondamental ? Ou sont-elles simplement des termes ambigus masquant un grand mal ?
+> Imaginez un instant que le gouvernement ait décidé de légaliser l'esclavage mais nous assure que « personne ne sera contraint de garder un esclave ». De telles assurances sans valeur calmeraient-elles notre fureur ? Vont-elles justifier le démantèlement d'un droit humain fondamental ? Ou sont-elles simplement des termes ambigus masquant un grand mal ?
 
 [Fausse analogie](#fausse-analogie) entre l'esclavage et le mariage homosexuel.
 
 [Faux dilemme](#faux-dilemme) entre "justifier le démantèlement d'un droit humain fondamental" et être "des termes ambigus masquant un grand mal".
 
-> La Déclaration universelle des droits de l'homme est limpide : le mariage est un droit qui s'applique aux hommes et aux femmes, « la famille est le groupe naturel et fondamental de la société et a droit à la protection de la société et de l'État ».
+> La Déclaration universelle des droits de l'homme est limpide : le mariage est un droit qui s'applique aux hommes et aux femmes, « la famille est le groupe naturel et fondamental de la société et a droit à la protection de la société et de l'État ».
 
-[Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique.
+[Argument d'autorité](#argument-dautorité) : la Déclaration universelle des droits de l'homme n'a qu'une valeur déclarative et aucune portée juridique.
 
-[Équivocation](#équivocation) : le terme *famille* présent dans la Déclaration universelle des droits de l'homme désigne *un ensemble des personnes qui sont liées par le sang, par les alliances ou par l'adoption*. Le *droit qui s'applique aux hommes et aux femmes* signifie que les hommes et les femmes ont des droits égaux au mariage et non que le mariage est l'union d'un homme et d'une femme.
+[Équivocation](#équivocation) : le terme *famille* présent dans la Déclaration universelle des droits de l'homme désigne *un ensemble des personnes qui sont liées par le sang, par les alliances ou par l'adoption*. Le *droit qui s'applique aux hommes et aux femmes* signifie que les hommes et les femmes ont des droits égaux au mariage et non que le mariage est l'union d'un homme et d'une femme.
 
 > Cette vérité universelle est si évidente qu'elle ne devrait pas avoir besoin d'être répétée.
 
@@ -668,23 +668,23 @@ Au Massachussets il y a bien eu une lecture du livre *King & King* en classe, da
 
 > Si le gouvernement tente de démolir un droit de l'homme universellement reconnu, il aura perdu la confiance que la société a placée en lui et son intolérance fera honte au Royaume-Uni aux yeux du monde.
 
-[Appel à la popularité](#appel-à-la-popularité) : "universellement reconnu"
+[Appel à la popularité](#appel-à-la-popularité) : "universellement reconnu"
 
-[Appel à la peur](#appel-à-la-peur) : "démolir un droit de l'homme", "intolérance", "fera honte au Royaume-Uni aux yeux du monde".
+[Appel à la peur](#appel-à-la-peur) : "démolir un droit de l'homme", "intolérance", "fera honte au Royaume-Uni aux yeux du monde".
 
-[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : réduire la situation à un démolissement d'un droit de l'homme.
+[Argument de l'homme de paille](#argument-de-lhomme-de-paille) : réduire la situation à un démolissement d'un droit de l'homme.
 
-**Ma réflexion** : au lieu de recourir à une argumentation maladroite, erronée et malhonnête, en tant que Chrétien ne serait-il pas suffisant de dire "je suis opposé au mariage homosexuel car la Bible définit le mariage comme l'union d'un homme et d'une femme et que je considère la Bible comme faisant autorité en matière d'éthique et de morale" ?
+**Ma réflexion** : au lieu de recourir à une argumentation maladroite, erronée et malhonnête, en tant que Chrétien ne serait-il pas suffisant de dire "je suis opposé au mariage homosexuel car la Bible définit le mariage comme l'union d'un homme et d'une femme et que je considère la Bible comme faisant autorité en matière d'éthique et de morale" ?
 
 ### Exemple 2 – Quelques phrases inventées
 
 Dans cet exemple, je prends quelques phrases inventées et en indique les arguments fallacieux.
 
-> Les médecins sont incompétents. La preuve, le mien m'a prescrit un médicament et deux jours plus tard j'étais cloué au lit avec 40 de fièvre !
+> Les médecins sont incompétents. La preuve, le mien m'a prescrit un médicament et deux jours plus tard j'étais cloué au lit avec 40 de fièvre !
 
 [Preuves anecdotiques](#preuves-anecdotiques), [cherry-picking](#cherry-picking), [généralisation abusive](#généralisation-abusive) et [post hoc ergo propter hoc](#post-hoc-ergo-propter-hoc).
 
-> La marijuana est parfaitement saine pour la santé : personne n'a démontré
+> La marijuana est parfaitement saine pour la santé : personne n'a démontré
 sa nocivité.
 
 [Renverser la charge de la preuve](#renverser-la-charge-de-la-preuve).

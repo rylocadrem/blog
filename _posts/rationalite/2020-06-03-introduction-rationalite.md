@@ -9,7 +9,7 @@ hidden: 1
 
 {% include wip-warning.html %}
 
-Table des matières :
+Table des matières :
 
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
@@ -18,10 +18,10 @@ Table des matières :
 
 ### Rétionalités
 
-On peut distinguer deux concepts de rationalité[^rationality_less_wrong] :
+On peut distinguer deux concepts de rationalité[^rationality_less_wrong] :
 
-1. **La rationalité épistémique** : améliorer systématiquement la précision de ses croyances
-2. **La rationalité instrumentale** : atteindre systématiquement ses objectifs
+1. **La rationalité épistémique** : améliorer systématiquement la précision de ses croyances
+2. **La rationalité instrumentale** : atteindre systématiquement ses objectifs
 
 La rationalité épistémique est la recherche systématique de la *vérité*, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
 
@@ -37,7 +37,7 @@ La rationalité instrumentale est l'accomplissement systématique de ses objecti
 
 ### Rationalité et pensée critique
 
-### Dois-je être rationnel ?
+### Dois-je être rationnel ?
 
 ## Quelques ressources vidéo
 
