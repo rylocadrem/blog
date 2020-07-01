@@ -29,7 +29,7 @@ Apprendre à détecter les arguments fallacieux est un excellent point de dépar
 
 Ce n'est cependant pas suffisant pour avoir une réflexion logique rigoureuse : il faut encore étudier les différents biais cognitifs, ce qui constitue une preuve, les différents niveaux de preuve, les méthodes de raisonnement, etc. Ces sujets feront l'objet d'articles ultérieurs.
 
-J'ai classé les arguments fallacieux en 4 catégories distinctes :
+J'ai classé les arguments fallacieux en 5 catégories distinctes :
 
 * Manipulations de l'esprit
 * Manipulations des émotions
@@ -38,6 +38,9 @@ J'ai classé les arguments fallacieux en 4 catégories distinctes :
 * Attaques
 
 ## Arguments fallacieux
+
+Retrouvez un résumé ici : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fallacieux)
+{: .read-short-info}
 
 ### Manipulations de l'esprit
 
