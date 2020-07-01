@@ -66,7 +66,7 @@ Même les personnes les plus réticentes à l'interprétation du texte biblique 
 
 Ces exemples parmi d'autres montrent que la Bible a besoin d'être comprise, expliquée,  autrement dit *interprétée*.
 
-Cependant beaucoup d'entre nous, je crois, avons souvent lu la Bible avec un *sentiment d'immédiateté*. Nous pensons peut-être que nous lisons simplement la Bible (sans l'interpréter) et qu'ainsi nous entendons Dieu. Notre identifions notre compréhension personnelle avec la Parole de Dieu, comme si une révélation particulière nous était infusée.
+Cependant beaucoup d'entre nous, je crois, avons souvent lu la Bible avec un *sentiment d'immédiateté*. Nous pensons peut-être que nous lisons simplement la Bible (sans l'interpréter) et qu'ainsi nous entendons Dieu. Nous identifions notre compréhension personnelle avec la Parole de Dieu, comme si une révélation particulière nous était infusée.
 
 Le danger, c'est qu'alors cela signifierait que toute personne en désaccord avec nous ne serait en fait pas fidèle à la vérité ; puisque notre point de vue nous aurait été révélé directement par Dieu.
 
