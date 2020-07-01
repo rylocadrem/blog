@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vérité biblique et volonté de Dieu"
-excerpt: "<i>Que dit la Bible ?</i> et <i>Quelle est la volonté de Dieu ?</i> sont deux questions cruciales pour chaque chrétien. Et je crois que nous cherchons tous à y répondre. Pourtant il me semble que leurs questions corolaires, à savoir <i>Comment savoir ce que dit la Bible ?</i> et <i>Comment connaître la volonté de Dieu ?</i> restent souvent sans vraie réponse."
+excerpt: "<i>Que dit la Bible ?</i> et <i>Quelle est la volonté de Dieu ?</i> sont deux questions cruciales pour chaque chrétien. Pourtant leurs questions corolaires, <i>Comment savoir ce que dit la Bible ?</i> et <i>Comment connaître la volonté de Dieu ?</i> restent parfois sans réponse satisfaisante."
 date: 2020-07-01 07:00:00 +0200
 categories: theologie
 ---
