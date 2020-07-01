@@ -46,7 +46,7 @@
     font-weight: bold;
 
     a {
-        color: darkgreen;
+        color: rgb(0, 70, 0);
     }
 }
 
@@ -104,7 +104,6 @@ th {
 
 .category-layout {
     .big-category-title {
-        // margin: 20px 0 5px;
 
         .category-box {
             display: inline-block;
@@ -138,7 +137,7 @@ th {
     display: block;
     height: 56.25vw;
     margin-bottom: 20px;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     max-height: 315px;
     max-width: 560px;
     width: 90vw;
