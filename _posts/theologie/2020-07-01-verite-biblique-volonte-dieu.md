@@ -343,7 +343,7 @@ J'analyserai 2 Corinthiens 3:6 et Matthieu 7:1 en détails, et les autres verset
 
 ### La lettre tue, mais l'Esprit vivifie (2 Corinthiens 3:6)
 
-Ce premier passage estd'une grande importance car l'interprétation erronée qui en est faite est en rapport direct avec le sujet de cet article.
+Ce premier passage est d'une grande importance car l'interprétation erronée qui en est faite est en rapport direct avec le sujet de cet article.
 
 #### L'interprétation erronée
 
@@ -439,11 +439,11 @@ Ainsi que dans celle aux Galates :
 
 Finalement, que pouvons-nous tirer de ce verset ?
 
-Comme dans tous ces écrits, Paul défend le véritable message de l'Évangile, le salut par grâce au moyen de la foi seule. Mais comme partout et à toutes les époques, de faux enseignants veulent ajouter quelque chose à l'œuvre de Christ. Ici Paul réaffirme que la loi, l'ancienne alliance donne la mort et que la salut, la vie ne s'obtient que par la foi en Christ.
+Comme dans tous ces écrits, Paul défend le véritable message de l'Évangile, le salut par grâce au moyen de la foi seule. Mais comme partout et à toutes les époques, de faux enseignants veulent ajouter quelque chose à l'œuvre de Christ. Ici Paul réaffirme que la loi, l'ancienne alliance donne la mort et que le salut, la vie ne s'obtient que par la foi en Christ.
 
 #### L'avis des commentateurs
 
-Que disent les principaux commentateurs protestants ?
+Que disent les principaux commentateurs ?
 
 Jean Chrysostome a écrit[^chrysostom] :
 
