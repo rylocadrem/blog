@@ -96,7 +96,7 @@ Enfin, du fait de ma foi et motivations, je privilégie :
 * Les traductions de confession *protestante* ou *évangélique*.
 * Les traductions sans trop d'archaïsmes.
 
-De plus, j'essaie de privilégier les traductions qui explicitent les idiomes des locuteurs originaux. Par exemple, on lit dans 1 Samuel 24:4 : "Saül y entra pour se couvrir les pieds", une traduction littérale du texte hébreu qu'on trouve par exemple dans la Segond 1910 ou la Darby. Mes les traductions *Nouvelle Bible Segond* ou *Segond 21* rendent "Saül y entra pour satisfaire un besoin naturel", qui correspond sans ambigüité au sens de cette expression à l'époque.
+De plus, j'essaie de privilégier les traductions qui explicitent les idiomes des locuteurs originaux. Par exemple, on lit dans 1 Samuel 24:4 : "Saül y entra pour se couvrir les pieds", une traduction littérale du texte hébreu qu'on trouve par exemple dans la Segond 1910 ou la Darby. Mais les traductions *Nouvelle Bible Segond* ou *Segond 21* rendent "Saül y entra pour satisfaire un besoin naturel", qui correspond sans ambigüité au sens de cette expression à l'époque.
 
 De même, j'essaie de privilégier les traductions qui n'usent pas d'euphémismes indument. Par exemple, dans Genèse 31:35 on lit dans le texte original "j'ai la route des femmes", traduit dans la *Segond 21* par *je suis indisposée* mais ce que la *Nouvelle Bible Segond* explicite par "j'ai mes règles".
 
