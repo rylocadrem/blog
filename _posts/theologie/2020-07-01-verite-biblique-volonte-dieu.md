@@ -305,7 +305,7 @@ La *Concordance Strong*[^strong] est une concordance biblique de 1890, un index 
 
 Beaucoup de chrétiens utilisent la concordance Strong, mais son usage sans précautions produit souvent une interprétation des textes erronée, voire dangereuse.[^lbc_strong]
 
-Le premier problème est que la concordance Strong est basée sur le texte ayant servi de base la traduction *King James* de la Bible (une variante du *Texte Reçu*), qui contient parfois des écarts importants avec des manuscrits plus fiables[^minard_texte].
+Le premier problème est que la concordance Strong est basée sur le texte ayant servi de base à la traduction *King James* de la Bible (une variante du *Texte Reçu*), qui contient parfois des écarts importants avec des manuscrits plus fiables[^minard_texte].
 
 Le deuxième problème est que pour ses lexiques, Strong s'est principalement basé sur les hypothèses de traductions de la *King James* et des lexiques grecs et hébreux de l'époque (notamment de *Liddell & Scott* ou *Thayer* pour le grec, et *Brown, Driver, & Briggs* pour l'hébreu) qui contiennent plusieurs erreurs.
 
