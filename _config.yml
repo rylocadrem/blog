@@ -12,6 +12,7 @@ lang: fr
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Markdown processing
 markdown: kramdown
