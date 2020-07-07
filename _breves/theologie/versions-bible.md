@@ -35,9 +35,9 @@ Tableau de comparaison :
 
 | Traduction                               | Date | Confession  | Type           | Registre de langue | Sources (AT)                           | Sources (NT)                    | Livres apocryphes |
 |------------------------------------------|------|-------------|----------------|--------------------|----------------------------------------|---------------------------------|-------------------|
-| Segond 1880                              | 1880 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
+| Segond 1880                              | 1880 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Majoritaire et Minoritaire               | Non               |
 | Segond 1880 Révisée TBS (Ésaïe 55)       | 1982 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Majoritaire               | Non               |
-| Segond 1910 (LSG)                        | 1910 | Protestante | Semi-littérale | Élevé              | Massorétique                           | Texte Minoritaire               | Non               |
+| Segond 1910 (LSG)                        | 1910 | Protestante | Semi-littérale | Élevé              | Massorétique                           | Texte Majoritaire et Minoritaire               | Non               |
 | Segond 1975 (Scofield)                   | 1975 | Protestante | Littérale      | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
 | Segond 1978 (Colombe)                    | 1978 | Protestante | Semi-littérale | Standard           | Massorétique et Qumrân                 | Texte Majoritaire               | Non               |
 | Segond 1979 (Nouvelle Édition de Genève) | 1979 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
