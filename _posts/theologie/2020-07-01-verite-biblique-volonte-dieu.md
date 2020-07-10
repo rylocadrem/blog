@@ -369,9 +369,9 @@ Ainsi, dans ces conceptions, la lettre designe l'intellectuel, l'étude, la thé
 
 #### Petite parenthèse sur Watchman Nee et ses disciples
 
-L'enseignement de Watchman Nee et ses disciples, très populaire dans les milieux évangéliques et qui présentent une approche mystique de la vie chrétienne, a professé des hérésies telles que :
+L'enseignement de Watchman Nee et ses disciples, très populaire dans les milieux évangéliques et qui présente une approche mystique de la vie chrétienne, affirme des hérésies telles que :
 
-* Qu'il était un "don unique pour l'Église de Christ" et que lui et ses disciples recevaient des révélations extra-bibliques directement de Dieu [^ntrv] [^seven]
+* Watchman Nee est un "don unique pour l'Église de Christ" et lui et ses disciples recevaient des révélations extra-bibliques directement de Dieu [^ntrv] [^seven]
 * La déification du croyant qui, tout comme Christ, serait à la fois humain et divin[^triune]
 * La négation de la trinité[^triune] [^life]
 
