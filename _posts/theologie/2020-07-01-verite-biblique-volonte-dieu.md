@@ -347,7 +347,7 @@ Ce premier passage est d'une grande importance car l'interprétation erronée qu
 
 #### L'interprétation erronée
 
-En 2 Corinthiens 3:6 on lit "la lettre tue, mais l'Esprit vivifie" (Segond 1910). L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie, comme résumé dans ces propos qu'une certaine dame a adressé à Pascal Denault[^plp_2cor36] :
+En 2 Corinthiens 3:6 on lit "la lettre tue, mais l'Esprit vivifie" (Segond 1910). L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie. Une certaine dame, s'opposant à Pascal Denault sur ce point, l'exprime ainsi[^plp_2cor36] :
 
 > L'église n'a pas besoin d'un enseignement doctrinal. Cette approche de la part d'un pasteur est stérile, voir même mortelle, puisque la lettre tue et que la lettre est l'enseignement théologique. En effet, en théologie on étudie la lettre, la litérature biblique. La lettre c'est la théologie et l'étude doctrinale.
 >
