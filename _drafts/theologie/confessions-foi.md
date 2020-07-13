@@ -38,59 +38,7 @@ Les confessions de foi à comparer (et extraire les points importants par exempl
 * La Déclaration de Foi de l'Église Protestante Unie de France (2017)
 * ... (ajouter d'autres)
 
-Thèmes à mieux découper :
-
-| Thème | Londres 1689 |
----|---
-| Les Écritures | ✔️ | ⚪ |
-| Dieu et la Trinité | ✔️ | ⚪ |
-| Le décret de Dieu | ✔️ | ⚪ |
-| La création | ✔️ | ⚪ |
-| La providence divine | ✔️ | ⚪ |
-| La chute de l'homme, le péché et son châtiment | ✔️ | ⚪ |
-| L'alliance de Dieu avec les hommes | ✔️ | ⚪ |
-| Christ le médiateur | ✔️ | ⚪ |
-| Le libre arbitre | ✔️ | ⚪ |
-| L'appel efficace | ✔️ | ⚪ |
-| La justification | ✔️ | ⚪ |
-| L'adoption | ✔️ | ⚪ |
-| La sanctification | ✔️ | ⚪ |
-| La foi qui sauve | ✔️ | ⚪ |
-| La repentance pour la vie et le salut | ✔️ | ⚪ |
-| Les œuvres bonnes | ✔️ | ⚪ |
-| La persévérance des saints | ✔️ | ⚪ |
-| L'assurance de la grâce et du salut | ✔️ | ⚪ |
-| La loi de Dieu | ✔️ | ⚪ |
-| L'évangile et l'étandue de sa grâce | ✔️ | ⚪ |
-| La liberté chrétienne et la liberté de conscience | ✔️ | ⚪ |
-| Le culte religieux et le jour du sabbat | ✔️ | ⚪ |
-| Les serments et les voeux légitimes | ✔️ | ⚪ |
-| Le gouvernement politique | ✔️ | ⚪ |
-| Le mariage | ✔️ | ⚪ |
-| L'église | ✔️ | ⚪ |
-| La communion des saints | ✔️ | ⚪ |
-| Le baptême | ✔️ | ⚪ |
-| La sainte Cène | ✔️ | ⚪ |
-| L'état de l'homme après la mort et la résurrection des morts | ✔️ | ⚪ |
-| Le jugement dernier | ✔️ | ⚪ |
-
-
-
-La Bible
-Dieu
-L'homme et le péché
-Le salut
-La sanctification
-Le jugement dernier
-L'église
-La pratique du culte
-Le gouvernement
-
-
-
-
-
-
+---
 
 * ✔️ : affirme
 * ❌ : nie
@@ -169,22 +117,23 @@ Abbréviations :
 
 | | Londres 1689 | Helvétique 1566 |
 |---|---|---|
-| Dieu a décrété toute ce qui arrive de toute éternité | ✔️ | ⚪ |
-| Dieu n'est pas l'auteur du péché | ✔️ | ⚪ |
-| Dieu a prédestiné des élus à la vie éternelle | ✔️ | ⚪ |
-| Ceux qui sont prédestinés sont spécifiquement et immuablement désignés | ✔️ | ⚪ |
-| Ceux qui sont prédestinés le sont par la seule pure grâce de Dieu | ✔️ | ⚪ |
-| Dieu a pré-ordonné tous les moyens nécessaires au salut de ceux qu'il a prédestiné | ✔️ | ⚪ |
-| Seuls ceux qui sont prédestinés sont sauvés en Christ | ✔️ | ⚪ |
+| Dieu a décrété tout ce qui arrive de toute éternité | ✔️ | ⚪ |
+| Dieu n'est pas l'auteur du péché | ✔️ | ✔️ |
+| Dieu a prédestiné des élus à la vie éternelle | ✔️ | ✔️ |
+| Ceux qui sont prédestinés sont spécifiquement et immuablement désignés | ✔️ | ✔️ |
+| Ceux qui sont prédestinés le sont par la seule pure grâce de Dieu | ✔️ | ✔️ |
+| Dieu a pré-ordonné tous les moyens nécessaires au salut de ceux qu'il a prédestiné | ✔️ | ✔️ |
+| Seuls ceux qui sont prédestinés sont sauvés en Christ | ✔️ | ✔️ |
+| La prédestination n'autorise pas le péché | ⚪ | ✔️ |
 
 ### La création
 
 | | Londres 1689 | Helvétique 1566 |
 |---|---|---|
-| Dieu a créé le monde | ✔️ | ⚪ |
+| Dieu a créé le monde | ✔️ | ✔️ |
 | Dieu a créé le monde en six jours | ✔️ | ⚪ |
-| Dieu a créé les humains avec une âme immortelle | ✔️ | ⚪ |
-| Dieu a créé les humains à son image | ✔️ | ⚪ |
+| Dieu a créé les humains avec une âme immortelle | ✔️ | ✔️ |
+| Dieu a créé les humains à son image | ✔️ | ✔️ |
 | Dieu a inscrit sa loi dans le coeur des humains | ✔️ | ⚪ |
 | Dieu a laissé libre les humains de transgresser sa loi | ✔️ | ⚪ |
 
