@@ -13,7 +13,7 @@ Comme mentionné dans [[En bref] Comparaison des traductions françaises de la B
 A titre d'exemple, voici quelques écarts avec le Texte Minoritaire :
 
 * <span style="color: red">En rouge</span>, ce qui a été ajouté dans le Texte Reçu.
-* <span style="color: blue">En bleu</span>, ce qui a été retiré du Texte Reçu.
+* <span style="color: blue">En bleu</span>, ce qui a été retiré dans le Texte Reçu.
 
 | Référence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Écarts avec le texte original |
 |---|---|

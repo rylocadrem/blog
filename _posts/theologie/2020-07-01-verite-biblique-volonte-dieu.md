@@ -262,7 +262,7 @@ Comme mentionné avant, le Texte Reçu se base sur des manuscrits tardifs compor
 A titre d'exemple, voici quelques écarts avec le Texte Minoritaire :
 
 * <span style="color: red">En rouge</span>, ce qui a été ajouté dans le Texte Reçu.
-* <span style="color: blue">En bleu</span>, ce qui a été retiré du Texte Reçu.
+* <span style="color: blue">En bleu</span>, ce qui a été retiré dans le Texte Reçu.
 
 | Référence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Écarts avec le texte original |
 |---|---|
