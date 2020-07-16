@@ -42,7 +42,7 @@ Tableau de comparaison :
 | Segond 1978 (Colombe)                    | 1978 | Protestante | Semi-littérale | Standard           | Massorétique et Qumrân                 | Texte Majoritaire               | Non               |
 | Segond 1979 (Nouvelle Édition de Genève) | 1979 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
 | Nouvelle Bible Segond (NBS)              | 2002 | Protestante | Littérale      | Élevé              | Massorétique et Qumrân                 | Texte Minoritaire               | Non               |
-| Segond 21                                | 2007 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Majoritaire               | Non               |
+| Segond 21                                | 2007 | Protestante | Semi-littérale | Standard           | Massorétique et Qumrân                            | Texte Majoritaire et Minoritaire               | Non               |
 | Darby                                    | 1859 | Évangélique | Très littérale | Très élevé         | Massorétique                           | Texte Majoritaire               | Non               |
 | Semeur                                   | 1992 | Évangélique | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Non               |
 | Parole Vivante (Alfred Kuen)             | 1970 | Évangélique | Dynamique      | Familier           | Traductions modernes                   | Traductions modernes            | Non               |
