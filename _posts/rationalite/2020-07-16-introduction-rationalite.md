@@ -44,24 +44,6 @@ Celle de John E. McPeck[^mcpeck_1] :
 
 Nous préciserons tout cela et verrons ce que ça implique dans la suite de cet article.
 
-### Zététique
-
-Un terme fortement lié au concept de pensée critique est celui de *zététique*. Le mot vient du grec ζητητικός (zētētikós) qui signifie "qui aime chercher".
-
-Aujourd'hui, le terme désigne "l'art du doute". Comme le dit Richard Monvoisin[^monvoisin_these] :
-
-> Le terme zététique, au sens moderne, désigne la méthode, la démarche critique proprement dite, là où le scepticisme offre la posture épistémologique. D'une manière un peu simpliste, nous tendons à dire que le scepticisme est la posture philosophique dont la zététique est le bras outillé.
-
-Et il précise également :
-
-> Ainsi le terme moderne zététique revêt-il désormais deux aspects :
->
-> * l'un fonctionnel : elle est la démarche scientifique d'investigation des phénomènes extraordinaires, des
-prétentions étranges et des théories discutables, analysées selon un scepticisme méthodologique ouvert et une philosophie rationaliste matérialiste.
-> * l'un didactique : elle est la panoplie de tous les moyens intellectuels mis en œuvre pour amener l'apprenant à développer l'esprit critique vis-à-vis de toute thèse de type scientifique.
-
-Ainsi, la zététique est donc l'ensemble des méthodes utiles à la pensée critique.
-
 ### Rationalité
 
 La rationalité peut être définie simplement comme étant[^tlfi_rationnel] :
@@ -91,9 +73,27 @@ La notion de *scepticisme scientifique* ou *scepticisme rationnel* peut être d�
 
 Il s'agit dont d'une posture de doute *à priori*, s'appuyant sur la pensée critique et la méthode zététique. On peut dire que le scepticisme scientifique est donc un choix rationnel, au sens épistémique comme instrumental.
 
+### Zététique
+
+Un terme fortement lié au concept de pensée critique est celui de *zététique*. Le mot vient du grec ζητητικός (zētētikós) qui signifie "qui aime chercher".
+
+Aujourd'hui, le terme désigne "l'art du doute". Comme le dit Richard Monvoisin[^monvoisin_these] :
+
+> Le terme zététique, au sens moderne, désigne la méthode, la démarche critique proprement dite, là où le scepticisme offre la posture épistémologique. D'une manière un peu simpliste, nous tendons à dire que le scepticisme est la posture philosophique dont la zététique est le bras outillé.
+
+Et il précise également :
+
+> Ainsi le terme moderne zététique revêt-il désormais deux aspects :
+>
+> * l'un fonctionnel : elle est la démarche scientifique d'investigation des phénomènes extraordinaires, des
+prétentions étranges et des théories discutables, analysées selon un scepticisme méthodologique ouvert et une philosophie rationaliste matérialiste.
+> * l'un didactique : elle est la panoplie de tous les moyens intellectuels mis en œuvre pour amener l'apprenant à développer l'esprit critique vis-à-vis de toute thèse de type scientifique.
+
+Ainsi, la zététique est donc l'ensemble des méthodes utiles à la pensée critique.
+
 ### Science
 
-Le mot *science* désigne parfois des concepts qui ne sont pas pertinents dans notre contexte. Il peut par exemple désigner la communauté scientifique (par extension), l'usage politique de la science ou l'ensemble des connaissances.
+Le mot *science* désigne parfois des concepts qui ne sont pas pertinents dans notre contexte. Il peut par exemple désigner l'ensemble des connaissances, la communauté scientifique, l'usage politique de la science, etc.
 
 Dans le cadre de cet article, je donne cette définition :
 
