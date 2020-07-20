@@ -188,7 +188,7 @@ Tableau de comparaison :
 | Segond 1978 (Colombe)                    | 1978 | Protestante | Semi-littérale | Standard           | Massorétique et Qumrân                 | Texte Majoritaire               | Non               |
 | Segond 1979 (Nouvelle Édition de Genève) | 1979 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Minoritaire               | Non               |
 | Nouvelle Bible Segond (NBS)              | 2002 | Protestante | Littérale      | Élevé              | Massorétique et Qumrân                 | Texte Minoritaire               | Non               |
-| Segond 21                                | 2007 | Protestante | Semi-littérale | Standard           | Massorétique                           | Texte Majoritaire               | Non               |
+| Segond 21                                | 2007 | Protestante | Semi-littérale | Standard           | Massorétique et Qumrân                           | Texte Majoritaire et Minoritaire               | Non               |
 | Darby                                    | 1859 | Évangélique | Très littérale | Très élevé         | Massorétique                           | Texte Majoritaire               | Non               |
 | Semeur                                   | 1992 | Évangélique | Dynamique      | Courant            | Massorétique                           | Texte Minoritaire               | Non               |
 | Parole Vivante (Alfred Kuen)             | 1970 | Évangélique | Dynamique      | Familier           | Traductions modernes                   | Traductions modernes            | Non               |
@@ -262,7 +262,7 @@ Comme mentionné avant, le Texte Reçu se base sur des manuscrits tardifs compor
 A titre d'exemple, voici quelques écarts avec le Texte Minoritaire :
 
 * <span style="color: red">En rouge</span>, ce qui a été ajouté dans le Texte Reçu.
-* <span style="color: blue">En bleu</span>, ce qui a été retiré du Texte Reçu.
+* <span style="color: blue">En bleu</span>, ce qui a été retiré dans le Texte Reçu.
 
 | Référence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Écarts avec le texte original |
 |---|---|
@@ -347,7 +347,7 @@ Ce premier passage est d'une grande importance car l'interprétation erronée qu
 
 #### L'interprétation erronée
 
-En 2 Corinthiens 3:6 on lit "la lettre tue, mais l'Esprit vivifie" (Segond 1910). L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie, comme résumé dans ces propos rapportés par Pascal Denault dans sa vidéo *La lettre tue, mais l'Esprit vivifie*[^plp_2cor36] à 8:00 :
+En 2 Corinthiens 3:6 on lit "la lettre tue, mais l'Esprit vivifie" (Segond 1910). L'interprétation que j'ai le plus souvent entendue est le rejet de l'étude et de la théologie. Une certaine dame, s'opposant à Pascal Denault sur ce point, l'exprime ainsi[^plp_2cor36] :
 
 > L'église n'a pas besoin d'un enseignement doctrinal. Cette approche de la part d'un pasteur est stérile, voir même mortelle, puisque la lettre tue et que la lettre est l'enseignement théologique. En effet, en théologie on étudie la lettre, la litérature biblique. La lettre c'est la théologie et l'étude doctrinale.
 >
@@ -369,9 +369,9 @@ Ainsi, dans ces conceptions, la lettre designe l'intellectuel, l'étude, la thé
 
 #### Petite parenthèse sur Watchman Nee et ses disciples
 
-L'enseignement de Watchman Nee et ses disciples, très populaire dans les milieux évangéliques et qui présentent une approche mystique de la vie chrétienne, a professé des hérésies telles que :
+L'enseignement de Watchman Nee et ses disciples, très populaire dans les milieux évangéliques et qui présente une approche mystique de la vie chrétienne, affirme des hérésies telles que :
 
-* Qu'il était un "don unique pour l'Église de Christ" et que lui et ses disciples recevaient des révélations extra-bibliques directement de Dieu [^ntrv] [^seven]
+* Watchman Nee est un "don unique pour l'Église de Christ" et lui et ses disciples recevaient des révélations extra-bibliques directement de Dieu [^ntrv] [^seven]
 * La déification du croyant qui, tout comme Christ, serait à la fois humain et divin[^triune]
 * La négation de la trinité[^triune] [^life]
 
@@ -379,7 +379,7 @@ Ils s'opposent également à toute dénomination, affirmant que le simple fait d
 
 Ils affirment également qu'aujourd'hui connaitre Dieu n'est plus suffisant et qu'il faut être membre des "églises locales" (le nom des églises fondées par Watchman Nee) car les autres églises n'ont pas une révélation suffisante.[^seven]
 
-Plus de 70 pasteurs et théologiens de différentes dénominations protestantes ont écrit une lettre overte[^ol] dénonçant les enseignements non-bibliques de Watchman Nee, Witness Lee et de *Living Stream Ministry*.
+Plus de 70 pasteurs et théologiens de différentes dénominations protestantes ont écrit une lettre ouverte[^ol] dénonçant les enseignements non-bibliques de Watchman Nee, Witness Lee et de *Living Stream Ministry*.
 
 Leurs enseignements sur l'interprétation "spirituelle" de la Bible sont donc à considérer avec la plus grande prudence.
 
@@ -405,7 +405,7 @@ Commençons déjà par lire le verset dans son intégralité :
 >
 > — 2 Corinthiens 3:6 (NBS)
 
-Tout de suite on remarque que Paul n'oppose pas deux manières de lire la Bible mais deux alliances : l'ancienne alliance (celle de la loi, la lettre) et la nouvelle alliance (celle de la grâce, l'Exprit). On retrouve cette distinctions par exemple en Galates 3:15-18, 4:21-27 ou Hébreux 7:22, 8:6-13.
+Tout de suite on remarque que Paul n'oppose pas deux manières de lire la Bible mais deux alliances : l'ancienne alliance (celle de la loi, la lettre) et la nouvelle alliance (celle de la grâce, l'Esprit). On retrouve cette distinctions par exemple en Galates 3:15-18, 4:21-27 ou Hébreux 7:22, 8:6-13.
 
 Ensuite lisons les deux verset suivants :
 
@@ -439,7 +439,7 @@ Ainsi que dans celle aux Galates :
 
 Finalement, que pouvons-nous tirer de ce verset ?
 
-Comme dans tous ces écrits, Paul défend le véritable message de l'Évangile, le salut par grâce au moyen de la foi seule. Mais comme partout et à toutes les époques, de faux enseignants veulent ajouter quelque chose à l'œuvre de Christ. Ici Paul réaffirme que la loi, l'ancienne alliance donne la mort et que le salut, la vie ne s'obtient que par la foi en Christ.
+Comme dans tous ses écrits, Paul défend le véritable message de l'Évangile, le salut par grâce au moyen de la foi seule. Mais comme partout et à toutes les époques, de faux enseignants veulent ajouter quelque chose à l'œuvre de Christ. Ici Paul réaffirme que la loi, l'ancienne alliance donne la mort et que le salut, la vie ne s'obtient que par la foi en Christ.
 
 #### L'avis des commentateurs
 
@@ -465,7 +465,7 @@ Matthew Henry écrit[^henry] :
 >
 > C'est là que la justice de Dieu par la foi est révélée; et cela nous montre que le juste vivra de sa foi; cela fait connaître la grâce et la miséricorde de Dieu par Jésus-Christ, pour obtenir le pardon des péchés et la vie éternelle.
 >
-> L'Évangile dépasse tellement la loi en gloire, qu'il éclipse la gloire de la dispense légale. Mais même le Nouveau Testament sera une lettre mortelle, si il est montré comme un simple système ou une forme, et sans dépendance à Dieu pour lui donner un pouvoir vivifiant.
+> L'Évangile dépasse tellement la loi en gloire, qu'il éclipse la gloire de la dispense légale. Mais même le Nouveau Testament sera une lettre mortelle, s'il est montré comme un simple système ou une forme, et sans dépendance à Dieu pour lui donner un pouvoir vivifiant.
 
 Jean Calvin a écrit[^calvin_com_3] :
 
@@ -493,7 +493,7 @@ Mon analyse peut être lue dans cet article dédié : [Un chrétien peut-il jug
 
 **Interprétation biblique** : promesse de fidélité, à long terme
 
-On en apprend sur le contexte en lisant le chapitre précédent, où Jérémie prononce un jugement sur le faux prophète Hanania. Ce dernier avait dit au peuple que Dieu le libèrerait de Babylone et le ferait rentrer chez lui dans les deux ans. Son message était attrayant pour les hébreux mais était faux. Dieu a donc condamné Hanania à mourrir (Jérémie 28: 15-17).
+On en apprend sur le contexte en lisant le chapitre précédent, où Jérémie prononce un jugement sur le faux prophète Hanania. Ce dernier avait dit au peuple que Dieu le libèrerait de Babylone et le ferait rentrer chez lui dans les deux ans. Son message était attrayant pour les hébreux mais était faux. Dieu a donc condamné Hanania à mourir (Jérémie 28: 15-17).
 
 Au lieu de cela, Jérémie annonce au peuple qu'il vivra en exil à Babylone pendant encore 70 ans. Il annonce donc aux destinataires de la lettre la terrible nouvelle que la plupart d'entre eux mourront loin de Jérusalem.
 
@@ -571,7 +571,7 @@ C'est cette affirmation de Calvin que le théologien Wayne Grudem reformule selo
 
 Et le commentateur Steve Scott ajoute[^patheos_romans13] :
 
-> Romains 13 souffre d'une division de chapitre artificielle mal placée [reppelons que les chapitres et versets n'existent pas dans les textes originaux] qui, si elle est lue à partir de Romains 13:1, déforme le vrai sens du contexte général découlant du chapitre 12.
+> Romains 13 souffre d'une division de chapitre artificielle mal placée [rappelons que les chapitres et versets n'existent pas dans les textes originaux] qui, si elle est lue à partir de Romains 13:1, déforme le vrai sens du contexte général découlant du chapitre 12.
 >
 > Le contexte général dit que si quelqu'un commet un mal contre vous, vous ne vous vengerez pas, mais permettrez au magistrat civil de punir le malfaiteur. Si vous commencez à lire en Romains 13:1, il semble que le texte justifie un gouvernement autoritaire et exige que nous obéissions à toutes les lois. Mais pris dans le contexte global, le chapitre 13 nous dit en fait que si nous commettons le mal, alors nous devons nous soumettre à la punition qui nous est donnée. Il s'agit beaucoup moins d'obéir au gouvernement et de lui être fidèle que d'accepter la justice lorsque nous faisons le mal.
 
@@ -591,7 +591,7 @@ Chaque jour, nous prenons des décisions sans même nous en rendre compte. Mais 
 
 3. **La méthode de la toison** : priez et demandez à Dieu de faire quelque chose de "difficile" pour prouver que c'est bien sa volonté.
 
-4. **La méthode de la paix intérieure** : attendre de Dieu qu'il nous donne une paix intérieure, ou nous "parle" d'une voix douce à l'intérieure de nous.
+4. **La méthode de la paix intérieure** : attendre de Dieu qu'il nous donne une paix intérieure, ou nous "parle" d'une voix douce à l'intérieur de nous.
 
 5. **La méthode de la porte ouverte (ou fermée)** : voir les opportunités ou les blocages comme un "oui" ou un "non" de Dieu.
 
@@ -617,7 +617,7 @@ Comme le résume John Piper[^piper_will_2] :
 >
 > Il y a un monde de différence entre prier et travailler à une intelligence renouvelée qui discerne comment appliquer la Parole de Dieu, d'un côté, et l'habitude de demander à Dieu une nouvelle révélation de ce que vous devez faire. La divination ne demande pas de transformation de votre part, ni sanctification, ni d'être libéré par la vérité de sa Parole révélée (Jean 8:32 ; 17:17). Trouver la volonté de Dieu est discerner l'application des Écritures dans les situations de la vie en utilisant notre intelligence renouvelée.
 
-Il s'agit donc simplement de respecter la volonté morale Dieu comme révélée dans sa Parole puis de jouir de notre liberté chrétienne en prenant nos propres décisions avec sagesse.[^coram_deo_volonte] [^muller] [^piper_will]
+Il s'agit donc simplement de respecter la volonté morale de Dieu comme révélée dans sa Parole puis de jouir de notre liberté chrétienne en prenant nos propres décisions avec sagesse.[^coram_deo_volonte] [^muller] [^piper_will]
 
 ## Quelques ressources
 
@@ -668,7 +668,7 @@ C'est la fin de cet article, qui est loin d'être exhaustif. Pour en apprendre d
   * [Coram Deo - Connaître la volonté de Dieu, oui mais comment?](https://soundcloud.com/coramdeopodcasts/016-connaitre-la-volonte-de-dieu-oui-mais-comment) de Pascal Denault et Guillaume Bourin
   * [Coram Deo – La volonté de Dieu, ma perception et mes intuitions](https://soundcloud.com/coramdeopodcasts/089-la-volonte-de-dieu-ma-perception-et-mes-intuitions) de Pascal denault, Guillaume Bourin, Ken Taylor et Franck Segonne
 * Articles
-  * [Méfiez-vous lorsque votre cœur est en paix](https://evangile21.thegospelcoalition.org/article/mefiez-vous-lorsque-votre-cœur-est-en-paix/) de Matt Rogers
+  * [Méfiez-vous lorsque votre cœur est en paix](https://evangile21.thegospelcoalition.org/article/mefiez-vous-lorsque-votre-coeur-est-en-paix/) de Matt Rogers
 * Prédications
   * [Quelle est la volonté de Dieu et comment la connaître ?](https://www.desiringgod.org/messages/what-is-the-will-of-god-and-how-do-we-know-it) de John Piper
   * [Libres pour faire la volonté de Dieu – Rm 12.1-2](https://www.youtube.com/watch?v=99uZrFxIp6o) de Pascal Denault

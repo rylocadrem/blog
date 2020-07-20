@@ -4,6 +4,7 @@ title:  "[Traduction] Kwasizabantu évaluée en rapport aux caractéristiques de
 excerpt_separator: <!--plus-->
 date:   2020-06-08 11:00:00 +0200
 categories: sectes ksb
+redirect_from: /sectes/2020/06/08/ksb-caracteristiques-sectes
 ---
 
 Cet article est une traduction du chapitre 10 de l'enquête missiologique d'Albert Pilon sur le réveil parmis les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?*.
@@ -23,7 +24,7 @@ Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] 
 
 Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
-Vous pouvez enfin vous initier à la rationalité en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-07-02-introduction-rationalite %})
+Vous pouvez enfin vous initier à la rationalité en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-07-16-introduction-rationalite %})
 
 ## Kwasizabantu évaluée en rapport aux caractéristiques des sectes
 

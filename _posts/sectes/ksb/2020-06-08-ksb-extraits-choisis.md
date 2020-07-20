@@ -4,6 +4,7 @@ title:  "[Traduction] Est-ce un réveil authentique : extraits choisis"
 excerpt_separator: <!--plus-->
 date:   2020-06-08 10:00:00 +0200
 categories: sectes ksb
+redirect_from: /sectes/2020/06/08/ksb-extraits-choisis
 ---
 
 Cet article présente quelques extraits, traduits en français, de l'enquête missiologique d'Albert Pilon sur le réveil parmi les Zoulous et la Mission Kwasizabantu, *Is this genuine revival?* (Est-ce un réveil authentique ?).
@@ -23,7 +24,7 @@ Vous pouvez également lire ma **traduction en français du chapitre 10** de ce 
 
 Vous pouvez en apprendre plus sur les **critères de détection des sectes et les mécanismes de manipulation** à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
-Vous pouvez enfin **vous initier à la rationalité** en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-07-02-introduction-rationalite %})
+Vous pouvez enfin **vous initier à la rationalité** en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-07-16-introduction-rationalite %})
 
 ## Chapitre 1 | Le réveil de Kwasizabantu comparé aux réveils dont il est issu
 
