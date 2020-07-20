@@ -4,6 +4,7 @@ title:  "[BROUILLON] Introduction à la pensée critique"
 excerpt: Une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique.
 date:   2020-07-16 8:30:00 +0200
 categories: rationalite
+hidden: 1
 ---
 
 {% include wip-warning.html %}
