@@ -53,7 +53,16 @@
 th {
     position: -webkit-sticky;
     position: sticky;
+    top: 60px;
+}
+
+.site-header {
+    position: -webkit-sticky;
+    position: sticky;
     top: 0;
+    background-color: white;
+    height: 54px;
+    z-index: 1000;
 }
 
 .post-categories-list {
@@ -146,4 +155,8 @@ th {
 blockquote {
     color: #1a237e;
     border-left: 4px solid #5c6bc0;
+}
+
+.site-title {
+    vertical-align: middle;
 }
