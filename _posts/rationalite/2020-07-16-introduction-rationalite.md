@@ -30,44 +30,7 @@ Cette définition dégage plusieurs points importants :
 
 * *Raisonnable*, donc conforme aux facultés intellectuelles ordonnées de jugement, de discernement, de compréhension, etc.[^tlfi_raison]
 * *Réflexive*, donc examinant en profondeur son sujet et étudiant ses propres mécanismes.[^tlfi_reflexion]
-* Orientée vers une *décision*, c'est à dire dont l'objectif n'est pas la pensée en elle-même.
-
-Ennis liste également 12 attitudes et 17 capacités[^ennis_1] qu'il estime que toute personne voulant pratiquer la pensée critique devrait avoir. Je les liste ci-après sans rentrer tout de suite dans les détails.
-
-Attitudes
-
-1. Rechercher et donner des énnoncés clairs quant aux hypothèses et aux questions
-2. Rechercher et donner des raisons claires
-3. Essayer d'être bien informé
-4. Utiliser des sources et des observations fiables
-5. Prendre en compte les problèmes dans leur intégralité
-6. Garder à l'esprit la question fondamentale en cours d'examen
-7. S'informer des alternatives
-8. Être ouvert d'esprit
-9. Adopter une position et la changer quand les preuves sont suffisantes
-10. Être aussi précis que la situation l'exige
-11. Rechercher à être aussi près de la vérité que possible
-12. Appiquer ses capacités de pensée critique
-
-Capacités
-
-1. Avoir et poursuivre un objectif précis
-2. Analyser les arguments
-3. Poser et répondre à des questions de clarification
-4. Comprendre et utiliser les graphiques et les maths
-5. Évaluer la fiabilité d'une source
-6. Observer et évaluer des rapports d'observation
-7. Utiliser ses connaissances
-8. Déduire et évaluer des déductions
-9. Faire et évaluer des inductions, des raisonnements et des arguments
-10. Faire et évaluer des jugements de valeur
-11. Poser et évaluer des définitions
-12. Gérer les équivoques (expressions qui peuvent être interprétées de différentes façons)
-13. Formuler et évaluer des hypothèses
-14. Évaluer les présupposés
-15. Reconnaitre les arguments fallacieux (voir [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url rationalite/2020-06-17-quelques-arguments-fallacieux %}))
-16. Vérifier la validité de ses propres raisonnements
-17. Aborder les choses de manière ordonnée
+* Orientée vers une *décision*.
 
 Voici encore quelques autres définitions de la *pensée critique*, qui peuvent éclairer certains aspects.
 
@@ -140,6 +103,10 @@ Dans le cadre de cet article, je donne cette définition :
 
 <!-- Cf. https://www.youtube.com/watch?v=PFjX5tgu0iQ -->
 
+### Raison vs émotions
+
+Il existe un mythe tenace selon lequel raison et émotions seraient opposées. Un mythe qui décrit les personnes rationnelles commes froides et calculatrices
+
 ### Champs d'application
 
 ### Attitude
@@ -149,6 +116,45 @@ Avant de nous plonger dans les méthodes de la pensée critique, je voudrais pr�
 * Nous avons peut-être un avis sur tout mais réellement un expertise sur très peu de chose. En l'absence de données suffisantes il est bon d'admettre notre ignorance et de suspendre notre jugement.
 * Rien n'est vrai que jusqu'à preuve du contraire. Soyons prêts à faire évoluer nos convictions en cas d'émergence de nouveaux éléments probants.
 * La pensée critique et la démarche zététique ne sont pas prescriptives mais informatives. Nous restons parfaitement libres de nos choix, qu'ils soient rationnels ou non.
+
+### FOOBAR (a trier)
+
+Robert H. Ennis liste 12 attitudes et 17 capacités[^ennis_1] qu'il estime que toute personne voulant pratiquer la pensée critique devrait avoir. Je les liste ci-après sans rentrer tout de suite dans les détails.
+
+Attitudes
+
+1. Rechercher et donner des énnoncés clairs quant aux hypothèses et aux questions
+2. Rechercher et donner des raisons claires
+3. Essayer d'être bien informé
+4. Utiliser des sources et des observations fiables
+5. Prendre en compte les problèmes dans leur intégralité
+6. Garder à l'esprit la question fondamentale en cours d'examen
+7. S'informer des alternatives
+8. Être ouvert d'esprit
+9. Adopter une position et la changer quand les preuves sont suffisantes
+10. Être aussi précis que la situation l'exige
+11. Rechercher à être aussi près de la vérité que possible
+12. Appiquer ses capacités de pensée critique
+
+Capacités
+
+1. Avoir et poursuivre un objectif précis
+2. Analyser les arguments
+3. Poser et répondre à des questions de clarification
+4. Comprendre et utiliser les graphiques et les maths
+5. Évaluer la fiabilité d'une source
+6. Observer et évaluer des rapports d'observation
+7. Utiliser ses connaissances
+8. Déduire et évaluer des déductions
+9. Faire et évaluer des inductions, des raisonnements et des arguments
+10. Faire et évaluer des jugements de valeur
+11. Poser et évaluer des définitions
+12. Gérer les équivoques (expressions qui peuvent être interprétées de différentes façons)
+13. Formuler et évaluer des hypothèses
+14. Évaluer les présupposés
+15. Reconnaitre les arguments fallacieux (voir [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url rationalite/2020-06-17-quelques-arguments-fallacieux %}))
+16. Vérifier la validité de ses propres raisonnements
+17. Aborder les choses de manière ordonnée
 
 ## Quelques ressources vidéo
 
