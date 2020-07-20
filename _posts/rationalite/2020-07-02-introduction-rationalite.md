@@ -2,7 +2,7 @@
 layout: post
 title:  "[BROUILLON] Introduction à la rationalité"
 excerpt: Une introduction à la rationalité, aux principes fondamentaux de la pensée critique, aux mécanismes de raisonnement et aux arguments fallacieux.
-date:   2020-06-03 8:30:00 +0200
+date:   2020-07-02 8:30:00 +0200
 categories: rationalite
 hidden: 1
 ---
@@ -41,7 +41,13 @@ La rationalité instrumentale est l'accomplissement systématique de ses objecti
 
 ## Quelques ressources vidéo
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Avancé
+
+La série de cours *zétérique & autodéfense intellectuelle* par Richard Monvoisin à l'Université de Grenoble :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLsbx1DYyydS-ie6wXA3Qu5zHLPWhilejW" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Références
 

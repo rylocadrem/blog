@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[BROUILLON] Les branches du protestantisme"
+title:  "[BROUILLON] Quelques confessions de foi protestantes"
 # excerpt: ...
 # date:   2020-06-18 12:00:00 +0200
 categories: theologie
@@ -14,3 +14,6 @@ Table des matières :
 {:toc}
 
 ## Introduction
+
+
+<!-- TODO : confessions de foi baptistes, réformés, mennonites, etc... avec comparaison point par point (pas forcément mot à mot) -->
