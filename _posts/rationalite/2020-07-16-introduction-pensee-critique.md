@@ -391,7 +391,7 @@ Les illusions visuelles sont des percéptions visuelles s'opposant à la réalit
 
 ##### Exemple d'illusion visuelle physiologique
 
-Fixez l'oeil Che Guevara dans l'image ci-dessous pendant une trentaine de secondes puis fermez les yeux. Vous voyes l'image persister (le noir étant devenu blanc et inversement).
+Fixez l'oeil du Che Guevara dans l'image ci-dessous pendant une trentaine de secondes puis fermez les yeux. Vous voyes l'image persister (le noir étant devenu blanc et inversement).
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/Che_Guevara_afterimage.jpg" alt="Image rémanante du Che Guevara" />
 
