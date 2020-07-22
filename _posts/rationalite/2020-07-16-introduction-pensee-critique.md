@@ -336,7 +336,7 @@ Le Rasoir d'Hitchens est fortement lié à l'*onus probandi*.
 
 **La charge de la preuve incombe à celui qui prétend.**
 
-Comme l'explique Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
+Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 
 > C'est à celui qui prétend quelque chose de le prouver et non aux autres de prouver que ce qu'il prétend n'est pas vrai.
 >
@@ -348,7 +348,7 @@ Comme l'explique Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 
 ### Rasoir d'Ockham (ou principe de parcimonie des hypothèses)
 
-**Les hypothèses suffisantes les plus simples doivent être préférées.**
+**Les hypothèses suffisantes les plus parcimonieuses doivent être préférées.**
 
 Il s'agit, entre plusieurs hypothèses au même pouvoir explicatif, de privilégier celle qui est la plus *parcimonieuse*, celle qui est la moins couteuse cognitivement, celle qui fait appel au moins d'autres hypothèses.
 
