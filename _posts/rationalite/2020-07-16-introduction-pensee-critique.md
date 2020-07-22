@@ -421,14 +421,69 @@ Pour voir quelques autres illusions, visionnez cette excellente publicité Honda
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/lZU8ojUBh0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale dans le contour d’un nuage :
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/sad_tomato.jpg" alt="Tomate triste" />
+<img class="picture" src="{{ site.baseurl }}/assets/images/birds.jpg" alt="Vol d'oiseaux" />
+<img class="picture" src="{{ site.baseurl }}/assets/images/wall.jpg" alt="Mur" />
+
 #### Les illusions auditives
 
-Les illusions auditives sont des percéptions auditives s'opposant à la réalité.
+Les illusions auditives sont des percéptions auditives s'opposant à la réalité. Ni les hallucinations auditives, qui ne se rapportent à aucun son, ni les acouphènes, qui sont un symptôme d'une défaillance du système auditif, ne sont des illusions auditives.
 
-<!-- TODO -->
+Dans cette vidéo, on entend "ba" ou "fa" selon l'image affichée alors que le son est le même (effet McGurk) :
 
-#### Les illusions du toucher ???
-<!-- TODO -->
+<iframe class="video-frame" src="https://www.youtube.com/embed/G-lN8vWm3m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Dans cet exemple, on a collé des paroles françaises immaginaires sur une chanson japonaise et on a l'impression de reconnaitre les mots prononcés (paréidolie auditive) :
+
+<iframe class="video-frame" src="https://player.vimeo.com/video/220934742" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Dans cet exemple, on entend soit *Yanny* soit *Laurel* en fonction de la fréquence perçue :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/yDiXQl7grPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### La surcharge cognitive
+
+C'est quand notre cerveau a trop d'informations à gérer.
+
+Regarder quelques images d'une campagne de publicité Colgate :
+
+*Sur mobile, vous pouvez orienter votre appareil en paysage.*
+{: .mobile-only}
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/colgate1.jpg" alt="Colgate 1" />
+<img class="picture" src="{{ site.baseurl }}/assets/images/colgate2.jpg" alt="Colgate 2" />
+<img class="picture" src="{{ site.baseurl }}/assets/images/colgate3.jpg" alt="Colgate 3" />
+
+Vous avez remarqué les restes de nourriture coincés entre les dents des hommes ? Bien sûr ! On le remarque tout de suite. Mais avez vous remarqué que sur la première image il manque une oreille à l'homme, que sur la seconde la femme a un troisième bras et que sur la dernière elle a un sixième doigt ?
+
+Un phénomène similaire est à jeu dans l'effet Stroop (interférences d'informations non pertinentes).
+
+Essayez de dire la couleur des mots suivants :
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/stroop.png" alt="Effet Stroop" />
+
+Enfin, regardez la vidéo suivante. Serez-vous être suffisamment attentifs ?
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/ubNF9QNEQLA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Les illusions tactiles
+
+Au même titre que les illusions visuelles et auditives, on trouve aussi des illusions tactiles. Par exemple :
+
+* Le *lapin qui saute*[^geldard] [^bremer] [^flach], dans laquelle on tapote rapidement une personne à deux endroits différents (par exemple le coude et le poignet), et qui donne l'illusion d'être touché à plusieurs endroits entre ces deux zones.
+* L'*effet Tau*[^helson] [^russo], lorsque des participants jugent la distance spatiale entre plusieurs tapotements distincts comme étant irrégulière alors que seul le rythme varie.
+* En mangeant, si une personne tient un aliment avec une texture et une autre texture est présentée à la bouche, de nombreuses personnes perçoivent le croustillant de l'aliment comme étant entre les deux textures.[^barnett-cowan]
+* En touchant certains objets à la forme visuellement trompeuse, on peut ressentir un trou à la place d'une bosse.[^robles-de-la-torre]
+
+#### L'effet impact
+
+C'est quand on utilise la connotation des mots pour induire une idée différente de ce que ces mots prétendent représenter.
+
+Regardez cet exemple pédagogique :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/iS-CJSlwpGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### La faillibilité de la mémoire
 
@@ -547,3 +602,17 @@ Capacités
 [^angie]: Angie, A. D., Connelly, S., Waples, E. P., & Kligyte, V. (2011). *The influence of discrete emotions on judgement and decision-making : A meta-analytic review*. Cognition & Emotion, 25(8), 1393‑1422. <https://doi.org/10.1080/02699931.2010.550751>
 
 [^monvoisin_pinsault]: Pinsault, N., & Monvoisin, R. (2014). *Tout ce que vous n'avez jamais voulu savoir sur les thérapies manuelles*. Presses universitaires de Grenoble.
+
+[^geldard]: Geldard, F. A., & Sherrick, C. E. (1972). *The Cutaneous « Rabbit » : A Perceptual Illusion*. Science, 178(4057), 178‑179. <https://doi.org/10.1126/science.178.4057.178>
+
+[^bremer]: Bremer, C. D., Pittenger, J. B., Warren, R., & Jenkins, J. J. (1977). *An Illusion of Auditory Saltation Similar to the Cutaneous « Rabbit »*. The American Journal of Psychology, 90(4), 645. <https://doi.org/10.2307/1421738>
+
+[^flach]: Flach, R., & Haggard, P. (2006). *The cutaneous rabbit revisited*. Journal of Experimental Psychology: Human Perception and Performance, 32(3), 717‑732. <https://doi.org/10.1037/0096-1523.32.3.717>
+
+[^helson]: Helson, H., & King, S. M. (1931). *The tau effect : An example of psychological relativity*. Journal of Experimental Psychology, 14(3), 202‑217. <https://doi.org/10.1037/h0071164>
+
+[^russo]: Russo, G., & Dellantonio, A. (1989). *Influence of Phenomenal Time on Perceived Space*. Perceptual and Motor Skills, 68(3), 971‑984. <https://doi.org/10.2466/pms.1989.68.3.971>
+
+[^barnett-cowan]: Barnett-Cowan, M. (2010). *An Illusion You Can Sink Your Teeth into : Haptic Cues Modulate the Perceived Freshness and Crispness of Pretzels*. Perception, 39(12), 1684‑1686. <https://doi.org/10.1068/p6784>
+
+[^robles-de-la-torre]: Robles-De-La-Torre, G., & Hayward, V. (2001). *Force can overcome object geometry in the perception of shape through active touch*. Nature, 412(6845), 445‑448. <https://doi.org/10.1038/35086588>
