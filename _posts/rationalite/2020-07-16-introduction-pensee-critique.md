@@ -346,7 +346,7 @@ Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 >
 > Il est de toute façon logiquement impossible de montrer que quelque chose n'existe pas.
 
-### Rasoir d'Ockham (ou principe de parcimonie des hypothèses)
+### Le Rasoir d'Ockham (ou principe de parcimonie des hypothèses)
 
 **Les hypothèses suffisantes les plus parcimonieuses doivent être préférées.**
 
