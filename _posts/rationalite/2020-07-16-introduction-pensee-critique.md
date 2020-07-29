@@ -328,7 +328,7 @@ Je les présente sommairement, sans détailler toutes leurs nuances et leur comp
 
 Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, je n'ai aucune raison de croire plus à leur existence qu'avant d'entendre ces propos.
 
-Attention, il ne s'agit pas de pouvoir affirmer le contraire de l'affirmation. Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, le Rasoir d'Hitchens ne me permet pas d'affirmer "les licornes n'existent pas" sans preuve, bien que je puisse privilégier cette hypothèse (cf. le Rasoir d'Ockham).
+Attention, il ne s'agit pas de pouvoir affirmer le contraire de l'affirmation. Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, le Rasoir d'Hitchens ne me permet pas d'affirmer "les licornes n'existent pas" sans preuve, bien que je puisse privilégier cette hypothèse (cf. [le principe de parcimonie des hypothèses](#le-principe-de-parcimonie-des-hypothèses-ou-rasoir-dockham)).
 
 Le Rasoir d'Hitchens est fortement lié à l'*onus probandi*.
 
@@ -346,7 +346,7 @@ Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 >
 > Il est de toute façon logiquement impossible de montrer que quelque chose n'existe pas.
 
-### Le Rasoir d'Ockham (ou principe de parcimonie des hypothèses)
+### Le principe de parcimonie des hypothèses (ou Rasoir d'Ockham)
 
 **Les hypothèses suffisantes les plus parcimonieuses doivent être préférées.**
 
@@ -421,7 +421,7 @@ Pour voir quelques autres illusions, visionnez cette excellente publicité Honda
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/lZU8ojUBh0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale dans le contour d’un nuage :
+Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale dans le contour d'un nuage :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/sad_tomato.jpg" alt="Tomate triste" />
 <img class="picture" src="{{ site.baseurl }}/assets/images/birds.jpg" alt="Vol d'oiseaux" />
@@ -477,15 +477,80 @@ Au même titre que les illusions visuelles et auditives, on trouve aussi des ill
 * En mangeant, si une personne tient un aliment avec une texture et une autre texture est présentée à la bouche, de nombreuses personnes perçoivent le croustillant de l'aliment comme étant entre les deux textures.[^barnett-cowan]
 * En touchant certains objets à la forme visuellement trompeuse, on peut ressentir un trou à la place d'une bosse.[^robles-de-la-torre]
 
+#### L'effet de cadrage
+
+C'est présenter des informations d'une manière orientée sans en changer le sens exact (parler d'un "verre à moitié plein" plutôt qu'un "verre à moitié vide").
+
+Dans une série d'expériences en 1981, Amos Tversky et Daniel Kahneman on posé une série de questions à plusieurs centaines de participants pour décrire cet effet[^tversky]. En voici un exemple :
+
+**Version 1 :**
+
+Vous avez 600 patients atteints d'une maladie mortelle.
+
+* Avec un traitement A, 200 seront sauvés.
+* Avec un traitement B, il y a 1 chance sur 3 de sauver les 600, et 2 chances sur 3 de n'en sauver aucun.
+
+Quel traitement choisissez-vous ?
+
+**Version 2 :**
+
+Vous avez 600 patients atteints d'une maladie mortelle.
+
+* Avec un traitement A, 400 mourront.
+* Avec un traitement B, il y a 1 chance sur 3 qu'aucun ne meurt, et 2 chances sur 3 que les 600 meurent.
+
+Quel traitement choisissez-vous ?
+
+Les deux versions des questions donnent exactement les mêmes informations quant à l'efficacité et aux conséquences des deux traitements. Voici les résultats :
+
+* Version 1 : 72% choisissent la première réponse.
+* Version 2 : 78% choisissent la deuxième réponse.
+
+D'autres questions du même type ou portant sur la manière de présenter les gains et les risques sont présentés dans leur article [The framing of decisions and the psychology of choice](https://www.uzh.ch/cmsssl/suz/dam/jcr:ffffffff-fad3-547b-ffff-ffffe54d58af/10.18_kahneman_tversky_81.pdf).
+
+Une autre illustration de l'effet de cadrage se retrouve dans cet excellent exemple pédagogique :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/iS-CJSlwpGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### L'effet impact
 
 C'est quand on utilise la connotation des mots pour induire une idée différente de ce que ces mots prétendent représenter.
 
-Regardez cet exemple pédagogique :
+En 2005 Richard Wiseman et Emma Greening on réalisé une expérience[^wiseman] impliquant 50 étudiants sur le campus de l'université de Hertfordshire au Royaume-Uni. Ils ont montré aux participants une vidéo d'un illusionniste tordant "par la pensée" une clé posée dans la paume de sa main, puis la posant sur une table devant lui. Le phénomène a été présenté comme étant paranormal.
 
-<iframe class="video-frame" src="https://www.youtube.com/embed/iS-CJSlwpGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Les étudiants devait répondre à la question "Une fois posée sur la table, la clé a-t-elle continué de se tordre ?" (la bone réponse étant "non").
+
+Les étudiants étaient répartis aléatoirement en deux groupes isolés. Pour le second groupe, la vidéo contenait une séquence supplémentaire au début ou l'illusionniste suggérait que la clé continuerait de se tordre une fois posée.
+
+Les résultats à la question pour les deux groupes sont :
+
+|                            | Groupe 1 (sans suggestion) | Groupe 2 (avec suggestion) |
+|----------------------------|----------------------------|----------------------------|
+| La torsion continue        | 4 %                        | 40 %                       |
+| La torsion ne continue pas | 96 %                       | 60 %                       |
+
+Une seconde expérience similaire a été menée, avec d'autres participants. Cette-fois la question ne suggérait rien et demandait simplement de décrire la vidéo. Voici les resultats :
+
+|                            | Groupe 1 (sans suggestion) | Groupe 2 (avec suggestion) |
+|----------------------------|----------------------------|----------------------------|
+| La torsion continue        | 0 %                        | 36 %                       |
+| La torsion ne continue pas | 100 %                      | 64 %                       |
+
+Celà illustre bien la puissance de cet effet. Il peut même avoir une influence si importante qu'on observe par exemples des effet physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
 
 ### La faillibilité de la mémoire
+
+Chez tous les individus, même parfaitements saints, la mémoire est faillible, maléable.
+
+La mémoire est consistituée de plusieurs registres[^baddeley] [^tulving] et stocke les informations de manière discontinue.[^montel] Il est par exemple difficile de réciter l'alphabet à l'envers en l'ayant appris uniquement à l'endrois.
+
+Mais cela va bien plus loin.
+
+Dans une expérience en 1979[^gentner], Dedre Gentner et Elizabeth Loftus ont présenté une série d'images aux participants. Une semaine plus tard, ils leur ont montré une série d'images en leur demandant d'indiquer celles dont ils se souvenaient avec certitude. 36% ont indiqué se rappeler d'une image alors qu'elle ne leur avait pas été présentée mais dont le thème était le même. Cette proporsion atteignait 47% quand les images étaient accompagnées de légendes avec des verbes spécifiques plutôt que génériques, par exemple "hike" (randonner) plutôt que "walk" (marcher).
+
+D'autres expériences du même genre ont par exemple fait se "souvenir" à des étudiants la présence de certains objets lors d'un cours alors que seules des questions mentionnant ces objets y avaient été posées[^cole], intégré de faux éléments par suggestion dans le souvenir d'un accident[^loftus], fait accepter des affirmation contradictiores par l'introduction de faux souvenirs au moment opportun[^loftus_2], créé le faux souvenir d'une peur intense[^ramirez], etc.
+
+D'autres études[^bjorklund] [^conway] [^roediger] [^schacter] [^loftus_3] [^roediger_2] [^roediger_3] [^loftus_4] [^payne] [^rubin] ont conduit de nombreuses expériences similaires et indiquent toutes que les souvenirs peuvent êtres modifiés, créés ou supprimés et que la mémoire n'est pas un témoin fiable.
 
 <!-- TODO -->
 
@@ -495,6 +560,7 @@ Regardez cet exemple pédagogique :
 
 * les curseurs de croyance / l'inférence bayésienne
 * fillabilité des sens, illusions
+* les maths/stats/proba de base et quelques erreurs courrantes
 
 ## FOOBAR (a trier)
 
@@ -540,6 +606,8 @@ Capacités
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Références
+
+TODO : vérifier l'unicité des balises de citation
 
 [^rationality_less_wrong]: Yudkowsky, E. (2009, mars 16). *What Do We Mean By "Rationality"? - LessWrong 2.0*. Consulté le 16 juillet 2020, à l'adresse <https://www.lesswrong.com/s/5g5TkQTe9rmPS5vvM/p/RcZCwxFiZzE6X7nsv>
 
@@ -616,3 +684,45 @@ Capacités
 [^barnett-cowan]: Barnett-Cowan, M. (2010). *An Illusion You Can Sink Your Teeth into : Haptic Cues Modulate the Perceived Freshness and Crispness of Pretzels*. Perception, 39(12), 1684‑1686. <https://doi.org/10.1068/p6784>
 
 [^robles-de-la-torre]: Robles-De-La-Torre, G., & Hayward, V. (2001). *Force can overcome object geometry in the perception of shape through active touch*. Nature, 412(6845), 445‑448. <https://doi.org/10.1038/35086588>
+
+[^tversky]: Tversky, A., & Kahneman, D. (1981). *The framing of decisions and the psychology of choice*. Science, 211(4481), 453‑458. <https://doi.org/10.1126/science.7455683>
+
+[^benedetti]: Benedetti, F. (2002). *How the Doctor's Words Affect the Patient's Brain*. Evaluation & the Health Professions, 25(4), 369‑386. <https://doi.org/10.1177/0163278702238051>
+
+[^wiseman]: Wiseman, R., & Greening, E. (2005). *It's still bending : Verbal suggestion and alleged psychokinetic ability*. British Journal of Psychology, 96(1), 115‑127. <https://doi.org/10.1348/000712604X15428>
+
+[^gentner]: Gentner, D., & Loftus, E. F. (1979). *Integration of Verbal and Visual Information as Evidenced by Distortions in Picture Memory*. The American Journal of Psychology, 92(2), 363. <https://doi.org/10.2307/1421930>
+
+[^montel]: Montel, S. (2016). *11 grandes notions de neuropsychologie*. Dunod.
+
+[^baddeley]: Baddeley, A. (2007). *Working Memory, Thought, and Action*. Oxford University Press. <https://doi.org/10.1093/acprof:oso/9780198528012.001.0001>
+
+[^tulving]: Tulving, E., & Schacter, D. (1990). *Priming and human memory systems*. Science, 247(4940), 301‑306. <https://doi.org/10.1126/science.2296719>
+
+[^cole]: Cole, W. G., & Loftus, E. F. (1979). *Incorporating New Information into Memory*. The American Journal of Psychology, 92(3), 413. <https://doi.org/10.2307/1421560>
+
+[^loftus]: Loftus, E. F., Miller, D. G., & Burns, H. J. (1978). *Semantic integration of verbal information into a visual memory*. Journal of Experimental Psychology: Human Learning and Memory, 4(1), 19‑31. <https://doi.org/10.1037/0278-7393.4.1.19>
+
+[^loftus_2]: Loftus, E. F. (1979). *Reactions to blatantly contradictory information*. Memory & Cognition, 7(5), 368‑374. <https://doi.org/10.3758/BF03196941>
+
+[^ramirez]: Ramirez, S., Liu, X., Lin, P.-A., Suh, J., Pignatelli, M., Redondo, R. L., Ryan, T. J., & Tonegawa, S. (2013). Creating a False Memory in the Hippocampus. Science, 341(6144), 387‑391. <https://doi.org/10.1126/science.1239073>
+
+[^bjorklund]: Bjorklund, D. F. (2012). *False-memory creation in children and adults : Theory, research, and implications*. Psychology Press.
+
+[^conway]: Conway, M. A. (Éd.). (1997). *Recovered Memories and False Memories*. Oxford University Press. <https://doi.org/10.1093/med:psych/9780198523864.001.0001>
+
+[^roediger]: Roediger, H. L., & Marsh, E. J. (2009). *False memory*. Scholarpedia, 4(8), 3858. <https://doi.org/10.4249/scholarpedia.3858>
+
+[^schacter]: Schacter, D. L., & Curran, T. (1995). *The Cognitive Neuroscience of False Memories*. Psychiatric Annals, 25(12), 726‑730. <https://doi.org/10.3928/0048-5713-19951201-08>
+
+[^loftus_3]: Loftus, E. F. (2005). *Planting misinformation in the human mind : A 30-year investigation of the malleability of memory*. Learning & Memory, 12(4), 361‑366. <https://doi.org/10.1101/lm.94705>
+
+[^roediger_2]: Roediger, H. L., & McDermott, K. B. (1995). *Creating false memories : Remembering words not presented in lists*. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(4), 803‑814. <https://doi.org/10.1037/0278-7393.21.4.803>
+
+[^roediger_3]: Roediger, H. L., Watson, J. M., McDermott, K. B., & Gallo, D. A. (2001). *Factors that determine false recall : A multiple regression analysis*. Psychonomic Bulletin & Review, 8(3), 385‑407. <https://doi.org/10.3758/BF03196177>
+
+[^loftus_4]: Loftus, E. F., & Pickrell, J. E. (1995). *The Formation of False Memories*. Psychiatric Annals, 25(12), 720‑725. <https://doi.org/10.3928/0048-5713-19951201-07>
+
+[^payne]: Payne, J. D., Schacter, D. L., Propper, R. E., Huang, L.-W., Wamsley, E. J., Tucker, M. A., Walker, M. P., & Stickgold, R. (2009). *The role of sleep in false memory formation*. Neurobiology of Learning and Memory, 92(3), 327‑334. <https://doi.org/10.1016/j.nlm.2009.03.007>
+
+[^rubin]: Rubin, D. C., Schrauf, R. W., & Greenberg, D. L. (2003). *Belief and recollection of autobiographical memories*. Memory & Cognition, 31(6), 887‑901. <https://doi.org/10.3758/BF03196443>
