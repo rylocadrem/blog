@@ -25,9 +25,6 @@ show_excerpts: true
 minima:
   date_format: "%d/%m/%Y"
 
-# Math
-math_engine: nil
-
 # Categories
 collections:
   breves:
