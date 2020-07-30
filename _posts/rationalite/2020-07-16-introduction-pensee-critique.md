@@ -7,6 +7,10 @@ categories: rationalite
 hidden: 1
 ---
 
+Cet article est probablement le plus fondamental de ceux que j'ai écrit jusqu'ici. Il fait une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique, qui sont cruciaux pour bien raisonner, comprendre le monde, décortiquer les affirmations et ne pas se faire manipuler.
+
+La pensée critique, que je défini juste après, est non seulement utile pour réfléchir sur des sujets scientifiques, mais aussi politiques, sociétaux, etc. Elle est également un excellent outil dans le cadre de la foi, pour analyser avec une rigueur méthodique toute affirmation de ceux qui voudraient nous imposer leurs dogmes.
+
 {% include wip-warning.html %}
 
 Table des matières :
@@ -31,43 +35,6 @@ Cette définition dégage plusieurs points importants :
 * *Raisonnable*, donc conforme aux facultés intellectuelles ordonnées de jugement, de discernement, de compréhension, etc.[^tlfi_raison]
 * *Réflexive*, donc examinant en profondeur son sujet et étudiant ses propres mécanismes.[^tlfi_reflexion]
 * Orientée vers une *décision*, c'est à dire dont l'objectif n'est pas la pensée en elle-même.
-
-Ennis liste également 12 attitudes et 17 capacités[^ennis_1] qu'il estime que toute personne voulant pratiquer la pensée critique devrait avoir. Je les liste ci-après sans rentrer tout de suite dans les détails.
-
-<!-- Attitudes
-
-1. Rechercher et donner des énnoncés clairs quant aux hypothèses et aux questions
-2. Rechercher et donner des raisons claires
-3. Essayer d'être bien informé
-4. Utiliser des sources et des observations fiables
-5. Prendre en compte les problèmes dans leur intégralité
-6. Garder à l'esprit la question fondamentale en cours d'examen
-7. S'informer des alternatives
-8. Être ouvert d'esprit
-9. Adopter une position et la changer quand les preuves sont suffisantes
-10. Être aussi précis que la situation l'exige
-11. Rechercher à être aussi près de la vérité que possible
-12. Appiquer ses capacités de pensée critique
-
-Capacités
-
-1. Avoir et poursuivre un objectif précis
-2. Analyser les arguments
-3. Poser et répondre à des questions de clarification
-4. Comprendre et utiliser les graphiques et les maths
-5. Évaluer la fiabilité d'une source
-6. Observer et évaluer des rapports d'observation
-7. Utiliser ses connaissances
-8. Déduire et évaluer des déductions
-9. Faire et évaluer des inductions, des raisonnements et des arguments
-10. Faire et évaluer des jugements de valeur
-11. Poser et évaluer des définitions
-12. Gérer les équivoques (expressions qui peuvent être interprétées de différentes façons)
-13. Formuler et évaluer des hypothèses
-14. Évaluer les présupposés
-15. Reconnaitre les arguments fallacieux (voir [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url rationalite/2020-06-17-quelques-arguments-fallacieux %}))
-16. Vérifier la validité de ses propres raisonnements
-17. Aborder les choses de manière ordonnée -->
 
 Voici encore quelques autres définitions de la *pensée critique*, qui peuvent éclairer certains aspects.
 
@@ -315,65 +282,9 @@ Avant de nous plonger dans les méthodes de la pensée critique, je voudrais pr�
 * Rien n'est vrai que jusqu'à preuve du contraire. Soyons prêts à faire évoluer nos convictions en cas d'émergence de nouveaux éléments probants.
 * Le réel existe tel qu'il est, qu'il nous plaise ou non. Soyons honnêtes dans nos démarches épistémiques.
 * La pensée critique et la démarche zététique ne sont pas prescriptives mais informatives. Nous restons parfaitement libres de nos choix, qu'ils soient rationnels ou non.
+* Avant de se lancer dans un débat, il peut être utilse de demander à son interlocuteur s'il y a un élément qui pourrait le faire changer d'avis. Si la réponse est non alors il est dans un système de croyance par pure foi et un débat est probablement innutile. De même si la théorie qu'il défend a été construite avant de chercher les faits pour la soutenir, alors c'est mauvais signe et il est fort probable qu'il soit là aussi, au moins en partie, dans un système de croyance par pure foi.
 
-## Les fondamentaux de la pensée critique
-
-Voici quelques-uns des principes fondamentaux de la pensée critique. Ils servent de fondation à une réflexion plus poussée et priorisant les hypothèses les plus probables, en éliminants les arguments non pertinants d'un point de vue épistémique, etc.
-
-Je les présente sommairement, sans détailler toutes leurs nuances et leur complexité, mais nous les verrons plus en détails dans des exemples concrets dans la suite de l'article.
-
-### Le Rasoir d'Hitchens
-
-**Ce qui peut être affirmé sans preuve peut être rejeté sans preuve.**
-
-Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, je n'ai aucune raison de croire plus à leur existence qu'avant d'entendre ces propos.
-
-Attention, il ne s'agit pas de pouvoir affirmer le contraire de l'affirmation. Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, le Rasoir d'Hitchens ne me permet pas d'affirmer "les licornes n'existent pas" sans preuve, bien que je puisse privilégier cette hypothèse (cf. [le principe de parcimonie des hypothèses](#le-principe-de-parcimonie-des-hypothèses-ou-rasoir-dockham)).
-
-Le Rasoir d'Hitchens est fortement lié à l'*onus probandi*.
-
-### L'*onus probandi*
-
-**La charge de la preuve incombe à celui qui prétend.**
-
-Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
-
-> C'est à celui qui prétend quelque chose de le prouver et non aux autres de prouver que ce qu'il prétend n'est pas vrai.
->
-> Ce n'est pas aux critiques de Claude Vorilhon, alias Raël de prouver qu'il n'a pas pu être enlevé par des extraterrestres, mais bien à lui de démontrer qu'il l'a été. De la même façon, ce n'est pas aux critiques d'une technique de montrer qu'elle est inefficace, mais bien aux prétendants de montrer qu'elle possède l'efficacité que ceux-ci lui prêtent.
->
-> Imaginons le bazar s'il fallait prendre pour vraie toute affirmation, par exemple sur un médicament, et devoir attendre que quelqu'un montre qu'elle est fausse pour y renoncer. Tout vendeur de potions pourrait rétorquer à vos doutes : "prouvez donc que ma potion n'est pas miraculeuse".
->
-> Il est de toute façon logiquement impossible de montrer que quelque chose n'existe pas.
-
-### Le principe de parcimonie des hypothèses (ou Rasoir d'Ockham)
-
-**Les hypothèses suffisantes les plus parcimonieuses doivent être préférées.**
-
-Il s'agit, entre plusieurs hypothèses au même pouvoir explicatif, de privilégier celle qui est la plus *parcimonieuse*, celle qui est la moins couteuse cognitivement, celle qui fait appel au moins d'autres hypothèses.
-
-Cela implique que face à un phénoméne encore inexpliqué, on tentera d'abord de l'expliquer à partir de ce qui est connu avant de postuler l'extistence de quelque chose d'inconnu. Ou que face à trois symptomes simultanés on recherche d'abord une maladie pouvant causer ces trois symptômes plutôt que trois maladies causant chacune un symptôme.
-
-Richard Monvoisin en donne un exemple[^monvoisin_these] :
-
-> Je mets un chat et une souris dans une boîte, je ferme, je secoue, et j'ouvre : il ne reste plus que le chat.
->
-> * Hypothèse 1 : des extraterrestres de la planète Mû ont voulu désintégrer la souris, mais elle s'est transformée en chat. Le chat, de frayeur, est passé dans une autre dimension par effet Tunnel.
-> * Hypothèse 2 : le chat a mangé la souris.
->
-> Vous m'accorderez que l'hypothèse 2 est beaucoup moins coûteuse intellectuellement que la N°1. Elle ne postule rien d'autre que la prédation de la souris par le chat, tandis que la première postule une planète Mû, des extraterrestres qui viennent, qui savent désintégrer un chat ce qui n'est pas donné à tout le monde, une souris qui se transforme en chat, une autre dimension, un chat qui sait y aller et un effet tunnel pour objet macroscopique. Ca fait beaucoup. Dans le doute, on choisira la 2.
-
-Attention, il ne s'agit pas de dire que l'hypothèse parcimonieuse est vraie. En l'absence de preuve, nous ne pouvons êtres sûrs de rien. Il s'agit seulement de dire qu'il est plus *sage*, plus *rationnel* de privilégier celle-ci jusqu'à l'apparition éventuelle de nouveaux éléments probants.
-
-### Le critère de réfutabilité
-
-**Une proposition n'est recevable que si elle est réfutable.**
-
-Une proposition est réfutable s'il existe un énoncé qui lui est contradictoire, c'est-à-dire qui la falsifierait s'il se révélait vrai. Une proposition irréfutable est par exemple "demain il va pleuvoir ou bien il ne va pas pleuvoir", car elle est vraie quoi qu'il arrive.
-
-Si une proposition n'est pas réfutable, alors elle n'a aucune valeur probante et n'est pas rationnelle.
-
-## La faillibilité des sens et de la mémoire
+## La faillibilité des sens et de l'esprit
 
 "C'est vrai, je l'ai vu de mes propres yeux !" et "C'est vrai, je m'en rappelle très bien !" sont deux affirmations à prendre avec des pincettes quand on sait à quel point nos sens et notre mémoire peuvent être faillibles, même en fonctionnement "standard" (sans altération par un handicap, une maladie, une substance, etc.).
 
@@ -435,11 +346,11 @@ Dans cette vidéo, on entend "ba" ou "fa" selon l'image affichée alors que le s
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/G-lN8vWm3m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Dans cet exemple, on a collé des paroles françaises immaginaires sur une chanson japonaise et on a l'impression de reconnaitre les mots prononcés (paréidolie auditive) :
+Dans ce sketch, l'humoriste Serge Llado présente différentes chansons en langues étrangères en suggérant des paroles françaises faitaisistes au préalable. Il est alors difficile d'entendre autre chose. Il parle d'hallucination auditive mais le terme exact est *paréidolie auditive* :
 
-<iframe class="video-frame" src="https://player.vimeo.com/video/220934742" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe class="video-frame" src="https://www.youtube.com/embed/b7aKj9XdsPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Dans cet exemple, on entend soit *Yanny* soit *Laurel* en fonction de la fréquence perçue :
+Dans cet autre exemple, on entend soit *Yanny* soit *Laurel* en fonction de la fréquence perçue :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/yDiXQl7grPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -476,6 +387,8 @@ Au même titre que les illusions visuelles et auditives, on trouve aussi des ill
 * L'*effet Tau*[^helson] [^russo], lorsque des participants jugent la distance spatiale entre plusieurs tapotements distincts comme étant irrégulière alors que seul le rythme varie.
 * En mangeant, si une personne tient un aliment avec une texture et une autre texture est présentée à la bouche, de nombreuses personnes perçoivent le croustillant de l'aliment comme étant entre les deux textures.[^barnett-cowan]
 * En touchant certains objets à la forme visuellement trompeuse, on peut ressentir un trou à la place d'une bosse.[^robles-de-la-torre]
+
+### La faillibilité de l'esprit
 
 #### L'effet de cadrage
 
@@ -524,21 +437,21 @@ Les étudiants étaient répartis aléatoirement en deux groupes isolés. Pour l
 
 Les résultats à la question pour les deux groupes sont :
 
-|                            | Groupe 1 (sans suggestion) | Groupe 2 (avec suggestion) |
-|----------------------------|----------------------------|----------------------------|
-| La torsion continue        | 4 %                        | 40 %                       |
-| La torsion ne continue pas | 96 %                       | 60 %                       |
+|                            | Groupe 1 | Groupe 2 |
+|----------------------------|----------|----------|
+| La torsion continue        | 4 %      | 40 %     |
+| La torsion ne continue pas | 96 %     | 60 %     |
 
-Une seconde expérience similaire a été menée, avec d'autres participants. Cette-fois la question ne suggérait rien et demandait simplement de décrire la vidéo. Voici les resultats :
+L'expérience a été répétée, avec d'autres participants. Cette-fois la question demandait simplement de décrire le phénomène. Voici les resultats :
 
-|                            | Groupe 1 (sans suggestion) | Groupe 2 (avec suggestion) |
-|----------------------------|----------------------------|----------------------------|
-| La torsion continue        | 0 %                        | 36 %                       |
-| La torsion ne continue pas | 100 %                      | 64 %                       |
+|                            | Groupe 1 | Groupe 2 |
+|----------------------------|----------|----------|
+| La torsion continue        | 0 %      | 36 %     |
+| La torsion ne continue pas | 100 %    | 64 %     |
 
 Celà illustre bien la puissance de cet effet. Il peut même avoir une influence si importante qu'on observe par exemples des effet physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
 
-### La faillibilité de la mémoire
+#### Les faux souvenirs
 
 Chez tous les individus, même parfaitements saints, la mémoire est faillible, maléable.
 
@@ -546,62 +459,215 @@ La mémoire est consistituée de plusieurs registres[^baddeley] [^tulving] et st
 
 Mais cela va bien plus loin.
 
-Dans une expérience en 1979[^gentner], Dedre Gentner et Elizabeth Loftus ont présenté une série d'images aux participants. Une semaine plus tard, ils leur ont montré une série d'images en leur demandant d'indiquer celles dont ils se souvenaient avec certitude. 36% ont indiqué se rappeler d'une image alors qu'elle ne leur avait pas été présentée mais dont le thème était le même. Cette proporsion atteignait 47% quand les images étaient accompagnées de légendes avec des verbes spécifiques plutôt que génériques, par exemple "hike" (randonner) plutôt que "walk" (marcher).
+Dans une expérience en 1979[^gentner], Dedre Gentner et Elizabeth Loftus ont présenté aux participants une série d'images accompagnées de légendes aux verbes génériques (par exemple "walk", marcher) pour le groupe 1 et spécifiques (par exemple "hike", randonner) pour le groupe 2.
+
+Une semaine plus tard, ils leur ont montré une autre série d'images, contenant certaines des images de la première fois, de nouvelles images totalement différentes et certaines nouvelles mais dont le thème était le même que certaines de la première série. Ils leur ont demandé d'indiquer celles dont ils se souvenaient avec certitude.
+
+36% ont indiqué se rappeler d'une image alors qu'elle ne leur avait pas été présentée mais dont le thème était le même. Cette proporsion atteignait 47% quand les images de la première semaine étaient accompagnées de légendes avec des verbes spécifiques.
 
 D'autres expériences du même genre ont par exemple fait se "souvenir" à des étudiants la présence de certains objets lors d'un cours alors que seules des questions mentionnant ces objets y avaient été posées[^cole], intégré de faux éléments par suggestion dans le souvenir d'un accident[^loftus], fait accepter des affirmation contradictiores par l'introduction de faux souvenirs au moment opportun[^loftus_2], créé le faux souvenir d'une peur intense[^ramirez], etc.
 
 D'autres études[^bjorklund] [^conway] [^roediger] [^schacter] [^loftus_3] [^roediger_2] [^roediger_3] [^loftus_4] [^payne] [^rubin] ont conduit de nombreuses expériences similaires et indiquent toutes que les souvenirs peuvent êtres modifiés, créés ou supprimés et que la mémoire n'est pas un témoin fiable.
 
+## Les principes fondamentaux de la pensée critique
+
+Voici quelques-uns des principes fondamentaux de la pensée critique. Ils servent de fondation à une réflexion plus poussée et priorisant les hypothèses les plus probables, en éliminants les arguments non pertinants d'un point de vue épistémique, etc.
+
+Je les présente sommairement, sans détailler toutes leurs nuances et leur complexité, mais nous les verrons plus en détails dans des exemples concrets dans la suite de l'article.
+
+### Le Rasoir d'Hitchens
+
+**Ce qui peut être affirmé sans preuve peut être rejeté sans preuve.**
+
+Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, je n'ai aucune raison de croire plus à leur existence qu'avant d'entendre ces propos.
+
+Attention, il ne s'agit pas de pouvoir affirmer le contraire de l'affirmation. Si quelqu'un m'affirme "les licornes existent" sans apporter le moindre élément de preuve, le Rasoir d'Hitchens ne me permet pas d'affirmer "les licornes n'existent pas" sans preuve, bien que je puisse privilégier cette hypothèse (cf. [le principe de parcimonie des hypothèses](#le-principe-de-parcimonie-des-hypothèses-ou-rasoir-dockham)).
+
+Le Rasoir d'Hitchens est fortement lié à l'*onus probandi*.
+
+### L'*onus probandi*
+
+**La charge de la preuve incombe à celui qui prétend.**
+
+Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
+
+> C'est à celui qui prétend quelque chose de le prouver et non aux autres de prouver que ce qu'il prétend n'est pas vrai.
+>
+> Ce n'est pas aux critiques de Claude Vorilhon, alias Raël de prouver qu'il n'a pas pu être enlevé par des extraterrestres, mais bien à lui de démontrer qu'il l'a été. De la même façon, ce n'est pas aux critiques d'une technique de montrer qu'elle est inefficace, mais bien aux prétendants de montrer qu'elle possède l'efficacité que ceux-ci lui prêtent.
+>
+> Imaginons le bazar s'il fallait prendre pour vraie toute affirmation, par exemple sur un médicament, et devoir attendre que quelqu'un montre qu'elle est fausse pour y renoncer. Tout vendeur de potions pourrait rétorquer à vos doutes : "prouvez donc que ma potion n'est pas miraculeuse".
+>
+> Il est de toute façon logiquement impossible de montrer que quelque chose n'existe pas.
+
+### Le principe de parcimonie des hypothèses (ou Rasoir d'Ockham)
+
+**Les hypothèses suffisantes les plus parcimonieuses doivent être préférées.**
+
+Il s'agit, entre plusieurs hypothèses au même pouvoir explicatif, de privilégier celle qui est la plus *parcimonieuse*, celle qui est la moins couteuse cognitivement, celle qui fait appel au moins d'autres hypothèses.
+
+Cela implique que face à un phénoméne encore inexpliqué, on tentera d'abord de l'expliquer à partir de ce qui est connu avant de postuler l'extistence de quelque chose d'inconnu. Ou que face à trois symptomes simultanés on recherche d'abord une maladie pouvant causer ces trois symptômes plutôt que trois maladies causant chacune un symptôme.
+
+Richard Monvoisin en donne un exemple[^monvoisin_these] :
+
+> Je mets un chat et une souris dans une boîte, je ferme, je secoue, et j'ouvre : il ne reste plus que le chat.
+>
+> * Hypothèse 1 : des extraterrestres de la planète Mû ont voulu désintégrer la souris, mais elle s'est transformée en chat. Le chat, de frayeur, est passé dans une autre dimension par effet Tunnel.
+> * Hypothèse 2 : le chat a mangé la souris.
+>
+> Vous m'accorderez que l'hypothèse 2 est beaucoup moins coûteuse intellectuellement que la N°1. Elle ne postule rien d'autre que la prédation de la souris par le chat, tandis que la première postule une planète Mû, des extraterrestres qui viennent, qui savent désintégrer un chat ce qui n'est pas donné à tout le monde, une souris qui se transforme en chat, une autre dimension, un chat qui sait y aller et un effet tunnel pour objet macroscopique. Ca fait beaucoup. Dans le doute, on choisira la 2.
+
+Attention, il ne s'agit pas de dire que l'hypothèse parcimonieuse est vraie. En l'absence de preuve, nous ne pouvons êtres sûrs de rien. Il s'agit seulement de dire qu'il est plus *sage*, plus *rationnel* de privilégier celle-ci jusqu'à l'apparition éventuelle de nouveaux éléments probants.
+
+### Le critère de réfutabilité
+
+**Une proposition n'est recevable que si elle est réfutable.**
+
+Une proposition est réfutable s'il existe un énoncé qui lui est contradictoire, c'est-à-dire qui la falsifierait s'il se révélait vrai. Par exemple la proposition "tous les cygnes sont blancs" est réfutable car il suffirait de trouver un cygne qui ne soit pas blanc pour l'infirmer.
+
+Si une proposition n'est pas réfutable, alors elle n'a aucune valeur probante et n'est pas rationnelle.
+
+## Les curseurs de croyance
+
+Une inférence est[^tlfi_inference] :
+
+> Une opération logique par laquelle on admet une proposition en vertu de sa liaison avec d'autres propositions déjà tenues pour vraies.
+
+Il existe deux approches, celle plus simple et courrante, *fréquentiste*, et celle un peu plus complexe et moins courrante, *bayésienne*.
+
+* L'*inférence fréquentiste* c'est déterminer la probabilité des faits en fonction des hypothèses.
+* L'*inférence bayésienne* c'est déterminer la probabilité des hypothèses en fonction des faits.
+
+En gros, l'*inférence fréquentiste* détermine $$P(x \vert H)$$ la **vraissemblance** des résultats x dans le carde de l'hypothèse H, et l'*inférence bayésienne* détermine $$P(H \vert x)$$ la **plausibilité** de l'hypothèse H au vu des résultats x.
+
+Illustrons les deux méthodes par un exemple.
+
+Imaginons que j'ai plusieurs dés avec un nombre de faces différents (par ex. 4, 6, 8, 10, 12 et 20).
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/dice.png" alt="Dés" />
+
+Je prends un dé à 8 faces, je le lance 3 fois à j'obtiens 7 à chaque fois. Est-ce extraordinaire ?
+
+Avant de pouvoir répondre à cette question, nous devont nous mettre d'accord sur ce qui constitue une série de lancers extraordinaire. Disons que c'est toute série qu'on a moins de 1% de chances d'obtenir par hasard. Notez que j'ai choisi 1% de manière arbitraire et qu'on aurait très bien pu choisir 2% ou 0,1%.
+
+Notons $$D_n$$ l'utilisation d'un dé à *n* faces (par exemple $$D_8$$ pour un dé à 8 faces), et $$R_x$$ l'obtention du résultat *x* (par exemple $$R_7$$ pour un 7).
+
+La probabilité d'obtenir trois fois 7 avec trois lancers d'un dé à 8 faces est :
+
+$$
+P(R_{7,7,7} \vert D_8) = \dfrac{1}{8 \cdot 8 \cdot 8} \approx 0,2 \%
+$$
+
+Il s'agit donc d'un résultat extraordinaire. Remarquez que si on avez choisi un seuil de 0,1%, le résultat serait ordinaire. La conclusion dépend donc bien des critères choisis au départ, d'où l'importance de s'accorder sur les critères avant tout débat ou expérience.
+
+Nous venons d'effectuer un raisonnement d'*inférence fréquentiste* : nous avons déterminé la probabilité des faits (une série de trois 7) en fonction des hypothèses (trois lancers d'un dé à 8 faces).
+
+Là ou l'*inférence bayésienne* entre en jeu et devient extrêmement intéressante c'est quand on se pose un autre type de question.
+
+Imaginons que je prends un des dés sans que vous sachiez lequel. Je le lance en cachette et j'annonce le résultat : 7. Quelle dé ai-je le plus probablement utilisé ?
+
+Avec l'*inférence fréquentiste* on pourrait seulement dire que parmis les dés qui ont au moins 7 faces (8, 10, 12 et 20), tous ont une chance d'avoir été choisis, donc 25% de chance pour chaque. Mais celà est faux ! Car le résultat du dé nous donne une information supplémentaire, qu'on peut exploiter avec l'*inférence bayésienne*.
+
+L'inférence bayésienne est basée sur le *Théorème de Bayes* :
+
+$$
+P(A|B) = \dfrac{P(B|A) \cdot P(A)}{P(B)}
+$$
+
+Il se lit : *la probabilité de A sachant B est égale à la probabilité de B sachant A multipliée par le probabilité de A divisée par la probabilité de B*.
+
+Dans notre cas, ce qui nous intéresse c'est la probabilité d'avoir utilisé un dé sachant le résultat obtenu.
+
+Dans notre exemple, on sait que le résultat est 7. On cherche donc pour chaque dé :
+
+$$
+P(D_n|R_7) = \dfrac{P(R_7|D_n) \cdot P(D_n)}{P(R_7)}
+$$
+
+Rappelons la signification des termes :
+
+* $$P(D_n \vert R_7)$$ est la probabilité d'avoir utilisé un dé à *n* faces sachant qu'on a fait un 7
+* $$P(R_7 \vert D_n)$$ est la probabilité de faire un 7 avec un dé à *n* faces
+* 
+
+
+...
+
+...
+
+Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
+
+Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe mais plus puissante, ont dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
+
+Considérons de nouveau le *Théorème de Bayes*, en remplaçant A et B par H (hypothèse) et x (fait) :
+
+$$
+P(H|x) = \dfrac{P(x|H) \cdot P(H)}{P(x)}
+$$
+
+Où :
+
+* $$P(H \vert x)$$ est la **plausibilité** de l'hypothèse H au vu des résultats x
+* $$P(x \vert H)$$ est la **vraissemblance** des résultats x dans le carde de l'hypothèse H
+* $$P(H)$$ est la **plausibilité à priori** de l'hypothèse H
+* $$P(x)$$ est la **probabilité toutes hypothèses confondues** des résultats x
+
+On remarque alors qu'il y a une part de subjectivité lorsqu'on applique pour la première fois notre inférence bayésienne. En effet $$P(H)$$ est la probabilité qu'on accorde **à priori** à l'hypothèse avant de l'avoir testée au regard des faits. Quand de nouveaux faits feront leur apparition (par exemple je fais une nouvelle expérience), j'utiliserais la valeur $$P(H \vert x)$$ obtenue précédemment pour la valezur à priori de $$P(H)$$, diminuant ainsi la part de subjectivité. Plus les faits s'accumulent, plus la part de subjectivité est minime.
+
+C'est là qu'entrent en jeu les *curseurs de croyance*, ou *curseurs de plausibilité*, qui permettent de se représenter bien plus facilement et intuitivement ces mécanismes.
+
+Il s'agit d'associer à chacune de nos croyances un curseur allant de 0 à 100 %, ou de "je n'y crois absolument pas" à "j'y crois absolument", ou encode de "je n'ai que des doutes, aucune certitude" à "je n'ai que des certitudes, aucun doute". Ce curseur peut ensuite évoluer dans un sens ou un autre en fonction des nouveaux éléments dont nous avons connaissance, et plus ou moins loin en fonction de la solidité des preuves.
+
+Imaginons qu'un nouveau médicament est proposé pour les maux de tête. Il n'y a pas encore d'étude sur son efficacité et je n'ai entendu aucun témoignage sur le sujet. Je reste prudent et j'y crois à 1%.
+
+Quelques jours plus tard, une étude sort et montre l'efficacité du médicament. Elle est solide mais ne porte que sur un faible échantillon. Je déplace mon curseur à 20%.
+
+Une nouvelle étude sort, sur un large échantillon, démontrant également l'efficacité. Mon curseur passe à 90%.
+
+Malheureusement, les auteurs de la dernière étude ont fraudé et elle n'est donc plus une preuve valide. Je ramène mon curseuyr à 20%.
+
+Etc.
+
+Julia Galef propose une représentation visuelle sous forme de diagramme[^galef_diag] :
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/curseurs.png" alt="Curseurs de croyance" /> 
+
+A gauche on a nos différentes hypothèses avec nos croyances à priori. Au milieu on a la vraissemblance de chaque hypothèses au vu des faits. A droite on a les croyances en chaque hypothèse mises à jour.
+
+Le résultat $$P(H \vert x)$$ que l'on obtient dépend donc en partie de la valeur de départ $$P(H)$$.
+
 <!-- TODO -->
 
+## Les niveaux de preuve
 
+<!-- TODO -->
 
-## TODO
+## Quelques biais de raisonnement
+
+<!-- TODO -->
+
+## Quelques arguments falalcieux
+
+<!-- TODO -->
+
+## Quelques erreurs courrantes
+
+<!-- TODO -->
+
+## S'entrainer
+
+<!-- TODO -->
+
+## Quelques applications concrètes
+
+<!-- TODO -->
+
+## TODO <!-- TODO -->
 
 * les curseurs de croyance / l'inférence bayésienne
-* fillabilité des sens, illusions
-* les maths/stats/proba de base et quelques erreurs courrantes
+* les maths/stats/proba de base et quelques erreurs courrantes (par ex. pb de Monty Hall ou des 2 enfants de Lê)
+* quelques brèves
 
-## FOOBAR (a trier)
-
-Robert H. Ennis liste 12 attitudes et 17 capacités[^ennis_1] qu'il estime que toute personne voulant pratiquer la pensée critique devrait avoir. Je les liste ci-après sans rentrer tout de suite dans les détails.
-
-Attitudes
-
-1. Rechercher et donner des énnoncés clairs quant aux hypothèses et aux questions
-2. Rechercher et donner des raisons claires
-3. Essayer d'être bien informé
-4. Utiliser des sources et des observations fiables
-5. Prendre en compte les problèmes dans leur intégralité
-6. Garder à l'esprit la question fondamentale en cours d'examen
-7. S'informer des alternatives
-8. Être ouvert d'esprit
-9. Adopter une position et la changer quand les preuves sont suffisantes
-10. Être aussi précis que la situation l'exige
-11. Rechercher à être aussi près de la vérité que possible
-12. Appiquer ses capacités de pensée critique
-
-Capacités
-
-1. Avoir et poursuivre un objectif précis
-2. Analyser les arguments
-3. Poser et répondre à des questions de clarification
-4. Comprendre et utiliser les graphiques et les maths
-5. Évaluer la fiabilité d'une source
-6. Observer et évaluer des rapports d'observation
-7. Utiliser ses connaissances
-8. Déduire et évaluer des déductions
-9. Faire et évaluer des inductions, des raisonnements et des arguments
-10. Faire et évaluer des jugements de valeur
-11. Poser et évaluer des définitions
-12. Gérer les équivoques (expressions qui peuvent être interprétées de différentes façons)
-13. Formuler et évaluer des hypothèses
-14. Évaluer les présupposés
-15. Reconnaitre les arguments fallacieux (voir [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url rationalite/2020-06-17-quelques-arguments-fallacieux %}))
-16. Vérifier la validité de ses propres raisonnements
-17. Aborder les choses de manière ordonnée
-
-## Quelques ressources vidéo
+## Quelques ressources pour aller plus loin
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
@@ -726,3 +792,7 @@ TODO : vérifier l'unicité des balises de citation
 [^payne]: Payne, J. D., Schacter, D. L., Propper, R. E., Huang, L.-W., Wamsley, E. J., Tucker, M. A., Walker, M. P., & Stickgold, R. (2009). *The role of sleep in false memory formation*. Neurobiology of Learning and Memory, 92(3), 327‑334. <https://doi.org/10.1016/j.nlm.2009.03.007>
 
 [^rubin]: Rubin, D. C., Schrauf, R. W., & Greenberg, D. L. (2003). *Belief and recollection of autobiographical memories*. Memory & Cognition, 31(6), 887‑901. <https://doi.org/10.3758/BF03196443>
+
+[^tlfi_inference]: Analyse et Traitement Informatique de la Langue Française (Éd.). (s. d.). *Inférence*. Dans *Trésor de la Langue Française informatisé*. Consulté à l'adresse <https://www.cnrtl.fr/definition/inference>
+
+[^galef_diag]: Julia Galef. (2015, 16 juillet). *A visual guide to Bayesian thinking* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=BrK7X_XlGB8>
