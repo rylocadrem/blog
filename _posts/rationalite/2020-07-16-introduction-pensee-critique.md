@@ -634,6 +634,10 @@ $$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,28}{0,0979} \approx 28\%$$
 $$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,23}{0,0979} \approx 20\%$$
 
 $$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,14}{0,0979} \approx 7\%$$
+
+Il est intéressant de noter que chacun de nos lanceurs a conforté l'hypothèse du dé à 10 faces, mais qu'ils ont conforté encore plus celle du dé à 8 faces. Cela montre l'importance de ne pas privilégier une hypothèse isolée juste parce que les faits la confirment, encore faut-il qu'elle soit celle qui le soit le plus. 
+
+
 ...
 
 ...
