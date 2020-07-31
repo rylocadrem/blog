@@ -627,13 +627,13 @@ $$P(R_7) = \dfrac{1}{8} * 0,35 + \dfrac{1}{10} * 0,28 + \dfrac{1}{12} * 0,23 + \
 
 Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
 
-$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,35}{0,0979} \approx 45%$$
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,35}{0,0979} \approx 45\%$$
 
-$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,28}{0,0979} \approx 28%$$
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,28}{0,0979} \approx 28\%$$
 
-$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,23}{0,0979} \approx 20%$$
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,23}{0,0979} \approx 20\%$$
 
-$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,14}{0,0979} \approx 7%$$
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,14}{0,0979} \approx 7\%$$
 ...
 
 ...
