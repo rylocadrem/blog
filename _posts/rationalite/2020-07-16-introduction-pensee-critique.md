@@ -604,13 +604,13 @@ $$P(R_7) =  \dfrac{1}{8} * 0,25 + \dfrac{1}{10} * 0,25 + \dfrac{1}{12} * 0,25 + 
 
 On dispose maintenant de toutes les informations pour calculer les différentes $$P(D_n \vert R_7)$$.
 
-$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,25}{8,96} \approx ...$$
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,25}{0,0896} \approx 35\%$$
 
-$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,25}{8,96} \approx ...$$
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,25}{0,0896} \approx 28\%$$
 
-$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,25}{8,96} \approx ...$$
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,25}{0,0896} \approx 23\%$$
 
-$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,25}{8,96} \approx ...$$
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,25}{0,0896} \approx 14\%$$
 
 
 TODO : second calcul avec un deuxième lancer (un 3) avec les proba de départ mises à jour
