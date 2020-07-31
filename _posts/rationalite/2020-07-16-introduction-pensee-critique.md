@@ -419,7 +419,7 @@ Les deux versions des questions donnent exactement les mêmes informations quant
 * Version 1 : 72% choisissent la première réponse.
 * Version 2 : 78% choisissent la deuxième réponse.
 
-D'autres questions du même type ou portant sur la manière de présenter les gains et les risques sont présentés dans leur article [The framing of decisions and the psychology of choice](https://www.uzh.ch/cmsssl/suz/dam/jcr:ffffffff-fad3-547b-ffff-ffffe54d58af/10.18_kahneman_tversky_81.pdf).
+D'autres questions du même type ou portant sur la manière de présenter les gains et les risques sont présentés dans leur article [The framing of decisions and the psychology of choice](https://www.uzh.ch/cmsssl/suz/dam/jcr:ffffffff-fad3-547b-ffff-ffffe54d58af/10.18_kahneman_tversky_{81}.pdf).
 
 Une autre illustration de l'effet de cadrage se retrouve dans cet excellent exemple pédagogique :
 
@@ -586,9 +586,34 @@ $$
 Rappelons la signification des termes :
 
 * $$P(D_n \vert R_7)$$ est la probabilité d'avoir utilisé un dé à *n* faces sachant qu'on a fait un 7
-* $$P(R_7 \vert D_n)$$ est la probabilité de faire un 7 avec un dé à *n* faces
-* 
+* $$P(R_7 \vert D_n)$$ est la probabilité de faire un 7 avec un dé à _n_ faces
+* $$P(D_n)$$ est la probabilité d'avoir un dé à n faces
+* $$P(R_7)$$ est la probabilité de faire un 7 peu importe le dé
 
+On sait que les dés à 4 et 6 faces ne peuvent donner de 7, il nous reste donc ceux à 8, 10, 12, et 20 faces.
+
+Il reste donc à calculer $$P(D_8 \vert R_7)$$, $$P(D_{10} \vert R_7)$$, $$P(D_{12} \vert R_7)$$ et $$P(D_{20} \vert R_7)$$.
+
+Supposons que chaque dé a une chance égale d'être choisi (c'est là la part subjective qui doit être introduite lors de l'étape initiale et qui s'atténue au fil des expériences). On a donc :
+
+$$P(D_8) = P(D_{10}) = P(D_{12}) = P(D_{20}) = 25\%$$
+
+Calculons ensuite la probabilité de faire un 7 quelque soit le dé. Elle vaut la probabilité de faire un 7 avec un dé à 8 faces fois la probabilité d'avoir un dé à 8 faces, plus la probabilité de faire un 7 avec un dé à 10 faces fois la probabilité d'avoir un dé à 10 faces, etc.
+
+$$P(R_7) =  \dfrac{1}{8} * 0,25 + \dfrac{1}{10} * 0,25 + \dfrac{1}{12} * 0,25 + \dfrac{1}{20} * 0,25 \approx 8,96\%$$
+
+On dispose maintenant de toutes les informations pour calculer les différentes $$P(D_n \vert R_7)$$.
+
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,25}{8,96} \approx ...$$
+
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,25}{8,96} \approx ...$$
+
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,25}{8,96} \approx ...$$
+
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,25}{8,96} \approx ...$$
+
+
+TODO : second calcul avec un deuxième lancer (un 3) avec les proba de départ mises à jour
 
 ...
 
@@ -701,7 +726,7 @@ TODO : vérifier l'unicité des balises de citation
 
 [^ms_lamarr]: O'Brien, E. (2017, 27 octobre). *5 facts about Hedy Lamarr, star, inventor, wartime code maker*. Massive Science. <https://massivesci.com/articles/hedy-lamarr-inventor-world-war-movie-star-frequency/>
 
-[^sa_queen]: Devillard, A. (2014, 10 novembre). *Queen, trois scientifiques pour un quatuor de rock*. Sciences et Avenir. <https://www.sciencesetavenir.fr/insolite/queen-trois-scientifiques-pour-un-quatuor-de-rock_37226>
+[^sa_queen]: Devillard, A. (2014, 10 novembre). *Queen, trois scientifiques pour un quatuor de rock*. Sciences et Avenir. <https://www.sciencesetavenir.fr/insolite/queen-trois-scientifiques-pour-un-quatuor-de-rock_{37226}>
 
 [^panksepp]: Panksepp, J. (2005). *Affective neuroscience : The foundations of human and animal emotions*. Oxford Univ. Press.
 
