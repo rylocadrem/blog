@@ -613,8 +613,27 @@ $$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,25}{0,0896} \approx 23\%$$
 $$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,25}{0,0896} \approx 14\%$$
 
 
-TODO : second calcul avec un deuxième lancer (un 3) avec les proba de départ mises à jour
+Le dé a 8 faces est donc le plus probablement (35%) celui utilisé. Pour s'en assurer il serait cependant fort utile de répliquer l'expérience.
 
+Faisons un autre lancer avec le même dé caché (sans toujours savoir réellement duquel il s'agit).
+
+Le résultat est 3.
+
+Nous pouvons alors recalculer nos probabilité. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
+
+Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
+
+$$P(R_7) = \dfrac{1}{8} * 0,35 + \dfrac{1}{10} * 0,28 + \dfrac{1}{12} * 0,23 + \dfrac{1}{20} * 0,14 \approx 9,79%$$ 
+
+Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
+
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,35}{0,0979} \approx 45%$$
+
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,28}{0,0979} \approx 28%$$
+
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,23}{0,0979} \approx 20%$$
+
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,14}{0,0979} \approx 7%$$
 ...
 
 ...
