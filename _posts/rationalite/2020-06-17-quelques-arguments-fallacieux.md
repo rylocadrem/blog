@@ -499,7 +499,7 @@ On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante**�
   * Témoignage individuel indirect
   * Sagesse populaire
 
-Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice moyen ou fort.
+Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice.
 
 ## Annexe 2 – Analyses de discours
 

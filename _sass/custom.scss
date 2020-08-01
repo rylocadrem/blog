@@ -156,12 +156,6 @@ th {
     width: 90vw;
 }
 
-.picture {
-    max-width: 90%;
-    display: block;
-    margin: 0 auto 20px;
-}
-
 blockquote {
     color: #000051;
     border-left: 4px solid #5c6bc0;
@@ -182,4 +176,34 @@ h2, h3, h4, h5, h6 {
 
 mjx-container {
     font-size: 1em !important;
+}
+
+.picture {
+    display: block;
+    margin: 0 auto 20px;
+
+    &.medium {
+        max-height: 200px;
+    }
+}
+
+figure {
+    img {
+        display: block;
+        margin: auto;
+
+        &.medium {
+            max-height: 200px;
+        }
+    }
+}
+
+figcaption {
+    color: #495057;
+    // display: block;
+    // font-size: 1rem;
+    font-style: italic;
+    margin: .25rem auto 1rem;
+    text-align: center;
+    width: 75%;
 }
