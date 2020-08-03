@@ -2,7 +2,7 @@
 layout: post
 title:  "[BROUILLON] Introduction à la pensée critique"
 excerpt: Une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique.
-date:   2020-07-16 8:30:00 +0200
+date:   2020-08-01 8:30:00 +0200
 categories: rationalite
 hidden: 1
 ---
@@ -18,7 +18,7 @@ Table des matières :
 * Table des matières (ligne remplacée automatiquement, cf. <https://kramdown.gettalong.org/converter/html.html#toc>)
 {:toc}
 
-## Préambule
+## Définitions
 
 Avant de rentrer dans le coeur du sujets, précisons quelques termes centraux.
 
@@ -104,6 +104,8 @@ Le mot *science* désigne parfois des concepts qui ne sont pas pertinents dans n
 Dans le cadre de cet article, je donne cette définition :
 
 > Démarche intellectuelle structurée visant à produire des affirmations objectivables s'approchant le plus possible de la réalité.
+
+## Réflexions préalables
 
 ### Raison vs émotions
 
@@ -273,6 +275,37 @@ La rationalité n'est pas un vertu ou un impératif moral, c'est une manière de
 Pour en savoir plus, visionnez l'excellente vidéo de Christophe Michel sur le sujet :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/PFjX5tgu0iQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Intelligence et rationalité
+
+Sans rentrer dans les détails, je vais éclaircir une confussion courrante entre intelligence et rationalité. Intelligence et rationalité sont très peu corrélées.[^stanovich]
+
+Je reprend ici une métaphore proposée par Thomas Durand[^beauvoisine] :
+
+> Être intelligent c'est avoir un gros moteur, être rationnel c'est avoir un bon frein, un bon volant.
+
+Beaucoup de gens sont intelligents, peu sont rationnels. Et beaucoup de gens très intelligents croient des choses sans fondement, et dans leur domaine de compétence cela ne leur pose aucun problème.
+
+En effet, beaucoup de champs spécialisés sont comme une piste de course en ligne droite. Ces gens, avec de très gros moteurs, peuvent franchir la ligne d'arrivée très vite. Qu'ils soient rationnels ou non n'a que peu d'importance puisqu'ils n'ont pas besoin de prendre de virages.
+
+Seulement la vie n'est pas une piste droite, mais une route tortueuse avec de nombreux virages et embranchements. Être rationnel c'est être en mesure de négocier ces virages, de choisir les bons embranchements, etc.
+
+C'est également pour cette raison qu'il faut se méfier des gens intelligents et non rationnels, car *quand ils se plantent, il se plantent plus fort*.[^beauvoisine]
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/dragster.png" alt="Dragster" />
+  <figcaption>Le dragster : intelligent mais pas rationnel. Rapide mais très peu maniable.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/205.jpg" alt="Peugeot 205" />
+  <figcaption>La 205 : pas intelligente mais rationnelle. Peu rapide mais maniable.</figcaption>
+</figure>
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/rally.jpg" alt="Voiture de rally" />
+  <figcaption>La voiture de rally : intelligente et rationnelle. Rapide et maniable.</figcaption>
+</figure>
 
 ### Attitude
 
@@ -526,9 +559,17 @@ Une proposition est réfutable s'il existe un énoncé qui lui est contradictoir
 
 Si une proposition n'est pas réfutable, alors elle n'a aucune valeur probante et n'est pas rationnelle.
 
-## Les curseurs de croyance
+## L'adhésion évolutive
 
-Une inférence est[^tlfi_inference] :
+Le concept d'*adhésion évolutive* est un élément extrêmement important de la pensée critique, qu'on utilise tous intuitivement, plus ou moins consciemment, avec plus ou moins de rigueur.
+
+Afin de comprendre ce que c'est et comment l'utiliser, je vais d'abord parler d'*inférence bayésienne*, le mécanisme probabiliste sur lequel repose l'*adhésion évolutive*, puis de *curseurs de croyance* qui sont un représentation mentale de ce mécanisme, bien plus simple et plus pratique dans la vie de tous les jours.
+
+### L'inférence bayésienne
+
+Tout d'abord, qu'est-ce qu'une inférence ?
+
+C'est[^tlfi_inference] :
 
 > Une opération logique par laquelle on admet une proposition en vertu de sa liaison avec d'autres propositions déjà tenues pour vraies.
 
@@ -543,7 +584,7 @@ Illustrons les deux méthodes par un exemple.
 
 Imaginons que j'ai plusieurs dés avec un nombre de faces différents (par ex. 4, 6, 8, 10, 12 et 20).
 
-<img class="picture" src="{{ site.baseurl }}/assets/images/dice.png" alt="Dés" />
+<img class="picture medium" src="{{ site.baseurl }}/assets/images/dice.png" alt="Dés" />
 
 Je prends un dé à 8 faces, je le lance 3 fois à j'obtiens 7 à chaque fois. Est-ce extraordinaire ?
 
@@ -554,7 +595,7 @@ Notons $$D_n$$ l'utilisation d'un dé à *n* faces (par exemple $$D_8$$ pour un 
 La probabilité d'obtenir trois fois 7 avec trois lancers d'un dé à 8 faces est :
 
 $$
-P(R_{7,7,7} \vert D_8) = \dfrac{1}{8 \cdot 8 \cdot 8} \approx 0,2 \%
+P(R_{7,7,7} \vert D_8) = \dfrac{1}{8 \cdot 8 \cdot 8} \approx 0.2 \%
 $$
 
 Il s'agit donc d'un résultat extraordinaire. Remarquez que si on avez choisi un seuil de 0,1%, le résultat serait ordinaire. La conclusion dépend donc bien des critères choisis au départ, d'où l'importance de s'accorder sur les critères avant tout débat ou expérience.
@@ -575,78 +616,7 @@ $$
 
 Il se lit : *la probabilité de A sachant B est égale à la probabilité de B sachant A multipliée par le probabilité de A divisée par la probabilité de B*.
 
-Dans notre cas, ce qui nous intéresse c'est la probabilité d'avoir utilisé un dé sachant le résultat obtenu.
-
-Dans notre exemple, on sait que le résultat est 7. On cherche donc pour chaque dé :
-
-$$
-P(D_n|R_7) = \dfrac{P(R_7|D_n) \cdot P(D_n)}{P(R_7)}
-$$
-
-Rappelons la signification des termes :
-
-* $$P(D_n \vert R_7)$$ est la probabilité d'avoir utilisé un dé à *n* faces sachant qu'on a fait un 7
-* $$P(R_7 \vert D_n)$$ est la probabilité de faire un 7 avec un dé à _n_ faces
-* $$P(D_n)$$ est la probabilité d'avoir un dé à n faces
-* $$P(R_7)$$ est la probabilité de faire un 7 peu importe le dé
-
-On sait que les dés à 4 et 6 faces ne peuvent donner de 7, il nous reste donc ceux à 8, 10, 12, et 20 faces.
-
-Il reste donc à calculer $$P(D_8 \vert R_7)$$, $$P(D_{10} \vert R_7)$$, $$P(D_{12} \vert R_7)$$ et $$P(D_{20} \vert R_7)$$.
-
-Supposons que chaque dé a une chance égale d'être choisi (c'est là la part subjective qui doit être introduite lors de l'étape initiale et qui s'atténue au fil des expériences). On a donc :
-
-$$P(D_8) = P(D_{10}) = P(D_{12}) = P(D_{20}) = 25\%$$
-
-Calculons ensuite la probabilité de faire un 7 quelque soit le dé. Elle vaut la probabilité de faire un 7 avec un dé à 8 faces fois la probabilité d'avoir un dé à 8 faces, plus la probabilité de faire un 7 avec un dé à 10 faces fois la probabilité d'avoir un dé à 10 faces, etc.
-
-$$P(R_7) =  \dfrac{1}{8} * 0,25 + \dfrac{1}{10} * 0,25 + \dfrac{1}{12} * 0,25 + \dfrac{1}{20} * 0,25 \approx 8,96\%$$
-
-On dispose maintenant de toutes les informations pour calculer les différentes $$P(D_n \vert R_7)$$.
-
-$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,25}{0,0896} \approx 35\%$$
-
-$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,25}{0,0896} \approx 28\%$$
-
-$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,25}{0,0896} \approx 23\%$$
-
-$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,25}{0,0896} \approx 14\%$$
-
-
-Le dé a 8 faces est donc le plus probablement (35%) celui utilisé. Pour s'en assurer il serait cependant fort utile de répliquer l'expérience.
-
-Faisons un autre lancer avec le même dé caché (sans toujours savoir réellement duquel il s'agit).
-
-Le résultat est 3.
-
-Nous pouvons alors recalculer nos probabilité. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
-
-Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
-
-$$P(R_7) = \dfrac{1}{8} * 0,35 + \dfrac{1}{10} * 0,28 + \dfrac{1}{12} * 0,23 + \dfrac{1}{20} * 0,14 \approx 9,79\%$$ 
-
-Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
-
-$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0,35}{0,0979} \approx 45\%$$
-
-$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0,28}{0,0979} \approx 28\%$$
-
-$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0,23}{0,0979} \approx 20\%$$
-
-$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0,14}{0,0979} \approx 7\%$$
-
-Il est intéressant de noter que chacun de nos lanceurs a conforté l'hypothèse du dé à 10 faces, mais qu'ils ont conforté encore plus celle du dé à 8 faces. Cela montre l'importance de ne pas privilégier une hypothèse isolée juste parce que les faits la confirment, encore faut-il qu'elle soit celle qui le soit le plus. 
-
-
-...
-
-...
-
-Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
-
-Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe mais plus puissante, ont dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
-
-Considérons de nouveau le *Théorème de Bayes*, en remplaçant A et B par H (hypothèse) et x (fait) :
+On peut le réécrire en remplaçant A par H (hypothèse) et B par x (fait). On a alors :
 
 $$
 P(H|x) = \dfrac{P(x|H) \cdot P(H)}{P(x)}
@@ -659,35 +629,196 @@ Où :
 * $$P(H)$$ est la **plausibilité à priori** de l'hypothèse H
 * $$P(x)$$ est la **probabilité toutes hypothèses confondues** des résultats x
 
-On remarque alors qu'il y a une part de subjectivité lorsqu'on applique pour la première fois notre inférence bayésienne. En effet $$P(H)$$ est la probabilité qu'on accorde **à priori** à l'hypothèse avant de l'avoir testée au regard des faits. Quand de nouveaux faits feront leur apparition (par exemple je fais une nouvelle expérience), j'utiliserais la valeur $$P(H \vert x)$$ obtenue précédemment pour la valezur à priori de $$P(H)$$, diminuant ainsi la part de subjectivité. Plus les faits s'accumulent, plus la part de subjectivité est minime.
+Dans notre cas, ce qui nous intéresse c'est la probabilité d'avoir utilisé un dé sachant le résultat obtenu.
+
+Dans notre exemple, on sait que le résultat est 7. On cherche donc pour chaque dé :
+
+$$
+P(D_n|R_7) = \dfrac{P(R_7|D_n) \cdot P(D_n)}{P(R_7)}
+$$
+
+Où :
+
+* $$P(D_n \vert R_7)$$ est la probabilité d'avoir utilisé un dé à *n* faces sachant qu'on a fait un 7
+* $$P(R_7 \vert D_n)$$ est la probabilité de faire un 7 avec un dé à _n_ faces
+* $$P(D_n)$$ est la probabilité d'avoir un dé à n faces
+* $$P(R_7)$$ est la probabilité de faire un 7 peu importe le dé
+
+On sait que les dés à 4 et 6 faces ne peuvent donner de 7, il nous reste donc ceux à 8, 10, 12, et 20 faces.
+
+Il reste donc à calculer $$P(D_8 \vert R_7)$$, $$P(D_{10} \vert R_7)$$, $$P(D_{12} \vert R_7)$$ et $$P(D_{20} \vert R_7)$$.
+
+Supposons, à priori, que chaque dé a une chance égale d'être choisi (c'est là la part subjective qui doit être introduite lors de l'étape initiale et qui s'atténue au fil des expériences). On a donc :
+
+$$P(D_8) = P(D_{10}) = P(D_{12}) = P(D_{20}) = 25\%$$
+
+Calculons ensuite la probabilité de faire un 7 quelque soit le dé. Elle vaut la probabilité de faire un 7 avec un dé à 8 faces fois la probabilité d'avoir un dé à 8 faces, plus la probabilité de faire un 7 avec un dé à 10 faces fois la probabilité d'avoir un dé à 10 faces, etc.
+
+$$P(R_7) =  \dfrac{1}{8} * 0.25 + \dfrac{1}{10} * 0.25 + \dfrac{1}{12} * 0.25 + \dfrac{1}{20} * 0.25 \approx 8.96\%$$
+
+On dispose maintenant de toutes les informations pour calculer les différentes $$P(D_n \vert R_7)$$.
+
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0.25}{0.0896} \approx 34.9\%$$
+
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0.25}{0.0896} \approx 27.9\%$$
+
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0.25}{0.0896} \approx 23.3\%$$
+
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.25}{0.0896} \approx 13.9\%$$
+
+Le dé a 8 faces est donc le plus probablement (34,9%) celui utilisé. Pour s'en assurer il serait cependant fort utile de répliquer l'expérience.
+
+Faisons un autre lancer avec le même dé caché (sans toujours savoir réellement duquel il s'agit).
+
+Le résultat est 3.
+
+Nous pouvons alors recalculer nos probabilité. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
+
+Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
+
+$$P(R_7) = \dfrac{1}{8} * 0.35 + \dfrac{1}{10} * 0.28 + \dfrac{1}{12} * 0.23 + \dfrac{1}{20} * 0.14 \approx 9.79\%$$
+
+Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
+
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0.35}{0.0979} \approx 44.6\%$$
+
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0.28}{0.0979} \approx 28.5\%$$
+
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0.23}{0.0979} \approx 19.8\%$$
+
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.14}{0.0979} \approx 7.1\%$$
+
+Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
+
+Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe mais plus puissante, ont dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
+
+Il est intéressant de noter que chacun de nos lancers a conforté l'hypothèse du dé à 10 faces, mais qu'ils ont conforté encore plus celle du dé à 8 faces. Cela montre l'importance de ne pas privilégier une hypothèse isolée juste parce que les faits la confirment, encore faut-il qu'elle soit celle qui le soit le plus.
+
+En effet, imaginons que j'adopte une approche simpliste de la science et que je défende l'hypothèse "c'est le dé à 10 faces qui est utilisé". Je fais deux lancers (deux expériences) et chacun confirme mon hypothèse. Je clamme alors haut et fort "j'avais raison, c'est le dé à 10 faces, c'est prouvé !".
+
+Une approche méthodique, par l'inférence bayésienne, donne un résultat plus précis en hiérarchisant les hypothèses en fonction de leur plausibilité au regard des faits.
+
+Pour conclure cette partie, voici une petite illustration :
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/images/conditional_risk.png" alt="XKCD 795" />
+  <figcaption>
+  — Whoa ! On devrait rentrer !
+  <br/>
+  — C'est bon ! Les éclairs ne tuent que 45 américains par an, les chances de mourrir sont de seulement une sur 7000000. Continuons !
+  </figcaption>
+</figure>
+
+Cette image illustre la différence qu'il y a entre $$P(H)$$ et $$P(H \vert x)$$ :
+
+* $$P(H)$$ : la probabilité de mourrir de la foudre
+* $$P(H \vert x)$$ : la probabilité de mourrir de la foudre en étant près d'un arbre durant un orage
+
+### Les curseurs de croyance
+
+Dans la vie courrante, nous n'allons pas calculer des probabilités bayésiennes à chaque fois qu'un problème se pose. Il nous serait donc fort utile de bénéficier des avantages de ce mécanisme en se débarassant d'une partie de sa complexité.
 
 C'est là qu'entrent en jeu les *curseurs de croyance*, ou *curseurs de plausibilité*, qui permettent de se représenter bien plus facilement et intuitivement ces mécanismes.
 
-Il s'agit d'associer à chacune de nos croyances un curseur allant de 0 à 100 %, ou de "je n'y crois absolument pas" à "j'y crois absolument", ou encode de "je n'ai que des doutes, aucune certitude" à "je n'ai que des certitudes, aucun doute". Ce curseur peut ensuite évoluer dans un sens ou un autre en fonction des nouveaux éléments dont nous avons connaissance, et plus ou moins loin en fonction de la solidité des preuves.
+Il s'agit d'associer à chacune de nos croyances un curseur allant de 0 à 100 %, de "je n'y crois absolument pas" à "j'y crois absolument", de "je n'ai que des doutes, aucune certitude" à "je n'ai que des certitudes, aucun doute". Ce curseur peut ensuite évoluer dans un sens ou un autre en fonction des nouveaux éléments dont nous avons connaissance, et plus ou moins loin en fonction de la solidité des preuves.
 
-Imaginons qu'un nouveau médicament est proposé pour les maux de tête. Il n'y a pas encore d'étude sur son efficacité et je n'ai entendu aucun témoignage sur le sujet. Je reste prudent et j'y crois à 1%.
+Pour chaque hypothèse, j'ajuste mon curseur en fonction de mon adhésion. Et à chaque fois que j'ai connaissance d'un nouvel élément probant, je déplace mon curseur.
 
-Quelques jours plus tard, une étude sort et montre l'efficacité du médicament. Elle est solide mais ne porte que sur un faible échantillon. Je déplace mon curseur à 20%.
+Julia Galef illustre ce processus sous forme de diagramme[^galef_diag] :
 
-Une nouvelle étude sort, sur un large échantillon, démontrant également l'efficacité. Mon curseur passe à 90%.
+<img class="picture" src="{{ site.baseurl }}/assets/images/curseurs.png" alt="Curseurs de croyance" />
 
-Malheureusement, les auteurs de la dernière étude ont fraudé et elle n'est donc plus une preuve valide. Je ramène mon curseuyr à 20%.
+Dans la colonne de gauche, on trouve nos hypothèses, telle qu'on y adhère à un instant *t*. Par exemple je crois à l'hypothèse H1 à 40% et à l'hypothèse H2 à 60%.
 
-Etc.
+Le carré central représente les nouveaux éléments probants qui arrivent à notre connaissance. Les deux zones V1 et V2 représentent la *vraissemblance* des résultats au vu des hypothèses H1 et H2. Plus la zone est large, plus la vraissemblance est forte.
 
-Julia Galef propose une représentation visuelle sous forme de diagramme[^galef_diag] :
+Dans la colonne de droite, on retrouve nos hypothèses, ajustées en fonction des vraissemblances. On augmente notre adhésion en fonction de la surface des rectangles de la zone centrale.
 
-<img class="picture" src="{{ site.baseurl }}/assets/images/curseurs.png" alt="Curseurs de croyance" /> 
+Pour que ça soit plus clair, prenons un exemple concret, en nous aidant de l'excellent outil visuel créé par Christophe Michel.
 
-A gauche on a nos différentes hypothèses avec nos croyances à priori. Au milieu on a la vraissemblance de chaque hypothèses au vu des faits. A droite on a les croyances en chaque hypothèse mises à jour.
+Il peut être utilisé en ligne (<https://www.geogebra.org/m/Y3epyFff>) ou ouvert sur l'application GeoGebra sur ordinateur ou smartphone.
 
-Le résultat $$P(H \vert x)$$ que l'on obtient dépend donc en partie de la valeur de départ $$P(H)$$.
+Il permet une interraction avec le diagramme et de jouer avec les probabilités :
 
-<!-- TODO -->
+<img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_00.png" alt="Bayes N&B" />
+
+Pour notre exemple, imaginons que je me demandent qui a construit les pyramides d'Égypte et que j'ai trois hypothèses :
+
+* H0 : les Égyptiens antiques ont construit les pyramides. J'y crois à 19,38 %.
+* H1 : les extraterrestres ont construit les pyramides. J'y crois à 32,56%.
+* H2 : les pyramides ont été construites par les romains (et ont donc environ 2000 ans). J'y crois à 48,06%.
+
+Or j'apprends qu'on a daté les pyramides à plus de 4000 ans et le test me semble fiable. Les résultats de l'expérience sont vraissemblables de la même manière dans le cas des hypothèses H0 et H1 et ne le sont pas pour H2. J'adapte mes curseurs en conséquence :
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_01.png" alt="Bayes N&B" />
+
+Je crois maintenant en H0 à 35,58%, en H1 à 59,78% et en H2 à 4,64%.
+
+Un nouvel élément de preuve apparait : les bâtisseurs utilisaient des outils antiques et on a pû démontrer leur efficacité pour découper le granit. Cet faits sont vraiseemblables pour H0 et H2 et non pour H1 (les extraterrestres ont une technologie avancée). J'adapte mes curseurs en conséquence :
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_02.png" alt="Bayes N&B" />
+
+Je crois maintenant en H0 à 82,06%, en H1 à 7,25% et en H2 à 10,69%.
+
+Et, jusqu'à l'apparition de nouveaux éléments probants, ce sera ma croyance.
+
+*Note : dans le cas où les probabilités de plusieurs hypothèses sont très proches, il est sage de ne pas choisir une hypothèse, même si elle est la plus probable, et d'attendre d'autres éléments de preuve.*
 
 ## Les niveaux de preuve
 
-<!-- TODO -->
+Retrouvez un résumé de cette section ici : [[En bref] Les niveaux de preuve]({{ site.baseurl }}/bref/niveaux-preuve)
+{: .read-short-info}
+
+Une preuve est, d'une manière très générale[^antidote_preuve] :
+
+> Ce qui sert à établir qu’un fait est vrai.
+
+Plus spécifiquement, une preuve scientifique est une preuve qui sert à supporter ou réfuter une hypothèse ou théorie scientifique, c'est à dire qui respecte le critère de scientificité (toute affirmation objectivable découlant d'une démarche intellectuelle structurée).
+
+Or il n'est pas difficile de concevoir que toutes les preuves ne se valent pas.
+
+Dans le cadre d'une démarche rationnelle, on peut hiérarchiser les preuves selon des niveaux de fiabilité.[^afis_preuve] [^grades_burns] [^grades_bjm] [^grades_hadorn] [^grades_petrisor] [^grades_wilson] [^grades_has]
+
+* Niveau de preuve très élevé (Grade A – Preuve établie)
+  * Consensus scientifique
+  * Méta-analyses
+
+* Niveau de preuve élevé (Grade B – Présomption)
+  * Essais comparatifs randomisés
+  * Études de cohortes
+
+* Niveau de preuve modéré (Grade C+ – Preuve modérée)
+  * Études prospectives contrôlées
+  * Études cas-témoin
+
+* Niveau de preuve faible (Grade C- – Preuve faible)
+  * Étude de cas
+  * Études rétrospectives
+  * Études prospectives non contrôlées
+  * Études épidémiologiques descriptives
+
+On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante** :
+
+* Indices forts
+  * Parole d'expert
+
+* Indices moyens
+  * Expérience personnelle
+  * Témoignage individuel direct
+
+* Indices faibles
+  * Témoignage individuel indirect
+  * Sagesse populaire
+
+*Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice.*
+
+Ainsi, lorque nous mettons à jour nos curseurs de croyance, il nous faut prendre en compte le niveau de fiabilité des preuves apportées.
+
+Imaginons par exemple que je me docummente sur l'efficacité de la sève d'artémisia sur les brûlures du premier degré. A un instant *t* je dispose de deux preuves : un essai comparatif randomisé indiquant son efficacité et une étude cas-témoin indiquant son inneficacité. Dans ce cas, placer mon curseur à 50% serait fautif, ce serait considérer que les deux études ont la même valeur probante. Je vais plutôt le placer à 80% en faveur de l'efficacité. En effet l'essai comparatif randomisé est une preuve de grade B, donc plus probante que l'étude cas-témoin de grade C+.
+
+Les niveaux de preuve ne sont pas les seuls critères à prendre en compte. Bien sûr on peut exclure les études qui ont des biais méthodologiques, d'échantillonage, d'évaluation, etc., mais il faut également considérer la taille des échantillons, les traitements statistiques des données, etc.
+
+Je ne rentre pas dans les détails et ferai peut-être un article dédié pour expliquer tout cela.
 
 ## Quelques biais de raisonnement
 
@@ -714,6 +845,8 @@ Le résultat $$P(H \vert x)$$ que l'on obtient dépend donc en partie de la vale
 * les curseurs de croyance / l'inférence bayésienne
 * les maths/stats/proba de base et quelques erreurs courrantes (par ex. pb de Monty Hall ou des 2 enfants de Lê)
 * quelques brèves
+* théorie vs hypothèse
+* métaphore voiture, moteur, vie=curcuit tortueux
 
 ## Quelques ressources pour aller plus loin
 
@@ -844,3 +977,23 @@ TODO : vérifier l'unicité des balises de citation
 [^tlfi_inference]: Analyse et Traitement Informatique de la Langue Française (Éd.). (s. d.). *Inférence*. Dans *Trésor de la Langue Française informatisé*. Consulté à l'adresse <https://www.cnrtl.fr/definition/inference>
 
 [^galef_diag]: Julia Galef. (2015, 16 juillet). *A visual guide to Bayesian thinking* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=BrK7X_XlGB8>
+
+[^antidote_preuve]: Druide informatique (Éd.) (2019) *Preuve*. Dans *Dictionnaire de définitions*, Antidote 10, version 3
+
+[^afis_preuve]: Association Française pour l'Information Scientifique. (2019, 6 mars). *La qualité de la preuve en médecine*. Consulté 15 juin 2020, à l'adresse <https://www.pseudo-sciences.org/La-qualite-de-la-preuve-en-medecine>
+
+[^grades_burns]: Burns, P. B., Rohrich, R. J., & Chung, K. C. (2011). *The Levels of Evidence and Their Role in Evidence-Based Medicine: Plastic and Reconstructive Surgery*, 128(1), 305‑310. <https://doi.org/10.1097/PRS.0b013e318219c171>
+
+[^grades_bjm]: *Grading quality of evidence and strength of recommendations*. (2004). BMJ, 328(7454), 1490. <https://doi.org/10.1136/bmj.328.7454.1490>
+
+[^grades_hadorn]: Hadorn, D. C., Baker, D., Hodges, J. S., & Hicks, N. (1996). *Rating the quality of evidence for clinical practice guidelines*. Journal of Clinical Epidemiology, 49(7), 749‑754. <https://doi.org/10.1016/0895-4356(96)00019-4>
+
+[^grades_petrisor]: Petrisor, B., & Bhandari, M. (2007). *The hierarchy of evidence : Levels and grades of recommendation*. Indian Journal of Orthopaedics, 41(1), 11. <https://doi.org/10.4103/0019-5413.30519>
+
+[^grades_wilson]: Wilson, M. C. (1995). Users' Guides to the Medical Literature : *VIII. How to Use Clinical Practice Guidelines B. What Are the Recommendations and Will They Help You in Caring for Your Patients?* JAMA, 274(20), 1630. <https://doi.org/10.1001/jama.1995.03530200066040>
+
+[^grades_has]: Haute Autorité de Santé. (2013, avril). *Niveau de preuve et gradation des recommandations de bonne pratique*. Consulté à l'adresse <https://www.has-sante.fr/upload/docs/application/pdf/2013-06/etat_des_lieux_niveau_preuve_gradation.pdf>
+
+[^stanovich]: Stanovich, K. E., & West, R. F. (2008). On the relative independence of thinking biases and cognitive ability. Journal of Personality and Social Psychology, 94(4), 672‑695. <https://doi.org/10.1037/0022-3514.94.4.672>
+
+[^beauvoisine]: TEDx Beauvoisine. (2019, 25 avril). *Méfiez-vous des conférences TED et TEDx ?* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=Y8fO3e8P0_A>
