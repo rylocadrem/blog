@@ -31,7 +31,10 @@
     color: white;
     margin-bottom: 15px;
     text-align: center;
-    font-weight: bold;
+
+    &.bold {
+        font-weight: bold;
+    } 
 }
 
 .read-full-info {
