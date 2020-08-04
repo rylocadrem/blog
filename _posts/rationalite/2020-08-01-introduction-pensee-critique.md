@@ -765,7 +765,12 @@ Et, jusqu'à l'apparition de nouveaux éléments probants, ce sera ma croyance.
 
 *Note : dans le cas où les probabilités de plusieurs hypothèses sont très proches, il est sage de ne pas choisir une hypothèse, même si elle est la plus probable, et d'attendre d'autres éléments de preuve.*
 
-<!-- TODO : même exemple avec une personne qui a des valeurs différentes au départ et aboutit à une conclusion  différente -->
+<!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À faire</p>
+    <p>Même exemple avec une personne qui a des valeurs différentes au départ et aboutit à une conclusion  différente.</p>
+</div>
 
 ## Les niveaux de preuve
 
@@ -825,7 +830,12 @@ Je ne rentre pas dans les détails et ferai peut-être un article dédié pour e
 
 ## Quelques outils méthodologiques
 
-<!-- TODO : trier et détailler -->
+<!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À faire</p>
+    <p>Trier et détailler.</p>
+</div>
 
 * Ne pas supposer la mauvaise foi (?)
 * S'assurer du fait avant d'enquêter sur la cause
@@ -974,12 +984,20 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
 ## Quelques erreurs courrantes
 
 <!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À faire</p>
+</div>
 
 * Oubli de la fréquence de base
 
 ## S'entrainer
 
 <!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À faire</p>
+</div>
 
 <!-- Mettre les réponses en caché (stylé avec css) -->
 
@@ -988,8 +1006,18 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
 ## Quelques applications concrètes
 
 <!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À faire</p>
+</div>
 
-## TODO <!-- TODO -->
+## TODO
+
+<!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À faire</p>
+</div>
 
 * les maths/stats/proba de base et quelques erreurs courrantes (par ex. pb de Monty Hall ou des 2 enfants de Lê)
 * quelques brèves
