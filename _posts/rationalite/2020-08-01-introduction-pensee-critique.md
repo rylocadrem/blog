@@ -581,6 +581,8 @@ Il existe deux approches, celle plus simple et courrante, *fréquentiste*, et ce
 
 En gros, l'*inférence fréquentiste* détermine $$P(x \vert H)$$ la **vraissemblance** des résultats x dans le carde de l'hypothèse H, et l'*inférence bayésienne* détermine $$P(H \vert x)$$ la **plausibilité** de l'hypothèse H au vu des résultats x.
 
+Note : $$P(A|B) $$ se lit *probabilité de A sachant B*.
+
 Illustrons les deux méthodes par un exemple.
 
 Imaginons que j'ai plusieurs dés avec un nombre de faces différents (par ex. 4, 6, 8, 10, 12 et 20).
