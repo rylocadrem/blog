@@ -178,7 +178,7 @@ Pour ces raisons, j'éviterai de baser mes interprétations sur la concordance s
 
 ### Une exégèse de Matthieu 7:1
 
-Faisons une exégèse rigoureuse de Matthieu 7:1 à titre d'exemple. Les mêmes méthodes herméneutiques peuvent êtres appliques aux autres versets précédemment cités.
+Faisons une exégèse rigoureuse de Matthieu 7:1 à titre d'exemple. Les mêmes méthodes herméneutiques peuvent êtres appliqués aux autres versets précédemment cités.
 
 > Ne jugez pas, afin de ne pas être jugés.
 >
@@ -202,7 +202,7 @@ Comme le résume la Bible Annotée Neuchâtel[^ban_matthieu] :
 >
 > Cette pensée, c'est que Jésus est le Roi, et qu'il est venu établir, sur les ruines de la théocratie déchue, son royaume spirituel, accomplissement de l'ancienne alliance. L'unité et la grandeur du plan de ce livre répondent ainsi admirablement à son but.
 
-Le texte de Matthieu 1:7 fait partie du Sermon sur la Montagne (les chapitres 5 à 7 de Matthieu). Jésus l'a prononcé au début de son ministère, peu après son baptême par Jean le Baptiste, du haut d'une montagne près du lac de Tibériade. Ce discours (le plus long enseignement oral du Nouveau Testament) comporte notamment les *Béatitudes* ou la prière du *Notre Père* et porte sur l'éthique et indique que nous devons exercer un jugment critique.
+Le texte de Matthieu 7:1 fait partie du Sermon sur la Montagne (les chapitres 5 à 7 de Matthieu). Jésus l'a prononcé au début de son ministère, peu après son baptême par Jean le Baptiste, du haut d'une montagne près du lac de Tibériade. Ce discours (le plus long enseignement oral du Nouveau Testament) comporte notamment les *Béatitudes* ou la prière du *Notre Père* et porte sur l'éthique et indique que nous devons exercer un jugment critique.
 
 Si on se limite au contexte immédiat, on voit déjà qu'aux versets 6 et 15 Jésus commande :
 
