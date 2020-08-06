@@ -58,7 +58,7 @@ Ailleurs, on lit :
 
 > C'est moi qui suis la vigne ; vous, vous êtes les sarments.
 >
-> — Jean 15:5
+> — Jean 15:5 (NBS)
 
 Doit-on comprendre que Jésus est *littéralement* une vigne et que nous sommes *littéralement* des sarments ? Bien sûr que non.
 

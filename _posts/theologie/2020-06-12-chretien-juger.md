@@ -73,7 +73,7 @@ Ou encore :
 > Est-ce à moi, en effet, de juger ceux du dehors ? Et ceux du dedans, n'est-ce pas vous qui en êtes juges ?
 > Ceux du dehors, c'est Dieu qui les jugera. Expulsez le mauvais du milieu de vous.
 >
-> — 1 Corinthiens 5:12-13
+> — 1 Corinthiens 5:12-13 (NBS)
 
 Ces versets seraient-ils en contradiction avec les précédents ?
 
@@ -234,7 +234,7 @@ On peut également regarder les versets suivant immédiatement le verset 1 :
 
 > Ne jugez pas, afin de ne pas être jugés. Car c'est avec le jugement par lequel vous jugez qu'on vous jugera, et c'est avec la mesure à laquelle vous mesurez qu'on mesurera pour vous. Pourquoi regardes-tu la paille qui est dans l'œil de ton frère, et ne remarques-tu pas la poutre qui est dans ton œil ? Ou bien comment peux-tu dire à ton frère : « Laisse-moi ôter la paille de ton œil », alors que dans ton œil il y a une poutre ? Hypocrite, ôte d'abord la poutre de ton œil ! Alors tu verras comment ôter la paille de l'œil de ton frère.
 >
-> — Matthieu 7:1-5
+> — Matthieu 7:1-5 (NBS)
 
 Ces versets nous éclairent sur la raison pour laquelle Jésus proscrit les jugements hypocrites et moralisateurs. Quand nous établissons une norme à laquelle les autres doivent se conformer, nous n'y sommes pas moins soumis. C'est pourquoi avec humilité, lors d'une critique portant sur une faute, reconnaissons-là dans notre vie si nous l'avons également commise.
 
@@ -275,7 +275,7 @@ Enfin, avant de creuser plus en détail le sujet du jugement à exercer, regardo
 > Est-ce à moi, en effet, de juger ceux du dehors ? Et ceux du dedans, n'est-ce pas vous qui en êtes juges ?
 > Ceux du dehors, c'est Dieu qui les jugera. Expulsez le mauvais du milieu de vous.
 >
-> — 1 Corinthiens 5:12-13
+> — 1 Corinthiens 5:12-13 (NBS)
 
 > Mais si quelqu'un - même nous ou même un ange venu du ciel - vous annonçait un évangile différent de celui que nous vous avons prêché, qu'il soit maudit! Nous l'avons déjà dit, et je le répète maintenant: si quelqu'un vous annonce un autre évangile que celui que vous avez reçu, qu'il soit maudit!
 >
@@ -287,7 +287,7 @@ Enfin, avant de creuser plus en détail le sujet du jugement à exercer, regardo
 
 > Bien-aimés, ne croyez pas tout esprit ; examinez plutôt les esprits pour savoir s'ils sont de Dieu, car beaucoup de prophètes de mensonge sont sortis dans le monde.
 >
-> — 1 Jean 4:1
+> — 1 Jean 4:1 (NBS)
 
 > Quiconque s'écarte de ce chemin et ne demeure pas dans l'enseignement de Christ n'a pas Dieu; celui qui demeure dans l'enseignement de Christ a le Père et le Fils. Si quelqu'un vient chez vous et n'apporte pas cet enseignement, ne le prenez pas chez vous et ne le saluez pas, car celui qui le salue s'associe à ses mauvaises œuvres.
 >
@@ -415,7 +415,7 @@ Or, sur Terre, l'exercice de la justice passe par les systèmes judiciaires en p
 
 > Le magistrat est serviteur de Dieu pour ton bien. Mais si tu fais le mal, crains; car ce n'est pas en vain qu'il porte l'épée, étant serviteur de Dieu pour exercer la vengeance et punir celui qui fait le mal.
 >
-> — Romains 13:4
+> — Romains 13:4 (NEG 79)
 
 Enfin, le pardon ce n'est pas un retour à la relation d'avant, faire comme s'il ne s'était rien passé.
 
