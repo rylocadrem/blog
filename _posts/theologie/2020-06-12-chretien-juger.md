@@ -319,7 +319,7 @@ D'ailleurs, dans ce contexte de rupture avec la secte KSB, il est intéressant d
 
 Comme le résume Florent Varak[^tpsg_jugemet] :
 
-> On a une quantité incroyable de versets qui nous exhortent à la vigilance, qui nous exhortent au jugement. Notamment au jugement de doctrine, parce que c'est par la doctrine que l'on perçoit qui est Dieu, qu'est-ce que la vie chrétienne. Et c'est par ce que la Bible enseigne que l'on va être orienter dans notre démarche.
+> On a une quantité incroyable de versets qui nous exhortent à la vigilance, qui nous exhortent au jugement. Notamment au jugement de doctrine, parce que c'est par la doctrine que l'on perçoit qui est Dieu, qu'est-ce que la vie chrétienne. Et c'est par ce que la Bible enseigne que l'on va être orienté dans notre démarche.
 >
 > Il y a des gens qu'il faut juger pour ce qu'ils apportent à l'église, qui est malsain, qui est faux, qui est erroné.
 
@@ -395,7 +395,7 @@ Des affirmations erronées de ce genre nous ont parfois été présentées dans 
 
 Contrairement à ce qu'on entend souvent, pardonner ce n'est pas oublier.
 
-Dieu lui-même n'oublie pas nos péchés. Cela contredirait l'omniscience de Dieu. D'ailleurs les quelques passages qui mentionnent "l'oubli" des transgressions sont métaphoriques et indique une rémission.[^storms_forgiveness] Dieu nous fait grâce en étant pleinement conscient de note état de pécheurs et de l'étendue de nos transgressions.
+Dieu lui-même n'oublie pas nos péchés. Cela contredirait l'omniscience de Dieu. D'ailleurs les quelques passages qui mentionnent "l'oubli" des transgressions sont métaphoriques et indique une rémission.[^storms_forgiveness] Dieu nous fait grâce en étant pleinement conscient de notre état de pécheurs et de l'étendue de nos transgressions.
 
 Le pardon est donc avant tout une remise de dette, un refus de la vengeance. Le pardon c'est abandonner l'amertume et ne pas se laisser enfermer dans la colère.
 
@@ -459,13 +459,13 @@ Dans l'Israel du premier siècle, il était courant en cas de retard de paiement
 >
 > — Matthieu 5:41 (NBS)
 
-À l'époque de Jésus, un romain avait le droit d'exiger d'un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soit environ 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser un action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
+À l'époque de Jésus, un romain avait le droit d'exiger d'un juif que ce dernier porte ses affaires sur une distance d'un mille (1000 pas, soit environ 1500 m). La non-plus Jésus ne nous invite pas à subir passivement une injustice mais à oser une action pour ouvrir les yeux de l'offenseur sur l'illégitimité de ses actes.[^evangile21_joue] [^wink_domination] En effet, la loi romaine punissait tout romain qui forçait un juif à dépasser la distance d'un mille.[^codex] [^avi]
 
 ## Conclusion
 
 Rappelons-nous que nous avons l'obligation d'exercer un jugement critique sur les agissement et les enseignements contraires à la saine doctrine biblique. Ne nous laissons pas manipuler par ceux qui tentent d'étouffer les critiques et de cacher les fautes.
 
-Les versets cités hors contexte peuvent être utilisés pour leur faire dire ce qu'ils ne disent pas et il faut toujours considérer un enseignement à la lumière de l'ensemble de la Bible.
+Les versets cités hors contexte peuvent être utilisés pour leur faire dire ce qu'ils ne disent pas et il faut toujours considérer un enseignement à la lumière de son contexte et de l'ensemble de la Bible.
 
 ## Références
 
