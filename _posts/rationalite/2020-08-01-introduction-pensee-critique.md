@@ -685,13 +685,13 @@ $$P(R_7) = \dfrac{1}{8} * 0.349 + \dfrac{1}{10} * 0.279 + \dfrac{1}{12} * 0.233 
 
 Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
 
-$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0.35}{0.0979} \approx 44.6\%$$
+$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0.349}{0.0979} \approx 44.6\%$$
 
-$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0.28}{0.0979} \approx 28.5\%$$
+$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0.279}{0.0979} \approx 28.5\%$$
 
-$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0.23}{0.0979} \approx 19.8\%$$
+$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0.233}{0.0979} \approx 19.8\%$$
 
-$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.14}{0.0979} \approx 7.1\%$$
+$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.139}{0.0979} \approx 7.1\%$$
 
 Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
 
