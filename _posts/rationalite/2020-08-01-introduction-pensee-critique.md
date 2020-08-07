@@ -681,7 +681,7 @@ Nous pouvons alors recalculer nos probabilité. La grande différence est que ce
 
 Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
 
-$$P(R_7) = \dfrac{1}{8} * 0.35 + \dfrac{1}{10} * 0.28 + \dfrac{1}{12} * 0.23 + \dfrac{1}{20} * 0.14 \approx 9.79\%$$
+$$P(R_7) = \dfrac{1}{8} * 0.349 + \dfrac{1}{10} * 0.279 + \dfrac{1}{12} * 0.233 + \dfrac{1}{20} * 0.139 \approx 9.79\%$$
 
 Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
 
