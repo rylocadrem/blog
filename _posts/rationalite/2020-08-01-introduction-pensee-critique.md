@@ -834,6 +834,8 @@ Je ne rentre pas dans les détails et ferai peut-être un article dédié pour e
 
 ## Quelques outils méthodologiques
 
+Dans cette section je décrit brièvement quelques outils méthodologiques de base pour mener à bien une réflexion critique.
+
 ### Démarche générale
 
 Je propose quelques points généraux pour orienter notre démarche de pensée critique. Ils sont personnels et certainements pas exhaustifs, mais je les trouve pertinents :
