@@ -24,8 +24,6 @@ Vous pouvez lire quelques extraits de ce même livre dans cet article : [[KSB] 
 
 Vous pouvez en apprendre plus sur les critères de détection des sectes et les mécanismes de manipulation à l'œuvre dans cet article : [Sectes : petit guide critique]({{ site.baseurl }}{% post_url sectes/2020-06-01-guide-sectes %})
 
-Vous pouvez enfin vous initier à la rationalité en lisant cet article : [Introduction à la rationalité]({{ site.baseurl }}{% post_url rationalite/2020-08-01-introduction-pensee-critique %})
-
 ## Kwasizabantu évaluée en rapport aux caractéristiques des sectes
 
 Ce chapitre examine si Kwasizabantu domine ses membres de la manière décrite dans le chapitre précédent, et s'il peut être qualifié de secte. Une comparaison point par point est faite entre les caractéristiques des sectes et les témoignages des anciens membres et d'autres documents pertinents. Compte tenu de l'énorme quantité de données, il n'est pas possible de tout noter. La question est de savoir si Kwasizabantu remplit les critères des sectes et à cet effet les données utilisées sont suffisantes. Tous les anciens membres ne trouveront pas leur témoignage dans ce chapitre.
