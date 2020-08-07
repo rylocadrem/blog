@@ -12,6 +12,8 @@ Cet article est probablement le plus fondamental de ceux que j'ai écrit jusqu'i
 
 La pensée critique, que je défini juste après, est non seulement utile pour réfléchir sur des sujets scientifiques, mais aussi politiques, sociétaux, etc. Elle est également un excellent outil dans le cadre de la foi, pour analyser avec une rigueur méthodique toute affirmation de ceux qui voudraient nous imposer leurs dogmes.
 
+Cet article comporte une première partie théorique qui présente les concept et les outils fondamentaux, puis une seconde partie pratique avec des exercices et des applications sur des cas concrets.
+
 {% include wip-warning.html %}
 
 Table des matières :
@@ -832,6 +834,216 @@ Je ne rentre pas dans les détails et ferai peut-être un article dédié pour e
 
 ## Quelques outils méthodologiques
 
+### Démarche générale
+
+Je propose quelques points généraux pour orienter notre démarche de pensée critique. Ils sont personnels et certainements pas exhaustifs, mais je les trouve pertinents :
+
+* Recueillir des informations complètes et précises
+* Comprendre et définir tous les termes
+* Questionner les méthodes par lesquelles les faits sont déduits
+* Questionner les conclusions
+* S'assurer de la reproductibilité des faits et expériences
+* Rechercher les hypothèses cachées et les biais cognitifs
+* Savoir suspendre son jugement et pas attendre des réponses immédiates à tout
+* Examiner la situation dans son ensemble
+* Éviter les raisonnements émotionnels
+* Comprendre ses propres biais et valeurs
+
+### Partir des faits
+
+Toute explication non etayée par des faits *qui la démontrent* n'est pas une preuve, aussi cohérente soit-elle. Ce qui nous intéresse ce n'est pas à quel point une hypothèse explique les faits, mais à quel point les faits confirment l'hypothèse et si celle-ci est la plus plausible parmi toutes les hypothèses au vu des faits.
+
+Il est donc important d'aller des faits vers les hypothèses et non l'inverse. Cela ne signifie pas que nous ne pouvons postuler aucune hypothèse sans avoir d'abord examiné les faits. Bien souvent d'ailleurs on nous présente plusieurs hypothèses avant que nous ayons eu l'occasion de nous renseigner sur les faits.
+
+Il s'agit de ne pas favoriser une hypothèse à priori, et de ne pas chercher les faits qui valident une hypothèse mais bien d'évaluer les hypothèses au regard des faits.
+
+### Assurons-nous bien du fait, avant de nous inquiéter de la cause
+
+Bernard Le Bouyer de Fontenelle, écrivain et scientifique français, écrivait en 1687[^fontenelle] :
+
+> Il serait difficile de rendre raison des histoires et des oracles que nous avons rapportés, sans avoir recours aux démons, mais aussi tout cela est-il bien vrai ? Assurons-nous bien du fait, avant de nous inquiéter de la cause. Il est vrai que cette méthode est bien lente pour la plupart des gens, qui courent naturellement à la cause, et passent par-dessus la vérité du fait ; mais enfin nous éviterons le ridicule d'avoir trouvé la cause de ce qui n'est point.
+>
+> Rien n'est plus normal que d'en faire autant sur toutes sortes de matières. Je ne suis pas si convaincu de notre ignorance par les choses qui sont, et dont la raison nous est inconnue, que par celles qui ne sont point, et dont nous trouvons la raison. Cela veut dire que non seulement nous n'avons pas les principes qui mènent au vrai, mais que nous en avons d'autres qui s'accommodent très bien avec le faux.
+
+Cette maxime, *assurons-nous bien du fait, avant de nous inquiéter de la cause*, est l'un des piliers de la pensée critique.
+
+Pour en savoir plus :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/IduaHsRywuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Logique de base
+
+#### Implication, contraposée, réciproque, équivalence
+
+En logique cest trois termes sont centraux.
+
+L'implication exprime une relation de causalité selon laquelle une proposition en entraine une autre si elle est vraie. Elle se note $$A \Rightarrow B$$ et se lit *A implique B*.
+
+La contraposée d'une implication est sa réécriture sous une forme négative. Elle a exactement la même valeur logique. La contraposée de $$A \Rightarrow B$$ (A implique B) est $$\neg B \Rightarrow \neg A$$ (non B implique non A).
+
+La réciproque d'une implication est son inverse. Elle n'a pas la même valeur logique. La réciproque de $$A \Rightarrow B$$ (A implique B) est $$B \Rightarrow A$$ (B implique A).
+
+On parle d'équivalence quand une implication et sa réciproque sont toutes les deux vraies. Elle se note $$A \Leftrightarrow B$$ et se lit *A équivaut à B*. On dit aussi que *A est nécessaire et suffisant à B*.
+
+#### Modus Ponens et Modus Tollens
+
+Derrière ces termes latins se cachent deux principes très simples et fondamentaux de la logique.
+
+Le *modus ponens* est la *déduction du conséquent*. C'est à dire que si *A implique B* et que *A est vrai*, alors *B est vrai*. On écrit formellement cette relation :
+
+$$A, A \Rightarrow B \vdash B$$
+
+Cela se lit *de A et A implique B on déduit B*.
+
+Par exemple :
+
+1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
+2. Or le saumon est un poisson. ($$A$$)
+3. Donc le saumon respire sous l'eau. ($$B$$)
+
+Le *modus tollens* est la *validité de la contraposée*. La contraposée de *A implique B* est *non A implique non B*. On écrit formellement cette relation :
+
+$$A \Rightarrow B \vdash \neg B \Rightarrow \neg A$$
+
+Cela se lit *de A implique B on déduit non B implique non A*.
+
+Par exemple :
+
+1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
+2. Or l'ours ne respire pas sous l'eau. ($$\neg B$$)
+3. Donc l'ours n'est pas un poisson. ($$\neg A$$)
+
+#### Affirmation du conséquent et négation de l'antécédent
+
+Les deux principes précédents sont logiquement valides, mais il existes deux raisonnement fallacieux très similaires dans leur forme qui sont logiquement invalides : l'*affirmation du conséquent* et la *négation de l'antécédent*.
+
+L'*affirmation du conséquent* c'est considérer une condition suffisante comme nécessaire. Elle dit que si *A implique B* et que *B est vrai*, alors *A est vrai*. On écrit formellement cette affirmation fausse :
+
+$$B, A \Rightarrow B \vdash A$$
+
+Cela se lit *de B et A implique B on déduit A*.
+
+Par exemple :
+
+1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
+2. Or le crabe respire sous l'eau. ($$B$$)
+3. Donc le crabe est un poisson. ($$A$$)
+
+La *négation de l'antécédent* c'est considérer que la réciproque d'une implication est toujours vraie. Elle dit que si *A implique B* alors *non A implique non B*. On écrit formellement cette affirmation fausse :
+
+$$A \Rightarrow B \vdash \neg A \Rightarrow \neg B$$
+
+Cela se lit *de A implique B on déduit non A implique non B*.
+
+Par exemple :
+
+1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
+2. Or le crabe n'est pas un poisson. ($$\neg A$$)
+3. Donc le crabe ne respire pas sous l'eau. ($$\neg B$$)
+
+### Bien définir l'hypothèse testée
+
+Lorsqu'on veut s'assurer de la véracité d'une hypothèse, il est très important de bien la définire avant d'investiguer. On ne teste qu'un seul paramètre à la fois, tous les autres paramètres étant égaux par ailleurs.
+
+Prenons un exemple.
+
+Lors d'un voyage en Armorique je croise le druide Panoramix, qui m'explique que la potion magique ne fonctionne que si on ajoute du gui cueilli à minuit, en toge blanche, pieds nus, dans un chêne avec une serpe d'or.
+
+<img class="picture medium" src="{{ site.baseurl }}/assets/images/panoramix.jpg" alt="Panoramix" />
+
+Ah ? Je décide de tester. Je ceuille du gui à 20h, en jeans, avec des chaussures, dans un tilleul avec un serpe en argent. Et, effectivement, la potion ne marche pas. Je teste ensuite en faisant comme Panoramix a dit et là, ça marche.
+
+Ai-je bien testé son affirmation ? Non. En effet, j'ai fait varier tous les paramètres en même temps. Dans ce cas, comment savoir s'ils ont tous un effet.
+
+J'aurais par exemple pu tester l'influence de l'heure de ceuillette en ajoutant du gui cueilli à 20h, en toge blanche, pieds nus, dans un chêne avec une serpe d'or. Si dans ce cas cela ne marche pas (en supposant qu'on a répliqué l'expérience de nombreuses fois, etc.) alors c'est bien que l'horaire a une influence. Si ça marche quand même, c'est qu'il n'a pas d'influence.
+
+### Avoir des paramètres clairs, objectivables, quantifiables
+
+Afin de pouvoir éprouver des hypothèses, il faut définir des paramètres qui ne soient pas ambigus.
+
+Par exemple, si on charche à éprouver l'affirmation selon laquelle diffuser de la musique favorise la croissance des plantes, il faut par exemple préciser :
+
+* Parle-t-on de toute musique classique ou seulement une sous-catégorie ?
+* Quelle type de diffusion ? (durée, fréquence, volume, etc.)
+* Est-ce que ça marche sur toutes les plantes ?
+* Combien de temps doit-on attendre avant d'avoir un effet ?
+* Qu'est-ce qu'on mesure ? (taille des plantes, nombre de graines, la masse sèche, etc.)
+* Quels seuils significatifs ? Si on a choisi de mesurer l'effet sur la taille, quelle augmentation faut-il atteindre et en combien de temps pour que ça soit significatif ?
+* Etc.
+
+### Comparer à un échantillon standard
+
+Lors de toute thérapie, des effets contextuels influent sur les symptômes et la rémission des patients.[^blasi] Le plus connu de ces effets est *l'effet placébo*, qui est un procédé thérapeutique n'ayant pas d'efficacité propre mais agissant sur le patient par des mécanismes psychologique et physiologiques.
+
+Si on teste une thérapie, par exemple un nouveau médicament, il nous faut déterminer s'il a une efficacité propre, c'est-à-dire s'il est plus efficace que la guérison spontanée du corps combinée aux effets contextuels.
+
+Par exemple si je veux tester l'efficacité du jus de citron sur les maux de tête, il n'est pas suffisant de l'administrer à des personnes souffrant de maux de têtes et de regarder si une heure après elles vont mieux. En effet, peut-être ont-elles guéri par effet placébo, ou même simplement parce que le mal de tête s'est naturellement résorbé.
+
+Le protocole standard vise à comparer deux groupes, un (le *groupe test*) auquel on administre le médicament évalué et l'autre (le *groupe contrôle*) auquel on donne un placébo en tout point identique (même couleur, forme, odeur, goût, etc.) mais auquel on a retiré le principe actif que l'on veut tester. On compare ensuite les effets dans les deux groupes.
+
+Ce protocole est d'une extrême importance car les effets contextuels ont une grosse influence sur l'état des patients, notamment sur les douleurs, nausées et fatigues.[^blasi]
+
+Les effets contextuels et les protocoles de tests cliniques feront peut-être l'objet d'un article ultérieur, bien plus détaillé, car le sujet est vaste.
+
+Ce qu'il faut bien retenir, c'est qu'il faut toujours s'assurer de comparer nos résultats avec un groupe contrôle, même lorsqu'il ne s'agit pas de tests médicaux.
+
+Par exemple si on cherche à mettre à l'épreuve les prétentions d'un sourcier, il faut comparer ses capacités à trouver de l'eau à celles de personnes aussi familières que lui avec la région qu'il arpente mais qui n'ont pas de "don" de sourcier. En effet, s'il trouve de l'eau plus souvent que le commun des mortels, peut-être est-ce parce qu'il connait bien la fôret et sait quelles plantes poussent près des points d'eau ?
+
+Dans cet exemple, idéalement on devrait monter un protocole indépendant de l'environnement. Par exemple on pourrait prendre un terrain complètement uniforme sous lequel on fait passer un large tuyau dans lequel on peut envoyer de l'eau à volonté. On demande au sourcier de se placer dessus et de déterminer si oui ou non de l'eau coule sous ses pieds.
+
+D'ailleurs, de nombreux protocoles de ce genre ont été mis en place pour tester des centaines de sourcier. Aucun sourcier n'a pû faire montre d'une efficacité supérieure au hasard.[^marks] [^hines] [^regal] [^vogt]
+
+Richard Monvoisin illustre la nécessité d'un groupe contrôle par l'histoire du panneau anti-girafe[^hauteurs] :
+
+> Deux types sont dans le désert. Il y en a un qui est en train de planter un panneau.
+>
+> L'autre lui demande :
+>
+> — Mais tu fais quoi ?
+>
+> — Je plante un panneau anti-girafe !
+>
+> — Mais il n'y a pas de girafes dans le désert !
+>
+> — Ah ! C'est bien la preuve que ça marche !
+
+<img class="picture medium" src="{{ site.baseurl }}/assets/images/anti-girafe.png" alt="Panneau anti-girafe" />
+
+### Faire un échantillonage sans biais
+
+Lorsqu'on choisit un échantillon (notamment de population) pour effectuer des tests, il doit être justifié et représentatif de ce qu'on veut tester. Par exemple si on veut évaluer le taux de confiance des Français en la médecine, on aura des résultats très différents selon qu'on fait notre sondage à la sortie du bar du coin ou de la faculté de médecine.
+
+La taille de l'échantillon et la méthode d'échantillonage doivent êtres justifiés sur le plan statistique.
+
+D'une manière générale, on peut avoir une idée grossière de la taille minimale que devrait avoir un échantillon pour éviter les biais statistiques (en supposant qu'il soit par ailleurs représentatif) avec la formule suivante :
+
+<!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">À corriger</p>
+    <p>La formule ne semble pas bonne. Vérifier les méthodes d'échantillonage.</p>
+</div>
+
+$$N = \frac{T^2 \cdot P \cdot (1-P)}{M^2}$$
+
+Avec :
+
+* $$N$$ la taille minimale de l'échantillon
+* $$T$$ le niveau de confiance
+
+### Procéder en double ou triple aveugle
+
+...
+
+### Justifier l'inclusion ou le rejet de données
+
+...
+
+### Chercher à réfuter
+
+...
+
+
 <!-- TODO -->
 <div class="wip-warning">
     <p>🚧</p>
@@ -839,14 +1051,6 @@ Je ne rentre pas dans les détails et ferai peut-être un article dédié pour e
     <p>Trier et détailler.</p>
 </div>
 
-* Ne pas supposer la mauvaise foi (?)
-* S'assurer du fait avant d'enquêter sur la cause
-* Bien définir l'hypothèse testée
-* Avoir des mesures claires, objectivables, quantifiables
-* Comparer à un échantillon standard
-* Faire un échantillonage sans biais
-* Double/triple aveugle
-* Justifier inclusion / rejet des données
 
 ## Quelques biais de raisonnement
 
@@ -992,6 +1196,7 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
 </div>
 
 * Oubli de la fréquence de base
+* ...
 
 ## S'entrainer
 
@@ -1243,3 +1448,17 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
 [^pronin_2]: Pronin, E., Fleming, J. J., & Steffel, M. (2008). *Value revelations : Disclosure is in the eye of the beholder*. Journal of Personality and Social Psychology, 95(4), 795‑809. <https://doi.org/10.1037/a0012710>
 
 [^pronin_3]: Pronin, E., Lin, D. Y., & Ross, L. (2002). *The Bias Blind Spot : Perceptions of Bias in Self Versus Others*. Personality and Social Psychology Bulletin, 28(3), 369‑381. <https://doi.org/10.1177/0146167202286008>
+
+[^fontenelle]: Le Bouyer de Fontenelle, B. (1687). *Histoire des oracles*. Michel Brunet. <https://gallica.bnf.fr/ark:/12148/bpt6k10412238>
+
+[^blasi]: Blasi, Z. D., Harkness, E., Ernst, E., Georgiou, A., & Kleijnen, J. (2001). *Influence of context effects on health outcomes : A systematic review*. The Lancet, 357(9258), 757‑762. <https://doi.org/10.1016/S0140-6736(00)04169-6>
+
+[^marks]: Marks, D. F. (1986). *Investigating the paranormal*. Nature, 320(6058), 119‑124. <https://doi.org/10.1038/320119a0>
+
+[^hines]: Hines, T. (2003). *Pseudoscience and the paranormal* (2nd ed). Prometheus Books.
+
+[^regal]: Regal, B. (2009). *Pseudoscience : A critical encyclopedia*. Greenwood Press.
+
+[^vogt]: Vogt, E. Z., & Hyman, R. (1979). *Water witching, U.S.A* (2d ed). University of Chicago Press.
+
+[^hauteurs]: Hauteurs UGA. (2017, 2 octobre). *Cours 5 Épisode 3 - Protocoles expérimentaux (3)* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=0cZ-Tpb8OQU>
