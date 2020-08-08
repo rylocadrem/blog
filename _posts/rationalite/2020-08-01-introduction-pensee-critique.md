@@ -836,21 +836,6 @@ Je ne rentre pas dans les détails et ferai peut-être un article dédié pour e
 
 Dans cette section je décrit brièvement quelques outils méthodologiques de base pour mener à bien une réflexion critique.
 
-### Démarche générale
-
-Je propose quelques points généraux pour orienter notre démarche de pensée critique. Ils sont personnels et certainements pas exhaustifs, mais je les trouve pertinents :
-
-* Recueillir des informations complètes et précises
-* Comprendre et définir tous les termes
-* Questionner les méthodes par lesquelles les faits sont déduits
-* Questionner les conclusions
-* S'assurer de la reproductibilité des faits et expériences
-* Rechercher les hypothèses cachées et les biais cognitifs
-* Savoir suspendre son jugement et pas attendre des réponses immédiates à tout
-* Examiner la situation dans son ensemble
-* Éviter les raisonnements émotionnels
-* Comprendre ses propres biais et valeurs
-
 ### Partir des faits
 
 Toute explication non etayée par des faits *qui la démontrent* n'est pas une preuve, aussi cohérente soit-elle. Ce qui nous intéresse ce n'est pas à quel point une hypothèse explique les faits, mais à quel point les faits confirment l'hypothèse et si celle-ci est la plus plausible parmi toutes les hypothèses au vu des faits.
@@ -858,6 +843,8 @@ Toute explication non etayée par des faits *qui la démontrent* n'est pas une p
 Il est donc important d'aller des faits vers les hypothèses et non l'inverse. Cela ne signifie pas que nous ne pouvons postuler aucune hypothèse sans avoir d'abord examiné les faits. Bien souvent d'ailleurs on nous présente plusieurs hypothèses avant que nous ayons eu l'occasion de nous renseigner sur les faits.
 
 Il s'agit de ne pas favoriser une hypothèse à priori, et de ne pas chercher les faits qui valident une hypothèse mais bien d'évaluer les hypothèses au regard des faits.
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/methode.jpg" alt="Méthode scientifique" />
 
 ### Assurons-nous bien du fait, avant de nous inquiéter de la cause
 
@@ -1011,48 +998,117 @@ Richard Monvoisin illustre la nécessité d'un groupe contrôle par l'histoire d
 
 <img class="picture medium" src="{{ site.baseurl }}/assets/images/anti-girafe.png" alt="Panneau anti-girafe" />
 
+### Partir de l'hypothèse nulle
+
+Ce point méthodologique découle du *principe de parcimonie des hypothèses* vu plus tôt. Il dit qu'en l'absence de preuve du contraire, il n'y a aucune raison de privilégier un échantillon ou un groupe plutôt qu'un autre.
+
+On appelle *hypothèse nulle* cette hypothèse de départ qui postule l'égalité des paramètres statistiques. Par exemple l'hypothèse nulle dans un test clinique postule qu'il n'y a pas de différence d'effet entre un groupe qui prend un médicament et un autre qui prend un placébo. Le but de l'essai clinique est alors de vérifier si cette hypothèse se confirme ou si le médicament a bien un effet propre.
+
 ### Faire un échantillonage sans biais
 
 Lorsqu'on choisit un échantillon (notamment de population) pour effectuer des tests, il doit être justifié et représentatif de ce qu'on veut tester. Par exemple si on veut évaluer le taux de confiance des Français en la médecine, on aura des résultats très différents selon qu'on fait notre sondage à la sortie du bar du coin ou de la faculté de médecine.
 
-La taille de l'échantillon et la méthode d'échantillonage doivent êtres justifiés sur le plan statistique.
+Les méthodes d'échantillonages peuvent êtres très complexes et varier grandement en fonction du type de problème. Voici cependant deux conseils, très basiques, pour avoir une première approche pas trop mauvaise.
+
+Tout d'abord l'échantillon doit éviter les biais de sélection, c'est à dire qu'il ne doit pas contenir de sous-groupe déséquilibré pouvant infléchir les résultats. Par exemple si je teste l'efficacité d'un médicament pour les maux de tête, je ne dois pas avoir plus de gens qui ont des migraines chroniques dans le groupe contrôle que dans le groupe test.
+
+Ensuite l'échantillon doit être suffisament grand pour que le test soit à la fois puissant (être en mesure de rejeter l'hypothèse nulle avec une grande probabilité si celle-ci est fausse) et significatif (être en mesure de conserver l'hypothèse nulle avec une grande probabilité si celle-ci est vraie).
 
 D'une manière générale, on peut avoir une idée grossière de la taille minimale que devrait avoir un échantillon pour éviter les biais statistiques (en supposant qu'il soit par ailleurs représentatif) avec la formule suivante :
 
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À corriger</p>
-    <p>La formule ne semble pas bonne. Vérifier les méthodes d'échantillonage.</p>
-</div>
-
-$$N = \frac{T^2 \cdot P \cdot (1-P)}{M^2}$$
+$$N = \frac{t^2 \cdot p \cdot (1-p)}{m^2}$$
 
 Avec :
 
 * $$N$$ la taille minimale de l'échantillon
-* $$T$$ le niveau de confiance
+* $$t$$ le niveau de confiance selon *la loi normale centrée réduite* (par ex. 1.96 pour 95% de confiance)
+* $$p$$ la proportion estimée de la population qui présente la caractéristique (lorsque inconnue, on utilise $$p = 0.5$$, c'est-à-dire la [dispersion statistique](https://en.wikipedia.org/wiki/Statistical_dispersion) la plus grande)
+* $$m$$ la marge d'erreur tolérée
+
+Note 1 : le niveau de confiance indique le pourcentage de résultats qui sont propablement vrais (plus ou moins la marge d'erreur). Par exemple si on a un niveau de confiance de 90% et une marge d'erreur de 5%, alors on peut dire que 90% de nos résultats sont vrais à 5% près.
+
+Note 2 : on peut calculer facilement la valeur de $$t$$ dans Excel en utilisant la formule *LOI.NORMALE.STANDARD.INVERSE.N*.
+
+Par exemple, imaginons que nous volons tester si les êtres humains sont sensibles aux ondes 5G, avec 95% de confiance et 1% de marge d'erreur. On a :
+
+$$N = \frac{1.96^2 \cdot 0.5 \cdot (1-0.5)}{0.01^2} = 9604$$
+
+Notre étude devrait donc porter sur au moins 9604 personnes pour éviter les biais statistiques.
+
+On peut se servir de la même formule pour évaluer, grossièrement, la confiance que l'on peut accorder à un test statistique en fonction de la taille de l'échantillon. En effet, on peut l'écrire ainsi :
+
+$$t = \sqrt{ \frac{N \cdot m^2}{p \cdot (1-p)} }$$
+
+Par exempel sin on avait conduit notre étude précédente sur un échantillon de 1000 personnes, on aurait :
+
+$$t = \sqrt{ \frac{1000 \cdot 0.01^2}{0.5 \cdot (1-0.5)} } \approx 0.63$$
+
+Ce qui correspond (via la formule *LOI.NORMALE.STANDARD.N* sous Excel) à une confiance à 74%, c'est à dire que 74% des résultats sont dans la marge d'erreur acceptable.
+
+Ces symboles mathématiques peuvent parraitre compliqués mais ler utilisation est en réalité très simple. Leur utilisation n'est pas très courrante, mais lorsqu'une étude nous semble étonnante il peut être utile de vérifier la fiabilité de son échantillon.
+
+### Répliquer les études
+
+Comme vu précédemment, dans tout calcul statistique il y a une marge d'erreur (pour ne pas avoir d'erreur il faudrait un échantillon infini). Si par exemple on accepte une marge d'erreur de 5%, on aura en moyenne 5% de faux positifs (ou de faux négatifs), donc de résultats faux.
+
+C'est pour cela qu'une seule étude n'est jamais une preuve suffisante pour ammener à un consessus scientifique.
+
+C'est aussi pour cette raison que sur de nombreux sujets on peut trouver une petite portion d'études qui montrent l'inverse du consensus. C'est uniquement si cette proportion est significativement plus grande que la marge d'erreur qu'il y a probablement un problème plus important.
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/significant.png" alt="XKCD significant" />
 
 ### Procéder en double ou triple aveugle
 
-...
+Imaginez que vous voulez tester l'efficacité d'un nouveau médicament pour les maux de tête. Vous avez déterminé des critères objectivables, sélectionné un large échantillon représentatif de la population et séparé les sujets au hasard en deux groupes, l'un *contrôle* qui reçoit un placébo et l'autre *test* qui reçoit le médicament.
 
-### Justifier l'inclusion ou le rejet de données
+Vous allez voir les sujets du groupe contrôle : "Bonjour Monsieur Bidule ! Voici votre placébo ! Alors, vous avez toujours mal ?".
 
-...
+Non, évidemment, vous avez fait les choses bien et les patients ne savent pas s'ils ont reçu le placébo ou le médicament. On appelle cela une étude en *simple aveugle*.
+
+Pourquoi *simple* ? Parce que vous-mêmes savez si vous administrez le médicament ou le placébo. Or, si vous avez envie de prouver l'efficacité de votre médicament, il y a de fortes chances que vous serez partial dans vos évaluations, même inconsciamment. On appelle ça le *biais de l'observateur*.[^mahtani] [^hrobjartsson]
+
+Pour éviter ça, on a créé le protocole en *double aveugle* : ni le patient ni l'examinateur ne sait si le patient a reçu le médicament ou le placébo.
+
+On a donc besoin d'une tierce personne. Celle-ci va conditionner les médicament et les placébos dans un ordre aléatoire, les identifier par un numéro et garder cette identification secrète jusqu'à la fin de l'étude.
+
+Ensuite l'observateur note les résultats de l'expérience. Par exemple :
+
+* Patient avec le "médicament" n°1 : plus de douleur après 15 minutes
+* Patient avec le "médicament" n°2 : plus de douleur après 27 minutes
+* Patient avec le "médicament" n°3 : plus de douleur après 6 minutes, apparition de nausées
+* Patient avec le "médicament" n°4 : plus de douleur après 20 minutes
+* Etc.
+
+Enfin, il fait le lien avec les informations de celui qui a conditionné les produits. Par exemple :
+
+* N°1 = médicament
+* N°2 = placébo
+* N°3 = placébo
+* N°4 = médicament
+* Etc.
+
+C'est à ce stade qu'on peut ajoouter un niveau d'aveugle supplémentaire et faire un protocole en *triple aveugle* : on donne les résultats ainsi obtenus à un statisticien, mais sans lui dire quelles données correspondent au placébo ou au médicament.
+
+Le double aveugle est le standard minimum a atteindre pour qu'une étude soit robuste. La patie triple aveugle est moins significative puisque les données collectées sont figées et ne peuvent plus être influencée. Pour cette raison la plupart des études se satisfont du double aveugle.
 
 ### Chercher à réfuter
 
-...
+La démarche scientifique commence toujours par tenter de réfuter les nouvelles hypothèses, par chercher l'erreur. En effet, si l'hypothèse est réfutée alors il ne sert à rien de chercher à l'ettayer.
 
+Par exemple : voici 4 cartes à jouer classiques, sans trucage (double face, etc.). Je vous dit que, parmis ces cartes, si une carte a une dame d'un côté alors le dos de la carte est bleu. Quelles cartes devez-vous retourner pour vérfier cette hypothèse ?
 
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À faire</p>
-    <p>Trier et détailler.</p>
-</div>
+<img class="picture" src="{{ site.baseurl }}/assets/images/cards.png" alt="Cartes" />
 
+Il faut retourner :
+
+* La première carte pour vérifier que le dos n'est pas rouge
+* La dernière carte pour vérifier qu'il n'y a pas une dame
+
+On cherche à réfuter l'hypothèse.
+
+En effet, si on retournait le deuxième carte, que la couleur du dos soit bleue ou rouge ne nous apprned rien sur l'hypothèse testée.
+
+De même pour la troisième carte. En effet, qu'on y trouve une dame ou non ne nous dit rien sur la validité de l'hypothèse.
 
 ## Quelques biais de raisonnement
 
@@ -1189,17 +1245,6 @@ Article complet : [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url 
 Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fallacieux)
 {: .read-short-info}
 
-## Quelques erreurs courrantes
-
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À faire</p>
-</div>
-
-* Oubli de la fréquence de base
-* ...
-
 ## S'entrainer
 
 <!-- TODO -->
@@ -1207,6 +1252,22 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
     <p>🚧</p>
     <p class="bold">À faire</p>
 </div>
+
+Place maintenant à la pratique, sur des cas inventés puis, dans la section suivante, sur des cas réels.
+
+Je propose quelques exercices, dont les réponses ne sont pas exhaustives mais pointent quelques problèmes et donnent des pistes de réflexion.
+
+### Exercice 1
+
+#### Question
+
+Lors d'un repas, un ami vous raconte la chose suivante : « alors que chaque hiver, je suis sujet à des grippes, cette année j'ai suivi les conseils de mon pharmacien, et j'ai pris de l'homéopathie, en l'occurrence Oscillococcinum. Et figure-toi que je n'ai pas été malade ! C'est fou, non ? Ma cousine, pareil. Pas un rhume, rien ! Alors on peut dire ce qu'on veut, ça marche. Et pour ceux pour qui ça ne marche pas, au moins ça ne leur fait pas de mal. De toute façon, c'est toujours mieux que de prendre des antibiotiques. »
+
+Quelle analyse critique pouvez-vous faire ?
+
+#### Réponse
+
+Il y a d'abord une confussion entre grippe (influenza) et rhume (rhinopharyngite)
 
 <!-- Mettre les réponses en caché (stylé avec css) -->
 
@@ -1464,3 +1525,9 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
 [^vogt]: Vogt, E. Z., & Hyman, R. (1979). *Water witching, U.S.A* (2d ed). University of Chicago Press.
 
 [^hauteurs]: Hauteurs UGA. (2017, 2 octobre). *Cours 5 Épisode 3 - Protocoles expérimentaux (3)* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=0cZ-Tpb8OQU>
+
+[^mahtani]: Mahtani, K., Spencer, E. A., Brassey, J., & Heneghan, C. (2018). *Catalogue of bias : Observer bias*. BMJ Evidence-Based Medicine, 23(1), 23‑24. <https://doi.org/10.1136/ebmed-2017-110884>
+
+[^hrobjartsson]: Hrobjartsson, A., Thomsen, A. S. S., Emanuelsson, F., Tendal, B., Hilden, J., Boutron, I., Ravaud, P., & Brorson, S. (2012). *Observer bias in randomised clinical trials with binary outcomes : Systematic review of trials with both blinded and non-blinded outcome assessors*. BMJ, 344(feb27 2), e1119‑e1119. <https://doi.org/10.1136/bmj.e1119>
+
+[]: Eccles, R. (2005). Understanding the symptoms of the common cold and influenza. The Lancet Infectious Diseases, 5(11), 718‑725. https://doi.org/10.1016/S1473-3099(05)70270-X
