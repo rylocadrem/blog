@@ -1197,6 +1197,18 @@ Cet effet correspond à ce qu'on nomme parfois "montagne de la stupidité" :
 
 C'est par exemple quand on minimise la gravité des transgressions des personnes dont on a une image positive, quand on cherche avec plus d'application des signes d'intelligence chez ceux qui nous ont renvoyé une bonne première impression, ou quand on juge plus justes les personnes en fonction de leur apparence physique.[^thorndike] [^gibson] [^lachman]
 
+### Effet Pangloss
+
+**Raisonner à rebours vers une cause possible parmi d’autres, généralement vers une position qu'on veut prouver.**
+
+C'est par exemple penser que le fait qu'on retrouve le nombre d'or ($$\varphi = \frac{1 + \sqrt{5}}{2} \approx 1.61803...$$) très souvent dans la nature est la preuve d'une *volonté* (un dieu, une force cosmique, etc.). En réalité le nombre d'or se retrouve car il est est la solution positive à l'équation $$x^2-x-1=0$$ et correspond donc à la résolution optimale des contraintes d'encombrement.[^douady]
+
+C'est aussi penser, en voyant plantée une flèche dans un tronc d'arbre en forêt que l'archer qui l'a envoyée avait la *volonté* de la planter ici.
+
+Dans un autre registre, c'est aussi considérer un évènement *généralement probable mais individuellement improbable* comme improbable. Par exemple imaginez que vous êtes au restaurant et que vous jouez à pile-ou-face en attendant votre repas. Cinq fois de suite vous faites pile. 3.1% de chances qua ça arrive. Incroyable !
+
+En fait, pas vraiment. Imaginez que 1000 autres personnes dans le monde jouent comme vous. Sur toutes ces personnes quelle est probabilité qu'au moins une personne fasse pile cinq fois de suite ? $$1-(1-0.031)^{1000} \approx 99.9999999999978\%$$
+
 ### Effet de simple exposition
 
 **Augmenter son adhésion ou sentiment positif par le simple fait d'être exposé à la chose.**[^pennycook] [^zajonc]
@@ -1267,11 +1279,60 @@ Quelle analyse critique pouvez-vous faire ?
 
 #### Réponse
 
-Il y a d'abord une confussion entre grippe (influenza) et rhume (rhinopharyngite)
+Il y a une confussion entre grippe (influenza) et rhume (rhinopharyngite) qui sont des maladies différentes.[^eccles]
 
-<!-- Mettre les réponses en caché (stylé avec css) -->
+Le "test" est aussi baisé puisqu'il n'y a pas de vraiation seule du paramètre médicament. En effet, d'autres facteurs qui peuvent expliquer l'absence de symptômes cette année : meilleure réponse immunitaire, exposition à une souche virale différente, meilleure hygiène, facteurs de transmissions différents, etc.
 
-<!-- Ex n°X : la proba d'être malade après avoir été positif à un test https://www.youtube.com/watch?v=R13BD8qKeTg&t=7s (cf. video de lê aussi ?)-->
+Il y a ausi une généralisation abusive. Conclure "ca marche" sur la base de deux témoignages individuels relevant d'une expérience non décisive est fautif.
+
+Dire "au moins ça ne leur fait pas de mal" n'est pas ettayé par des preuves. Tout ce qui a un effet peut avoir un effet négatif en fonction de la dose et du contexte.
+
+Enfin, la grippe et le rhume sont tous deux causés par des virus et les antibiotiques n'agissent que sur les bactéries.
+
+### Exercice 2
+
+#### Question
+
+Vous êtes le chef de la police d'une ville d'un million d'habitants et vous savez qu'un habitant sur mille est un criminel. Vous décidez d'installer un nouveau dispositif de reconnaissance faciale pour les détecter.A chaque fois qu'un visage est filmé, le système dit s'il s'agit où non d'un criminel. Il n'est pas fiable à 100%, mais sa marge d'erreur n'est que de 1% (1 fois sur 100 il déctera un innocent comme criminel ou un criminel comme innocent).
+
+Si une personne prise au hasard parmi les habitants déclenche une alerte, quelle est la chance que ce soit un criminel ?
+
+#### Réponse
+
+La réponse n'est évidemment pas 99%.
+
+Il ne faut pas oublier que seule une personne sur mille est un criminel, soit 0,1% de la population.
+
+On a en fait deux cas :
+
+* La probabilité que l'alerte se déclenche sachant qu'il s'agit d'un innocent : 1%
+* La probabilité que l'alerte se déclenche sachant qu'il s'agit d'un criminel : 99%
+
+La probabilité que l'alerte se déclenche pour un cytoyen au hasard est donc 1% fois la probabilité d'avoir affaire à un innocent (99,9%) + 99% fois la probabilité d'avoir affaire à un criminel (0,1%). Donc 1,098%
+
+Notons $$A$$ l'hypothèse selon laquelle l'alerte s'est déclenchée, $$C$$ le fait qu'une personne soit un criminel et $$I$$ le fait qu'elle soit innoccente. On cherche donc $$P(C \vert A)$$, la probabilité qu'une parsonne soit un criminer sachant que l'alerte s'est déclenchée.
+
+On utilise le théorème de Bayes :
+
+$$P(C \vert A) = \dfrac{P(A \vert C) \cdot P(C)}{P(A)}$$
+
+Où :
+
+* $$P(A \vert C)$$ est la probabilité que l'alerte se déclenche sachant que la personne est un criminel, donc 99%
+* $$P(C)$$ est la probabilité qu'une personne soit un criminel, donc 0,1%
+* $$P(A)$$ est la probabilité que l'alerte se déclenche, pour un citoyen au hasard, donc 1,098%
+
+On a donc :
+
+$$P(C \vert A) = \dfrac{0.99 \cdot 0.001}{0.01098} \approx 9\%$$
+
+Ainsi malgré une fiabilité à 99%, en cas d'alerte il n'y a que 9 chances sur 100 que la personne soit un criminel.
+
+### Exercice 3
+
+#### Question
+
+
 
 ## Quelques applications concrètes
 
@@ -1530,4 +1591,7 @@ Il y a d'abord une confussion entre grippe (influenza) et rhume (rhinopharyngite
 
 [^hrobjartsson]: Hrobjartsson, A., Thomsen, A. S. S., Emanuelsson, F., Tendal, B., Hilden, J., Boutron, I., Ravaud, P., & Brorson, S. (2012). *Observer bias in randomised clinical trials with binary outcomes : Systematic review of trials with both blinded and non-blinded outcome assessors*. BMJ, 344(feb27 2), e1119‑e1119. <https://doi.org/10.1136/bmj.e1119>
 
-[]: Eccles, R. (2005). Understanding the symptoms of the common cold and influenza. The Lancet Infectious Diseases, 5(11), 718‑725. https://doi.org/10.1016/S1473-3099(05)70270-X
+[^douady]: Douady, S., & Couder, Y. (1993, janvier). *La physique des spirales végétales*. La Recherche, 28(250). <https://www.larecherche.fr>
+
+[^eccles]: Eccles, R. (2005). *Understanding the symptoms of the common cold and influenza*. The Lancet Infectious Diseases, 5(11), 718‑725. <https://doi.org/10.1016/S1473-3099(05)70270-X>
+
