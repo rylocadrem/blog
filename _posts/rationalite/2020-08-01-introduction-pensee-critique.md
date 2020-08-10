@@ -1303,6 +1303,10 @@ La réponse n'est évidemment pas 99%.
 
 Il ne faut pas oublier que seule une personne sur mille est un criminel, soit 0,1% de la population.
 
+Quelle est la probabilité que l’alerte se déclenche pour un citoyen pris au hasard ? Elle vaut 1% fois la probabilité d'être innocent plus 99% fois la probabilité d'être un criminel, soit 1,098%
+
+Mais ce qu'on cherche à savoir c'est la probabilité qu'une personne ayant déclenché l'alerte soit effectivement un criminel. 
+
 Notons $$A$$ l'hypothèse selon laquelle l'alerte s'est déclenchée et $$C$$ le fait qu'une personne soit un criminel. On cherche donc $$P(C \vert A)$$, la probabilité qu'une parsonne soit un criminer sachant que l'alerte s'est déclenchée.
 
 On utilise le théorème de Bayes :
