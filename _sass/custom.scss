@@ -173,20 +173,27 @@ h2, h3, h4, h5, h6 {
     color: #a31c00;
 }
 
-.MJX-TEX {
-    white-space: break-spaces;
-}
-
-mjx-container {
-    font-size: 1em !important;
+.katex {
+    font-size: 1.1em !important;
+    white-space: normal !important;
 }
 
 .picture {
     display: block;
     margin: 0 auto 20px;
+}
 
+img {
     &.medium {
         max-height: 200px;
+    }
+
+    &.medium2 {
+        max-height: 350px;
+    }
+
+    &.max1200 {
+        max-height: 1200px;
     }
 }
 
@@ -194,17 +201,11 @@ figure {
     img {
         display: block;
         margin: auto;
-
-        &.medium {
-            max-height: 200px;
-        }
     }
 }
 
 figcaption {
     color: #495057;
-    // display: block;
-    // font-size: 1rem;
     font-style: italic;
     margin: .25rem auto 1rem;
     text-align: center;

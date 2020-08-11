@@ -475,15 +475,15 @@ Les résultats à la question pour les deux groupes sont :
 
 |                            | Groupe 1 | Groupe 2 |
 |----------------------------|----------|----------|
-| La torsion continue        | 4 %      | 40 %     |
-| La torsion ne continue pas | 96 %     | 60 %     |
+| La torsion continue        | 4%      | 40%     |
+| La torsion ne continue pas | 96%     | 60%     |
 
 L'expérience a été répétée, avec d'autres participants. Cette-fois la question demandait simplement de décrire le phénomène. Voici les resultats :
 
 |                            | Groupe 1 | Groupe 2 |
 |----------------------------|----------|----------|
-| La torsion continue        | 0 %      | 36 %     |
-| La torsion ne continue pas | 100 %    | 64 %     |
+| La torsion continue        | 0%      | 36%     |
+| La torsion ne continue pas | 100%    | 64%     |
 
 Celà illustre bien la puissance de cet effet. Il peut même avoir une influence si importante qu'on observe par exemples des effet physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
 
@@ -725,7 +725,7 @@ Dans la vie courrante, nous n'allons pas calculer des probabilités bayésiennes
 
 C'est là qu'entrent en jeu les *curseurs de croyance*, ou *curseurs de plausibilité*, qui permettent de se représenter bien plus facilement et intuitivement ces mécanismes.
 
-Il s'agit d'associer à chacune de nos croyances un curseur allant de 0 à 100 %, de "je n'y crois absolument pas" à "j'y crois absolument", de "je n'ai que des doutes, aucune certitude" à "je n'ai que des certitudes, aucun doute". Ce curseur peut ensuite évoluer dans un sens ou un autre en fonction des nouveaux éléments dont nous avons connaissance, et plus ou moins loin en fonction de la solidité des preuves.
+Il s'agit d'associer à chacune de nos croyances un curseur allant de 0 à 100%, de "je n'y crois absolument pas" à "j'y crois absolument", de "je n'ai que des doutes, aucune certitude" à "je n'ai que des certitudes, aucun doute". Ce curseur peut ensuite évoluer dans un sens ou un autre en fonction des nouveaux éléments dont nous avons connaissance, et plus ou moins loin en fonction de la solidité des preuves.
 
 Pour chaque hypothèse, j'ajuste mon curseur en fonction de mon adhésion. Et à chaque fois que j'ai connaissance d'un nouvel élément probant, je déplace mon curseur.
 
@@ -749,7 +749,7 @@ Il permet une interraction avec le diagramme et de jouer avec les probabilités 
 
 Pour notre exemple, imaginons que je me demandent qui a construit les pyramides d'Égypte et que j'ai trois hypothèses :
 
-* H0 : les Égyptiens antiques ont construit les pyramides. J'y crois à 19,38 %.
+* H0 : les Égyptiens antiques ont construit les pyramides. J'y crois à 19,38%.
 * H1 : les extraterrestres ont construit les pyramides. J'y crois à 32,56%.
 * H2 : les pyramides ont été construites par les romains (et ont donc environ 2000 ans). J'y crois à 48,06%.
 
@@ -768,13 +768,6 @@ Je crois maintenant en H0 à 82,06%, en H1 à 7,25% et en H2 à 10,69%.
 Et, jusqu'à l'apparition de nouveaux éléments probants, ce sera ma croyance.
 
 *Note : dans le cas où les probabilités de plusieurs hypothèses sont très proches, il est sage de ne pas choisir une hypothèse, même si elle est la plus probable, et d'attendre d'autres éléments de preuve.*
-
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À faire</p>
-    <p>Même exemple avec une personne qui a des valeurs différentes au départ et aboutit à une conclusion  différente.</p>
-</div>
 
 ## Les niveaux de preuve
 
@@ -859,6 +852,36 @@ Cette maxime, *assurons-nous bien du fait, avant de nous inquiéter de la cause*
 Pour en savoir plus :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/IduaHsRywuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Distinguer précision et exactitude
+
+Dans son livre *L'art du doute ou Comment s'affranchir du prêt-à-penser*[^broch_doute], Henri Broch, le "pêre de la zététique moderne" fait la distinction entre ce qui est précis et ce qui est exact :
+
+* Précis c'est quand les résultats sont groupés, quand les éléments pointent dans la même direction
+* Exact c'est quand la moyenne des résultats est proche de la réalité
+
+On peut illustrer les 4 cas possibles avec l'image de la cible, dont le centre est la vérité, et des impacts, qui représentent nos valeurs, indices, etc.
+
+
+<figure>
+  <img class="medium" src="{{ site.baseurl }}/assets/images/pe1.png" alt="Ni précis ni exact" />
+  <figcaption>Ni précis ni exact.</figcaption>
+</figure>
+
+<figure>
+  <img class="medium" src="{{ site.baseurl }}/assets/images/pe2.png" alt="Précis mais pas exact" />
+  <figcaption>Précis mais pas exact.</figcaption>
+</figure>
+
+<figure>
+  <img class="medium" src="{{ site.baseurl }}/assets/images/pe3.png" alt="Pas précis mais exact" />
+  <figcaption>Pas précis mais exact.</figcaption>
+</figure>
+
+<figure>
+  <img class="medium" src="{{ site.baseurl }}/assets/images/pe4.png" alt="Précis et exact" />
+  <figcaption>Précis et exact.</figcaption>
+</figure>
 
 ### Logique de base
 
@@ -1057,7 +1080,7 @@ C'est pour cela qu'une seule étude n'est jamais une preuve suffisante pour amme
 
 C'est aussi pour cette raison que sur de nombreux sujets on peut trouver une petite portion d'études qui montrent l'inverse du consensus. C'est uniquement si cette proportion est significativement plus grande que la marge d'erreur qu'il y a probablement un problème plus important.
 
-<img class="picture" src="{{ site.baseurl }}/assets/images/significant.png" alt="XKCD significant" />
+<img class="picture max1200" src="{{ site.baseurl }}/assets/images/significant.png" alt="XKCD significant" />
 
 ### Procéder en double ou triple aveugle
 
@@ -1201,7 +1224,7 @@ C'est par exemple quand on minimise la gravité des transgressions des personnes
 
 ### Effet Pangloss
 
-**Raisonner à rebours vers une cause possible parmi d’autres, généralement vers une position qu'on veut prouver.**
+**Raisonner à rebours vers une cause possible parmi d'autres, généralement vers une position qu'on veut prouver.**
 
 C'est par exemple penser que le fait qu'on retrouve le nombre d'or ($$\varphi = \frac{1 + \sqrt{5}}{2} \approx 1.61803...$$) très souvent dans la nature est la preuve d'une *volonté* (un dieu, une force cosmique, etc.). En réalité le nombre d'or se retrouve car il est est la solution positive à l'équation $$x^2-x-1=0$$ et correspond donc à la résolution optimale des contraintes d'encombrement.[^douady]
 
@@ -1295,7 +1318,7 @@ Enfin, la grippe et le rhume sont tous deux causés par des virus et les antibio
 
 #### Question
 
-Vous êtes le chef de la police d'une ville d'un million d'habitants et vous savez qu'un habitant sur mille est un criminel. Vous décidez d'installer un nouveau dispositif de reconnaissance faciale pour les détecter.A chaque fois qu'un visage est filmé, le système dit s'il s'agit où non d'un criminel. Il n'est pas fiable à 100%, mais sa marge d'erreur n'est que de 1% (1 fois sur 100 il déctera un innocent comme criminel ou un criminel comme innocent).
+Vous êtes le chef de la police d'une ville d'un million d'habitants et vous savez qu'un habitant sur mille est un criminel. Vous décidez d'installer un nouveau dispositif de reconnaissance faciale pour les détecter. A chaque fois qu'un visage est filmé, le système dit s'il s'agit où non d'un criminel. Il n'est pas fiable à 100%, mais sa marge d'erreur n'est que de 1% (1 fois sur 100 il déctera un innocent comme criminel ou un criminel comme innocent).
 
 Si une personne prise au hasard parmi les habitants déclenche une alerte, quelle est la chance que ce soit un criminel ?
 
@@ -1305,9 +1328,9 @@ La réponse n'est évidemment pas 99%.
 
 Il ne faut pas oublier que seule une personne sur mille est un criminel, soit 0,1% de la population.
 
-Quelle est la probabilité que l’alerte se déclenche pour un citoyen pris au hasard ? Elle vaut 1% fois la probabilité d'être innocent plus 99% fois la probabilité d'être un criminel, soit 1,098%
+Quelle est la probabilité que l'alerte se déclenche pour un citoyen pris au hasard ? Elle vaut 1% fois la probabilité d'être innocent plus 99% fois la probabilité d'être un criminel, soit 1,098%
 
-Mais ce qu'on cherche à savoir c'est la probabilité qu'une personne ayant déclenché l'alerte soit effectivement un criminel. 
+Mais ce qu'on cherche à savoir c'est la probabilité qu'une personne ayant déclenché l'alerte soit effectivement un criminel.
 
 Notons $$A$$ l'hypothèse selon laquelle l'alerte s'est déclenchée et $$C$$ le fait qu'une personne soit un criminel. On cherche donc $$P(C \vert A)$$, la probabilité qu'une parsonne soit un criminer sachant que l'alerte s'est déclenchée.
 
@@ -1331,6 +1354,47 @@ Ainsi malgré une fiabilité à 99%, en cas d'alerte il n'y a que 9 chances sur 
 
 #### Question
 
+Un de vos ami a fait la moytenne des températures chaque jour pendant trois semaines. Il vous présente ses résultats dans le graphe suivant :
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/temperature-1.png" alt="Temperature graph 1" />
+
+Il vous dit : "tu ne trouve pas ça bizarre que c'est les jeudis qu'il fait plus chaud ?"
+
+Que pouvez-vous en dire ?
+
+#### Réponse
+
+Tout d'abord, analyser les données sur trois semaines est très peu.
+
+Ensuite il y a le problème de la significance du phénomène. La différence entre la valeur la plus élevée (22,1°C le jeudi) et la plus faible (21,1°C le lundi) n'est que de 1°C. Or il est très courrant que la température varie d'un jour à l'autre, et certains phénomènes météo (rares) peuvent même faire varier la température de plus de 30°C en moins de 24 heures.[^meteo]
+
+Enfin, si on représente le graphique précédent avec l'axe vertical commençant à 0°C, l'écart parrait tout de suite moins important :
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/temperature-2.png" alt="Temperature graph 2" />
+
+D'ailleurs, idéallement, lorqu'on compare des températures on devrait toujours utiliser le Kelvin (0K = -273,15°C).
+
+### Exercice 4
+
+#### Question
+
+Un ami vous dit : "tu te rends compte qu'une fourmi est capable de soulever 10 fois son poids ? Si elle avait la taille d'un homme, elle pourrait soulever un éléphant !"
+
+Que pouvez-vous dire de cette affirmation ?
+
+#### Réponse
+
+Même sans connaissances biologiques, vous pouvez douter de cette affirmation. En effet, si la fourmis devien plus grande, elle devient aussi plus massive. Qu'est-ce qui nous prouve que la puissance musculaire augmente proportiennellement à la taille.
+
+En réalité on observe que la puissance varie en fonction de la taille avec un facteur entre 2 tiers et 3 quarts. Si la fourmi faisait la taille d'un homme, elle serait incapable de soulever son propre poids. De même, si un homme faisait la taille d'une fourmi, il pourrait soulever en moyenne 30 fois son poids.
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/aARDFNyZIGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Cela montre qu'il ne faut pas présupposer que deux facteurs varient de manière proportionnelle, même s'ils sont directement dépendants.
+
+### Exercice 5
+
+#### Question
 
 
 ## Quelques applications concrètes
@@ -1594,3 +1658,6 @@ Ainsi malgré une fiabilité à 99%, en cas d'alerte il n'y a que 9 chances sur 
 
 [^eccles]: Eccles, R. (2005). *Understanding the symptoms of the common cold and influenza*. The Lancet Infectious Diseases, 5(11), 718‑725. <https://doi.org/10.1016/S1473-3099(05)70270-X>
 
+[^meteo]: Météo France. (2015, 10 avril). *Fortes amplitudes thermiques : explications*. <http://www.meteofrance.fr/actualites/24255137-fortes-amplitudes-thermiques-explications>
+
+[^broch_doute]: Broch, H. (2008). *L'art du doute ou Comment s'affranchir du prêt-à-penser*. Éd. Book-e-book.
