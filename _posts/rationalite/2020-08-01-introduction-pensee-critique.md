@@ -1014,6 +1014,8 @@ Tout d'abord l'échantillon doit éviter les biais de sélection, c'est à dire 
 
 Ensuite l'échantillon doit être suffisament grand pour que le test soit à la fois puissant (être en mesure de rejeter l'hypothèse nulle avec une grande probabilité si celle-ci est fausse) et significatif (être en mesure de conserver l'hypothèse nulle avec une grande probabilité si celle-ci est vraie).
 
+*Note : les paragraphes suivants contiennent quelques formules de maths. Vous n'avez pas besoin de les comprendre. Retenez seulement qu'on peut facilement évaluer la fiabilité de la taille d'un échantillon.*
+
 D'une manière générale, on peut avoir une idée grossière de la taille minimale que devrait avoir un échantillon pour éviter les biais statistiques (en supposant qu'il soit par ailleurs représentatif) avec la formule suivante :
 
 $$N = \frac{t^2 \cdot p \cdot (1-p)}{m^2}$$
