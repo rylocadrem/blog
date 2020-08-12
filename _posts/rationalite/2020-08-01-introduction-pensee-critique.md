@@ -1424,7 +1424,27 @@ Quel protocole expérimental mettriez-vous en place pour vérifier sa prétentio
 
 #### Réponse
 
-TODO : randomisation, double aveugle, p-valeur, critères d'inclusion et de rejet (ex : si 3,20m mais qu'il dit 3,15 c'est ok ou pas), etc.
+Vous commencez par définir précisément le cadre des prétentions avec l'homme.
+
+Que signifie "de l'eau"? Quelle quantité faut-il trouver pour que le résultat soit considéré comme positif ? Imaginons que vous êtes d'accord pour dire qu'un résultat sera clairement positif s'il y a au moins un litre d'eau, clairement négatif s'il y en a moins de 10cl et non concluant si c'est entre les deux.
+
+Que signifie "indiquer la profondeur"? Si l'homme indique 3,20m mais qu'en réalité c'est 3,40m, le résultat est-il positif ? Vous établissez qu'un résultat à plus ou moins 50cm sera positif.
+
+Combien de temps faut-il au sourcier pour ressentir s'il y a de l'eau sous ses pieds ? Il dit qu'il lui faut moins d'une seconde. Puisque sa vitesse ne fait pas partie des critères évalués dans cette expérience, vous décidez par générosité de lui autoriser une minute par essai. 
+
+Vous décidez quelle "p-valeur" (la probabilité que le résultat soit atteignable par hasard) maximale choisir. Vous prenez une valeur standard de 1%,c'est à dire que si le résultat a moins de 1% de chance d'avoir été produit par hasard vous le considèrerez digne d'intérêt (mais pas encore démontré puisque votre étude devrait être répliquée). 
+
+Ensuite vous prenez soin de bien distinguer les deux prétentions : trouver de l'eau et déterminer sa profondeur. Votre protocole expérimental comportera alors deux tests.
+
+Pour le premier, vous disposez une estrade sous laquelle est placée une cuve de plusieurs litres, branchée à des tuyaux et pouvant être remplie et vidée à volonté, en actionnant un mécanisme caché derrière un paravent, hors de la vue de l'homme testé et de l'examinateur, actionnée par une troisième personne (le "technicien"). 
+
+Le sourcier et l'examinateur prennent place sur l'estrade. Quand tout le monde est prêt, le technicien remplit ou vide la cuve, cent fois de suite, selon une séquence aléatoire générée par ordinateur.
+
+À chaque coup, l'examinateur demande au sourcier s'il ressent de l'eau sous ses pieds et note sa réponse.
+
+S'il trouve le bon résultat 65 fois ou plus (ou 35 fois ou moins), alors le résultat sera significatif (la p-valeur sera sous les 1%).
+
+Pour ce qui est du test de la profondeur, vous gardez un mécanisme similaire mais placer trois cuves sous l'estrade, par exemple à 1, 3, et 5 mètres de profondeur. Vous remplissez ensuite à chaque fois une cuve au hasard.
 
 ## Quelques applications concrètes
 
