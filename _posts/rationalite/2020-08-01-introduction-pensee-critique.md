@@ -1396,6 +1396,35 @@ Cela montre qu'il ne faut pas présupposer que deux facteurs varient de manière
 
 #### Question
 
+Vous êtes un élève en classe de première. Pour votre TPE, vous et deux de vos camarades avez décidé de mener une expérience : vous voulez savoir si les gens préfèrent le Coca-Cola ou le Pepsi. Vous décidez de faire goûter l'un et l'autre des produits à différentes personnes.
+
+Quel protocole expérimental pouvez-vous mettre en place pour assurer une certaine fiabilité à vos résultats ?
+
+#### Réponse
+
+Vous sollicitez un nombre assez important de personne (élèves, enseignants, parents d'élève), d'âges et sexes différents.
+
+Vous décidez d'employer des critères précis : au lieu de simplement poser la question "lequel préférez-vous", vous décidez de demander aux participants de donner à chaque produit une note entre 0 et 10. En effet, imaginez que vous avez deux personnes, une qui préfère le Coca-Cola et une la Pepsi. Allez-vous conclure à l'égalité ? Mais si en fait celle qui prérère le Coca-Cola le préfère juste un peu plus que le Pepsi et que l'autre préfère le Pepsi beaucoup plus que le Coca-Cola ? Afin d'être plus objectifs, vous ferez donc la moyenne des notes pour comparer.
+
+Vous préparez ensuite des verres contenant du Pepsi et du Coca-Cola. Ils contiennent tous la même quantité, servis à la même température et immédiatement après ouverture (pour éviter que la pétillance diminue).
+
+Afin d'éviter les erreurs d'évaluation, vous donnez à chaque participant trois verres de chaque produit à tester, sans lui dire desquels il s'agit.
+
+Pour encore plus de fiabilité, vous mélanger les six verres (numérotés au préalable pour pouvoir les identifier). Enfin, c'est l'un des élèves de votre groupe qui fera passer le test et receuillera les notes, mais lui aussi ignore le contenu des verres, pour éviter qu'il influence les participants (même inconsciemment, par son langage corporel).
+
+Finalement vous récupérez les résultats et comparez la moyenne des notes pour chaque produit.
+
+### Exercice 6
+
+#### Question
+
+Un homme vous dit être capable, avec sa baguette de sourcier, de trouver où il y a de l'eau, n'importe où. Il prétends même pouvoir indiquer la profondeur à laquelle l'eau se trouve.
+
+Quel protocole expérimental mettriez-vous en place pour vérifier sa prétention ?
+
+#### Réponse
+
+TODO : randomisation, double aveugle, p-valeur, critères d'inclusion et de rejet (ex : si 3,20m mais qu'il dit 3,15 c'est ok ou pas), etc.
 
 ## Quelques applications concrètes
 
