@@ -1444,7 +1444,9 @@ Le sourcier et l'examinateur prennent place sur l'estrade. Quand tout le monde e
 
 S'il trouve le bon résultat 65 fois ou plus (ou 35 fois ou moins), alors le résultat sera significatif (la p-valeur sera sous les 1%).
 
-Pour ce qui est du test de la profondeur, vous gardez un mécanisme similaire mais placer trois cuves sous l'estrade, par exemple à 1, 3, et 5 mètres de profondeur. Vous remplissez ensuite à chaque fois une cuve au hasard.
+*Note : vous pouvez utiliser la formule* LOI.BINOMIALE.N *sous Excel pour calculer les probabilités.*
+
+Pour ce qui est du test de la profondeur, vous gardez un mécanisme similaire mais placez trois cuves sous l'estrade, par exemple à 1, 3, et 5 mètres de profondeur. Vous remplissez ensuite à chaque fois une cuve au hasard.
 
 ## Quelques applications concrètes
 
