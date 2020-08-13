@@ -1282,6 +1282,78 @@ Article complet : [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url 
 Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fallacieux)
 {: .read-short-info}
 
+## Quelques outils pratiques
+
+### Chercher des études scientifiques
+
+Si vous cherchez des études scientifiques sur n'importe quel sujet, vous pouvez utiliser des méta-moteurs de recherche comme :
+
+#### Microsoft Academic
+
+[academic.microsoft.com](https://academic.microsoft.com/home)
+
+Moteur généraliste.
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/academic1.png" alt="Microsoft Academic 1" />
+
+Vous pouvez rechercher par année, type de publication, auteur, domaine, etc.
+
+Une fois sur la page d'au article, vous pouvez accéder à la source en cliquant sur son identifiant (généralement un DOI).
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/academic2.png" alt="Microsoft Academic 2" />
+
+Toujour sur la page de l'article sur Microsoft Academic, vous pouvez voir les autres articles cités par celui-ci, ceux qui le citent et d'autres articles liés.
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/academic3.png" alt="Microsoft Academic 3" />
+
+Bien sûr, le moteur de recherche n'indique pas le niveau de fiabilité de l'article en question. Avant de citer une source, il faut toujours s'assurer de son niveau de preuve, de sa méthodologie, des conclusions des autres études sur le sujet, etc.
+
+#### PubMed
+
+[pubmed.gov](https://pubmed.ncbi.nlm.nih.gov)
+
+Moteur médical.
+
+Similaire à Microsoft Academic mais portant uniquement sur des articles de médecine. PubMed comporte des critèrs de recherche supplémentaires spécifiques aux études médicales.
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/pubmed1.png" alt="PubMed" />
+
+#### Sci-Hub
+
+[sci-hub.tw](https://sci-hub.tw)
+
+Sci-Hub est un moteur de recherche non officiel qui permet de trouver des PDF accessibles librement pour un grand nombre d'articles où le document n'est pas mis à disposition par l'éditeur. Certains de ces PDF proviennent directement des auteurs, de journaux en accès libre, d'archives, etc.
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/scihub.png" alt="Sci-Hub" />
+
+Si le site est inaxessible, vous pouvez utiliser un VPN, changer votre adresse DNS ou essayer des liens alternatifs comme [sci-hub.se](https://sci-hub.se), [sci-hub.se](https://sci-hub.se) ou [sci-hub.tech](https://sci-hub.tech).
+
+### Analyser une image
+
+Lorsqu'une image vous parrait suspecte, vous pouvez tenter de rechercher sa provenance un utilisant des moteurs de recherche inversée comme [TinEye](https://tineye.com).
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/tineye.png" alt="TinEye" />
+
+Recherchez des images similaires pour voir si celle dont vous disposez représente bien toute la scène.
+
+Enfin, utilisez différents outils pour vérifier si une image a été retouchée (par exemple Fotoforensics, Forensically, Amped Authenticate, Image Edited? ou JPEGsnoop).
+
+Ce procédé a par exemple permi de montrer qu'une photo de "squelette de géant", très partagée sur des sites sensationalistes, est en fait un trucage.
+
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/fake-giant.jpg" alt="Fake Giant" />
+
+### Chercher l'erreur
+
+Dans la démarche scientifique, il est bon de chercher ce qui peut réfuter avant de chercher ce qui peut confirmer (en effet si une hypothèse ne résiste pas à la réfutation, alors on peut la mettre de côté).
+
+Dans cette démarche, lorsqu'on cherche à s'informer sur un sujet, notamment sur internet, il est bien de chercher l'erreur en ajoutant des mots-clés comme "sceptique", "debunk", "critique", "problème", "arnaque" etc. Il est d'autant plus important de le faire avec ce qui va dans le sens de ce qu'on a envie de croire.
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/ddg1.png" alt="DuckDuckGo 1" />
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/ddg2.png" alt="DuckDuckGo 2" />
+
+Ainsi on a accès aux critique de l'hypothèse qui nous séduit et on peut les évaluer. Si elles sont valides, nous devons reconsidérer notre position. Sinon nous pouvons les ignorer.
+
 ## S'entrainer
 
 <!-- TODO -->
@@ -1290,9 +1362,11 @@ Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fall
     <p class="bold">À faire</p>
 </div>
 
-Place maintenant à la pratique, sur des cas inventés puis, dans la section suivante, sur des cas réels.
+Place maintenant à la pratique !
 
-Je propose quelques exercices, dont les réponses ne sont pas exhaustives mais pointent quelques problèmes et donnent des pistes de réflexion.
+Je propose quelques exercices, dont les réponses ne sont pas exhaustives mais donnent des pistes de réflexion.
+
+Les cas sont relativement simples, mais les mêmes méthodes sont applicables aux cas réels plus longs à traiter.
 
 ### Exercice 1
 
@@ -1302,7 +1376,7 @@ Lors d'un repas, un ami vous raconte la chose suivante : « alors que chaque hiv
 
 Quelle analyse critique pouvez-vous faire ?
 
-#### Réponse
+#### Suggestion de réponse
 
 Il y a une confussion entre grippe (influenza) et rhume (rhinopharyngite) qui sont des maladies différentes.[^eccles]
 
@@ -1322,7 +1396,7 @@ Vous êtes le chef de la police d'une ville d'un million d'habitants et vous sav
 
 Si une personne prise au hasard parmi les habitants déclenche une alerte, quelle est la chance que ce soit un criminel ?
 
-#### Réponse
+#### Suggestion de réponse
 
 La réponse n'est évidemment pas 99%.
 
@@ -1362,7 +1436,7 @@ Il vous dit : "tu ne trouve pas ça bizarre que c'est les jeudis qu'il fait plus
 
 Que pouvez-vous en dire ?
 
-#### Réponse
+#### Suggestion de réponse
 
 Tout d'abord, analyser les données sur trois semaines est très peu.
 
@@ -1382,7 +1456,7 @@ Un ami vous dit : "tu te rends compte qu'une fourmi est capable de soulever 10 f
 
 Que pouvez-vous dire de cette affirmation ?
 
-#### Réponse
+#### Suggestion de réponse
 
 Même sans connaissances biologiques, vous pouvez douter de cette affirmation. En effet, si la fourmis devien plus grande, elle devient aussi plus massive. Qu'est-ce qui nous prouve que la puissance musculaire augmente proportiennellement à la taille.
 
@@ -1400,7 +1474,7 @@ Vous êtes un élève en classe de première. Pour votre TPE, vous et deux de vo
 
 Quel protocole expérimental pouvez-vous mettre en place pour assurer une certaine fiabilité à vos résultats ?
 
-#### Réponse
+#### Suggestion de réponse
 
 Vous sollicitez un nombre assez important de personne (élèves, enseignants, parents d'élève), d'âges et sexes différents.
 
@@ -1422,7 +1496,7 @@ Un homme vous dit être capable, avec sa baguette de sourcier, de trouver où il
 
 Quel protocole expérimental mettriez-vous en place pour vérifier sa prétention ?
 
-#### Réponse
+#### Suggestion de réponse
 
 Vous commencez par définir précisément le cadre des prétentions avec l'homme.
 
@@ -1448,30 +1522,63 @@ S'il trouve le bon résultat 65 fois ou plus (ou 35 fois ou moins), alors le ré
 
 Pour ce qui est du test de la profondeur, vous gardez un mécanisme similaire mais placez trois cuves sous l'estrade, par exemple à 1, 3, et 5 mètres de profondeur. Vous remplissez ensuite à chaque fois une cuve au hasard.
 
-## Quelques applications concrètes
+### Exercice 7
 
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À faire</p>
-</div>
+#### Question
 
-## TODO
+Un ami vous envoie le message suivant :
 
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À faire</p>
-</div>
+*C'est incroyable, je viens de découvrir que la crème solaire détruit la kétamine de la peau, comme indiqué ici : [Comparative Hydro-Idempotency of Cloacked Ketamin by Ernest Niels.pdf]({{ site.baseurl }}/assets/files/Comparative Hydro-Idempotency of Cloacked Ketamin by Ernest Niels.pdf){:target="_blank"}. Alors OK, ça protège du soleil, mais si c'est pour avoir des effets secondaires graves, non merci !*
 
-* les maths/stats/proba de base et quelques erreurs courrantes (par ex. pb de Monty Hall ou des 2 enfants de Lê)
-* quelques brèves
-* méthode scientifique : d'abord chercher à réfuter
-* double aveugle, etc.
+Que pouvez-vous en dire ?
 
-## Quelques ressources pour aller plus loin
+#### Suggestion de réponse
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<img class="picture medium2" src="{{ site.baseurl }}/assets/images/chicken.gif" alt="Chicken" />
+
+### Exercice 8
+
+#### Question
+
+À l'état sauvage, certains éléphanteaux sont porteurs de l'allèle d'un gène qui empêche la formation des défenses. Les scientifiques ont constaté récemment que de plus en plus d'éléphanteaux naissaient porteurs de cet allèle de gène (ils n'auront donc pas de défenses devenus adultes).
+
+Formulez une hypothèse qui vous semble plausible pour expliquer ce phénomène. Quelle expérience pourrez-vous mettre en place pour la vérifier.
+
+#### Suggestion de réponse
+
+On pourrait par exemple formuler l'hypothèse selon laquelle le braconnage des éléphants pour leurs défenses diminue les chances de survie de ceux qui en ont, et donc donne un avantage reproductif aux porteurs de l'allèle en question, favorisant sa transmission au sein de la population.
+
+Pour tester cette hypothèse on pourrait évaluer la transmission de l'allèle au sein d'une population d'éléphants, protégée du braconnage, dont la moitié est porteur de l'allèle et l'autre non. Si la proportion de porteurs augmente c'est qu'il y a d'autres facteurs en jeu.
+
+## Quelques ressources supplémentaires
+
+### Pour débuter
+
+Une présentation de la zététique par Richard Monvoisin, docteur en didactique des sciences :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/VK1DmvEBwOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une autre présentation de la zététique par Henri Broch, docteur en biophysique et fondateur de la zététique moderne en France :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/UvMGZeU7hdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une série de très courtes vidéos sur des principes de pensée critique par Samuel Buisseret, vulgarisateur :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLHvR7ldCNjytuOaNbzM0_lpPArIYLk3da" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pour aller plus loin
+
+Une série de vidéos théoriques et pratiques sur la pensée critique par Christophe Michel, enseignant et vulgarisateur :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une conférence sur l'évaluation de l'efficacité des thérapies par Florent Martin, ingénieur et vulgarisateur :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/s_voYxIG0mc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Un exemple d'application de la pensée critique à la sophrologie par Albin Guillaud, docteur en kinésithérapie et Gwladys Demazure, docteure en psychologie clinique :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/Tep4GBgri-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Références
 
