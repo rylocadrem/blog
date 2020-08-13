@@ -1,20 +1,24 @@
----
+﻿---
 layout: post
 title:  "[BROUILLON] Introduction à la pensée critique"
 excerpt: Une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique.
-date:   2020-08-01 8:30:00 +0200
+date:   2020-08-13 21:30:00 +0200
 categories: rationalite
 redirect_from: /rationalite/2020/07/16/introduction-pensee-critique
 hidden: 1
 ---
 
-Cet article est probablement le plus fondamental de ceux que j'ai écrit jusqu'ici. Il fait une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique, qui sont cruciaux pour bien raisonner, comprendre le monde, décortiquer les affirmations et ne pas se faire manipuler.
+<!-- TODO -->
+<div class="wip-warning">
+    <p>🚧</p>
+    <p class="bold">Faire quelques brèves et reformuler les phrases peu claires.</p>
+</div>
 
-La pensée critique, que je défini juste après, est non seulement utile pour réfléchir sur des sujets scientifiques, mais aussi politiques, sociétaux, etc. Elle est également un excellent outil dans le cadre de la foi, pour analyser avec une rigueur méthodique toute affirmation de ceux qui voudraient nous imposer leurs dogmes.
+Cet article est probablement le plus fondamental de ceux que j'ai écrits jusqu'ici. Il fait une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique, qui sont cruciaux pour bien raisonner, comprendre le monde, décortiquer les affirmations et ne pas se faire manipuler.
 
-Cet article comporte une première partie théorique qui présente les concept et les outils fondamentaux, puis une seconde partie pratique avec des exercices et des applications sur des cas concrets.
+La pensée critique, que je définis juste après, est non seulement utile pour réfléchir sur des sujets scientifiques, mais aussi politiques, sociétaux, etc. Elle est également un excellent outil dans le cadre de la foi, pour analyser avec une rigueur méthodique toute affirmation de ceux qui voudraient nous imposer leurs dogmes.
 
-{% include wip-warning.html %}
+Cet article comporte une première partie théorique qui présente les concepts et les outils fondamentaux, puis une seconde partie pratique avec des exercices et des applications sur des cas concrets.
 
 Table des matières :
 
@@ -23,29 +27,29 @@ Table des matières :
 
 ## Définitions
 
-Avant de rentrer dans le coeur du sujets, précisons quelques termes centraux.
+Avant de rentrer dans le coeur du sujet, précisons quelques termes centraux.
 
 ### Pensée critique
 
-Le concept de *pensée critique* n'est pas toujours clairement établi et son périmètre paur varier d'une considération à l'autre. On parle aussi parfois d'*esprit critique*.
+Le concept de *pensée critique* n'est pas toujours clairement établi et son périmètre peut varier d'une considération à l'autre. On parle aussi parfois d'*esprit critique*.
 
-Dans cet article, et en général, je me rattache à la définition donnée par Robert H. Ennis[^ennis_1], car elle est à la fois assez large tout en étant relativement exhaustive :
+Dans cet article, et en général, je me rattache à la définition donnée par Robert H. Ennis[^ennis_1], car elle est à la fois assez large tout en étant relativement exhaustive :
 
 > Pensée raisonnable et réflexive orientée vers une décision quant à ce qu'il faut croire ou faire.
 
-Cette définition dégage plusieurs points importants :
+Cette définition dégage plusieurs points importants :
 
 * *Raisonnable*, donc conforme aux facultés intellectuelles ordonnées de jugement, de discernement, de compréhension, etc.[^tlfi_raison]
 * *Réflexive*, donc examinant en profondeur son sujet et étudiant ses propres mécanismes.[^tlfi_reflexion]
-* Orientée vers une *décision*, c'est à dire dont l'objectif n'est pas la pensée en elle-même.
+* Orientée vers une *décision*, c'est-à-dire dont l'objectif n'est pas la pensée en elle-même.
 
 Voici encore quelques autres définitions de la *pensée critique*, qui peuvent éclairer certains aspects.
 
-Celle de Matthew Lipman[^lipman_1] :
+Celle de Matthew Lipman[^lipman_1] :
 
-> Pensée qui facilite le jugement en s'appuyant sur des critères, en s'auto-corrigeant et en étant perméable au contexte.
+> Pensée qui facilite le jugement en s'appuyant sur des critères, en s'autocorrigeant et en étant perméable au contexte.
 
-Celle de John E. McPeck[^mcpeck_1] :
+Celle de John E. McPeck[^mcpeck_1] :
 
 > Habileté et propension à s'engager dans une activité avec un scepticisme réflexif.
 
@@ -53,11 +57,11 @@ Nous préciserons tout cela et verrons ce que ça implique dans la suite de cet 
 
 ### Rationalité
 
-La rationalité peut être définie simplement comme étant[^tlfi_rationnel] :
+La rationalité peut être définie simplement comme étant[^tlfi_rationnel] :
 
 > Le caractère de ce qui est conforme à la raison.
 
-Ou, comme le définit Eliezer Yudkowsky[^rationality_less_wrong] :
+Ou, comme le définit Eliezer Yudkowsky[^rationality_less_wrong] :
 
 > La rationalité est l'art de penser de manière à produire des croyances précises et prendre de bonnes décisions.
 
@@ -72,31 +76,31 @@ La rationalité *instrumentale* est l'accomplissement systématique de ses objec
 
 La pensée critique est donc une démarche rationnelle, au sens épistémique comme instrumental.
 
-NB : ne pas confondre avec le *rationalisme* qui est une doctrine philosophique selon laquelle la raison seule suffirait à produire des connaissances certaines, par oppisition à l'empirisme qui prone l'acquisition des connaissances via l'observation et l'expérience.
+NB : ne pas confondre avec le *rationalisme* qui est une doctrine philosophique selon laquelle la raison seule suffirait à produire des connaissances certaines, par opposition à l'empirisme qui prône l'acquisition des connaissances via l'observation et l'expérience.
 
 ### Scepticisme scientifique
 
-La notion de *scepticisme scientifique* ou *scepticisme rationnel* peut être définie comme suit[^wiki_scepticisme] :
+La notion de *scepticisme scientifique* ou *scepticisme rationnel* peut être définie comme suit[^wiki_scepticisme] :
 
 > Position épistémologique et attitude de doute cartésien vis-à-vis des allégations non étayées par des preuves empiriques.
 
-Il s'agit dont d'une posture de doute *à priori*, s'appuyant sur la pensée critique et la méthode zététique. On peut dire que le scepticisme scientifique est donc un choix rationnel, au sens épistémique comme instrumental.
+Il s'agit donc d'une posture de doute *à priori*, s'appuyant sur la pensée critique et la méthode zététique. On peut dire que le scepticisme scientifique est donc un choix rationnel, au sens épistémique comme instrumental.
 
 ### Zététique
 
 Un terme fortement lié au concept de pensée critique est celui de *zététique*. Le mot vient du grec ζητητικός (zētētikós) qui signifie "qui aime chercher".
 
-Aujourd'hui, le terme désigne "l'art du doute". Comme le dit Richard Monvoisin[^monvoisin_these] :
+Aujourd'hui, le terme désigne "l'art du doute". Comme le dit Richard Monvoisin[^monvoisin_these] :
 
 > Le terme zététique, au sens moderne, désigne la méthode, la démarche critique proprement dite, là où le scepticisme offre la posture épistémologique. D'une manière un peu simpliste, nous tendons à dire que le scepticisme est la posture philosophique dont la zététique est le bras outillé.
 
-Et il précise également :
+Et il précise également :
 
-> Ainsi le terme moderne zététique revêt-il désormais deux aspects :
+> Ainsi le terme moderne zététique revêt-il désormais deux aspects :
 >
-> * l'un fonctionnel : elle est la démarche scientifique d'investigation des phénomènes extraordinaires, des
+> * l'un fonctionnel : elle est la démarche scientifique d'investigation des phénomènes extraordinaires, des
 prétentions étranges et des théories discutables, analysées selon un scepticisme méthodologique ouvert et une philosophie rationaliste matérialiste.
-> * l'un didactique : elle est la panoplie de tous les moyens intellectuels mis en œuvre pour amener l'apprenant à développer l'esprit critique vis-à-vis de toute thèse de type scientifique.
+> * l'un didactique : elle est la panoplie de tous les moyens intellectuels mis en œuvre pour amener l'apprenant à développer l'esprit critique vis-à-vis de toute thèse de type scientifique.
 
 Ainsi, la zététique est donc l'ensemble des méthodes utiles à la pensée critique.
 
@@ -104,7 +108,7 @@ Ainsi, la zététique est donc l'ensemble des méthodes utiles à la pensée cri
 
 Le mot *science* désigne parfois des concepts qui ne sont pas pertinents dans notre contexte. Il peut par exemple désigner l'ensemble des connaissances, la communauté scientifique, l'usage politique de la science, etc.
 
-Dans le cadre de cet article, je donne cette définition :
+Dans le cadre de cet article, je donne cette définition :
 
 > Démarche intellectuelle structurée visant à produire des affirmations objectivables s'approchant le plus possible de la réalité.
 
@@ -116,9 +120,9 @@ Il existe un mythe tenace selon lequel raison et émotions seraient opposées, o
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/rational.jpg" alt="Raison vs Émotions" />
 
-Est-ce légitime d'opposer émotions, créativité et spontanéité à rationalité ? D'opposer scientifique à artiste ? D'associer riguer de pensée avec rigidité de caractère ?
+Est-ce légitime d'opposer émotions, créativité et spontanéité à rationalité ? D'opposer scientifique à artiste ? D'associer rigueur de pensée avec rigidité de caractère ?
 
-Il existe pourtant de nombreux exemples de personnes qui démontrent le contraire. Citons par exemple :
+Il existe pourtant de nombreux exemples de personnes qui démontrent le contraire. Citons par exemple :
 
 * **Léonard de Vinci**, peintre, sculpteur, architecte, philosophe, ingénieur, organisateur de fêtes[^herodote_vinci], poète, musicien, botaniste, etc.
 * **Beatrix Potter**, écrivaine et naturaliste[^armitt_potter]
@@ -126,25 +130,25 @@ Il existe pourtant de nombreux exemples de personnes qui démontrent le contrair
 * **Hedy Lamarr**, actrice de cinéma et inventrice[^ms_lamarr]
 * **Brian May**,  musicien, chanteur, compositeur et astrophysicien[^sa_queen]
 
-Nous sommes, bien heureusement, capables de changer de mode de pensée selon les situations et même de combiner plusieurs modes de pensée (par exemple quand on écrit de la fiction : créativité des dialogues et du style avec rigueur des règles de la langue et cohérence de l'histoire).
+Nous sommes, bien heureusement, capables de changer de mode de pensée selon les situations et même de combiner plusieurs modes de pensée (par exemple quand on écrit de la fiction : créativité des dialogues et du style avec rigueur des règles de la langue et cohérence de l'histoire).
 
 En outre, d'un point de vue scientifique, les émotions qui sont des états biologiques associés au système nerveux[^panksepp] [^damasio] [^ekman] provoqués par des déclencheurs neurophysiologiques[^cabanac] [^emory] associés à des pensées, des sentiments, des réponses comportementales, etc. Elles sont donc provoquées par des éléments réels et peuvent être une source d'information utile pour une prise de décision.[^pfister]
 
-Les émotions sont certes une grande source de biais cognitifs mais peuvent aussi être utilisées lors d'une réflexion. Comment le disent Alan Kirman, Pierre Livet et Miriam Teschl[^kirman] :
+Les émotions sont certes une grande source de biais cognitifs, mais peuvent aussi être utilisées lors d'une réflexion. Comment le disent Alan Kirman, Pierre Livet et Miriam Teschl[^kirman] :
 
 > Les résultats de recherches psychologiques et neurologiques montrent que les émotions et les états affectifs ne sont pas seulement des sources de jugements biaisés, mais peuvent également servir de fonctions essentielles conduisant à des choix plus appropriés.
 
-Cependant les émotions ne sont pes des reflets fiables de la réalité, sont facilement manupulables et peuvent induire une persévérance à long terme dans de mauvaises décisions.[^andrade]
+Cependant les émotions ne sont pes des reflets fiables de la réalité, sont facilement manipulables et peuvent induire une persévérance à long terme dans de mauvaises décisions.[^andrade]
 
 En résumé, émotions et rationalité ne s'opposent pas. Les émotions peuvent être des indices à utiliser avec une grande parcimonie lors d'un processus de réflexion.
 
 ### Trop rationnel ?
 
-J'ai souvent entendu des remarques du genre : "il ne faut pas être trop rationnel, sinon tu ne peux plus t'émerveiller" ou "il ne faut pas être trop rationnel, tout vouloir calculer plutôt que de suivre son instinct, sinon tu rates des opportunités", etc.
+J'ai souvent entendu des remarques du genre : "il ne faut pas être trop rationnel, sinon tu ne peux plus t'émerveiller" ou "il ne faut pas être trop rationnel, tout vouloir calculer plutôt que de suivre son instinct, sinon tu rates des opportunités", etc.
 
 Que peut-on y répondre ? C'est très simple !
 
-Si mon objectif est de pouvoir être émerveillé, par exemple par un film ou un spectacle de prestidigitation, alors il est parfaitement rationnel (au sens instrumental) de na pas chercher à comprendre les trucages et effets spéciaux. De même, si mon objectif est de saisir des opportunités, il est parfaitement rationnel de suivre son instinct. Être rationnel c'est aussi utiliser le mode de pensée le plus adapté à la situation.
+Si mon objectif est de pouvoir être émerveillé, par exemple par un film ou un spectacle de prestidigitation, alors il est parfaitement rationnel (au sens instrumental) de ne pas chercher à comprendre les trucages et effets spéciaux. De même, si mon objectif est de saisir des opportunités, il est parfaitement rationnel de suivre son instinct. Être rationnel c'est aussi utiliser le mode de pensée le plus adapté à la situation.
 
 Rappelons-nous toujours les deux concepts de rationalité :
 
@@ -157,49 +161,48 @@ Je réfute ici brièvement cinq idées fausses couramment exprimées à propos d
 
 #### 1. Être rationnel c'est s'attendre à ce que les autres soient rationnels
 
-En réalité être rationnel c'est avoir un modèle représantant le réel le plus fidèlement possible, avoir une idée la plus vraie possible de la réalité. Or si en réalité tout le monde n'est pas rationnel, ou l'est à différents degrés, il est rationnel d'adapter notre représentation du monde en conséquence.
+En réalité, être rationnel c'est avoir un modèle représentant le réel le plus fidèlement possible, avoir une idée la plus vraie possible de la réalité. Or si en réalité tout le monde n'est pas rationnel, ou l'est à différents degrés, il est rationnel d'adapter notre représentation du monde en conséquence.
 
 #### 2. Être rationnel signifie ne jamais prendre de décision avant d'avoir toutes les informations
 
-Encore une fois, agir de façon rationnelle c'est maximiser nos chances d'atteindre nos objectifs. Or si notre objectif est d'accomplir une tâche de manière efficace (dans les délais, sans rater d'opportunités, etc.) il est rationnel de prendre des risques et d'avancer avant d'avoir tous les éléments. Être rationnel, c'est ne pas se limiter à considérer les informations mais aussi les risques, le temps, les conséquences, etc.
+Encore une fois, agir de façon rationnelle c'est maximiser nos chances d'atteindre nos objectifs. Or si notre objectif est d'accomplir une tâche de manière efficace (dans les délais, sans rater d'opportunités, etc.) il est rationnel de prendre des risques et d'avancer avant d'avoir tous les éléments. Être rationnel, c'est ne pas se limiter à considérer les informations, mais aussi les risques, le temps, les conséquences, etc.
 
-Voici un exemple d'illustration donné par le psychologue Gerd Gigerenzer[^gigerenzer] :
+Voici un exemple d'illustration donné par le psychologue Gerd Gigerenzer[^gigerenzer] :
 
 > Imaginez un homme essayant de trouver une femme à épouser. Il devrait examiner les probabilités des diverses conséquences du mariage avec chacune d'elles. Après de nombreuses années de recherche, il découvrirait probablement que son choix final avait déjà épousé une autre personne qui n'a pas fait ces calculs, et en est tombé amoureux.
 
-Dans cet exemple, attendre d'avoir toutes les informatiosn est clairement contreprodictif au regard de l'objectif, c'est-à-dire irrationnel.
+Dans cet exemple, attendre d'avoir toutes les informations est clairement contreproductif au regard de l'objectif, c'est-à-dire irrationnel.
 
 #### 3. Être rationnel signifie ne jamais se fier à l'intuition
 
-On peut distinguer deux "modes de fonctionnement" du cerveau, appelés *système 1* et *système 2* (ou parfois *système implicite* et *système explicite*)[^kahneman] [^evans] :
+On peut distinguer deux "modes de fonctionnement" du cerveau, appelés *système 1* et *système 2* (ou parfois *système implicite* et *système explicite*)[^kahneman] [^evans] :
 
-**Le système 1**, intuitif, nous permet de faire des jugements rapides et automatiques en utilisant des raccourcis (c'est-à-dire des heuristiques) qui sont généralement bons la plupart du temps, tout en nécessitant très peu de temps et d'attention.
+**Le système 1**, intuitif, nous permet de faire des jugements rapides et automatiques en utilisant des raccourcis (c'est-à-dire des euristiques) qui sont généralement bons la plupart du temps, tout en nécessitant très peu de temps et d'attention.
 
-**Le système 2**, délibératif, nous permet de faire des choses comme le raisonnement abstrait et la pensée hypothétique et de créer des modèles qui expliquent des événements inattendus. Le système 2 a tendance à faire mieux lorsque vous avez plus de ressources et plus de temps et pire lorsque vous disposez de peu de temps.
-
+**Le système 2**, délibératif, nous permet de faire des choses comme le raisonnement abstrait et la pensée hypothétique et de créer des modèles qui expliquent des évènements inattendus. Le système 2 a tendance à faire mieux lorsque vous avez plus de ressources et plus de temps et pire lorsque vous disposez de peu de temps.
 Les deux systèmes se disputent le contrôle de nos inférences et de nos actions.
 
-Voici une expérience réalisée par Shane Frederick qui illustre ces deux systèmes[^frederick]. Il pose une série de trois questions ayant une réponse issue du système 1, fausse, "qui vient immédiatement à l'esprit" et une autre issue du système 2, juste, qui nécessite quelques instants de réflexion :
+Voici une expérience réalisée par Shane Frederick qui illustre ces deux systèmes[^frederick]. Il pose une série de trois questions ayant une réponse issue du système 1, fausse, "qui vient immédiatement à l'esprit" et une autre issue du système 2, juste, qui nécessite quelques instants de réflexion :
 
-* Une batte et une balle coûtent 1,10 $ au total. La batte coûte 1,00 $ de plus que la balle. Combien coûte la balle ?
+* Une batte et une balle coutent 1,10 $ au total. La batte coute 1,00 $ de plus que la balle. Combien coute la balle ?
 * S'il faut à 5 machines 5 minutes pour créer 5 produits, combien de temps faudrait-il à 100 machines pour créer 100 produits ?
-* Sur un lac il y a une zone de nénuphars. Chaque jour, la zone double de taille. S'il faut 48 jours pour que la zone couvre tout le lac, combien de temps faudrait-il pour qu'elle recouvre la moitié du lac ?
+* Sur un lac il y a une zone de nénufars. Chaque jour, la zone double de taille. S'il faut 48 jours pour que la zone couvre tout le lac, combien de temps faudrait-il pour qu'elle recouvre la moitié du lac ?
 
-Les réponses issues du système 1, fausses, sont :
+Les réponses issues du système 1, fausses, sont :
 
 * 0,10 $
 * 100 minutes
 * 24 jours
 
-Les réponses issues du système 2, correctes, sont :
+Les réponses issues du système 2, correctes, sont :
 
 * 0,05 $
 * 5 minutes
 * 47 jours
 
-Ainsi, comme le résume Julia Galef[^galef_vulcan] :
+Ainsi, comme le résume Julia Galef[^galef_vulcan] :
 
-> Votre *système 1* est sujet aux biais, et il est également incroyablement puissant. Notre intuition a tendance à bien faire avec les décisions d'achat ou d'autres choix concernant notre vie personnelle. Le système 1 est également très puissant pour un expert. Les grands maîtres d'échecs peuvent jeter un coup d'œil sur un échiquier et dire "échec ét mat en trois coups", à cause du temps et des efforts mentaux consacrés à jouer aux échecs et à construire une base de connaissances mentales à ce sujet.
+> Votre *système 1* est sujet aux biais, et il est également incroyablement puissant. Notre intuition a tendance à bien faire avec les décisions d'achat ou d'autres choix concernant notre vie personnelle. Le système 1 est également très puissant pour un expert. Les grands maitres d'échecs peuvent jeter un coup d'œil sur un échiquier et dire "échec et mat en trois coups", à cause du temps et des efforts mentaux consacrés à jouer aux échecs et à construire une base de connaissances mentales à ce sujet.
 >
 > L'intuition peut être mauvaise et moins fiable lorsqu'elle est basée sur quelque chose qui n'est pas pertinent pour la tâche à accomplir ou lorsque vous ne disposez pas de connaissances spécialisées sur le sujet.
 >
@@ -207,7 +210,7 @@ Ainsi, comme le résume Julia Galef[^galef_vulcan] :
 
 #### 4. Être rationnel signifie ne pas avoir d'émotions
 
-Tout d'abord, comme l'explique Julia Galef[^galef_vulcan] :
+Tout d'abord, comme l'explique Julia Galef[^galef_vulcan] :
 
 > Les émotions sont nécessaires pour établir nos objectifs, la rationalité n'a aucune valeur normative sans elles.
 
@@ -215,7 +218,7 @@ En effet, atteindre nos objectifs efficacement suppose que nous ayons des object
 
 De plus, comme vu précédemment, il est absolument possible de choisir d'être émotif ou non, et à différents degrés, selon les situations. En outre les émotions sont provoquées par des éléments du réel[^panksepp] [^damasio] [^ekman] [^cabanac] [^emory] et peuvent être utiles, dans une certaine mesure, à une prise de décision plus efficace. [^pfister]
 
-Seulement, les émotions conduisent souvent à des biais cognitifs et il faut donc s'en méfier lorssque nous voulons effectuer un raisonnement. Je cite encore Julia Galef à ce sujet[^galef_vulcan] :
+Seulement, les émotions conduisent souvent à des biais cognitifs et il faut donc s'en méfier lorsque nous voulons effectuer un raisonnement. Je cite encore Julia Galef à ce sujet[^galef_vulcan] :
 
 > Comment les émotions nous rendent-elles irrationnelles ? Les émotions peuvent être épistémiquement irrationnelles si elles sont basées sur un faux modèle du monde. Les émotions peuvent être instrumentalement irrationnelles si elles vous empêchent d'atteindre vos objectifs.
 
@@ -223,47 +226,47 @@ Il faut aussi se rappeler que les émotions peuvent causer des *biais émotionne
 
 #### 5. Être rationnel signifie ne valoriser que des choses quantifiables, comme l'argent, l'efficacité ou la productivité
 
-Au regard de la rationalité épistémique, *valoriser* quelque chose n'a pas de sens. Il s'agit de décrire le réel avec le plus de précision possible, pas de fiare des jugements de valeur.
+Au regard de la rationalité épistémique, *valoriser* quelque chose n'a pas de sens. Il s'agit de décrire le réel avec le plus de précision possible, pas de faire des jugements de valeur.
 
-Au regard de la rationalité instrumentale, tout dépend des objectifs qu'on s'est fixé. Si notre objectif est d'avoir une vie heureuse et pleine de découvertes artistiques, alors rechercher le bohneur et apprécier l'esthétique seront rationnels.
+Au regard de la rationalité instrumentale, tout dépend des objectifs qu'on s'est fixés. Si notre objectif est d'avoir une vie heureuse et pleine de découvertes artistiques, alors rechercher le bonheur et apprécier l'esthétique seront rationnels.
 
 #### Synthèse
 
-Je cite Julia Galef[^galef_vulcan] :
+Je cite Julia Galef[^galef_vulcan] :
 
-> Si vous pensez que vous agissez de manière rationnelle mais que vous continuez à obtenir la mauvaise réponse, et que vous finissez toujours plus mal que vous ne pourriez l'être, alors la conclusion que vous devriez en tirer n'est pas que la rationalité est mauvaise, c'est que vous êtes mauvais à la rationalité.
+> Si vous pensez que vous agissez de manière rationnelle, mais que vous continuez à obtenir la mauvaise réponse, et que vous finissez toujours plus mal que vous ne pourriez l'être, alors la conclusion que vous devriez en tirer n'est pas que la rationalité est mauvaise, c'est que vous êtes mauvais à la rationalité.
 >
 > En d'autres termes, vous vous trompez !
 
 ### Champs d'application
 
-Comme le dit Richard Monvoisin[^monvoisin_these] :
+Comme le dit Richard Monvoisin[^monvoisin_these] :
 
 > Il faut distinguer entre la croyance comme acte de foi (*faith*) et la croyance de type adhésion (*belief*).
 
 Il est important de noter que la pensée critique s'applique et ne peut s'appliquer que dans ce qui relève de l'adhésion.
 
-L'adhésion est donc, par opposition à la foi[^monvoisin_these] :
+L'adhésion est donc, par opposition à la foi[^monvoisin_these] :
 
 > Une croyance produite par une démarche d'énonciation de vérité susceptible d'être infléchie par le raisonnement ou l'expérience.
 
-Par exemple, la croyance en Dieu relève de la foi (et se place donc hors du champ de la pensée critique) si elle n'est basée sur aucun élément tangible, et de l'adhéion dans le cas contraire. Si quelqu'un dit "je crois en Dieu par acte de foi", la pensée critique ne peut pas s'y appliquer, mais s'il dit "je crois en Dieu car sans Dieu il n'y aurait pas de morale" ou "je crois en Dieu car il faut bien que l'Univers ait une cause", la pensée critique peut s'y appliquer.
+Par exemple, la croyance en Dieu relève de la foi (et se place donc hors du champ de la pensée critique) si elle n'est basée sur aucun élément tangible, et de l'adhésion dans le cas contraire. Si quelqu'un dit "je crois en Dieu par acte de foi", la pensée critique ne peut pas s'y appliquer, mais s'il dit "je crois en Dieu, car sans Dieu il n'y aurait pas de morale" ou "je crois en Dieu, car il faut bien que l'Univers ait une cause", la pensée critique peut s'y appliquer.
 
-Voici quelques exemples d'énoncés relevant de la foi :
+Voici quelques exemples d'énoncés relevant de la foi :
 
 * Je n'aime pas Manuels Valls
 * Dieu existe
 * Le jazz c'est mieux que la musique classique
 
-Et d'autres relevant de l'adhésion :
+Et d'autres, relevant de l'adhésion :
 
 * Manger des yaourts fait grandir
 * Le Suaire de Turin date du premier siècle
 * Le Doliprane est efficace contre les maux de tête
 
-### Pourquoi être rationnel ?
+### Pourquoi être rationnel ?
 
-Richard Monvoisin résume la situation ainsi[^monvoisin_these] :
+Richard Monvoisin résume la situation ainsi[^monvoisin_these] :
 
 > La science n'est pas la seule manière d'investiguer le réel. Effectivement, tout un chacun a la possibilité de s'en remettre à l'introspection, à la lecture de Révélations, à l'art à la méditation ou à la gamme des mancies pour choisir et décider.
 >
@@ -271,19 +274,18 @@ Richard Monvoisin résume la situation ainsi[^monvoisin_these] :
 >
 > Il ne faut pas compter sur la science pour vous dire ce qui est « beau » dans une toile de Modigliani, ou pour apprécier la lecture des Chants de Maldoror. Par contre, si l'on veut savoir si quelque chose « marche », fonctionne, est efficace ou assure le plus de chances de réussite, la science est tout simplement faite pour ça.
 
-Si donc notre objectif est d'atteindre nos objectifs au mieu, alors il est *utile* d'être rationnel au sens instrumental. Or pour celà nous nous basons sur un modèle de la réalité qui ne peut être rendus plus précis qu'en étant rationnel au sens épistémique.
+Si donc notre objectif est d'atteindre nos objectifs au mieux, alors il est *utile* d'être rationnel au sens instrumental. Or pour cela nous nous basons sur un modèle de la réalité qui ne peut être rendu plus précis qu'en étant rationnel au sens épistémique.
 
-La rationalité n'est pas un vertu ou un impératif moral, c'est une manière de penser qui nous permet de connaitre le réel avec plus de précision et de mieux réaliser nos objectifs.
-
-Pour en savoir plus, visionnez l'excellente vidéo de Christophe Michel sur le sujet :
+La rationalité n'est pas une vertu ou un impératif moral, c'est une manière de penser qui nous permet de connaitre le réel avec plus de précision et de mieux réaliser nos objectifs.
+Pour en savoir plus, visionnez l'excellente vidéo de Christophe Michel sur le sujet :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/PFjX5tgu0iQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Intelligence et rationalité
 
-Sans rentrer dans les détails, je vais éclaircir une confussion courrante entre intelligence et rationalité. Intelligence et rationalité sont très peu corrélées.[^stanovich]
+Sans rentrer dans les détails, je vais éclaircir une confusion courante entre intelligence et rationalité. Intelligence et rationalité sont très peu corrélées.[^stanovich]
 
-Je reprend ici une métaphore proposée par Thomas Durand[^beauvoisine] :
+Je reprends ici une métaphore proposée par Thomas Durand[^beauvoisine] :
 
 > Être intelligent c'est avoir un gros moteur, être rationnel c'est avoir un bon frein, un bon volant.
 
@@ -293,32 +295,32 @@ En effet, beaucoup de champs spécialisés sont comme une piste de course en lig
 
 Seulement la vie n'est pas une piste droite, mais une route tortueuse avec de nombreux virages et embranchements. Être rationnel c'est être en mesure de négocier ces virages, de choisir les bons embranchements, etc.
 
-C'est également pour cette raison qu'il faut se méfier des gens intelligents et non rationnels, car *quand ils se plantent, il se plantent plus fort*.[^beauvoisine]
+C'est également pour cette raison qu'il faut se méfier des gens intelligents et non rationnels, car *quand ils se plantent, ils se plantent plus fort*.[^beauvoisine]
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/dragster.png" alt="Dragster" />
-  <figcaption>Le dragster : intelligent mais pas rationnel. Rapide mais très peu maniable.</figcaption>
+  <figcaption>Le dragster : intelligent, mais pas rationnel. Rapide, mais très peu maniable.</figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/205.jpg" alt="Peugeot 205" />
-  <figcaption>La 205 : pas intelligente mais rationnelle. Peu rapide mais maniable.</figcaption>
+  <figcaption>La 205 : pas intelligente, mais rationnelle. Peu rapide, mais maniable.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/images/rally.jpg" alt="Voiture de rally" />
-  <figcaption>La voiture de rally : intelligente et rationnelle. Rapide et maniable.</figcaption>
+  <img src="{{ site.baseurl }}/assets/images/rally.jpg" alt="Voiture de rallye" />
+  <figcaption>La voiture de rallye : intelligente et rationnelle. Rapide et maniable.</figcaption>
 </figure>
 
 ### Attitude
 
-Avant de nous plonger dans les méthodes de la pensée critique, je voudrais préciser quelques points sur l'attitude à avoir dans cette démarche :
+Avant de nous plonger dans les méthodes de la pensée critique, je voudrais préciser quelques points sur l'attitude à avoir dans cette démarche :
 
-* Nous avons peut-être un avis sur tout mais réellement un expertise sur très peu de chose. En l'absence de données suffisantes il est bon d'admettre notre ignorance et de suspendre notre jugement.
+* Nous avons peut-être un avis sur tout, mais réellement une expertise sur très peu de choses. En l'absence de données suffisantes, il est bon d'admettre notre ignorance et de suspendre notre jugement.
 * Rien n'est vrai que jusqu'à preuve du contraire. Soyons prêts à faire évoluer nos convictions en cas d'émergence de nouveaux éléments probants.
 * Le réel existe tel qu'il est, qu'il nous plaise ou non. Soyons honnêtes dans nos démarches épistémiques.
-* La pensée critique et la démarche zététique ne sont pas prescriptives mais informatives. Nous restons parfaitement libres de nos choix, qu'ils soient rationnels ou non.
-* Avant de se lancer dans un débat, il peut être utilse de demander à son interlocuteur s'il y a un élément qui pourrait le faire changer d'avis. Si la réponse est non alors il est dans un système de croyance par pure foi et un débat est probablement innutile. De même si la théorie qu'il défend a été construite avant de chercher les faits pour la soutenir, alors c'est mauvais signe et il est fort probable qu'il soit là aussi, au moins en partie, dans un système de croyance par pure foi.
+* La pensée critique et la démarche zététique ne sont pas prescriptives, mais informatives. Nous restons parfaitement libres de nos choix, qu'ils soient rationnels ou non.
+* Avant de se lancer dans un débat, il peut être utile de demander à son interlocuteur s'il y a un élément qui pourrait le faire changer d'avis. Si la réponse est non alors il est dans un système de croyance par pure foi et un débat est probablement inutile. De même si la théorie qu'il défend a été construite avant de chercher les faits pour la soutenir, alors c'est mauvais signe et il est fort probable qu'il soit là aussi, au moins en partie, dans un système de croyance par pure foi.
 
 ## La faillibilité des sens et de l'esprit
 
@@ -330,11 +332,11 @@ Dans cette section, je vais brièvement parler de la faillibilité de nos sens e
 
 #### Les illusions visuelles
 
-Les illusions visuelles sont des percéptions visuelles s'opposant à la réalité. Elles peuvent être :
+Les illusions visuelles sont des perceptions visuelles s'opposant à la réalité. Elles peuvent être :
 
-* Physiques : la perception est faussée par un élément physique, par exemple une forte chaleur ou une faible humidité, qui dévie les rayons lumineux.
-* Physiologiques : la perception est faussée par un effet du corps, comme pour les images rémanantes (quand la sensation visuelle persiste après la disparition du stimulus).
-* Cognitives : la perception est faussée par une mauvaise interprétation de l'image.
+* Physiques : la perception est faussée par un élément physique, par exemple une forte chaleur ou une faible humidité, qui dévie les rayons lumineux.
+* Physiologiques : la perception est faussée par un effet du corps, comme pour les images rémanentes (quand la sensation visuelle persiste après la disparition du stimulus).
+* Cognitives : la perception est faussée par une mauvaise interprétation de l'image.
 
 ##### Exemple d'illusion visuelle physiologique
 
@@ -344,49 +346,51 @@ Fixez l'oeil du Che Guevara dans l'image ci-dessous pendant une trentaine de sec
 
 ##### Exemples d'illusions visuelles cognitives
 
-Les voitures ci-dessous font la même taille :
+Les voitures ci-dessous font la même taille :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/cars.jpg" alt="Illusion taille des voitures" />
 
-Regardez plutôt :
+Regardez plutôt :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/cars.gif" alt="Illusion taille des voitures (animé)" />
 
-Les carrés A et B ont la même couleur :
+Les carrés A et B ont la même couleur :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/greysquares.gif" alt="Illusion échiquier" />
 
-Les droites sont parallèles :
+Les droites sont parallèles :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/zollner.jpg" alt="Illusion de Zollner" />
 
-Dans cette vidéo, la danseuse peut tourner dans un sens ou dans l'autre selon le point sur lequel vous vous concentrez :
+Dans cette vidéo, la danseuse peut tourner dans un sens ou dans l'autre selon le point sur lequel vous vous concentrez :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/WAuLOVFDdp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pour voir quelques autres illusions, visionnez cette excellente publicité Honda de 2013 :
+Pour voir quelques autres illusions, visionnez cette excellente publicité Honda de 2013 :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/lZU8ojUBh0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale dans le contour d'un nuage :
+Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale dans le contour d'un nuage :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/sad_tomato.jpg" alt="Tomate triste" />
+
 <img class="picture" src="{{ site.baseurl }}/assets/images/birds.jpg" alt="Vol d'oiseaux" />
+
 <img class="picture" src="{{ site.baseurl }}/assets/images/wall.jpg" alt="Mur" />
 
 #### Les illusions auditives
 
-Les illusions auditives sont des percéptions auditives s'opposant à la réalité. Ni les hallucinations auditives, qui ne se rapportent à aucun son, ni les acouphènes, qui sont un symptôme d'une défaillance du système auditif, ne sont des illusions auditives.
+Les illusions auditives sont des perceptions auditives s'opposant à la réalité. Ni les hallucinations auditives, qui ne se rapportent à aucun son, ni les acouphènes, qui sont un symptôme d'une défaillance du système auditif, ne sont des illusions auditives.
 
-Dans cette vidéo, on entend "ba" ou "fa" selon l'image affichée alors que le son est le même (effet McGurk) :
+Dans cette vidéo, on entend "ba" ou "fa" selon l'image affichée alors que le son est le même (effet McGurk) :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/G-lN8vWm3m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Dans ce sketch, l'humoriste Serge Llado présente différentes chansons en langues étrangères en suggérant des paroles françaises faitaisistes au préalable. Il est alors difficile d'entendre autre chose. Il parle d'hallucination auditive mais le terme exact est *paréidolie auditive* :
+Dans ce sketch, l'humoriste Serge Llado présente différentes chansons en langues étrangères en suggérant des paroles françaises faitaisistes au préalable. Il est alors difficile d'entendre autre chose. Il parle d'hallucination auditive, mais le terme exact est *paréidolie auditive* :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/b7aKj9XdsPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Dans cet autre exemple, on entend soit *Yanny* soit *Laurel* en fonction de la fréquence perçue :
+Dans cet autre exemple, on entend soit *Yanny* soit *Laurel* en fonction de la fréquence perçue :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/yDiXQl7grPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -394,7 +398,7 @@ Dans cet autre exemple, on entend soit *Yanny* soit *Laurel* en fonction de la f
 
 C'est quand notre cerveau a trop d'informations à gérer.
 
-Regarder quelques images d'une campagne de publicité Colgate :
+Regardez quelques images d'une campagne de publicité Colgate :
 
 *Sur mobile, vous pouvez orienter votre appareil en paysage.*
 {: .mobile-only}
@@ -403,11 +407,11 @@ Regarder quelques images d'une campagne de publicité Colgate :
 <img class="picture" src="{{ site.baseurl }}/assets/images/colgate2.jpg" alt="Colgate 2" />
 <img class="picture" src="{{ site.baseurl }}/assets/images/colgate3.jpg" alt="Colgate 3" />
 
-Vous avez remarqué les restes de nourriture coincés entre les dents des hommes ? Bien sûr ! On le remarque tout de suite. Mais avez vous remarqué que sur la première image il manque une oreille à l'homme, que sur la seconde la femme a un troisième bras et que sur la dernière elle a un sixième doigt ?
+Vous avez remarqué les restes de nourriture coincés entre les dents des hommes ? Bien sûr ! On le remarque tout de suite. Mais avez-vous remarqué que sur la première image il manque une oreille à l'homme, que sur la seconde la femme a un troisième bras et que sur la dernière elle a un sixième doigt ?
 
 Un phénomène similaire est à jeu dans l'effet Stroop (interférences d'informations non pertinentes).
 
-Essayez de dire la couleur des mots suivants :
+Essayez de dire la couleur des mots suivants :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/stroop.png" alt="Effet Stroop" />
 
@@ -417,7 +421,7 @@ Enfin, regardez la vidéo suivante. Serez-vous être suffisamment attentifs ?
 
 #### Les illusions tactiles
 
-Au même titre que les illusions visuelles et auditives, on trouve aussi des illusions tactiles. Par exemple :
+Au même titre que les illusions visuelles et auditives, on trouve aussi des illusions tactiles. Par exemple :
 
 * Le *lapin qui saute*[^geldard] [^bremer] [^flach], dans laquelle on tapote rapidement une personne à deux endroits différents (par exemple le coude et le poignet), et qui donne l'illusion d'être touché à plusieurs endroits entre ces deux zones.
 * L'*effet Tau*[^helson] [^russo], lorsque des participants jugent la distance spatiale entre plusieurs tapotements distincts comme étant irrégulière alors que seul le rythme varie.
@@ -430,9 +434,9 @@ Au même titre que les illusions visuelles et auditives, on trouve aussi des ill
 
 C'est présenter des informations d'une manière orientée sans en changer le sens exact (parler d'un "verre à moitié plein" plutôt qu'un "verre à moitié vide").
 
-Dans une série d'expériences en 1981, Amos Tversky et Daniel Kahneman on posé une série de questions à plusieurs centaines de participants pour décrire cet effet[^tversky]. En voici un exemple :
+Dans une série d'expériences en 1981, Amos Tversky et Daniel Kahneman ont posé une série de questions à plusieurs centaines de participants pour décrire cet effet[^tversky]. En voici un exemple :
 
-**Version 1 :**
+**Version 1 :**
 
 Vous avez 600 patients atteints d'une maladie mortelle.
 
@@ -441,7 +445,7 @@ Vous avez 600 patients atteints d'une maladie mortelle.
 
 Quel traitement choisissez-vous ?
 
-**Version 2 :**
+**Version 2 :**
 
 Vous avez 600 patients atteints d'une maladie mortelle.
 
@@ -450,14 +454,14 @@ Vous avez 600 patients atteints d'une maladie mortelle.
 
 Quel traitement choisissez-vous ?
 
-Les deux versions des questions donnent exactement les mêmes informations quant à l'efficacité et aux conséquences des deux traitements. Voici les résultats :
+Les deux versions des questions donnent exactement les mêmes informations quant à l'efficacité et aux conséquences des deux traitements. Voici les résultats :
 
-* Version 1 : 72% choisissent la première réponse.
-* Version 2 : 78% choisissent la deuxième réponse.
+* Version 1 : 72% choisissent la première réponse.
+* Version 2 : 78% choisissent la deuxième réponse.
 
 D'autres questions du même type ou portant sur la manière de présenter les gains et les risques sont présentés dans leur article [The framing of decisions and the psychology of choice](https://www.uzh.ch/cmsssl/suz/dam/jcr:ffffffff-fad3-547b-ffff-ffffe54d58af/10.18_kahneman_tversky_{81}.pdf).
 
-Une autre illustration de l'effet de cadrage se retrouve dans cet excellent exemple pédagogique :
+Une autre illustration de l'effet de cadrage se retrouve dans cet excellent exemple pédagogique :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/iS-CJSlwpGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -465,51 +469,51 @@ Une autre illustration de l'effet de cadrage se retrouve dans cet excellent exem
 
 C'est quand on utilise la connotation des mots pour induire une idée différente de ce que ces mots prétendent représenter.
 
-En 2005 Richard Wiseman et Emma Greening on réalisé une expérience[^wiseman] impliquant 50 étudiants sur le campus de l'université de Hertfordshire au Royaume-Uni. Ils ont montré aux participants une vidéo d'un illusionniste tordant "par la pensée" une clé posée dans la paume de sa main, puis la posant sur une table devant lui. Le phénomène a été présenté comme étant paranormal.
+En 2005 Richard Wiseman et Emma Greening ont réalisé une expérience[^wiseman] impliquant 50 étudiants sur le campus de l'université de Hertfordshire au Royaume-Uni. Ils ont montré aux participants une vidéo d'un illusionniste tordant "par la pensée" une clé posée dans la paume de sa main, puis la posant sur une table devant lui. Le phénomène a été présenté comme étant paranormal.
 
-Les étudiants devait répondre à la question "Une fois posée sur la table, la clé a-t-elle continué de se tordre ?" (la bone réponse étant "non").
+Les étudiants devaient répondre à la question "Une fois posée sur la table, la clé a-t-elle continué de se tordre ?" (la bonne réponse étant "non").
 
 Les étudiants étaient répartis aléatoirement en deux groupes isolés. Pour le second groupe, la vidéo contenait une séquence supplémentaire au début ou l'illusionniste suggérait que la clé continuerait de se tordre une fois posée.
 
-Les résultats à la question pour les deux groupes sont :
+Les résultats à la question pour les deux groupes sont :
 
 |                            | Groupe 1 | Groupe 2 |
 |----------------------------|----------|----------|
 | La torsion continue        | 4%      | 40%     |
 | La torsion ne continue pas | 96%     | 60%     |
 
-L'expérience a été répétée, avec d'autres participants. Cette-fois la question demandait simplement de décrire le phénomène. Voici les resultats :
+L'expérience a été répétée, avec d'autres participants. Cette fois la question demandait simplement de décrire le phénomène. Voici les résultats :
 
 |                            | Groupe 1 | Groupe 2 |
 |----------------------------|----------|----------|
 | La torsion continue        | 0%      | 36%     |
 | La torsion ne continue pas | 100%    | 64%     |
 
-Celà illustre bien la puissance de cet effet. Il peut même avoir une influence si importante qu'on observe par exemples des effet physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
+Cela illustre bien la puissance de cet effet. Il peut même avoir une influence si importante qu'on observe par exemple des effets physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
 
 #### Les faux souvenirs
 
-Chez tous les individus, même parfaitements saints, la mémoire est faillible, maléable.
+Chez tous les individus, même parfaitement sains, la mémoire est faillible, malléable.
 
-La mémoire est consistituée de plusieurs registres[^baddeley] [^tulving] et stocke les informations de manière discontinue.[^montel] Il est par exemple difficile de réciter l'alphabet à l'envers en l'ayant appris uniquement à l'endrois.
+La mémoire est constituée de plusieurs registres[^baddeley] [^tulving] et stocke les informations de manière discontinue.[^montel] Il est par exemple difficile de réciter l'alphabet à l'envers en l'ayant appris uniquement à l'endroit.
 
 Mais cela va bien plus loin.
 
 Dans une expérience en 1979[^gentner], Dedre Gentner et Elizabeth Loftus ont présenté aux participants une série d'images accompagnées de légendes aux verbes génériques (par exemple "walk", marcher) pour le groupe 1 et spécifiques (par exemple "hike", randonner) pour le groupe 2.
 
-Une semaine plus tard, ils leur ont montré une autre série d'images, contenant certaines des images de la première fois, de nouvelles images totalement différentes et certaines nouvelles mais dont le thème était le même que certaines de la première série. Ils leur ont demandé d'indiquer celles dont ils se souvenaient avec certitude.
+Une semaine plus tard, ils leur ont montré une autre série d'images, contenant certaines des images de la première fois, de nouvelles images totalement différentes et certaines nouvelles, mais dont le thème était le même que certaines de la première série. Ils leur ont demandé d'indiquer celles dont ils se souvenaient avec certitude.
 
-36% ont indiqué se rappeler d'une image alors qu'elle ne leur avait pas été présentée mais dont le thème était le même. Cette proporsion atteignait 47% quand les images de la première semaine étaient accompagnées de légendes avec des verbes spécifiques.
+36% ont indiqué se rappeler d'une image alors qu'elle ne leur avait pas été présentée, mais dont le thème était le même. Cette proportion atteignait 47% quand les images de la première semaine étaient accompagnées de légendes avec des verbes spécifiques.
 
-D'autres expériences du même genre ont par exemple fait se "souvenir" à des étudiants la présence de certains objets lors d'un cours alors que seules des questions mentionnant ces objets y avaient été posées[^cole], intégré de faux éléments par suggestion dans le souvenir d'un accident[^loftus], fait accepter des affirmation contradictiores par l'introduction de faux souvenirs au moment opportun[^loftus_2], créé le faux souvenir d'une peur intense[^ramirez], etc.
+D'autres expériences du même genre ont par exemple fait se "souvenir" à des étudiants la présence de certains objets lors d'un cours alors que seules des questions mentionnant ces objets y avaient été posées[^cole], intégré de faux éléments par suggestion dans le souvenir d'un accident[^loftus], fait accepter des affirmations contradictoires par l'introduction de faux souvenirs au moment opportun[^loftus_2], créé le faux souvenir d'une peur intense[^ramirez], etc.
 
 D'autres études[^bjorklund] [^conway] [^roediger] [^schacter] [^loftus_3] [^roediger_2] [^roediger_3] [^loftus_4] [^payne] [^rubin] [^murphy] ont conduit de nombreuses expériences similaires et indiquent toutes que les souvenirs peuvent êtres modifiés, créés ou supprimés et que la mémoire n'est pas un témoin fiable.
 
 ## Les principes fondamentaux de la pensée critique
 
-Voici quelques-uns des principes fondamentaux de la pensée critique. Ils servent de fondation à une réflexion plus poussée et priorisant les hypothèses les plus probables, en éliminants les arguments non pertinants d'un point de vue épistémique, etc.
+Voici quelques-uns des principes fondamentaux de la pensée critique. Ils servent de fondation à une réflexion plus poussée et priorisant les hypothèses les plus probables, en éliminant les arguments non pertinents d'un point de vue épistémique, etc.
 
-Je les présente sommairement, sans détailler toutes leurs nuances et leur complexité, mais nous les verrons plus en détails dans des exemples concrets dans la suite de l'article.
+Je les présente sommairement, sans détailler toutes leurs nuances et leur complexité, mais nous les verrons plus en détail dans des exemples concrets dans la suite de l'article.
 
 ### Le Rasoir d'Hitchens
 
@@ -525,13 +529,13 @@ Le Rasoir d'Hitchens est fortement lié à l'*onus probandi*.
 
 **La charge de la preuve incombe à celui qui prétend.**
 
-Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
+Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 
 > C'est à celui qui prétend quelque chose de le prouver et non aux autres de prouver que ce qu'il prétend n'est pas vrai.
 >
 > Ce n'est pas aux critiques de Claude Vorilhon, alias Raël de prouver qu'il n'a pas pu être enlevé par des extraterrestres, mais bien à lui de démontrer qu'il l'a été. De la même façon, ce n'est pas aux critiques d'une technique de montrer qu'elle est inefficace, mais bien aux prétendants de montrer qu'elle possède l'efficacité que ceux-ci lui prêtent.
 >
-> Imaginons le bazar s'il fallait prendre pour vraie toute affirmation, par exemple sur un médicament, et devoir attendre que quelqu'un montre qu'elle est fausse pour y renoncer. Tout vendeur de potions pourrait rétorquer à vos doutes : "prouvez donc que ma potion n'est pas miraculeuse".
+> Imaginons le bazar s'il fallait prendre pour vraie toute affirmation, par exemple sur un médicament, et devoir attendre que quelqu'un montre qu'elle est fausse pour y renoncer. Tout vendeur de potions pourrait rétorquer à vos doutes : "prouvez donc que ma potion n'est pas miraculeuse".
 >
 > Il est de toute façon logiquement impossible de montrer que quelque chose n'existe pas.
 
@@ -541,24 +545,24 @@ Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 
 Il s'agit, entre plusieurs hypothèses au même pouvoir explicatif, de privilégier celle qui est la plus *parcimonieuse*, celle qui est la moins couteuse cognitivement, celle qui fait appel au moins d'autres hypothèses.
 
-Cela implique que face à un phénoméne encore inexpliqué, on tentera d'abord de l'expliquer à partir de ce qui est connu avant de postuler l'extistence de quelque chose d'inconnu. Ou que face à trois symptomes simultanés on recherche d'abord une maladie pouvant causer ces trois symptômes plutôt que trois maladies causant chacune un symptôme.
+Cela implique que face à un phénomène encore inexpliqué, on tentera d'abord de l'expliquer à partir de ce qui est connu avant de postuler l'existence de quelque chose d'inconnu. Ou que face à trois symptômes simultanés on recherche d'abord une maladie pouvant causer ces trois symptômes plutôt que trois maladies causant chacune un symptôme.
 
-Richard Monvoisin en donne un exemple[^monvoisin_these] :
+Richard Monvoisin en donne un exemple[^monvoisin_these] :
 
-> Je mets un chat et une souris dans une boîte, je ferme, je secoue, et j'ouvre : il ne reste plus que le chat.
+> Je mets un chat et une souris dans une boite, je ferme, je secoue, et j'ouvre : il ne reste plus que le chat.
 >
-> * Hypothèse 1 : des extraterrestres de la planète Mû ont voulu désintégrer la souris, mais elle s'est transformée en chat. Le chat, de frayeur, est passé dans une autre dimension par effet Tunnel.
-> * Hypothèse 2 : le chat a mangé la souris.
+> * Hypothèse 1 : des extraterrestres de la planète Mû ont voulu désintégrer la souris, mais elle s'est transformée en chat. Le chat, de frayeur, est passé dans une autre dimension par effet Tunnel.
+> * Hypothèse 2 : le chat a mangé la souris.
 >
-> Vous m'accorderez que l'hypothèse 2 est beaucoup moins coûteuse intellectuellement que la N°1. Elle ne postule rien d'autre que la prédation de la souris par le chat, tandis que la première postule une planète Mû, des extraterrestres qui viennent, qui savent désintégrer un chat ce qui n'est pas donné à tout le monde, une souris qui se transforme en chat, une autre dimension, un chat qui sait y aller et un effet tunnel pour objet macroscopique. Ca fait beaucoup. Dans le doute, on choisira la 2.
+> Vous m'accorderez que l'hypothèse 2 est beaucoup moins couteuse intellectuellement que la N°1. Elle ne postule rien d'autre que la prédation de la souris par le chat, tandis que la première postule une planète Mû, des extraterrestres qui viennent, qui savent désintégrer un chat ce qui n'est pas donné à tout le monde, une souris qui se transforme en chat, une autre dimension, un chat qui sait y aller et un effet tunnel pour objet macroscopique. Ça fait beaucoup. Dans le doute, on choisira la 2.
 
-Attention, il ne s'agit pas de dire que l'hypothèse parcimonieuse est vraie. En l'absence de preuve, nous ne pouvons êtres sûrs de rien. Il s'agit seulement de dire qu'il est plus *sage*, plus *rationnel* de privilégier celle-ci jusqu'à l'apparition éventuelle de nouveaux éléments probants.
+Attention, il ne s'agit pas de dire que l'hypothèse parcimonieuse est vraie. En l'absence de preuve, nous ne pouvons être surs de rien. Il s'agit seulement de dire qu'il est plus *sage*, plus *rationnel* de privilégier celle-ci jusqu'à l'apparition éventuelle de nouveaux éléments probants.
 
 ### Le critère de réfutabilité
 
 **Une proposition n'est recevable que si elle est réfutable.**
 
-Une proposition est réfutable s'il existe un énoncé qui lui est contradictoire, c'est-à-dire qui la falsifierait s'il se révélait vrai. Par exemple la proposition "tous les cygnes sont blancs" est réfutable car il suffirait de trouver un cygne qui ne soit pas blanc pour l'infirmer.
+Une proposition est réfutable s'il existe un énoncé qui lui est contradictoire, c'est-à-dire qui la falsifierait s'il se révélait vrai. Par exemple la proposition "tous les cygnes sont blancs" est réfutable, car il suffirait de trouver un cygne qui ne soit pas blanc pour l'infirmer.
 
 Si une proposition n'est pas réfutable, alors elle n'a aucune valeur probante et n'est pas rationnelle.
 
@@ -572,18 +576,18 @@ Afin de comprendre ce que c'est et comment l'utiliser, je vais d'abord parler d'
 
 Tout d'abord, qu'est-ce qu'une inférence ?
 
-C'est[^tlfi_inference] :
+C'est[^tlfi_inference] :
 
 > Une opération logique par laquelle on admet une proposition en vertu de sa liaison avec d'autres propositions déjà tenues pour vraies.
 
-Il existe deux approches, celle plus simple et courrante, *fréquentiste*, et celle un peu plus complexe et moins courrante, *bayésienne*.
+Il existe deux approches, celle plus simple et courante, *fréquentiste*, et celle un peu plus complexe et moins courante, *bayésienne*.
 
 * L'*inférence fréquentiste* c'est déterminer la probabilité des faits en fonction des hypothèses.
 * L'*inférence bayésienne* c'est déterminer la probabilité des hypothèses en fonction des faits.
 
-En gros, l'*inférence fréquentiste* détermine $$P(x \vert H)$$ la **vraissemblance** des résultats x dans le carde de l'hypothèse H, et l'*inférence bayésienne* détermine $$P(H \vert x)$$ la **plausibilité** de l'hypothèse H au vu des résultats x.
+En gros, l'*inférence fréquentiste* détermine $$P(x \vert H)$$ la **vraisemblance** des résultats x dans le carde de l'hypothèse H, et l'*inférence bayésienne* détermine $$P(H \vert x)$$ la **plausibilité** de l'hypothèse H au vu des résultats x.
 
-Note : $$P(A \vert B) $$ se lit *probabilité de A sachant B*.
+Note : $$P(A \vert B) $$ se lit *probabilité de A sachant B*.
 
 Illustrons les deux méthodes par un exemple.
 
@@ -597,7 +601,7 @@ Avant de pouvoir répondre à cette question, nous devont nous mettre d'accord s
 
 Notons $$D_n$$ l'utilisation d'un dé à *n* faces (par exemple $$D_8$$ pour un dé à 8 faces), et $$R_x$$ l'obtention du résultat *x* (par exemple $$R_7$$ pour un 7).
 
-La probabilité d'obtenir trois fois 7 avec trois lancers d'un dé à 8 faces est :
+La probabilité d'obtenir trois fois 7 avec trois lancers d'un dé à 8 faces est :
 
 $$
 P(R_{7,7,7} \vert D_8) = \dfrac{1}{8 \cdot 8 \cdot 8} \approx 0.2 \%
@@ -605,44 +609,44 @@ $$
 
 Il s'agit donc d'un résultat extraordinaire. Remarquez que si on avez choisi un seuil de 0,1%, le résultat serait ordinaire. La conclusion dépend donc bien des critères choisis au départ, d'où l'importance de s'accorder sur les critères avant tout débat ou expérience.
 
-Nous venons d'effectuer un raisonnement d'*inférence fréquentiste* : nous avons déterminé la probabilité des faits (une série de trois 7) en fonction des hypothèses (trois lancers d'un dé à 8 faces).
+Nous venons d'effectuer un raisonnement d'*inférence fréquentiste* : nous avons déterminé la probabilité des faits (une série de trois 7) en fonction des hypothèses (trois lancers d'un dé à 8 faces).
 
 Là ou l'*inférence bayésienne* entre en jeu et devient extrêmement intéressante c'est quand on se pose un autre type de question.
 
-Imaginons que je prends un des dés sans que vous sachiez lequel. Je le lance en cachette et j'annonce le résultat : 7. Quelle dé ai-je le plus probablement utilisé ?
+Imaginons que je prends un des dés sans que vous sachiez lequel. Je le lance en cachette et j'annonce le résultat : 7. Quel dé ai-je le plus probablement utilisé ?
 
-Avec l'*inférence fréquentiste* on pourrait seulement dire que parmis les dés qui ont au moins 7 faces (8, 10, 12 et 20), tous ont une chance d'avoir été choisis, donc 25% de chance pour chaque. Mais celà est faux ! Car le résultat du dé nous donne une information supplémentaire, qu'on peut exploiter avec l'*inférence bayésienne*.
+Avec l'*inférence fréquentiste* on pourrait seulement dire que parmi les dés qui ont au moins 7 faces (8, 10, 12 et 20), tous ont une chance d'avoir été choisis, donc 25% de chance pour chaque. Mais cela est faux ! Car le résultat du dé nous donne une information supplémentaire, qu'on peut exploiter avec l'*inférence bayésienne*.
 
-L'inférence bayésienne est basée sur le *Théorème de Bayes* :
+L'inférence bayésienne est basée sur le *Théorème de Bayes* :
 
 $$
 P(A|B) = \dfrac{P(B|A) \cdot P(A)}{P(B)}
 $$
 
-Il se lit : *la probabilité de A sachant B est égale à la probabilité de B sachant A multipliée par le probabilité de A divisée par la probabilité de B*.
+Il se lit : *la probabilité de A sachant B est égale à la probabilité de B sachant A multipliée par le probabilité de A divisée par la probabilité de B*.
 
-On peut le réécrire en remplaçant A par H (hypothèse) et B par x (fait). On a alors :
+On peut le réécrire en remplaçant A par H (hypothèse) et B par x (fait). On a alors :
 
 $$
 P(H|x) = \dfrac{P(x|H) \cdot P(H)}{P(x)}
 $$
 
-Où :
+Où :
 
 * $$P(H \vert x)$$ est la **plausibilité** de l'hypothèse H au vu des résultats x
-* $$P(x \vert H)$$ est la **vraissemblance** des résultats x dans le carde de l'hypothèse H
+* $$P(x \vert H)$$ est la **vraisemblance** des résultats x dans le carde de l'hypothèse H
 * $$P(H)$$ est la **plausibilité à priori** de l'hypothèse H
 * $$P(x)$$ est la **probabilité toutes hypothèses confondues** des résultats x
 
 Dans notre cas, ce qui nous intéresse c'est la probabilité d'avoir utilisé un dé sachant le résultat obtenu.
 
-Dans notre exemple, on sait que le résultat est 7. On cherche donc pour chaque dé :
+Dans notre exemple, on sait que le résultat est 7. On cherche donc pour chaque dé :
 
 $$
 P(D_n|R_7) = \dfrac{P(R_7|D_n) \cdot P(D_n)}{P(R_7)}
 $$
 
-Où :
+Où :
 
 * $$P(D_n \vert R_7)$$ est la probabilité d'avoir utilisé un dé à *n* faces sachant qu'on a fait un 7
 * $$P(R_7 \vert D_n)$$ est la probabilité de faire un 7 avec un dé à _n_ faces
@@ -653,7 +657,7 @@ On sait que les dés à 4 et 6 faces ne peuvent donner de 7, il nous reste donc 
 
 Il reste donc à calculer $$P(D_8 \vert R_7)$$, $$P(D_{10} \vert R_7)$$, $$P(D_{12} \vert R_7)$$ et $$P(D_{20} \vert R_7)$$.
 
-Supposons, à priori, que chaque dé a une chance égale d'être choisi (c'est là la part subjective qui doit être introduite lors de l'étape initiale et qui s'atténue au fil des expériences). On a donc :
+Supposons, à priori, que chaque dé a une chance égale d'être choisi (c'est là la part subjective qui doit être introduite lors de l'étape initiale et qui s'atténue au fil des expériences). On a donc :
 
 $$P(D_8) = P(D_{10}) = P(D_{12}) = P(D_{20}) = 25\%$$
 
@@ -677,13 +681,13 @@ Faisons un autre lancer avec le même dé caché (sans toujours savoir réelleme
 
 Le résultat est 3.
 
-Nous pouvons alors recalculer nos probabilité. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
+Nous pouvons alors recalculer nos probabilité. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé, mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
 
-Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
+Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
 
 $$P(R_7) = \dfrac{1}{8} * 0.349 + \dfrac{1}{10} * 0.279 + \dfrac{1}{12} * 0.233 + \dfrac{1}{20} * 0.139 \approx 9.79\%$$
 
-Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
+Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
 
 $$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0.349}{0.0979} \approx 44.6\%$$
 
@@ -695,33 +699,33 @@ $$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.139}{0.0979} \approx 7.1\%$$
 
 Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
 
-Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe mais plus puissante, ont dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
+Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe, mais plus puissante, on dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
 
 Il est intéressant de noter que chacun de nos lancers a conforté l'hypothèse du dé à 10 faces, mais qu'ils ont conforté encore plus celle du dé à 8 faces. Cela montre l'importance de ne pas privilégier une hypothèse isolée juste parce que les faits la confirment, encore faut-il qu'elle soit celle qui le soit le plus.
 
-En effet, imaginons que j'adopte une approche simpliste de la science et que je défende l'hypothèse "c'est le dé à 10 faces qui est utilisé". Je fais deux lancers (deux expériences) et chacun confirme mon hypothèse. Je clamme alors haut et fort "j'avais raison, c'est le dé à 10 faces, c'est prouvé !".
+En effet, imaginons que j'adopte une approche simpliste de la science et que je défende l'hypothèse "c'est le dé à 10 faces qui est utilisé". Je fais deux lancers (deux expériences) et chacun confirme mon hypothèse. Je clame alors haut et fort "j'avais raison, c'est le dé à 10 faces, c'est prouvé !".
 
 Une approche méthodique, par l'inférence bayésienne, donne un résultat plus précis en hiérarchisant les hypothèses en fonction de leur plausibilité au regard des faits.
 
-Pour conclure cette partie, voici une petite illustration :
+Pour conclure cette partie, voici une petite illustration :
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/conditional_risk.png" alt="XKCD 795" />
   <figcaption>
   — Whoa ! On devrait rentrer !
   <br/>
-  — C'est bon ! Les éclairs ne tuent que 45 américains par an, les chances de mourrir sont de seulement une sur 7000000. Continuons !
+  — C'est bon ! Les éclairs ne tuent que 45 Américains par an, les chances de mourir sont de seulement une sur 7000000. Continuons !
   </figcaption>
 </figure>
 
-Cette image illustre la différence qu'il y a entre $$P(H)$$ et $$P(H \vert x)$$ :
+Cette image illustre la différence qu'il y a entre $$P(H)$$ et $$P(H \vert x)$$ :
 
-* $$P(H)$$ : la probabilité de mourrir de la foudre
-* $$P(H \vert x)$$ : la probabilité de mourrir de la foudre en étant près d'un arbre durant un orage
+* $$P(H)$$ : la probabilité de mourir de la foudre
+* $$P(H \vert x)$$ : la probabilité de mourir de la foudre en étant près d'un arbre durant un orage
 
 ### Les curseurs de croyance
 
-Dans la vie courrante, nous n'allons pas calculer des probabilités bayésiennes à chaque fois qu'un problème se pose. Il nous serait donc fort utile de bénéficier des avantages de ce mécanisme en se débarassant d'une partie de sa complexité.
+Dans la vie courante, nous n'allons pas calculer des probabilités bayésiennes à chaque fois qu'un problème se pose. Il nous serait donc fort utile de bénéficier des avantages de ce mécanisme en se débarrassant d'une partie de sa complexité.
 
 C'est là qu'entrent en jeu les *curseurs de croyance*, ou *curseurs de plausibilité*, qui permettent de se représenter bien plus facilement et intuitivement ces mécanismes.
 
@@ -729,37 +733,37 @@ Il s'agit d'associer à chacune de nos croyances un curseur allant de 0 à 100%,
 
 Pour chaque hypothèse, j'ajuste mon curseur en fonction de mon adhésion. Et à chaque fois que j'ai connaissance d'un nouvel élément probant, je déplace mon curseur.
 
-Julia Galef illustre ce processus sous forme de diagramme[^galef_diag] :
+Julia Galef illustre ce processus sous forme de diagramme[^galef_diag] :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/curseurs.png" alt="Curseurs de croyance" />
 
-Dans la colonne de gauche, on trouve nos hypothèses, telle qu'on y adhère à un instant *t*. Par exemple je crois à l'hypothèse H1 à 40% et à l'hypothèse H2 à 60%.
+Dans la colonne de gauche, on trouve nos hypothèses, tel qu'on y adhère à un instant *t*. Par exemple je crois à l'hypothèse H1 à 40% et à l'hypothèse H2 à 60%.
 
-Le carré central représente les nouveaux éléments probants qui arrivent à notre connaissance. Les deux zones V1 et V2 représentent la *vraissemblance* des résultats au vu des hypothèses H1 et H2. Plus la zone est large, plus la vraissemblance est forte.
+Le carré central représente les nouveaux éléments probants qui arrivent à notre connaissance. Les deux zones V1 et V2 représentent la *vraisemblance* des résultats au vu des hypothèses H1 et H2. Plus la zone est large, plus la vraisemblance est forte.
 
-Dans la colonne de droite, on retrouve nos hypothèses, ajustées en fonction des vraissemblances. On augmente notre adhésion en fonction de la surface des rectangles de la zone centrale.
+Dans la colonne de droite, on retrouve nos hypothèses, ajustées en fonction des vraisemblances. On augmente notre adhésion en fonction de la surface des rectangles de la zone centrale.
 
 Pour que ça soit plus clair, prenons un exemple concret, en nous aidant de l'excellent outil visuel créé par Christophe Michel.
 
 Il peut être utilisé en ligne (<https://www.geogebra.org/m/Y3epyFff>) ou ouvert sur l'application GeoGebra sur ordinateur ou smartphone.
 
-Il permet une interraction avec le diagramme et de jouer avec les probabilités :
+Il permet une interaction avec le diagramme et de jouer avec les probabilités :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_00.png" alt="Bayes N&B" />
 
-Pour notre exemple, imaginons que je me demandent qui a construit les pyramides d'Égypte et que j'ai trois hypothèses :
+Pour notre exemple, imaginons que je me demande qui a construit les pyramides d'Égypte et que j'ai trois hypothèses :
 
-* H0 : les Égyptiens antiques ont construit les pyramides. J'y crois à 19,38%.
-* H1 : les extraterrestres ont construit les pyramides. J'y crois à 32,56%.
-* H2 : les pyramides ont été construites par les romains (et ont donc environ 2000 ans). J'y crois à 48,06%.
+* H0 : les Égyptiens antiques ont construit les pyramides. J'y crois à 19,38%.
+* H1 : les extraterrestres ont construit les pyramides. J'y crois à 32,56%.
+* H2 : les pyramides ont été construites par les Romains (et ont donc environ 2000 ans). J'y crois à 48,06%.
 
-Or j'apprends qu'on a daté les pyramides à plus de 4000 ans et le test me semble fiable. Les résultats de l'expérience sont vraissemblables de la même manière dans le cas des hypothèses H0 et H1 et ne le sont pas pour H2. J'adapte mes curseurs en conséquence :
+Or j'apprends qu'on a daté les pyramides à plus de 4000 ans et le test me semble fiable. Les résultats de l'expérience sont vraisemblables de la même manière dans le cas des hypothèses H0 et H1 et ne le sont pas pour H2. J'adapte mes curseurs en conséquence :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_01.png" alt="Bayes N&B" />
 
 Je crois maintenant en H0 à 35,58%, en H1 à 59,78% et en H2 à 4,64%.
 
-Un nouvel élément de preuve apparait : les bâtisseurs utilisaient des outils antiques et on a pû démontrer leur efficacité pour découper le granit. Cet faits sont vraiseemblables pour H0 et H2 et non pour H1 (les extraterrestres ont une technologie avancée). J'adapte mes curseurs en conséquence :
+Un nouvel élément de preuve apparait : les bâtisseurs utilisaient des outils antiques, et on a pu démontrer leur efficacité pour découper le granite. Ces faits sont vraisemblables pour H0 et H2 et non pour H1 (les extraterrestres ont une technologie avancée). J'adapte mes curseurs en conséquence :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_02.png" alt="Bayes N&B" />
 
@@ -767,14 +771,14 @@ Je crois maintenant en H0 à 82,06%, en H1 à 7,25% et en H2 à 10,69%.
 
 Et, jusqu'à l'apparition de nouveaux éléments probants, ce sera ma croyance.
 
-*Note : dans le cas où les probabilités de plusieurs hypothèses sont très proches, il est sage de ne pas choisir une hypothèse, même si elle est la plus probable, et d'attendre d'autres éléments de preuve.*
+*Note : dans le cas où les probabilités de plusieurs hypothèses sont très proches, il est sage de ne pas choisir une hypothèse, même si elle est la plus probable, et d'attendre d'autres éléments de preuve.*
 
 ## Les niveaux de preuve
 
 Retrouvez un résumé de cette section ici : [[En bref] Les niveaux de preuve]({{ site.baseurl }}/bref/niveaux-preuve)
 {: .read-short-info}
 
-Une preuve est, d'une manière très générale[^antidote_preuve] :
+Une preuve est, d'une manière très générale[^antidote_preuve] :
 
 > Ce qui sert à établir qu'un fait est vrai.
 
@@ -815,33 +819,33 @@ On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante**�
   * Témoignage individuel indirect
   * Sagesse populaire
 
-*Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice.*
+*Note : des études dont la méthodologie est mauvaise (manque de contrôle, biais statistiques ou d'échantillonnage, etc.) et qui sont de fait rejetées par la communauté scientifique peuvent parfois avoir une valeur d'indice.*
 
-Ainsi, lorque nous mettons à jour nos curseurs de croyance, il nous faut prendre en compte le niveau de fiabilité des preuves apportées.
+Ainsi, lorsque nous mettons à jour nos curseurs de croyance, il nous faut prendre en compte le niveau de fiabilité des preuves apportées.
 
-Imaginons par exemple que je me docummente sur l'efficacité de la sève d'artémisia sur les brûlures du premier degré. A un instant *t* je dispose de deux preuves : un essai comparatif randomisé indiquant son efficacité et une étude cas-témoin indiquant son inneficacité. Dans ce cas, placer mon curseur à 50% serait fautif, ce serait considérer que les deux études ont la même valeur probante. Je vais plutôt le placer à 80% en faveur de l'efficacité. En effet l'essai comparatif randomisé est une preuve de grade B, donc plus probante que l'étude cas-témoin de grade C+.
+Imaginons par exemple que je me documente sur l'efficacité de la sève d'artémisia sur les brulures du premier degré. A un instant *t* je dispose de deux preuves : un essai comparatif randomisé indiquant son efficacité et une étude cas-témoin indiquant son inefficacité. Dans ce cas, placer mon curseur à 50% serait fautif, ce serait considérer que les deux études ont la même valeur probante. Je vais plutôt le placer à 80% en faveur de l'efficacité. En effet l'essai comparatif randomisé est une preuve de grade B, donc plus probante que l'étude cas-témoin de grade C+.
 
-Les niveaux de preuve ne sont pas les seuls critères à prendre en compte. Bien sûr on peut exclure les études qui ont des biais méthodologiques, d'échantillonage, d'évaluation, etc., mais il faut également considérer la taille des échantillons, les traitements statistiques des données, etc.
+Les niveaux de preuve ne sont pas les seuls critères à prendre en compte. Bien sûr on peut exclure les études qui ont des biais méthodologiques, d'échantillonnage, d'évaluation, etc., mais il faut également considérer la taille des échantillons, les traitements statistiques des données, etc.
 
 Je ne rentre pas dans les détails et ferai peut-être un article dédié pour expliquer tout cela.
 
 ## Quelques outils méthodologiques
 
-Dans cette section je décrit brièvement quelques outils méthodologiques de base pour mener à bien une réflexion critique.
+Dans cette section je décris brièvement quelques outils méthodologiques de base pour mener à bien une réflexion critique.
 
 ### Partir des faits
 
-Toute explication non etayée par des faits *qui la démontrent* n'est pas une preuve, aussi cohérente soit-elle. Ce qui nous intéresse ce n'est pas à quel point une hypothèse explique les faits, mais à quel point les faits confirment l'hypothèse et si celle-ci est la plus plausible parmi toutes les hypothèses au vu des faits.
+Toute explication non étayée par des faits *qui la démontrent* n'est pas une preuve, aussi cohérente soit-elle. Ce qui nous intéresse ce n'est pas à quel point une hypothèse explique les faits, mais à quel point les faits confirment l'hypothèse et si celle-ci est la plus plausible parmi toutes les hypothèses au vu des faits.
 
 Il est donc important d'aller des faits vers les hypothèses et non l'inverse. Cela ne signifie pas que nous ne pouvons postuler aucune hypothèse sans avoir d'abord examiné les faits. Bien souvent d'ailleurs on nous présente plusieurs hypothèses avant que nous ayons eu l'occasion de nous renseigner sur les faits.
 
-Il s'agit de ne pas favoriser une hypothèse à priori, et de ne pas chercher les faits qui valident une hypothèse mais bien d'évaluer les hypothèses au regard des faits.
+Il s'agit de ne pas favoriser une hypothèse à priori, et de ne pas chercher les faits qui valident une hypothèse, mais bien d'évaluer les hypothèses au regard des faits.
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/methode.jpg" alt="Méthode scientifique" />
 
 ### Assurons-nous bien du fait, avant de nous inquiéter de la cause
 
-Bernard Le Bouyer de Fontenelle, écrivain et scientifique français, écrivait en 1687[^fontenelle] :
+Bernard Le Bouyer de Fontenelle, écrivain et scientifique français, écrivait en 1687[^fontenelle] :
 
 > Il serait difficile de rendre raison des histoires et des oracles que nous avons rapportés, sans avoir recours aux démons, mais aussi tout cela est-il bien vrai ? Assurons-nous bien du fait, avant de nous inquiéter de la cause. Il est vrai que cette méthode est bien lente pour la plupart des gens, qui courent naturellement à la cause, et passent par-dessus la vérité du fait ; mais enfin nous éviterons le ridicule d'avoir trouvé la cause de ce qui n'est point.
 >
@@ -849,19 +853,18 @@ Bernard Le Bouyer de Fontenelle, écrivain et scientifique français, écrivait 
 
 Cette maxime, *assurons-nous bien du fait, avant de nous inquiéter de la cause*, est l'un des piliers de la pensée critique.
 
-Pour en savoir plus :
+Pour en savoir plus :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/IduaHsRywuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Distinguer précision et exactitude
 
-Dans son livre *L'art du doute ou Comment s'affranchir du prêt-à-penser*[^broch_doute], Henri Broch, le "pêre de la zététique moderne" fait la distinction entre ce qui est précis et ce qui est exact :
+Dans son livre *L'art du doute ou Comment s'affranchir du prêt-à-penser*[^broch_doute], Henri Broch, le "père de la zététique moderne" fait la distinction entre ce qui est précis et ce qui est exact :
 
 * Précis c'est quand les résultats sont groupés, quand les éléments pointent dans la même direction
 * Exact c'est quand la moyenne des résultats est proche de la réalité
 
 On peut illustrer les 4 cas possibles avec l'image de la cible, dont le centre est la vérité, et des impacts, qui représentent nos valeurs, indices, etc.
-
 
 <figure>
   <img class="medium" src="{{ site.baseurl }}/assets/images/pe1.png" alt="Ni précis ni exact" />
@@ -870,12 +873,12 @@ On peut illustrer les 4 cas possibles avec l'image de la cible, dont le centre e
 
 <figure>
   <img class="medium" src="{{ site.baseurl }}/assets/images/pe2.png" alt="Précis mais pas exact" />
-  <figcaption>Précis mais pas exact.</figcaption>
+  <figcaption>Précis, mais pas exact.</figcaption>
 </figure>
 
 <figure>
   <img class="medium" src="{{ site.baseurl }}/assets/images/pe3.png" alt="Pas précis mais exact" />
-  <figcaption>Pas précis mais exact.</figcaption>
+  <figcaption>Pas précis, mais exact.</figcaption>
 </figure>
 
 <figure>
@@ -887,7 +890,7 @@ On peut illustrer les 4 cas possibles avec l'image de la cible, dont le centre e
 
 #### Implication, contraposée, réciproque, équivalence
 
-En logique cest trois termes sont centraux.
+En logique ces trois termes sont centraux.
 
 L'implication exprime une relation de causalité selon laquelle une proposition en entraine une autre si elle est vraie. Elle se note $$A \Rightarrow B$$ et se lit *A implique B*.
 
@@ -901,25 +904,25 @@ On parle d'équivalence quand une implication et sa réciproque sont toutes les 
 
 Derrière ces termes latins se cachent deux principes très simples et fondamentaux de la logique.
 
-Le *modus ponens* est la *déduction du conséquent*. C'est à dire que si *A implique B* et que *A est vrai*, alors *B est vrai*. On écrit formellement cette relation :
+Le *modus ponens* est la *déduction du conséquent*. C'est à dire que si *A implique B* et que *A est vrai*, alors *B est vrai*. On écrit formellement cette relation :
 
 $$A, A \Rightarrow B \vdash B$$
 
 Cela se lit *de A et A implique B on déduit B*.
 
-Par exemple :
+Par exemple :
 
 1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
 2. Or le saumon est un poisson. ($$A$$)
 3. Donc le saumon respire sous l'eau. ($$B$$)
 
-Le *modus tollens* est la *validité de la contraposée*. La contraposée de *A implique B* est *non A implique non B*. On écrit formellement cette relation :
+Le *modus tollens* est la *validité de la contraposée*. La contraposée de *A implique B* est *non A implique non B*. On écrit formellement cette relation :
 
 $$A \Rightarrow B \vdash \neg B \Rightarrow \neg A$$
 
 Cela se lit *de A implique B on déduit non B implique non A*.
 
-Par exemple :
+Par exemple :
 
 1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
 2. Or l'ours ne respire pas sous l'eau. ($$\neg B$$)
@@ -927,27 +930,27 @@ Par exemple :
 
 #### Affirmation du conséquent et négation de l'antécédent
 
-Les deux principes précédents sont logiquement valides, mais il existes deux raisonnement fallacieux très similaires dans leur forme qui sont logiquement invalides : l'*affirmation du conséquent* et la *négation de l'antécédent*.
+Les deux principes précédents sont logiquement valides, mais il existe deux raisonnements fallacieux très similaires dans leur forme qui sont logiquement invalides : l'*affirmation du conséquent* et la *négation de l'antécédent*.
 
-L'*affirmation du conséquent* c'est considérer une condition suffisante comme nécessaire. Elle dit que si *A implique B* et que *B est vrai*, alors *A est vrai*. On écrit formellement cette affirmation fausse :
+L'*affirmation du conséquent* c'est considérer une condition suffisante comme nécessaire. Elle dit que si *A implique B* et que *B est vrai*, alors *A est vrai*. On écrit formellement cette affirmation fausse :
 
 $$B, A \Rightarrow B \vdash A$$
 
 Cela se lit *de B et A implique B on déduit A*.
 
-Par exemple :
+Par exemple :
 
 1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
 2. Or le crabe respire sous l'eau. ($$B$$)
 3. Donc le crabe est un poisson. ($$A$$)
 
-La *négation de l'antécédent* c'est considérer que la réciproque d'une implication est toujours vraie. Elle dit que si *A implique B* alors *non A implique non B*. On écrit formellement cette affirmation fausse :
+La *négation de l'antécédent* c'est considérer que la réciproque d'une implication est toujours vraie. Elle dit que si *A implique B* alors *non A implique non B*. On écrit formellement cette affirmation fausse :
 
 $$A \Rightarrow B \vdash \neg A \Rightarrow \neg B$$
 
 Cela se lit *de A implique B on déduit non A implique non B*.
 
-Par exemple :
+Par exemple :
 
 1. On sait que tous les poissons respirent sous l'eau. ($$A \Rightarrow B$$)
 2. Or le crabe n'est pas un poisson. ($$\neg A$$)
@@ -955,7 +958,7 @@ Par exemple :
 
 ### Bien définir l'hypothèse testée
 
-Lorsqu'on veut s'assurer de la véracité d'une hypothèse, il est très important de bien la définire avant d'investiguer. On ne teste qu'un seul paramètre à la fois, tous les autres paramètres étant égaux par ailleurs.
+Lorsqu'on veut s'assurer de la véracité d'une hypothèse, il est très important de bien la définir avant d'investiguer. On ne teste qu'un seul paramètre à la fois, tous les autres paramètres étant égaux par ailleurs.
 
 Prenons un exemple.
 
@@ -963,20 +966,20 @@ Lors d'un voyage en Armorique je croise le druide Panoramix, qui m'explique que 
 
 <img class="picture medium" src="{{ site.baseurl }}/assets/images/panoramix.jpg" alt="Panoramix" />
 
-Ah ? Je décide de tester. Je ceuille du gui à 20h, en jeans, avec des chaussures, dans un tilleul avec un serpe en argent. Et, effectivement, la potion ne marche pas. Je teste ensuite en faisant comme Panoramix a dit et là, ça marche.
+Ah ? Je décide de tester. Je cueille du gui à 20h, en jeans, avec des chaussures, dans un tilleul avec un serpe en argent. Et, effectivement, la potion ne marche pas. Je teste ensuite en faisant comme Panoramix a dit et là, ça marche.
 
 Ai-je bien testé son affirmation ? Non. En effet, j'ai fait varier tous les paramètres en même temps. Dans ce cas, comment savoir s'ils ont tous un effet.
 
-J'aurais par exemple pu tester l'influence de l'heure de ceuillette en ajoutant du gui cueilli à 20h, en toge blanche, pieds nus, dans un chêne avec une serpe d'or. Si dans ce cas cela ne marche pas (en supposant qu'on a répliqué l'expérience de nombreuses fois, etc.) alors c'est bien que l'horaire a une influence. Si ça marche quand même, c'est qu'il n'a pas d'influence.
+J'aurais par exemple pu tester l'influence de l'heure de cueillette en ajoutant du gui cueilli à 20h, en toge blanche, pieds nus, dans un chêne avec une serpe d'or. Si dans ce cas cela ne marche pas (en supposant qu'on a répliqué l'expérience de nombreuses fois, etc.) alors c'est bien que l'horaire a une influence. Si ça marche quand même, c'est qu'il n'a pas d'influence.
 
 ### Avoir des paramètres clairs, objectivables, quantifiables
 
 Afin de pouvoir éprouver des hypothèses, il faut définir des paramètres qui ne soient pas ambigus.
 
-Par exemple, si on charche à éprouver l'affirmation selon laquelle diffuser de la musique favorise la croissance des plantes, il faut par exemple préciser :
+Par exemple, si on cherche à éprouver l'affirmation selon laquelle diffuser de la musique favorise la croissance des plantes, il faut par exemple préciser :
 
 * Parle-t-on de toute musique classique ou seulement une sous-catégorie ?
-* Quelle type de diffusion ? (durée, fréquence, volume, etc.)
+* Quel type de diffusion ? (durée, fréquence, volume, etc.)
 * Est-ce que ça marche sur toutes les plantes ?
 * Combien de temps doit-on attendre avant d'avoir un effet ?
 * Qu'est-ce qu'on mesure ? (taille des plantes, nombre de graines, la masse sèche, etc.)
@@ -985,31 +988,31 @@ Par exemple, si on charche à éprouver l'affirmation selon laquelle diffuser de
 
 ### Comparer à un échantillon standard
 
-Lors de toute thérapie, des effets contextuels influent sur les symptômes et la rémission des patients.[^blasi] Le plus connu de ces effets est *l'effet placébo*, qui est un procédé thérapeutique n'ayant pas d'efficacité propre mais agissant sur le patient par des mécanismes psychologique et physiologiques.
+Lors de toute thérapie, des effets contextuels influent sur les symptômes et la rémission des patients.[^blasi] Le plus connu de ces effets est *l'effet placébo*, qui est un procédé thérapeutique n'ayant pas d'efficacité propre mais agissant sur le patient par des mécanismes psychologiques et physiologiques.
 
 Si on teste une thérapie, par exemple un nouveau médicament, il nous faut déterminer s'il a une efficacité propre, c'est-à-dire s'il est plus efficace que la guérison spontanée du corps combinée aux effets contextuels.
 
-Par exemple si je veux tester l'efficacité du jus de citron sur les maux de tête, il n'est pas suffisant de l'administrer à des personnes souffrant de maux de têtes et de regarder si une heure après elles vont mieux. En effet, peut-être ont-elles guéri par effet placébo, ou même simplement parce que le mal de tête s'est naturellement résorbé.
+Par exemple si je veux tester l'efficacité du jus de citron sur les maux de tête, il n'est pas suffisant de l'administrer à des personnes souffrant de maux de tête et de regarder si une heure après elles vont mieux. En effet, peut-être ont-elles guéri par effet placébo, ou même simplement parce que le mal de tête s'est naturellement résorbé.
 
-Le protocole standard vise à comparer deux groupes, un (le *groupe test*) auquel on administre le médicament évalué et l'autre (le *groupe contrôle*) auquel on donne un placébo en tout point identique (même couleur, forme, odeur, goût, etc.) mais auquel on a retiré le principe actif que l'on veut tester. On compare ensuite les effets dans les deux groupes.
+Le protocole standard vise à comparer deux groupes, un (le *groupe test*) auquel on administre le médicament évalué et l'autre (le *groupe contrôle*) auquel on donne un placébo en tout point identique (même couleur, forme, odeur, gout, etc.), mais auquel on a retiré le principe actif que l'on veut tester. On compare ensuite les effets dans les deux groupes.
 
-Ce protocole est d'une extrême importance car les effets contextuels ont une grosse influence sur l'état des patients, notamment sur les douleurs, nausées et fatigues.[^blasi]
+Ce protocole est d'une extrême importance, car les effets contextuels ont une grosse influence sur l'état des patients, notamment sur les douleurs, nausées et fatigues.[^blasi]
 
 Les effets contextuels et les protocoles de tests cliniques feront peut-être l'objet d'un article ultérieur, bien plus détaillé, car le sujet est vaste.
 
 Ce qu'il faut bien retenir, c'est qu'il faut toujours s'assurer de comparer nos résultats avec un groupe contrôle, même lorsqu'il ne s'agit pas de tests médicaux.
 
-Par exemple si on cherche à mettre à l'épreuve les prétentions d'un sourcier, il faut comparer ses capacités à trouver de l'eau à celles de personnes aussi familières que lui avec la région qu'il arpente mais qui n'ont pas de "don" de sourcier. En effet, s'il trouve de l'eau plus souvent que le commun des mortels, peut-être est-ce parce qu'il connait bien la fôret et sait quelles plantes poussent près des points d'eau ?
+Par exemple si on cherche à mettre à l'épreuve les prétentions d'un sourcier, il faut comparer ses capacités à trouver de l'eau à celles de personnes aussi familières que lui avec la région qu'il arpente, mais qui n'ont pas de "don" de sourcier. En effet, s'il trouve de l'eau plus souvent que le commun des mortels, peut-être est-ce parce qu'il connait bien la forêt et sait quelles plantes poussent près des points d'eau ?
 
 Dans cet exemple, idéalement on devrait monter un protocole indépendant de l'environnement. Par exemple on pourrait prendre un terrain complètement uniforme sous lequel on fait passer un large tuyau dans lequel on peut envoyer de l'eau à volonté. On demande au sourcier de se placer dessus et de déterminer si oui ou non de l'eau coule sous ses pieds.
 
-D'ailleurs, de nombreux protocoles de ce genre ont été mis en place pour tester des centaines de sourcier. Aucun sourcier n'a pû faire montre d'une efficacité supérieure au hasard.[^marks] [^hines] [^regal] [^vogt]
+D'ailleurs, de nombreux protocoles de ce genre ont été mis en place pour tester des centaines de sourciers. Aucun sourcier n'a pû faire montre d'une efficacité supérieure au hasard.[^marks] [^hines] [^regal] [^vogt]
 
-Richard Monvoisin illustre la nécessité d'un groupe contrôle par l'histoire du panneau anti-girafe[^hauteurs] :
+Richard Monvoisin illustre la nécessité d'un groupe contrôle par l'histoire du panneau anti-girafe[^hauteurs] :
 
 > Deux types sont dans le désert. Il y en a un qui est en train de planter un panneau.
 >
-> L'autre lui demande :
+> L'autre lui demande :
 >
 > — Mais tu fais quoi ?
 >
@@ -1027,56 +1030,56 @@ Ce point méthodologique découle du *principe de parcimonie des hypothèses* vu
 
 On appelle *hypothèse nulle* cette hypothèse de départ qui postule l'égalité des paramètres statistiques. Par exemple l'hypothèse nulle dans un test clinique postule qu'il n'y a pas de différence d'effet entre un groupe qui prend un médicament et un autre qui prend un placébo. Le but de l'essai clinique est alors de vérifier si cette hypothèse se confirme ou si le médicament a bien un effet propre.
 
-### Faire un échantillonage sans biais
+### Faire un échantillonnage sans biais
 
 Lorsqu'on choisit un échantillon (notamment de population) pour effectuer des tests, il doit être justifié et représentatif de ce qu'on veut tester. Par exemple si on veut évaluer le taux de confiance des Français en la médecine, on aura des résultats très différents selon qu'on fait notre sondage à la sortie du bar du coin ou de la faculté de médecine.
 
-Les méthodes d'échantillonages peuvent êtres très complexes et varier grandement en fonction du type de problème. Voici cependant deux conseils, très basiques, pour avoir une première approche pas trop mauvaise.
+Les méthodes d'échantillonnages peuvent être très complexes et varier grandement en fonction du type de problème. Voici cependant deux conseils, très basiques, pour avoir une première approche pas trop mauvaise.
 
-Tout d'abord l'échantillon doit éviter les biais de sélection, c'est à dire qu'il ne doit pas contenir de sous-groupe déséquilibré pouvant infléchir les résultats. Par exemple si je teste l'efficacité d'un médicament pour les maux de tête, je ne dois pas avoir plus de gens qui ont des migraines chroniques dans le groupe contrôle que dans le groupe test.
+Tout d'abord l'échantillon doit éviter les biais de sélection, c'est-à-dire qu'il ne doit pas contenir de sous-groupe déséquilibré pouvant infléchir les résultats. Par exemple si je teste l'efficacité d'un médicament pour les maux de tête, je ne dois pas avoir plus de gens qui ont des migraines chroniques dans le groupe contrôle que dans le groupe test.
 
-Ensuite l'échantillon doit être suffisament grand pour que le test soit à la fois puissant (être en mesure de rejeter l'hypothèse nulle avec une grande probabilité si celle-ci est fausse) et significatif (être en mesure de conserver l'hypothèse nulle avec une grande probabilité si celle-ci est vraie).
+Ensuite l'échantillon doit être suffisamment grand pour que le test soit à la fois puissant (être en mesure de rejeter l'hypothèse nulle avec une grande probabilité si celle-ci est fausse) et significatif (être en mesure de conserver l'hypothèse nulle avec une grande probabilité si celle-ci est vraie).
 
-*Note : les paragraphes suivants contiennent quelques formules de maths. Vous n'avez pas besoin de les comprendre. Retenez seulement qu'on peut facilement évaluer la fiabilité de la taille d'un échantillon.*
+*Note : les paragraphes suivants contiennent quelques formules de maths. Vous n'avez pas besoin de les comprendre. Retenez seulement qu'on peut facilement évaluer la fiabilité de la taille d'un échantillon.*
 
-D'une manière générale, on peut avoir une idée grossière de la taille minimale que devrait avoir un échantillon pour éviter les biais statistiques (en supposant qu'il soit par ailleurs représentatif) avec la formule suivante :
+D'une manière générale, on peut avoir une idée grossière de la taille minimale que devrait avoir un échantillon pour éviter les biais statistiques (en supposant qu'il soit par ailleurs représentatif) avec la formule suivante :
 
 $$N = \frac{t^2 \cdot p \cdot (1-p)}{m^2}$$
 
-Avec :
+Avec :
 
 * $$N$$ la taille minimale de l'échantillon
 * $$t$$ le niveau de confiance selon *la loi normale centrée réduite* (par ex. 1.96 pour 95% de confiance)
-* $$p$$ la proportion estimée de la population qui présente la caractéristique (lorsque inconnue, on utilise $$p = 0.5$$, c'est-à-dire la [dispersion statistique](https://en.wikipedia.org/wiki/Statistical_dispersion) la plus grande)
+* $$p$$ la proportion estimée de la population qui présente la caractéristique (lorsqu’inconnue, on utilise $$p = 0.5$$, c'est-à-dire la [dispersion statistique](https://en.wikipedia.org/wiki/Statistical_dispersion) la plus grande)
 * $$m$$ la marge d'erreur tolérée
 
-Note 1 : le niveau de confiance indique le pourcentage de résultats qui sont propablement vrais (plus ou moins la marge d'erreur). Par exemple si on a un niveau de confiance de 90% et une marge d'erreur de 5%, alors on peut dire que 90% de nos résultats sont vrais à 5% près.
+Note 1 : le niveau de confiance indique le pourcentage de résultats qui sont probablement vrais (plus ou moins la marge d'erreur). Par exemple si on a un niveau de confiance de 90% et une marge d'erreur de 5%, alors on peut dire que 90% de nos résultats sont vrais à 5% près.
 
-Note 2 : on peut calculer facilement la valeur de $$t$$ dans Excel en utilisant la formule *LOI.NORMALE.STANDARD.INVERSE.N*.
+Note 2 : on peut calculer facilement la valeur de $$t$$ dans Excel en utilisant la formule *LOI.NORMALE.STANDARD.INVERSE.N*.
 
-Par exemple, imaginons que nous volons tester si les êtres humains sont sensibles aux ondes 5G, avec 95% de confiance et 1% de marge d'erreur. On a :
+Par exemple, imaginons que nous volons tester si les êtres humains sont sensibles aux ondes 5G, avec 95% de confiance et 1% de marge d'erreur. On a :
 
 $$N = \frac{1.96^2 \cdot 0.5 \cdot (1-0.5)}{0.01^2} = 9604$$
 
 Notre étude devrait donc porter sur au moins 9604 personnes pour éviter les biais statistiques.
 
-On peut se servir de la même formule pour évaluer, grossièrement, la confiance que l'on peut accorder à un test statistique en fonction de la taille de l'échantillon. En effet, on peut l'écrire ainsi :
+On peut se servir de la même formule pour évaluer, grossièrement, la confiance que l'on peut accorder à un test statistique en fonction de la taille de l'échantillon. En effet, on peut l'écrire ainsi :
 
 $$t = \sqrt{ \frac{N \cdot m^2}{p \cdot (1-p)} }$$
 
-Par exempel sin on avait conduit notre étude précédente sur un échantillon de 1000 personnes, on aurait :
+Par exemple sin on avait conduit notre étude précédente sur un échantillon de 1000 personnes, on aurait :
 
 $$t = \sqrt{ \frac{1000 \cdot 0.01^2}{0.5 \cdot (1-0.5)} } \approx 0.63$$
 
-Ce qui correspond (via la formule *LOI.NORMALE.STANDARD.N* sous Excel) à une confiance à 74%, c'est à dire que 74% des résultats sont dans la marge d'erreur acceptable.
+Ce qui correspond (via la formule *LOI.NORMALE.STANDARD.N* sous Excel) à une confiance à 74%, c'est-à-dire que 74% des résultats sont dans la marge d'erreur acceptable.
 
-Ces symboles mathématiques peuvent parraitre compliqués mais ler utilisation est en réalité très simple. Leur utilisation n'est pas très courrante, mais lorsqu'une étude nous semble étonnante il peut être utile de vérifier la fiabilité de son échantillon.
+Ces symboles mathématiques peuvent paraitre compliqués, mais ler utilisation est en réalité très simple. Leur utilisation n'est pas très courant, mais lorsqu'une étude nous semble étonnante il peut être utile de vérifier la fiabilité de son échantillon.
 
 ### Répliquer les études
 
 Comme vu précédemment, dans tout calcul statistique il y a une marge d'erreur (pour ne pas avoir d'erreur il faudrait un échantillon infini). Si par exemple on accepte une marge d'erreur de 5%, on aura en moyenne 5% de faux positifs (ou de faux négatifs), donc de résultats faux.
 
-C'est pour cela qu'une seule étude n'est jamais une preuve suffisante pour ammener à un consessus scientifique.
+C'est pour cela qu'une seule étude n'est jamais une preuve suffisante pour amener à un consensus scientifique.
 
 C'est aussi pour cette raison que sur de nombreux sujets on peut trouver une petite portion d'études qui montrent l'inverse du consensus. C'est uniquement si cette proportion est significativement plus grande que la marge d'erreur qu'il y a probablement un problème plus important.
 
@@ -1086,25 +1089,25 @@ C'est aussi pour cette raison que sur de nombreux sujets on peut trouver une pet
 
 Imaginez que vous voulez tester l'efficacité d'un nouveau médicament pour les maux de tête. Vous avez déterminé des critères objectivables, sélectionné un large échantillon représentatif de la population et séparé les sujets au hasard en deux groupes, l'un *contrôle* qui reçoit un placébo et l'autre *test* qui reçoit le médicament.
 
-Vous allez voir les sujets du groupe contrôle : "Bonjour Monsieur Bidule ! Voici votre placébo ! Alors, vous avez toujours mal ?".
+Vous allez voir les sujets du groupe contrôle : "Bonjour Monsieur Bidule ! Voici votre placébo ! Alors, vous avez toujours mal ?".
 
 Non, évidemment, vous avez fait les choses bien et les patients ne savent pas s'ils ont reçu le placébo ou le médicament. On appelle cela une étude en *simple aveugle*.
 
-Pourquoi *simple* ? Parce que vous-mêmes savez si vous administrez le médicament ou le placébo. Or, si vous avez envie de prouver l'efficacité de votre médicament, il y a de fortes chances que vous serez partial dans vos évaluations, même inconsciamment. On appelle ça le *biais de l'observateur*.[^mahtani] [^hrobjartsson]
+Pourquoi *simple* ? Parce que vous-mêmes savez si vous administrez le médicament ou le placébo. Or, si vous avez envie de prouver l'efficacité de votre médicament, il y a de fortes chances que vous serez partial dans vos évaluations, même inconsciemment. On appelle ça le *biais de l'observateur*.[^mahtani] [^hrobjartsson]
 
-Pour éviter ça, on a créé le protocole en *double aveugle* : ni le patient ni l'examinateur ne sait si le patient a reçu le médicament ou le placébo.
+Pour éviter ça, on a créé le protocole en *double aveugle* : ni le patient ni l'examinateur ne sait si le patient a reçu le médicament ou le placébo.
 
-On a donc besoin d'une tierce personne. Celle-ci va conditionner les médicament et les placébos dans un ordre aléatoire, les identifier par un numéro et garder cette identification secrète jusqu'à la fin de l'étude.
+On a donc besoin d'une tierce personne. Celle-ci va conditionner les médicaments et les placébos dans un ordre aléatoire, les identifier par un numéro et garder cette identification secrète jusqu'à la fin de l'étude.
 
-Ensuite l'observateur note les résultats de l'expérience. Par exemple :
+Ensuite l'observateur note les résultats de l'expérience. Par exemple :
 
-* Patient avec le "médicament" n°1 : plus de douleur après 15 minutes
-* Patient avec le "médicament" n°2 : plus de douleur après 27 minutes
-* Patient avec le "médicament" n°3 : plus de douleur après 6 minutes, apparition de nausées
-* Patient avec le "médicament" n°4 : plus de douleur après 20 minutes
+* Patient avec le "médicament" n°1 : plus de douleur après 15 minutes
+* Patient avec le "médicament" n°2 : plus de douleur après 27 minutes
+* Patient avec le "médicament" n°3 : plus de douleur après 6 minutes, apparition de nausées
+* Patient avec le "médicament" n°4 : plus de douleur après 20 minutes
 * Etc.
 
-Enfin, il fait le lien avec les informations de celui qui a conditionné les produits. Par exemple :
+Enfin, il fait le lien avec les informations de celui qui a conditionné les produits. Par exemple :
 
 * N°1 = médicament
 * N°2 = placébo
@@ -1112,49 +1115,49 @@ Enfin, il fait le lien avec les informations de celui qui a conditionné les pro
 * N°4 = médicament
 * Etc.
 
-C'est à ce stade qu'on peut ajoouter un niveau d'aveugle supplémentaire et faire un protocole en *triple aveugle* : on donne les résultats ainsi obtenus à un statisticien, mais sans lui dire quelles données correspondent au placébo ou au médicament.
+C'est à ce stade qu'on peut ajouter un niveau d'aveugle supplémentaire et faire un protocole en *triple aveugle* : on donne les résultats ainsi obtenus à un statisticien, mais sans lui dire quelles données correspondent au placébo ou au médicament.
 
-Le double aveugle est le standard minimum a atteindre pour qu'une étude soit robuste. La patie triple aveugle est moins significative puisque les données collectées sont figées et ne peuvent plus être influencée. Pour cette raison la plupart des études se satisfont du double aveugle.
+Le double aveugle est le standard minimum a atteindre pour qu'une étude soit robuste. La partie triple aveugle est moins significative puisque les données collectées sont figées et ne peuvent plus être influencée. Pour cette raison la plupart des études se satisfont du double aveugle.
 
 ### Chercher à réfuter
 
-La démarche scientifique commence toujours par tenter de réfuter les nouvelles hypothèses, par chercher l'erreur. En effet, si l'hypothèse est réfutée alors il ne sert à rien de chercher à l'ettayer.
+La démarche scientifique commence toujours par tenter de réfuter les nouvelles hypothèses, par chercher l'erreur. En effet, si l'hypothèse est réfutée alors il ne sert à rien de chercher à l'étayer.
 
-Par exemple : voici 4 cartes à jouer classiques, sans trucage (double face, etc.). Je vous dit que, parmis ces cartes, si une carte a une dame d'un côté alors le dos de la carte est bleu. Quelles cartes devez-vous retourner pour vérfier cette hypothèse ?
+Par exemple : voici 4 cartes à jouer classiques, sans trucage (double face, etc.). Je vous dit que, parmi ces cartes, si une carte a une dame d'un côté alors le dos de la carte est bleu. Quelles cartes devez-vous retourner pour vérifier cette hypothèse ?
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/cards.png" alt="Cartes" />
 
-Il faut retourner :
+Il faut retourner :
 
 * La première carte pour vérifier que le dos n'est pas rouge
 * La dernière carte pour vérifier qu'il n'y a pas une dame
 
 On cherche à réfuter l'hypothèse.
 
-En effet, si on retournait le deuxième carte, que la couleur du dos soit bleue ou rouge ne nous apprned rien sur l'hypothèse testée.
+En effet, si on retournait le deuxième carte, que la couleur du dos soit bleue ou rouge ne nous apprend rien sur l'hypothèse testée.
 
 De même pour la troisième carte. En effet, qu'on y trouve une dame ou non ne nous dit rien sur la validité de l'hypothèse.
 
 ## Quelques biais de raisonnement
 
-Un biais de raisonnement, ou biais cognitif, est une distorsion dans le traitement cognitif d'une information qui peuvent conduire à des évaluation faussées, des déductions illogiques et des représentations non rationnelles de la réalité.[^kahneman_2] [^ariely] [^baron]
+Un biais de raisonnement, ou biais cognitif est une distorsion dans le traitement cognitif d'une information qui peut conduire à des évaluations faussées, des déductions illogiques et des représentations non rationnelles de la réalité.[^kahneman_2] [^ariely] [^baron]
 
 Avoir connaissance de ces biais et s'en prémunir est très important pour éviter de se faire manipuler et avoir une réflexion aussi proche de la vérité que possible.
 
-Je liste ici quelques-uns des biais les plus courrants.
+Je liste ici quelques-uns des biais les plus courants.
 
 ### Ancrage
 
 **Difficulté à se départir d'une première impression.**
 
-Dans une expérience[^tversky_2] on demandait aux participants d'estimer des quantités en pourcentage (per ex. la part de pays africains à l'ONU) :
+Dans une expérience[^tversky_2] on demandait aux participants d'estimer des quantités en pourcentage (per ex. la part de pays africains à l'ONU) :
 
-* Étape 1 : on fait tourner une roue crantée allant de 10% à 90% devant les participants pour générer un pourcentage au hasard
-* Étape 2 : on présente la quantité à estimer (par exemple la part de pays africains à l'ONU)
-* Étape 3 : on demande si les participants pensent que la réponse est plus grande ou plus petite que le pourentage généré au hasard
-* Étape 4 : on leur demande leur propre estimation
+* Étape 1 : on fait tourner une roue crantée allant de 10% à 90% devant les participants pour générer un pourcentage au hasard
+* Étape 2 : on présente la quantité à estimer (par exemple la part de pays africains à l'ONU)
+* Étape 3 : on demande si les participants pensent que la réponse est plus grande ou plus petite que le pourcentage généré au hasard
+* Étape 4 : on leur demande leur propre estimation
 
-Les résultats montrent que le pourcentage aléatoire influenbçait systématiquement la réponse. Par exemple pour estimer la part de pays africains à l'ONU, un groupe où le pourcentage généré était 10% a repondu en moyenne 25% et un autre où le pourcentage généré etait 65% a répondu en moyenne 45%.
+Les résultats montrent que le pourcentage aléatoire influençait systématiquement la réponse. Par exemple pour estimer la part de pays africains à l'ONU, un groupe où le pourcentage généré était 10% a répondu en moyenne 25% et un autre où le pourcentage généré était 65% a répondu en moyenne 45%.
 
 ### Biais culturel
 
@@ -1166,19 +1169,19 @@ Les résultats montrent que le pourcentage aléatoire influenbçait systématiqu
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/confirmation.jpg" alt="Biais de confirmation" />
 
-### Biais des coûts irrécupérables
+### Biais des couts irrécupérables
 
-**Persister dans une pratique ou croyance à cause de l'inverstissement déjà réalisé.**[^parayre]
+**Persister dans une pratique ou croyance à cause de l'investissement déjà réalisé.**[^parayre]
 
-C'est l'application de l'aversion à la perte (attacher plus d'importance à une perte qu'à un gain du même montant) aux coûts passés. Cela s'exprime par exemple lorsque quelqu'un qui a payé sa place de cinéma et se rend compte que le film est mauvais décide de rester voir le film pour "éviter de gaspiller" l'argent qu'il a de toute façon dépensé.
+C'est l'application de l'aversion à la perte (attacher plus d'importance à une perte qu'à un gain du même montant) aux couts passés. Cela s'exprime par exemple lorsque quelqu'un qui a payé sa place de cinéma et se rend compte que le film est mauvais décide de rester voir le film pour "éviter de gaspiller" l'argent qu'il a de toute façon dépensé.
 
 ### Biais du survivant
 
 **Se concentrer sur les personnes ou les choses qui ont passé un certain processus de sélection et ignorer ceux qui ne l'ont pas fait, généralement en raison de leur manque de visibilité.**[^shermer]
 
-C'est par exemple le cas lorsqu'on considère que ceux qui donnent des conférences pour éxpliquer les clés de leur succès sont pertinents en oubliant qu'on ne donne la parole qu'à ceux qui ont réussi. Ou quand on croit que "les produits étaient de meilleur qualité à l'époque" en oubliqnt que seuls ceux qui sont de qualité ont pu nous parvenir.
+C'est par exemple le cas lorsqu'on considère que ceux qui donnent des conférences pour expliquer les clés de leur succès sont pertinents en oubliant qu'on ne donne la parole qu'à ceux qui ont réussi. Ou quand on croit que "les produits étaient de meilleure qualité à l'époque" en oubliant que seuls ceux qui sont de qualité ont pu nous parvenir.
 
-Pour en savoir plus :
+Pour en savoir plus :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/9jhXy_xW89c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -1210,9 +1213,9 @@ On appelle parfois ce biais *l'effet je-le-savais-depuis_le-début*.[^roese]
 
 ### Effet Dunning-Kruger
 
-**Sur-estimer ses capacités lorqu'on est sous-qualifié pour un domaine précis.**[^kruger]
+**Sur-estimer ses capacités lorsqu'on est sous-qualifié pour un domaine précis.**[^kruger]
 
-Cet effet correspond à ce qu'on nomme parfois "montagne de la stupidité" :
+Cet effet correspond à ce qu'on nomme parfois "montagne de la stupidité" :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/dunning_kruger.png" alt="Dunning-Kruger" />
 
@@ -1226,11 +1229,11 @@ C'est par exemple quand on minimise la gravité des transgressions des personnes
 
 **Raisonner à rebours vers une cause possible parmi d'autres, généralement vers une position qu'on veut prouver.**
 
-C'est par exemple penser que le fait qu'on retrouve le nombre d'or ($$\varphi = \frac{1 + \sqrt{5}}{2} \approx 1.61803...$$) très souvent dans la nature est la preuve d'une *volonté* (un dieu, une force cosmique, etc.). En réalité le nombre d'or se retrouve car il est est la solution positive à l'équation $$x^2-x-1=0$$ et correspond donc à la résolution optimale des contraintes d'encombrement.[^douady]
+C'est par exemple penser que le fait qu'on retrouve le nombre d'or ($$\varphi = \frac{1 + \sqrt{5}}{2} \approx 1.61803...$$) très souvent dans la nature est la preuve d'une *volonté* (un dieu, une force cosmique, etc.). En réalité le nombre d'or se retrouve, car il est est la solution positive à l'équation $$x^2-x-1=0$$ et correspond donc à la résolution optimale des contraintes d'encombrement.[^douady]
 
 C'est aussi penser, en voyant plantée une flèche dans un tronc d'arbre en forêt que l'archer qui l'a envoyée avait la *volonté* de la planter ici.
 
-Dans un autre registre, c'est aussi considérer un évènement *généralement probable mais individuellement improbable* comme improbable. Par exemple imaginez que vous êtes au restaurant et que vous jouez à pile-ou-face en attendant votre repas. Cinq fois de suite vous faites pile. 3.1% de chances qua ça arrive. Incroyable !
+Dans un autre registre, c'est aussi considérer un évènement *généralement probable, mais individuellement improbable* comme improbable. Par exemple, imaginez que vous êtes au restaurant et que vous jouez à pile ou face en attendant votre repas. Cinq fois de suite vous faites pile. 3.1% de chances que ça arrive. Incroyable !
 
 En fait, pas vraiment. Imaginez que 1000 autres personnes dans le monde jouent comme vous. Sur toutes ces personnes quelle est probabilité qu'au moins une personne fasse pile cinq fois de suite ? $$1-(1-0.031)^{1000} \approx 99.9999999999978\%$$
 
@@ -1244,9 +1247,9 @@ En fait, pas vraiment. Imaginez que 1000 autres personnes dans le monde jouent c
 
 C'est considérer qu'une répartition aléatoire, dans le temps ou dans l'espace, doit s'étaler selon des intervalles plus réguliers qu'ils ne le sont en réalité.
 
-Par corollaire, cela provoque *l'illusion des séries*, la tendance à percevoir à tort des coïncidences dans des données au hasard.
+Par corolaire, cela provoque *l'illusion des séries*, la tendance à percevoir à tort des coïncidences dans des données au hasard.
 
-Par exemple, dans les images suivantes, les points ont été générés aléatoirement dans le carré de gauche mais pas dans celui de droite.
+Par exemple, dans les images suivantes, les points ont été générés aléatoirement dans le carré de gauche, mais pas dans celui de droite.
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/clustering.png" alt="Effet râteau" />
 
@@ -1256,11 +1259,11 @@ Par exemple, dans les images suivantes, les points ont été générés aléatoi
 
 On parle parfois *d'effet Julien Lepers*, du nom de l'ancien présentateur de l'émission *Question pour un Champion*. En effet beaucoup ont tendance à le considérer comme plus intelligent que les candidats alors qu'il possède les réponses à ses questions sur ses fiches.
 
-### Illusion de connaissance assymétrique
+### Illusion de connaissance asymétrique
 
 **Perception que sa connaissance des autres est supérieure a la connaissance des autres de soi.**[^pronin]
 
-C'est par exemple croire que le groupe social auquel on appartient connais mieux les autres groupes sociaux que ceux-ci ne le connaissent.[^pronin_2] C'est aussi penser mieux connaitre les autres que ceux-ci nous connaissent.[^pronin]
+C'est par exemple croire que le groupe social auquel on appartient connait mieux les autres groupes sociaux que ceux-ci ne le connaissent.[^pronin_2] C'est aussi penser mieux connaitre les autres que ceux-ci nous connaissent.[^pronin]
 
 ### Illusion de l'unique invulnérabilité
 
@@ -1270,23 +1273,23 @@ C'est par exemple croire que le groupe social auquel on appartient connais mieux
 
 **Tendance à interpréter de manière sélective ce que l'on observe selon nos intérêts, notre situation sociale, notre expérience et nos attitudes.**[^robbins]
 
-## Quelques arguments falalcieux
+## Quelques arguments fallacieux
 
 Un *argument fallacieux* est un raisonnement invalide qui peut pourtant avoir une apparence de validité logique.
 
 J'ai déjà écrit un article dédié et une brève sur le sujet. je vous encourage à les lire.
 
-Article complet : [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url rationalite/2020-06-17-quelques-arguments-fallacieux %})
+Article complet : [Quelques arguments fallacieux]({{ site.baseurl }}{% post_url rationalite/2020-06-17-quelques-arguments-fallacieux %})
 {: .read-full-info}
 
-Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fallacieux)
+Brève : [[En bref] Arguments Fallacieux]({{ site.baseurl }}/bref/arguments-fallacieux)
 {: .read-short-info}
 
 ## Quelques outils pratiques
 
 ### Chercher des études scientifiques
 
-Si vous cherchez des études scientifiques sur n'importe quel sujet, vous pouvez utiliser des méta-moteurs de recherche comme :
+Si vous cherchez des études scientifiques sur n'importe quel sujet, vous pouvez utiliser des méta-moteurs de recherche comme :
 
 #### Microsoft Academic
 
@@ -1298,11 +1301,11 @@ Moteur généraliste.
 
 Vous pouvez rechercher par année, type de publication, auteur, domaine, etc.
 
-Une fois sur la page d'au article, vous pouvez accéder à la source en cliquant sur son identifiant (généralement un DOI).
+Une fois sur la page d'un article, vous pouvez accéder à la source en cliquant sur son identifiant (généralement un DOI).
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/academic2.png" alt="Microsoft Academic 2" />
 
-Toujour sur la page de l'article sur Microsoft Academic, vous pouvez voir les autres articles cités par celui-ci, ceux qui le citent et d'autres articles liés.
+Toujours sur la page de l'article sur Microsoft Academic, vous pouvez voir les autres articles cités par celui-ci, ceux qui le citent et d'autres articles liés.
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/academic3.png" alt="Microsoft Academic 3" />
 
@@ -1314,7 +1317,7 @@ Bien sûr, le moteur de recherche n'indique pas le niveau de fiabilité de l'art
 
 Moteur médical.
 
-Similaire à Microsoft Academic mais portant uniquement sur des articles de médecine. PubMed comporte des critèrs de recherche supplémentaires spécifiques aux études médicales.
+Similaire à Microsoft Academic, mais portant uniquement sur des articles de médecine. PubMed comporte des critères de recherche supplémentaires spécifiques aux études médicales.
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/pubmed1.png" alt="PubMed" />
 
@@ -1326,11 +1329,11 @@ Sci-Hub est un moteur de recherche non officiel qui permet de trouver des PDF ac
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/scihub.png" alt="Sci-Hub" />
 
-Si le site est inaxessible, vous pouvez utiliser un VPN, changer votre adresse DNS ou essayer des liens alternatifs comme [sci-hub.se](https://sci-hub.se), [sci-hub.se](https://sci-hub.se) ou [sci-hub.tech](https://sci-hub.tech).
+Si le site est inaccessible, vous pouvez utiliser un VPN, changer votre adresse DNS ou essayer des liens alternatifs comme [sci-hub.se](https://sci-hub.se), [sci-hub.se](https://sci-hub.se) ou [sci-hub.tech](https://sci-hub.tech).
 
 ### Analyser une image
 
-Lorsqu'une image vous parrait suspecte, vous pouvez tenter de rechercher sa provenance un utilisant des moteurs de recherche inversée comme [TinEye](https://tineye.com).
+Lorsqu'une image vous parait suspecte, vous pouvez tenter de rechercher sa provenance un utilisant des moteurs de recherche inversée comme [TinEye](https://tineye.com).
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/tineye.png" alt="TinEye" />
 
@@ -1338,7 +1341,7 @@ Recherchez des images similaires pour voir si celle dont vous disposez représen
 
 Enfin, utilisez différents outils pour vérifier si une image a été retouchée (par exemple Fotoforensics, Forensically, Amped Authenticate, Image Edited? ou JPEGsnoop).
 
-Ce procédé a par exemple permi de montrer qu'une photo de "squelette de géant", très partagée sur des sites sensationalistes, est en fait un trucage.
+Ce procédé a par exemple permis de montrer qu'une photo de "squelette de géant", très partagée sur des sites sensationnalistes, est en fait un trucage.
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/fake-giant.jpg" alt="Fake Giant" />
 
@@ -1352,19 +1355,13 @@ Dans cette démarche, lorsqu'on cherche à s'informer sur un sujet, notamment su
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/ddg2.png" alt="DuckDuckGo 2" />
 
-Ainsi on a accès aux critique de l'hypothèse qui nous séduit et on peut les évaluer. Si elles sont valides, nous devons reconsidérer notre position. Sinon nous pouvons les ignorer.
+Ainsi on a accès aux critiques de l'hypothèse qui nous séduit et on peut les évaluer. Si elles sont valides, nous devons reconsidérer notre position. Sinon nous pouvons les ignorer.
 
 ## S'entrainer
 
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">À faire</p>
-</div>
-
 Place maintenant à la pratique !
 
-Je propose quelques exercices, dont les réponses ne sont pas exhaustives mais donnent des pistes de réflexion.
+Je propose quelques exercices, dont les réponses ne sont pas exhaustives, mais donnent des pistes de réflexion.
 
 Les cas sont relativement simples, mais les mêmes méthodes sont applicables aux cas réels plus longs à traiter.
 
@@ -1372,17 +1369,17 @@ Les cas sont relativement simples, mais les mêmes méthodes sont applicables au
 
 #### Question
 
-Lors d'un repas, un ami vous raconte la chose suivante : « alors que chaque hiver, je suis sujet à des grippes, cette année j'ai suivi les conseils de mon pharmacien, et j'ai pris de l'homéopathie, en l'occurrence Oscillococcinum. Et figure-toi que je n'ai pas été malade ! C'est fou, non ? Ma cousine, pareil. Pas un rhume, rien ! Alors on peut dire ce qu'on veut, ça marche. Et pour ceux pour qui ça ne marche pas, au moins ça ne leur fait pas de mal. De toute façon, c'est toujours mieux que de prendre des antibiotiques. »
+Lors d'un repas, un ami vous raconte la chose suivante : « alors que chaque hiver, je suis sujet à des grippes, cette année j'ai suivi les conseils de mon pharmacien, et j'ai pris de l'homéopathie, en l'occurrence Oscillococcinum. Et figure-toi que je n'ai pas été malade ! C'est fou, non ? Ma cousine, pareil. Pas un rhume, rien ! Alors on peut dire ce qu'on veut, ça marche. Et pour ceux pour qui ça ne marche pas, au moins ça ne leur fait pas de mal. De toute façon, c'est toujours mieux que de prendre des antibiotiques. »
 
 Quelle analyse critique pouvez-vous faire ?
 
 #### Suggestion de réponse
 
-Il y a une confussion entre grippe (influenza) et rhume (rhinopharyngite) qui sont des maladies différentes.[^eccles]
+Il y a une confusion entre grippe (influenza) et rhume (rhinopharyngite) qui sont des maladies différentes.[^eccles]
 
-Le "test" est aussi baisé puisqu'il n'y a pas de vraiation seule du paramètre médicament. En effet, d'autres facteurs qui peuvent expliquer l'absence de symptômes cette année : meilleure réponse immunitaire, exposition à une souche virale différente, meilleure hygiène, facteurs de transmissions différents, etc.
+Le "test" est aussi baisé puisqu'il n'y a pas de variation seule du paramètre médicament. En effet, d'autres facteurs qui peuvent expliquer l'absence de symptômes cette année : meilleure réponse immunitaire, exposition à une souche virale différente, meilleure hygiène, facteurs de transmission différents, etc.
 
-Il y a ausi une généralisation abusive. Conclure "ca marche" sur la base de deux témoignages individuels relevant d'une expérience non décisive est fautif.
+Il y a aussi une généralisation abusive. Conclure "ça marche" sur la base de deux témoignages individuels relevant d'une expérience non décisive est fautif.
 
 Dire "au moins ça ne leur fait pas de mal" n'est pas ettayé par des preuves. Tout ce qui a un effet peut avoir un effet négatif en fonction de la dose et du contexte.
 
@@ -1392,7 +1389,7 @@ Enfin, la grippe et le rhume sont tous deux causés par des virus et les antibio
 
 #### Question
 
-Vous êtes le chef de la police d'une ville d'un million d'habitants et vous savez qu'un habitant sur mille est un criminel. Vous décidez d'installer un nouveau dispositif de reconnaissance faciale pour les détecter. A chaque fois qu'un visage est filmé, le système dit s'il s'agit où non d'un criminel. Il n'est pas fiable à 100%, mais sa marge d'erreur n'est que de 1% (1 fois sur 100 il déctera un innocent comme criminel ou un criminel comme innocent).
+Vous êtes le chef de la police d'une ville d'un million d'habitants et vous savez qu'un habitant sur mille est un criminel. Vous décidez d'installer un nouveau dispositif de reconnaissance faciale pour les détecter. À chaque fois qu'un visage est filmé, le système dit s'il s'agit où non d'un criminel. Il n'est pas fiable à 100%, mais sa marge d'erreur n'est que de 1% (1 fois sur 100 il détectera un innocent comme criminel ou un criminel comme innocent).
 
 Si une personne prise au hasard parmi les habitants déclenche une alerte, quelle est la chance que ce soit un criminel ?
 
@@ -1406,19 +1403,19 @@ Quelle est la probabilité que l'alerte se déclenche pour un citoyen pris au ha
 
 Mais ce qu'on cherche à savoir c'est la probabilité qu'une personne ayant déclenché l'alerte soit effectivement un criminel.
 
-Notons $$A$$ l'hypothèse selon laquelle l'alerte s'est déclenchée et $$C$$ le fait qu'une personne soit un criminel. On cherche donc $$P(C \vert A)$$, la probabilité qu'une parsonne soit un criminer sachant que l'alerte s'est déclenchée.
+Notons $$A$$ l'hypothèse selon laquelle l'alerte s'est déclenchée et $$C$$ le fait qu'une personne soit un criminel. On cherche donc $$P(C \vert A)$$, la probabilité qu'une personne soit un criminel sachant que l'alerte s'est déclenchée.
 
-On utilise le théorème de Bayes :
+On utilise le théorème de Bayes :
 
 $$P(C \vert A) = \dfrac{P(A \vert C) \cdot P(C)}{P(A)}$$
 
-Avec :
+Avec :
 
 * $$P(A \vert C)$$ est la probabilité que l'alerte se déclenche sachant que la personne est un criminel, donc 99%
 * $$P(C)$$ est la probabilité qu'une personne soit un criminel, donc 0,1%
 * $$P(A)$$ est la probabilité que l'alerte se déclenche, pour un citoyen au hasard, donc 1,098%
 
-On a donc :
+On a donc :
 
 $$P(C \vert A) = \dfrac{0.99 \cdot 0.001}{0.01098} \approx 9\%$$
 
@@ -1428,11 +1425,11 @@ Ainsi malgré une fiabilité à 99%, en cas d'alerte il n'y a que 9 chances sur 
 
 #### Question
 
-Un de vos ami a fait la moytenne des températures chaque jour pendant trois semaines. Il vous présente ses résultats dans le graphe suivant :
+Un de vos amis a fait la moyenne des températures chaque jour pendant trois semaines. Il vous présente ses résultats dans le graphe suivant :
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/temperature-1.png" alt="Temperature graph 1" />
 
-Il vous dit : "tu ne trouve pas ça bizarre que c'est les jeudis qu'il fait plus chaud ?"
+Il vous dit : "tu ne trouves pas ça bizarre que c'est les jeudis qu'il fait plus chaud ?"
 
 Que pouvez-vous en dire ?
 
@@ -1440,25 +1437,25 @@ Que pouvez-vous en dire ?
 
 Tout d'abord, analyser les données sur trois semaines est très peu.
 
-Ensuite il y a le problème de la significance du phénomène. La différence entre la valeur la plus élevée (22,1°C le jeudi) et la plus faible (21,1°C le lundi) n'est que de 1°C. Or il est très courrant que la température varie d'un jour à l'autre, et certains phénomènes météo (rares) peuvent même faire varier la température de plus de 30°C en moins de 24 heures.[^meteo]
+Ensuite il y a le problème de la significance du phénomène. La différence entre la valeur la plus élevée (22,1°C le jeudi) et la plus faible (21,1°C le lundi) n'est que de 1°C. Or il est très courant que la température varie d'un jour à l'autre, et certains phénomènes météo (rares) peuvent même faire varier la température de plus de 30°C en moins de 24 heures.[^meteo]
 
-Enfin, si on représente le graphique précédent avec l'axe vertical commençant à 0°C, l'écart parrait tout de suite moins important :
+Enfin, si on représente le graphique précédent avec l'axe vertical commençant à 0°C, l'écart parait tout de suite moins important :
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/temperature-2.png" alt="Temperature graph 2" />
 
-D'ailleurs, idéallement, lorqu'on compare des températures on devrait toujours utiliser le Kelvin (0K = -273,15°C).
+D'ailleurs, idéalement, lorsqu'on compare des températures on devrait toujours utiliser le Kelvin (0K = -273,15°C).
 
 ### Exercice 4
 
 #### Question
 
-Un ami vous dit : "tu te rends compte qu'une fourmi est capable de soulever 10 fois son poids ? Si elle avait la taille d'un homme, elle pourrait soulever un éléphant !"
+Un ami vous dit : "tu te rends compte qu'une fourmi est capable de soulever 10 fois son poids ? Si elle avait la taille d'un homme, elle pourrait soulever un éléphant !"
 
 Que pouvez-vous dire de cette affirmation ?
 
 #### Suggestion de réponse
 
-Même sans connaissances biologiques, vous pouvez douter de cette affirmation. En effet, si la fourmis devien plus grande, elle devient aussi plus massive. Qu'est-ce qui nous prouve que la puissance musculaire augmente proportiennellement à la taille.
+Même sans connaissances biologiques, vous pouvez douter de cette affirmation. En effet, si la fourmi devient plus grande, elle devient aussi plus massive. Qu'est-ce qui nous prouve que la puissance musculaire augmente proportionnellement à la taille.
 
 En réalité on observe que la puissance varie en fonction de la taille avec un facteur entre 2 tiers et 3 quarts. Si la fourmi faisait la taille d'un homme, elle serait incapable de soulever son propre poids. De même, si un homme faisait la taille d'une fourmi, il pourrait soulever en moyenne 30 fois son poids.
 
@@ -1470,21 +1467,21 @@ Cela montre qu'il ne faut pas présupposer que deux facteurs varient de manière
 
 #### Question
 
-Vous êtes un élève en classe de première. Pour votre TPE, vous et deux de vos camarades avez décidé de mener une expérience : vous voulez savoir si les gens préfèrent le Coca-Cola ou le Pepsi. Vous décidez de faire goûter l'un et l'autre des produits à différentes personnes.
+Vous êtes un élève en classe de première. Pour votre TPE, vous et deux de vos camarades avez décidé de mener une expérience : vous voulez savoir si les gens préfèrent le Coca-Cola ou le Pepsi. Vous décidez de faire gouter l'un et l'autre des produits à différentes personnes.
 
 Quel protocole expérimental pouvez-vous mettre en place pour assurer une certaine fiabilité à vos résultats ?
 
 #### Suggestion de réponse
 
-Vous sollicitez un nombre assez important de personne (élèves, enseignants, parents d'élève), d'âges et sexes différents.
+Vous sollicitez un nombre assez important de personnes (élèves, enseignants, parents d'élève), d'âges et sexes différents.
 
-Vous décidez d'employer des critères précis : au lieu de simplement poser la question "lequel préférez-vous", vous décidez de demander aux participants de donner à chaque produit une note entre 0 et 10. En effet, imaginez que vous avez deux personnes, une qui préfère le Coca-Cola et une la Pepsi. Allez-vous conclure à l'égalité ? Mais si en fait celle qui prérère le Coca-Cola le préfère juste un peu plus que le Pepsi et que l'autre préfère le Pepsi beaucoup plus que le Coca-Cola ? Afin d'être plus objectifs, vous ferez donc la moyenne des notes pour comparer.
+Vous décidez d'employer des critères précis : au lieu de simplement poser la question "lequel préférez-vous", vous décidez de demander aux participants de donner à chaque produit une note entre 0 et 10. En effet, imaginez que vous avez deux personnes, une qui préfère le Coca-Cola et une la Pepsi. Allez-vous conclure à l'égalité ? Mais si en fait celle qui préfère le Coca-Cola le préfère juste un peu plus que le Pepsi et que l'autre préfère le Pepsi beaucoup plus que le Coca-Cola ? Afin d'être plus objectifs, vous ferez donc la moyenne des notes pour comparer.
 
 Vous préparez ensuite des verres contenant du Pepsi et du Coca-Cola. Ils contiennent tous la même quantité, servis à la même température et immédiatement après ouverture (pour éviter que la pétillance diminue).
 
 Afin d'éviter les erreurs d'évaluation, vous donnez à chaque participant trois verres de chaque produit à tester, sans lui dire desquels il s'agit.
 
-Pour encore plus de fiabilité, vous mélanger les six verres (numérotés au préalable pour pouvoir les identifier). Enfin, c'est l'un des élèves de votre groupe qui fera passer le test et receuillera les notes, mais lui aussi ignore le contenu des verres, pour éviter qu'il influence les participants (même inconsciemment, par son langage corporel).
+Pour encore plus de fiabilité, vous mélanger les six verres (numérotés au préalable pour pouvoir les identifier). Enfin, c'est l'un des élèves de votre groupe qui fera passer le test et recueillera les notes, mais lui aussi ignore le contenu des verres, pour éviter qu'il influence les participants (même inconsciemment, par son langage corporel).
 
 Finalement vous récupérez les résultats et comparez la moyenne des notes pour chaque produit.
 
@@ -1492,7 +1489,7 @@ Finalement vous récupérez les résultats et comparez la moyenne des notes pour
 
 #### Question
 
-Un homme vous dit être capable, avec sa baguette de sourcier, de trouver où il y a de l'eau, n'importe où. Il prétends même pouvoir indiquer la profondeur à laquelle l'eau se trouve.
+Un homme vous dit être capable, avec sa baguette de sourcier, de trouver où il y a de l'eau, n'importe où. Il prétend même pouvoir indiquer la profondeur à laquelle l'eau se trouve.
 
 Quel protocole expérimental mettriez-vous en place pour vérifier sa prétention ?
 
@@ -1502,15 +1499,15 @@ Vous commencez par définir précisément le cadre des prétentions avec l'homme
 
 Que signifie "de l'eau"? Quelle quantité faut-il trouver pour que le résultat soit considéré comme positif ? Imaginons que vous êtes d'accord pour dire qu'un résultat sera clairement positif s'il y a au moins un litre d'eau, clairement négatif s'il y en a moins de 10cl et non concluant si c'est entre les deux.
 
-Que signifie "indiquer la profondeur"? Si l'homme indique 3,20m mais qu'en réalité c'est 3,40m, le résultat est-il positif ? Vous établissez qu'un résultat à plus ou moins 50cm sera positif.
+Que signifie "indiquer la profondeur"? Si l'homme indique 3,20m, mais qu'en réalité c'est 3,40m, le résultat est-il positif ? Vous établissez qu'un résultat à plus ou moins 50cm sera positif.
 
-Combien de temps faut-il au sourcier pour ressentir s'il y a de l'eau sous ses pieds ? Il dit qu'il lui faut moins d'une seconde. Puisque sa vitesse ne fait pas partie des critères évalués dans cette expérience, vous décidez par générosité de lui autoriser une minute par essai. 
+Combien de temps faut-il au sourcier pour ressentir s'il y a de l'eau sous ses pieds ? Il dit qu'il lui faut moins d'une seconde. Puisque sa vitesse ne fait pas partie des critères évalués dans cette expérience, vous décidez par générosité de lui autoriser une minute par essai.
 
-Vous décidez quelle "p-valeur" (la probabilité que le résultat soit atteignable par hasard) maximale choisir. Vous prenez une valeur standard de 1%,c'est à dire que si le résultat a moins de 1% de chance d'avoir été produit par hasard vous le considèrerez digne d'intérêt (mais pas encore démontré puisque votre étude devrait être répliquée). 
+Vous décidez quelle "p-valeur" (la probabilité que le résultat soit atteignable par hasard) maximale choisir. Vous prenez une valeur standard de 1%,c'est-à-dire que si le résultat a moins de 1% de chance d'avoir été produit par hasard vous le considèrerez digne d'intérêt (mais pas encore démontré puisque votre étude devrait être répliquée).
 
-Ensuite vous prenez soin de bien distinguer les deux prétentions : trouver de l'eau et déterminer sa profondeur. Votre protocole expérimental comportera alors deux tests.
+Ensuite vous prenez soin de bien distinguer les deux prétentions : trouver de l'eau et déterminer sa profondeur. Votre protocole expérimental comportera alors deux tests.
 
-Pour le premier, vous disposez une estrade sous laquelle est placée une cuve de plusieurs litres, branchée à des tuyaux et pouvant être remplie et vidée à volonté, en actionnant un mécanisme caché derrière un paravent, hors de la vue de l'homme testé et de l'examinateur, actionnée par une troisième personne (le "technicien"). 
+Pour le premier, vous disposez une estrade sous laquelle est placée une cuve de plusieurs litres, branchée à des tuyaux et pouvant être remplie et vidée à volonté, en actionnant un mécanisme caché derrière un paravent, hors de la vue de l'homme testé et de l'examinateur, actionnée par une troisième personne (le "technicien").
 
 Le sourcier et l'examinateur prennent place sur l'estrade. Quand tout le monde est prêt, le technicien remplit ou vide la cuve, cent fois de suite, selon une séquence aléatoire générée par ordinateur.
 
@@ -1518,17 +1515,17 @@ Le sourcier et l'examinateur prennent place sur l'estrade. Quand tout le monde e
 
 S'il trouve le bon résultat 65 fois ou plus (ou 35 fois ou moins), alors le résultat sera significatif (la p-valeur sera sous les 1%).
 
-*Note : vous pouvez utiliser la formule* LOI.BINOMIALE.N *sous Excel pour calculer les probabilités.*
+*Note : vous pouvez utiliser la formule* LOI.BINOMIALE.N *sous Excel pour calculer les probabilités.*
 
-Pour ce qui est du test de la profondeur, vous gardez un mécanisme similaire mais placez trois cuves sous l'estrade, par exemple à 1, 3, et 5 mètres de profondeur. Vous remplissez ensuite à chaque fois une cuve au hasard.
+Pour ce qui est du test de la profondeur, vous gardez un mécanisme similaire, mais placez trois cuves sous l'estrade, par exemple à 1, 3, et 5 mètres de profondeur. Vous remplissez ensuite à chaque fois une cuve au hasard.
 
 ### Exercice 7
 
 #### Question
 
-Un ami vous envoie le message suivant :
+Un ami vous envoie le message suivant :
 
-*C'est incroyable, je viens de découvrir que la crème solaire détruit la kétamine de la peau, comme indiqué ici : [Comparative Hydro-Idempotency of Cloacked Ketamin by Ernest Niels.pdf]({{ site.baseurl }}/assets/files/Comparative Hydro-Idempotency of Cloacked Ketamin by Ernest Niels.pdf){:target="_blank"}. Alors OK, ça protège du soleil, mais si c'est pour avoir des effets secondaires graves, non merci !*
+*C'est incroyable, je viens de découvrir que la crème solaire détruit la kétamine de la peau, comme indiqué ici : [Comparative Hydro-Idempotency of Cloacked Ketamin by Ernest Niels.pdf]({{ site.baseurl }}/assets/files/Comparative Hydro-Idempotency of Cloacked Ketamin by Ernest Niels.pdf){:target="_blank"}. Alors OK, ça protège du soleil, mais si c'est pour avoir des effets secondaires graves, non merci !*
 
 Que pouvez-vous en dire ?
 
@@ -1548,37 +1545,89 @@ Formulez une hypothèse qui vous semble plausible pour expliquer ce phénomène.
 
 On pourrait par exemple formuler l'hypothèse selon laquelle le braconnage des éléphants pour leurs défenses diminue les chances de survie de ceux qui en ont, et donc donne un avantage reproductif aux porteurs de l'allèle en question, favorisant sa transmission au sein de la population.
 
-Pour tester cette hypothèse on pourrait évaluer la transmission de l'allèle au sein d'une population d'éléphants, protégée du braconnage, dont la moitié est porteur de l'allèle et l'autre non. Si la proportion de porteurs augmente c'est qu'il y a d'autres facteurs en jeu.
+Pour tester cette hypothèse, on pourrait évaluer la transmission de l'allèle au sein d'une population d'éléphants, protégée du braconnage, dont la moitié est porteur de l'allèle et l'autre non. Si la proportion de porteurs augmente c'est qu'il y a d'autres facteurs en jeu.
 
 ## Quelques ressources supplémentaires
 
+Cet article d'introduction à la pensée critique touche à sa fin. J'espère vous avoir fourni quelques éléments pour bien débuter dans une démarche de recherche de la vérité.
+
+Pour aller plus loin et découvrir toute la richesse de ce domaine, je vous propose quelques ressources supplémentaires.
+
 ### Pour débuter
 
-Une présentation de la zététique par Richard Monvoisin, docteur en didactique des sciences :
+Une présentation de la zététique par Richard Monvoisin, docteur en didactique des sciences :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/VK1DmvEBwOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Une autre présentation de la zététique par Henri Broch, docteur en biophysique et fondateur de la zététique moderne en France :
+Une autre présentation de la zététique par Henri Broch, docteur en biophysique et fondateur de la zététique moderne en France :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/UvMGZeU7hdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Une série de très courtes vidéos sur des principes de pensée critique par Samuel Buisseret, vulgarisateur :
+Une série de très courtes vidéos sur des principes de pensée critique par Samuel Buisseret, vulgarisateur :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLHvR7ldCNjytuOaNbzM0_lpPArIYLk3da" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Trois vidéos sur les biais cognitifs par Thomas Durand, docteur en biologie et vulgarisateur :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/Y8fO3e8P0_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/qEJgmuFliqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/grZkrM1WpNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Pour aller plus loin
 
-Une série de vidéos théoriques et pratiques sur la pensée critique par Christophe Michel, enseignant et vulgarisateur :
+Une série de vidéos d'application de la pensée critique sur différents thèmes, par Samuel Buisseret, vulgarisateur :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLHvR7ldCNjysPXD20grQPe4VEK6oE0amt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une série de vidéos théoriques et pratiques sur la pensée critique par Christophe Michel, enseignant et vulgarisateur :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PL8kpTYGNfAcbcbHO_jt9NYHP1KefT4Nfp" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Une conférence sur l'évaluation de l'efficacité des thérapies par Florent Martin, ingénieur et vulgarisateur :
+Une conférence sur l'évaluation de l'efficacité des thérapies par Florent Martin, ingénieur et vulgarisateur :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/s_voYxIG0mc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Un exemple d'application de la pensée critique à la sophrologie par Albin Guillaud, docteur en kinésithérapie et Gwladys Demazure, docteure en psychologie clinique :
+Un exemple d'application de la pensée critique à la sophrologie par Albin Guillaud, docteur en kinésithérapie et Gwladys Demazure, docteure en psychologie clinique :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/Tep4GBgri-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une série de vidéos sur les biais comportementaux et la manipulation sociale par Gull Hackso, docteur en philosophie et Viciss Hackso, docteure en psychologie :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLTVDuoFsInfL3T_d7UKTCJDp85F6GKSXV" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Deux séries de vidéos sur le raisonnement et la philosophie analytique par Thibaut Giraud, docteur en philosophie :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLuL1TsvlrSncCs_Yew_gj-4IwOXG6q1gi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLuL1TsvlrSnfFoWrxq-ai2tSWABRroQKT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une série de vidéos sur les statistiques de base par Nathan Uyttendaele, docteur en mathématiques et statisticien :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=UUOuIgj0CYCXCvjWywjDbauw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une vidéo sur la perception du hasard e de l'incertitude par Nicolas Gauvrit, mathématicien et docteur en sciences cognitives :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/7XIdURpbGoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pour aller en profondeur
+
+Une série de vidéos sur comment mieux débattre par Lê Nguyên Hoang, docteur en mathématiques :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLtzmb84AoqRTFS8c7hX0IaMkmdQckZtZ6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une série de vidéos sur la pensée bayésienne, du même auteur :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Les cours de zététique à l'Université de Grenoble par Richard Monvoisin, docteur en didactique des sciences :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLsbx1DYyydS-ie6wXA3Qu5zHLPWhilejW" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Une série de vidéos sur les preuves en médecine et les statistiques appliquées à la médecine, par Tristan, docteur en médecine et médecin de santé publique :
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/videoseries?list=PLlPZ8MwJhu5GxSsJk5azvFMjyURUzKt6d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Références
 
@@ -1618,7 +1667,7 @@ Un exemple d'application de la pensée critique à la sophrologie par Albin Guil
 
 [^cabanac]: Cabanac, M. (2002). *What is emotion?* Behavioural Processes, 60(2), 69‑83. <https://doi.org/10.1016/S0376-6357(02)00078-5>
 
-[^emory]: Emory, M. (2018, 6 juin). *On Fear, Emotions, and Memory : An Interview with Dr. Joseph LeDoux*. Brain World. <https://brainworldmagazine.com/on-fear-emotions-and-memory-an-interview-with-dr-joseph-ledoux/2/>
+[^emory]: Emory, M. (2018, 6 juin). *On Fear, Emotions, and Memory : An Interview with Dr. Joseph LeDoux*. Brain World. <https://brainworldmagazine.com/on-fear-emotions-and-memory-an-interview-with-dr-joseph-ledoux/2/>
 
 [^kirman]: Kirman, A., Livet, P., & Teschl, M. (2010). *Rationality and emotions*. Philosophical Transactions of the Royal Society B: Biological Sciences, 365(1538), 215‑219. <https://doi.org/10.1098/rstb.2009.0194>
 
@@ -1644,9 +1693,9 @@ Un exemple d'application de la pensée critique à la sophrologie par Albin Guil
 
 [^monvoisin_pinsault]: Pinsault, N., & Monvoisin, R. (2014). *Tout ce que vous n'avez jamais voulu savoir sur les thérapies manuelles*. Presses universitaires de Grenoble.
 
-[^geldard]: Geldard, F. A., & Sherrick, C. E. (1972). *The Cutaneous « Rabbit » : A Perceptual Illusion*. Science, 178(4057), 178‑179. <https://doi.org/10.1126/science.178.4057.178>
+[^geldard]: Geldard, F. A., & Sherrick, C. E. (1972). *The Cutaneous « Rabbit » : A Perceptual Illusion*. Science, 178(4057), 178‑179. <https://doi.org/10.1126/science.178.4057.178>
 
-[^bremer]: Bremer, C. D., Pittenger, J. B., Warren, R., & Jenkins, J. J. (1977). *An Illusion of Auditory Saltation Similar to the Cutaneous « Rabbit »*. The American Journal of Psychology, 90(4), 645. <https://doi.org/10.2307/1421738>
+[^bremer]: Bremer, C. D., Pittenger, J. B., Warren, R., & Jenkins, J. J. (1977). *An Illusion of Auditory Saltation Similar to the Cutaneous « Rabbit »*. The American Journal of Psychology, 90(4), 645. <https://doi.org/10.2307/1421738>
 
 [^flach]: Flach, R., & Haggard, P. (2006). *The cutaneous rabbit revisited*. Journal of Experimental Psychology: Human Perception and Performance, 32(3), 717‑732. <https://doi.org/10.1037/0096-1523.32.3.717>
 
@@ -1760,7 +1809,7 @@ Un exemple d'application de la pensée critique à la sophrologie par Albin Guil
 
 [^shermer]: Shermer, M. (2014). *Surviving Statistics*. Scientific American, 311(3), 94‑94. <https://doi.org/10.1038/scientificamerican0914-94>
 
-[^lecoutre]: Lecoutre, M.-P. (1985). *Jugements probabilistes chez des adultes : Pratique des jeux de hasard et formation en théorie des probabilités*. Bulletin de Psychologie, 372, 891‑900. <https://www.researchgate.net/publication/265642780_Jugements_probabilistes_chez_des_adultes_Pratique_des_jeux_de_hasard_et_formation_en_theorie_des_probabilites>
+[^lecoutre]: Lecoutre, M.-P. (1985). *Jugements probabilistes chez des adultes : Pratique des jeux de hasard et formation en théorie des probabilités*. Bulletin de Psychologie, 372, 891‑900. <https://www.researchgate.net/publication/265642780_Jugements_probabilistes_chez_des_adultes_Pratique_des_jeux_de_hasard_et_formation_en_theorie_des_probabilites>
 
 [^lecoutre_2]: Lecoutre, Marie-Paule. (2014). *Effet d'informations de nature combinatoire et de nature fréquentielle sur les jugements probabilistes*.
 
@@ -1816,6 +1865,6 @@ Un exemple d'application de la pensée critique à la sophrologie par Albin Guil
 
 [^eccles]: Eccles, R. (2005). *Understanding the symptoms of the common cold and influenza*. The Lancet Infectious Diseases, 5(11), 718‑725. <https://doi.org/10.1016/S1473-3099(05)70270-X>
 
-[^meteo]: Météo France. (2015, 10 avril). *Fortes amplitudes thermiques : explications*. <http://www.meteofrance.fr/actualites/24255137-fortes-amplitudes-thermiques-explications>
+[^meteo]: Météo France. (2015, 10 avril). *Fortes amplitudes thermiques : explications*. <http://www.meteofrance.fr/actualites/24255137-fortes-amplitudes-thermiques-explications>
 
 [^broch_doute]: Broch, H. (2008). *L'art du doute ou Comment s'affranchir du prêt-à-penser*. Éd. Book-e-book.

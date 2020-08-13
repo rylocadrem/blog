@@ -5,7 +5,7 @@ name: "niveaux-preuve"
 categories: rationalite
 ---
 
-Lisez l'article complet ici : [Introduction à la pensée critique]({{ site.baseurl }}{% post_url rationalite/2020-08-01-introduction-pensee-critique %})
+Lisez l'article complet ici : [Introduction à la pensée critique]({{ site.baseurl }}{% post_url rationalite/2020-08-13-introduction-pensee-critique %})
 {: .read-full-info}
 
 Dans le cadre d'une démarche rationnelle, on peut hiérarchiser les preuves selon des niveaux de fiabilité.[^afis_preuve] [^grades_burns] [^grades_bjm] [^grades_hadorn] [^grades_petrisor] [^grades_wilson] [^grades_has]
