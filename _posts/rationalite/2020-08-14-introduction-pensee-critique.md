@@ -1,24 +1,17 @@
 ﻿---
 layout: post
-title:  "[BROUILLON] Introduction à la pensée critique"
+title:  "Introduction à la pensée critique"
 excerpt: Une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique.
-date:   2020-08-13 21:30:00 +0200
+date:   2020-08-14 07:00:00 +0200
 categories: rationalite
-redirect_from: /rationalite/2020/07/16/introduction-pensee-critique
-hidden: 1
+redirect_from:
+  - /rationalite/2020/07/16/introduction-pensee-critique
+  - /rationalite/2020/08/01/introduction-pensee-critique
 ---
-
-<!-- TODO -->
-<div class="wip-warning">
-    <p>🚧</p>
-    <p class="bold">Faire quelques brèves et reformuler les phrases peu claires.</p>
-</div>
 
 Cet article est probablement le plus fondamental de ceux que j'ai écrits jusqu'ici. Il fait une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique, qui sont cruciaux pour bien raisonner, comprendre le monde, décortiquer les affirmations et ne pas se faire manipuler.
 
 La pensée critique, que je définis juste après, est non seulement utile pour réfléchir sur des sujets scientifiques, mais aussi politiques, sociétaux, etc. Elle est également un excellent outil dans le cadre de la foi, pour analyser avec une rigueur méthodique toute affirmation de ceux qui voudraient nous imposer leurs dogmes.
-
-Cet article comporte une première partie théorique qui présente les concepts et les outils fondamentaux, puis une seconde partie pratique avec des exercices et des applications sur des cas concrets.
 
 Table des matières :
 
@@ -67,7 +60,7 @@ Ou, comme le définit Eliezer Yudkowsky[^rationality_less_wrong] :
 
 On peut ainsi distinguer deux concepts de rationalité :
 
-1. **La rationalité épistémique** : améliorer systématiquement la précision de ses croyances
+1. **La rationalité épistémique** : améliorer systématiquement la précision et l'exactitude de ses croyances
 2. **La rationalité instrumentale** : atteindre systématiquement ses objectifs
 
 La rationalité *épistémique* est la recherche systématique de la vérité, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
@@ -76,13 +69,13 @@ La rationalité *instrumentale* est l'accomplissement systématique de ses objec
 
 La pensée critique est donc une démarche rationnelle, au sens épistémique comme instrumental.
 
-NB : ne pas confondre avec le *rationalisme* qui est une doctrine philosophique selon laquelle la raison seule suffirait à produire des connaissances certaines, par opposition à l'empirisme qui prône l'acquisition des connaissances via l'observation et l'expérience.
+NB : il ne faut pas confondre la *rationalité* avec le *rationalisme*, qui est une doctrine philosophique selon laquelle la raison seule suffirait à produire des connaissances certaines, par opposition à l'empirisme qui prône l'acquisition des connaissances via l'observation et l'expérience.
 
 ### Scepticisme scientifique
 
 La notion de *scepticisme scientifique* ou *scepticisme rationnel* peut être définie comme suit[^wiki_scepticisme] :
 
-> Position épistémologique et attitude de doute cartésien vis-à-vis des allégations non étayées par des preuves empiriques.
+> Position épistémologique et attitude de doute raisonnable vis-à-vis des allégations non étayées par des preuves empiriques.
 
 Il s'agit donc d'une posture de doute *à priori*, s'appuyant sur la pensée critique et la méthode zététique. On peut dire que le scepticisme scientifique est donc un choix rationnel, au sens épistémique comme instrumental.
 
@@ -102,7 +95,7 @@ Et il précise également :
 prétentions étranges et des théories discutables, analysées selon un scepticisme méthodologique ouvert et une philosophie rationaliste matérialiste.
 > * l'un didactique : elle est la panoplie de tous les moyens intellectuels mis en œuvre pour amener l'apprenant à développer l'esprit critique vis-à-vis de toute thèse de type scientifique.
 
-Ainsi, la zététique est donc l'ensemble des méthodes utiles à la pensée critique.
+Ainsi, la zététique est donc l'ensemble des méthodes d'investigation de la pensée critique.
 
 ### Science
 
@@ -122,7 +115,7 @@ Il existe un mythe tenace selon lequel raison et émotions seraient opposées, o
 
 Est-ce légitime d'opposer émotions, créativité et spontanéité à rationalité ? D'opposer scientifique à artiste ? D'associer rigueur de pensée avec rigidité de caractère ?
 
-Il existe pourtant de nombreux exemples de personnes qui démontrent le contraire. Citons par exemple :
+Il existe pourtant de nombreux exemples de personnes qui montrent le contraire. Citons par exemple :
 
 * **Léonard de Vinci**, peintre, sculpteur, architecte, philosophe, ingénieur, organisateur de fêtes[^herodote_vinci], poète, musicien, botaniste, etc.
 * **Beatrix Potter**, écrivaine et naturaliste[^armitt_potter]
@@ -138,17 +131,19 @@ Les émotions sont certes une grande source de biais cognitifs, mais peuvent aus
 
 > Les résultats de recherches psychologiques et neurologiques montrent que les émotions et les états affectifs ne sont pas seulement des sources de jugements biaisés, mais peuvent également servir de fonctions essentielles conduisant à des choix plus appropriés.
 
-Cependant les émotions ne sont pes des reflets fiables de la réalité, sont facilement manipulables et peuvent induire une persévérance à long terme dans de mauvaises décisions.[^andrade]
+Cependant les émotions ne sont pas des reflets fiables de la réalité, sont facilement manipulables et peuvent induire une persévérance à long terme dans de mauvaises décisions.[^andrade]
 
-En résumé, émotions et rationalité ne s'opposent pas. Les émotions peuvent être des indices à utiliser avec une grande parcimonie lors d'un processus de réflexion.
+En résumé, émotions et rationalité ne s'opposent pas. Les émotions peuvent être des indices à utiliser avec parcimonie lors d'un processus de réflexion.
 
 ### Trop rationnel ?
 
-J'ai souvent entendu des remarques du genre : "il ne faut pas être trop rationnel, sinon tu ne peux plus t'émerveiller" ou "il ne faut pas être trop rationnel, tout vouloir calculer plutôt que de suivre son instinct, sinon tu rates des opportunités", etc.
+J'ai souvent entendu des remarques comme : "il ne faut pas être trop rationnel, sinon tu ne peux plus t'émerveiller" ou "il ne faut pas être trop rationnel, tout vouloir calculer plutôt que de suivre son instinct, sinon tu rates des opportunités", etc.
 
 Que peut-on y répondre ? C'est très simple !
 
-Si mon objectif est de pouvoir être émerveillé, par exemple par un film ou un spectacle de prestidigitation, alors il est parfaitement rationnel (au sens instrumental) de ne pas chercher à comprendre les trucages et effets spéciaux. De même, si mon objectif est de saisir des opportunités, il est parfaitement rationnel de suivre son instinct. Être rationnel c'est aussi utiliser le mode de pensée le plus adapté à la situation.
+Si mon objectif est de pouvoir être émerveillé, par exemple par un film ou un spectacle de prestidigitation, alors il est parfaitement rationnel (au sens instrumental) de ne pas chercher à comprendre les trucages et effets spéciaux.
+
+De même, si mon objectif est de saisir des opportunités, il peut être parfaitement rationnel de suivre son instinct. Être rationnel c'est aussi utiliser le mode de pensée le plus adapté à la situation.
 
 Rappelons-nous toujours les deux concepts de rationalité :
 
@@ -161,15 +156,15 @@ Je réfute ici brièvement cinq idées fausses couramment exprimées à propos d
 
 #### 1. Être rationnel c'est s'attendre à ce que les autres soient rationnels
 
-En réalité, être rationnel c'est avoir un modèle représentant le réel le plus fidèlement possible, avoir une idée la plus vraie possible de la réalité. Or si en réalité tout le monde n'est pas rationnel, ou l'est à différents degrés, il est rationnel d'adapter notre représentation du monde en conséquence.
+Être rationnel c'est avoir un modèle représentant le réel le plus fidèlement possible, avoir une idée la plus vraie possible de ce qui est. Or si en réalité tout le monde n'est pas rationnel, ou l'est à différents degrés, il est rationnel d'adapter notre représentation du monde en conséquence.
 
 #### 2. Être rationnel signifie ne jamais prendre de décision avant d'avoir toutes les informations
 
-Encore une fois, agir de façon rationnelle c'est maximiser nos chances d'atteindre nos objectifs. Or si notre objectif est d'accomplir une tâche de manière efficace (dans les délais, sans rater d'opportunités, etc.) il est rationnel de prendre des risques et d'avancer avant d'avoir tous les éléments. Être rationnel, c'est ne pas se limiter à considérer les informations, mais aussi les risques, le temps, les conséquences, etc.
+Encore une fois, agir de façon rationnelle c'est maximiser nos chances d'atteindre nos objectifs. Or si notre objectif est d'accomplir une tâche de manière efficace (dans les délais, sans rater d'opportunités, etc.) il peut être rationnel de prendre des risques et d'avancer avant d'avoir tous les éléments. Être rationnel, c'est ne pas se limiter à considérer les informations, mais aussi les risques, le temps, les conséquences, etc.
 
 Voici un exemple d'illustration donné par le psychologue Gerd Gigerenzer[^gigerenzer] :
 
-> Imaginez un homme essayant de trouver une femme à épouser. Il devrait examiner les probabilités des diverses conséquences du mariage avec chacune d'elles. Après de nombreuses années de recherche, il découvrirait probablement que son choix final avait déjà épousé une autre personne qui n'a pas fait ces calculs, et en est tombé amoureux.
+> Imaginez un homme [se réclamant de cette fausse rationalité] essayant de trouver une femme à épouser. Il devrait examiner les probabilités des diverses conséquences du mariage avec chacune d'elles. Après de nombreuses années de recherche, il découvrirait probablement son choix final. Mais elle aura déjà épousé un autre homme, qui n'a pas fait ces calculs et en est tombé amoureux.
 
 Dans cet exemple, attendre d'avoir toutes les informations est clairement contreproductif au regard de l'objectif, c'est-à-dire irrationnel.
 
@@ -180,6 +175,7 @@ On peut distinguer deux "modes de fonctionnement" du cerveau, appelés *système
 **Le système 1**, intuitif, nous permet de faire des jugements rapides et automatiques en utilisant des raccourcis (c'est-à-dire des euristiques) qui sont généralement bons la plupart du temps, tout en nécessitant très peu de temps et d'attention.
 
 **Le système 2**, délibératif, nous permet de faire des choses comme le raisonnement abstrait et la pensée hypothétique et de créer des modèles qui expliquent des évènements inattendus. Le système 2 a tendance à faire mieux lorsque vous avez plus de ressources et plus de temps et pire lorsque vous disposez de peu de temps.
+
 Les deux systèmes se disputent le contrôle de nos inférences et de nos actions.
 
 Voici une expérience réalisée par Shane Frederick qui illustre ces deux systèmes[^frederick]. Il pose une série de trois questions ayant une réponse issue du système 1, fausse, "qui vient immédiatement à l'esprit" et une autre issue du système 2, juste, qui nécessite quelques instants de réflexion :
@@ -202,7 +198,7 @@ Les réponses issues du système 2, correctes, sont :
 
 Ainsi, comme le résume Julia Galef[^galef_vulcan] :
 
-> Votre *système 1* est sujet aux biais, et il est également incroyablement puissant. Notre intuition a tendance à bien faire avec les décisions d'achat ou d'autres choix concernant notre vie personnelle. Le système 1 est également très puissant pour un expert. Les grands maitres d'échecs peuvent jeter un coup d'œil sur un échiquier et dire "échec et mat en trois coups", à cause du temps et des efforts mentaux consacrés à jouer aux échecs et à construire une base de connaissances mentales à ce sujet.
+> Notre *système 1* est sujet aux biais, et il est également incroyablement puissant. Notre intuition a tendance à bien faire avec les décisions d'achat ou d'autres choix concernant notre vie personnelle. Le système 1 est également très puissant pour un expert. Les grands maitres d'échecs peuvent jeter un coup d'œil sur un échiquier et dire "échec et mat en trois coups", à cause du temps et des efforts mentaux consacrés à jouer aux échecs et à construire une base de connaissances mentales à ce sujet.
 >
 > L'intuition peut être mauvaise et moins fiable lorsqu'elle est basée sur quelque chose qui n'est pas pertinent pour la tâche à accomplir ou lorsque vous ne disposez pas de connaissances spécialisées sur le sujet.
 >
@@ -220,9 +216,9 @@ De plus, comme vu précédemment, il est absolument possible de choisir d'être 
 
 Seulement, les émotions conduisent souvent à des biais cognitifs et il faut donc s'en méfier lorsque nous voulons effectuer un raisonnement. Je cite encore Julia Galef à ce sujet[^galef_vulcan] :
 
-> Comment les émotions nous rendent-elles irrationnelles ? Les émotions peuvent être épistémiquement irrationnelles si elles sont basées sur un faux modèle du monde. Les émotions peuvent être instrumentalement irrationnelles si elles vous empêchent d'atteindre vos objectifs.
+> Comment les émotions nous rendent-elles irrationnelles ? Les émotions peuvent être épistémiquement irrationnelles si elles sont basées sur un faux modèle du monde. Les émotions peuvent être instrumentalement irrationnelles si elles nous empêchent d'atteindre nos objectifs.
 
-Il faut aussi se rappeler que les émotions peuvent causer des *biais émotionnels* qui sont une déformation des connaissances ou des processus de décision.[^blanchette] [^trofimova] [^angie]
+Il faut aussi se rappeler que les émotions peuvent causer des *biais émotionnels* qui induisent une déformation des connaissances et parasitent les processus de décision.[^blanchette] [^trofimova] [^angie]
 
 #### 5. Être rationnel signifie ne valoriser que des choses quantifiables, comme l'argent, l'efficacité ou la productivité
 
@@ -240,11 +236,11 @@ Je cite Julia Galef[^galef_vulcan] :
 
 ### Champs d'application
 
+Il est important de noter que la pensée critique s'applique et ne peut s'appliquer que sur ce qui relève de l'adhésion.
+
 Comme le dit Richard Monvoisin[^monvoisin_these] :
 
 > Il faut distinguer entre la croyance comme acte de foi (*faith*) et la croyance de type adhésion (*belief*).
-
-Il est important de noter que la pensée critique s'applique et ne peut s'appliquer que dans ce qui relève de l'adhésion.
 
 L'adhésion est donc, par opposition à la foi[^monvoisin_these] :
 
@@ -257,9 +253,11 @@ Voici quelques exemples d'énoncés relevant de la foi :
 * Je n'aime pas Manuels Valls
 * Dieu existe
 * Le jazz c'est mieux que la musique classique
+* Les yaourts c'est bon
 
 Et d'autres, relevant de l'adhésion :
 
+* Écouter du jazz c'est mieux que de la musique classique car ça rend plus intelligent
 * Manger des yaourts fait grandir
 * Le Suaire de Turin date du premier siècle
 * Le Doliprane est efficace contre les maux de tête
@@ -277,13 +275,14 @@ Richard Monvoisin résume la situation ainsi[^monvoisin_these] :
 Si donc notre objectif est d'atteindre nos objectifs au mieux, alors il est *utile* d'être rationnel au sens instrumental. Or pour cela nous nous basons sur un modèle de la réalité qui ne peut être rendu plus précis qu'en étant rationnel au sens épistémique.
 
 La rationalité n'est pas une vertu ou un impératif moral, c'est une manière de penser qui nous permet de connaitre le réel avec plus de précision et de mieux réaliser nos objectifs.
+
 Pour en savoir plus, visionnez l'excellente vidéo de Christophe Michel sur le sujet :
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/PFjX5tgu0iQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Intelligence et rationalité
 
-Sans rentrer dans les détails, je vais éclaircir une confusion courante entre intelligence et rationalité. Intelligence et rationalité sont très peu corrélées.[^stanovich]
+Sans rentrer dans les détails, je vais éclaircir une confusion courante entre intelligence et rationalité. Être intelligent n'est pas être rationnel, et inversement. D'ailleurs, intelligence et rationalité sont très peu corrélées.[^stanovich]
 
 Je reprends ici une métaphore proposée par Thomas Durand[^beauvoisine] :
 
@@ -291,7 +290,7 @@ Je reprends ici une métaphore proposée par Thomas Durand[^beauvoisine] :
 
 Beaucoup de gens sont intelligents, peu sont rationnels. Et beaucoup de gens très intelligents croient des choses sans fondement, et dans leur domaine de compétence cela ne leur pose aucun problème.
 
-En effet, beaucoup de champs spécialisés sont comme une piste de course en ligne droite. Ces gens, avec de très gros moteurs, peuvent franchir la ligne d'arrivée très vite. Qu'ils soient rationnels ou non n'a que peu d'importance puisqu'ils n'ont pas besoin de prendre de virages.
+En effet, beaucoup de champs spécialisés sont comme une piste de course en ligne droite. Ces gens avec de très gros moteurs peuvent franchir la ligne d'arrivée très vite. Qu'ils soient rationnels ou non n'a que peu d'importance puisqu'ils n'ont pas besoin de prendre de virages.
 
 Seulement la vie n'est pas une piste droite, mais une route tortueuse avec de nombreux virages et embranchements. Être rationnel c'est être en mesure de négocier ces virages, de choisir les bons embranchements, etc.
 
@@ -304,7 +303,7 @@ C'est également pour cette raison qu'il faut se méfier des gens intelligents e
 
 <figure>
   <img src="{{ site.baseurl }}/assets/images/205.jpg" alt="Peugeot 205" />
-  <figcaption>La 205 : pas intelligente, mais rationnelle. Peu rapide, mais maniable.</figcaption>
+  <figcaption>La 205 : peu intelligente, mais rationnelle. Peu rapide, mais maniable.</figcaption>
 </figure>
 
 <figure>
@@ -320,7 +319,7 @@ Avant de nous plonger dans les méthodes de la pensée critique, je voudrais pr�
 * Rien n'est vrai que jusqu'à preuve du contraire. Soyons prêts à faire évoluer nos convictions en cas d'émergence de nouveaux éléments probants.
 * Le réel existe tel qu'il est, qu'il nous plaise ou non. Soyons honnêtes dans nos démarches épistémiques.
 * La pensée critique et la démarche zététique ne sont pas prescriptives, mais informatives. Nous restons parfaitement libres de nos choix, qu'ils soient rationnels ou non.
-* Avant de se lancer dans un débat, il peut être utile de demander à son interlocuteur s'il y a un élément qui pourrait le faire changer d'avis. Si la réponse est non alors il est dans un système de croyance par pure foi et un débat est probablement inutile. De même si la théorie qu'il défend a été construite avant de chercher les faits pour la soutenir, alors c'est mauvais signe et il est fort probable qu'il soit là aussi, au moins en partie, dans un système de croyance par pure foi.
+* Avant de se lancer dans un débat, il peut être utile de demander à son interlocuteur s'il y a un élément qui pourrait le faire changer d'avis. Si la réponse est non alors il est dans un système de croyance par pure foi et un débat est probablement inutile. De même, si la théorie qu'il défend a été construite avant de chercher les faits pour la soutenir, alors c'est mauvais signe et il est fort probable qu'il soit là aussi, au moins en partie, dans un système de croyance par pure foi.
 
 ## La faillibilité des sens et de l'esprit
 
@@ -340,7 +339,7 @@ Les illusions visuelles sont des perceptions visuelles s'opposant à la réalit�
 
 ##### Exemple d'illusion visuelle physiologique
 
-Fixez l'oeil du Che Guevara dans l'image ci-dessous pendant une trentaine de secondes puis fermez les yeux. Vous voyes l'image persister (le noir étant devenu blanc et inversement).
+Fixez le point noir dans l'oeil du Che Guevara dans l'image ci-dessous pendant une trentaine de secondes puis fermez les yeux. Vous voyes l'image persister (le noir étant devenu blanc et inversement).
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/Che_Guevara_afterimage.jpg" alt="Image rémanante du Che Guevara" />
 
@@ -370,7 +369,7 @@ Pour voir quelques autres illusions, visionnez cette excellente publicité Honda
 
 <iframe class="video-frame" src="https://www.youtube.com/embed/lZU8ojUBh0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale dans le contour d'un nuage :
+Il y a également un type particulier d'illusion visuelle, la paréidolie, qui consiste à identifier une forme familière à un stimulus informe ou sans rapport objectif, par exemple à reconnaitre une forme humaine ou animale, voir même une émotion, dans des objets :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/sad_tomato.jpg" alt="Tomate triste" />
 
@@ -469,11 +468,11 @@ Une autre illustration de l'effet de cadrage se retrouve dans cet excellent exem
 
 C'est quand on utilise la connotation des mots pour induire une idée différente de ce que ces mots prétendent représenter.
 
-En 2005 Richard Wiseman et Emma Greening ont réalisé une expérience[^wiseman] impliquant 50 étudiants sur le campus de l'université de Hertfordshire au Royaume-Uni. Ils ont montré aux participants une vidéo d'un illusionniste tordant "par la pensée" une clé posée dans la paume de sa main, puis la posant sur une table devant lui. Le phénomène a été présenté comme étant paranormal.
+En 2005 Richard Wiseman et Emma Greening ont réalisé une expérience[^wiseman] impliquant 50 étudiants sur le campus de l'université de Hertfordshire au Royaume-Uni. Ils ont montré aux participants une vidéo d'un illusionniste tordant "par la pensée" une clé posée dans la paume de sa main, puis la posant sur une table devant lui. Le phénomène a été présenté aux étudiants comme étant paranormal.
 
 Les étudiants devaient répondre à la question "Une fois posée sur la table, la clé a-t-elle continué de se tordre ?" (la bonne réponse étant "non").
 
-Les étudiants étaient répartis aléatoirement en deux groupes isolés. Pour le second groupe, la vidéo contenait une séquence supplémentaire au début ou l'illusionniste suggérait que la clé continuerait de se tordre une fois posée.
+Les étudiants étaient répartis aléatoirement en deux groupes isolés. Pour le second groupe, la vidéo contenait une séquence supplémentaire au début où l'illusionniste suggérait (à tord) que la clé continuerait de se tordre une fois posée.
 
 Les résultats à la question pour les deux groupes sont :
 
@@ -482,24 +481,26 @@ Les résultats à la question pour les deux groupes sont :
 | La torsion continue        | 4%      | 40%     |
 | La torsion ne continue pas | 96%     | 60%     |
 
-L'expérience a été répétée, avec d'autres participants. Cette fois la question demandait simplement de décrire le phénomène. Voici les résultats :
+L'expérience a été répétée, avec d'autres participants. Cette fois la question demandait simplement "décrivez ce qui s'est passé", sans mentionner le fait que la clé pouvait continuer de se tordre. Voici les résultats :
 
 |                            | Groupe 1 | Groupe 2 |
 |----------------------------|----------|----------|
 | La torsion continue        | 0%      | 36%     |
 | La torsion ne continue pas | 100%    | 64%     |
 
-Cela illustre bien la puissance de cet effet. Il peut même avoir une influence si importante qu'on observe par exemple des effets physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
+Cela illustre bien la puissance de cet effet ! Il peut même avoir une influence si importante qu'on observe par exemple des effets physiologiques sur des patients en employant un mot plutôt qu'un autre lors du diagnostic.[^benedetti]
 
 #### Les faux souvenirs
 
 Chez tous les individus, même parfaitement sains, la mémoire est faillible, malléable.
 
-La mémoire est constituée de plusieurs registres[^baddeley] [^tulving] et stocke les informations de manière discontinue.[^montel] Il est par exemple difficile de réciter l'alphabet à l'envers en l'ayant appris uniquement à l'endroit.
+La mémoire est constituée de plusieurs registres[^baddeley] [^tulving] et stocke les informations de manière discontinue.[^montel] Il est par exemple difficile de réciter l'alphabet à l'envers en l'ayant appris uniquement à l'endroit. Essayez pour voir : Z... Y... X...
 
 Mais cela va bien plus loin.
 
 Dans une expérience en 1979[^gentner], Dedre Gentner et Elizabeth Loftus ont présenté aux participants une série d'images accompagnées de légendes aux verbes génériques (par exemple "walk", marcher) pour le groupe 1 et spécifiques (par exemple "hike", randonner) pour le groupe 2.
+
+<img class="picture" src="{{ site.baseurl }}/assets/images/loftus1.png" />
 
 Une semaine plus tard, ils leur ont montré une autre série d'images, contenant certaines des images de la première fois, de nouvelles images totalement différentes et certaines nouvelles, mais dont le thème était le même que certaines de la première série. Ils leur ont demandé d'indiquer celles dont ils se souvenaient avec certitude.
 
@@ -509,11 +510,18 @@ D'autres expériences du même genre ont par exemple fait se "souvenir" à des �
 
 D'autres études[^bjorklund] [^conway] [^roediger] [^schacter] [^loftus_3] [^roediger_2] [^roediger_3] [^loftus_4] [^payne] [^rubin] [^murphy] ont conduit de nombreuses expériences similaires et indiquent toutes que les souvenirs peuvent êtres modifiés, créés ou supprimés et que la mémoire n'est pas un témoin fiable.
 
+### Récapitulatif
+
+Nos sens et notre mémoire ne sont pas fiables à 100%, loin de là. Ils ne consistuent donc pas des preuves fiables. Ainsi, sans remettre en cause la sincérité de quiconque, aucun témoignage ne peut être accepté comme preuve (au sens scientifique, pas jurudique).
+
 ## Les principes fondamentaux de la pensée critique
+
+Retrouvez un résumé de cette section ici : [[En bref] Principes fondamentaux de la pensée critique]({{ site.baseurl }}/bref/principes-pensee-critique)
+{: .read-short-info}
 
 Voici quelques-uns des principes fondamentaux de la pensée critique. Ils servent de fondation à une réflexion plus poussée et priorisant les hypothèses les plus probables, en éliminant les arguments non pertinents d'un point de vue épistémique, etc.
 
-Je les présente sommairement, sans détailler toutes leurs nuances et leur complexité, mais nous les verrons plus en détail dans des exemples concrets dans la suite de l'article.
+Je les présente sommairement, sans détailler toutes leurs nuances et leur complexité, mais nous les verrons un peu plus en détail dans la suite de l'article.
 
 ### Le Rasoir d'Hitchens
 
@@ -543,7 +551,7 @@ Comme l'expliquent Richard Monvoisin et Nicolas Pinsault[^monvoisin_pinsault] :
 
 **Les hypothèses suffisantes les plus parcimonieuses doivent être préférées.**
 
-Il s'agit, entre plusieurs hypothèses au même pouvoir explicatif, de privilégier celle qui est la plus *parcimonieuse*, celle qui est la moins couteuse cognitivement, celle qui fait appel au moins d'autres hypothèses.
+Il s'agit, entre plusieurs hypothèses au même pouvoir explicatif, de privilégier celle qui est la plus *parcimonieuse*, celle qui est la moins couteuse cognitivement, celle qui fait appel au moins d'autres hypothèses non démontrées.
 
 Cela implique que face à un phénomène encore inexpliqué, on tentera d'abord de l'expliquer à partir de ce qui est connu avant de postuler l'existence de quelque chose d'inconnu. Ou que face à trois symptômes simultanés on recherche d'abord une maladie pouvant causer ces trois symptômes plutôt que trois maladies causant chacune un symptôme.
 
@@ -573,6 +581,8 @@ Le concept d'*adhésion évolutive* est un élément extrêmement important de l
 Afin de comprendre ce que c'est et comment l'utiliser, je vais d'abord parler d'*inférence bayésienne*, le mécanisme probabiliste sur lequel repose l'*adhésion évolutive*, puis de *curseurs de croyance* qui sont un représentation mentale de ce mécanisme, bien plus simple et plus pratique dans la vie de tous les jours.
 
 ### L'inférence bayésienne
+
+*Cette section comporte un peu de maths, mais rien de bien compliqué. Elle est sans doute un peu plus rude à aborder que le reste de l'article mais elle est fondamentale. Je vous encourage donc fortement à la lire avec attention.*
 
 Tout d'abord, qu'est-ce qu'une inférence ?
 
@@ -623,9 +633,9 @@ $$
 P(A|B) = \dfrac{P(B|A) \cdot P(A)}{P(B)}
 $$
 
-Il se lit : *la probabilité de A sachant B est égale à la probabilité de B sachant A multipliée par le probabilité de A divisée par la probabilité de B*.
+Il se lit : *la probabilité de $$A$$ sachant $$B$$ est égale à la probabilité de $$B$$ sachant $$A$$ multipliée par la probabilité de $$A$$ divisée par la probabilité de $$B$$*.
 
-On peut le réécrire en remplaçant A par H (hypothèse) et B par x (fait). On a alors :
+On peut le réécrire en remplaçant $$A$$ par $$H$$ (hypothèse) et $$B$$ par $$x$$ (fait). On a alors :
 
 $$
 P(H|x) = \dfrac{P(x|H) \cdot P(H)}{P(x)}
@@ -633,10 +643,10 @@ $$
 
 Où :
 
-* $$P(H \vert x)$$ est la **plausibilité** de l'hypothèse H au vu des résultats x
-* $$P(x \vert H)$$ est la **vraisemblance** des résultats x dans le carde de l'hypothèse H
-* $$P(H)$$ est la **plausibilité à priori** de l'hypothèse H
-* $$P(x)$$ est la **probabilité toutes hypothèses confondues** des résultats x
+* $$P(H \vert x)$$ est la **plausibilité** de l'hypothèse $$H$$ au vu des résultats $$x$$
+* $$P(x \vert H)$$ est la **vraisemblance** des résultats $$x$$ dans le cadre de l'hypothèse $$H$$
+* $$P(H)$$ est la **plausibilité à priori** (avant de prendre en compte les faits $$x$$) de l'hypothèse $$H$$
+* $$P(x)$$ est la **probabilité toutes hypothèses confondues** des résultats $$x$$
 
 Dans notre cas, ce qui nous intéresse c'est la probabilité d'avoir utilisé un dé sachant le résultat obtenu.
 
@@ -657,7 +667,7 @@ On sait que les dés à 4 et 6 faces ne peuvent donner de 7, il nous reste donc 
 
 Il reste donc à calculer $$P(D_8 \vert R_7)$$, $$P(D_{10} \vert R_7)$$, $$P(D_{12} \vert R_7)$$ et $$P(D_{20} \vert R_7)$$.
 
-Supposons, à priori, que chaque dé a une chance égale d'être choisi (c'est là la part subjective qui doit être introduite lors de l'étape initiale et qui s'atténue au fil des expériences). On a donc :
+Supposons, à priori, que chaque dé a une chance égale d'être choisi. On a donc :
 
 $$P(D_8) = P(D_{10}) = P(D_{12}) = P(D_{20}) = 25\%$$
 
@@ -679,9 +689,9 @@ Le dé a 8 faces est donc le plus probablement (34,9%) celui utilisé. Pour s'en
 
 Faisons un autre lancer avec le même dé caché (sans toujours savoir réellement duquel il s'agit).
 
-Le résultat est 3.
+Imaginons que le résultat est 3.
 
-Nous pouvons alors recalculer nos probabilité. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé, mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
+Nous pouvons alors recalculer nos probabilités. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé, mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
 
 Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
 
@@ -699,7 +709,7 @@ $$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.139}{0.0979} \approx 7.1\%$$
 
 Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
 
-Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe, mais plus puissante, on dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
+Si on se limitait à une approche fréquentiste, il se pourrait que plusieurs hypothèses nous semblent équivalentes et on ne pourrait pas trancher. Mais avec une approche bayésienne, plus complexe mais plus puissante, on dispose d'un outil pour discriminer les hypothèses selon leur probabilité au regard des résultats.
 
 Il est intéressant de noter que chacun de nos lancers a conforté l'hypothèse du dé à 10 faces, mais qu'ils ont conforté encore plus celle du dé à 8 faces. Cela montre l'importance de ne pas privilégier une hypothèse isolée juste parce que les faits la confirment, encore faut-il qu'elle soit celle qui le soit le plus.
 
@@ -755,9 +765,9 @@ Pour notre exemple, imaginons que je me demande qui a construit les pyramides d'
 
 * H0 : les Égyptiens antiques ont construit les pyramides. J'y crois à 19,38%.
 * H1 : les extraterrestres ont construit les pyramides. J'y crois à 32,56%.
-* H2 : les pyramides ont été construites par les Romains (et ont donc environ 2000 ans). J'y crois à 48,06%.
+* H2 : les pyramides ont été construites par les Romains (et donc datent de seulement 2000 ans). J'y crois à 48,06%.
 
-Or j'apprends qu'on a daté les pyramides à plus de 4000 ans et le test me semble fiable. Les résultats de l'expérience sont vraisemblables de la même manière dans le cas des hypothèses H0 et H1 et ne le sont pas pour H2. J'adapte mes curseurs en conséquence :
+Or j'apprends qu'on a daté les pyramides à plus de 4000 ans et le test me semble fiable. Les résultats de l'expérience sont vraisemblables dans le cas des hypothèses H0 et H1 et ne le sont pas pour H2. J'adapte mes curseurs en conséquence :
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/bayes_gg_01.png" alt="Bayes N&B" />
 
@@ -773,9 +783,11 @@ Et, jusqu'à l'apparition de nouveaux éléments probants, ce sera ma croyance.
 
 *Note : dans le cas où les probabilités de plusieurs hypothèses sont très proches, il est sage de ne pas choisir une hypothèse, même si elle est la plus probable, et d'attendre d'autres éléments de preuve.*
 
+Dans la vie courrante, même sans penser en termes de probabilité, on peut ainsi hiérarchiser les différentes hypothèses selon notre adhésion, qui se met à jour en fonction des preuves dont nous disposons.
+
 ## Les niveaux de preuve
 
-Retrouvez un résumé de cette section ici : [[En bref] Les niveaux de preuve]({{ site.baseurl }}/bref/niveaux-preuve)
+Retrouvez un résumé de cette section ici : [[En bref] Niveaux de preuve]({{ site.baseurl }}/bref/niveaux-preuve)
 {: .read-short-info}
 
 Une preuve est, d'une manière très générale[^antidote_preuve] :
@@ -823,11 +835,11 @@ On peut aussi hiérarchiser les *indices*, qui n'ont **aucune valeur probante**�
 
 Ainsi, lorsque nous mettons à jour nos curseurs de croyance, il nous faut prendre en compte le niveau de fiabilité des preuves apportées.
 
-Imaginons par exemple que je me documente sur l'efficacité de la sève d'artémisia sur les brulures du premier degré. A un instant *t* je dispose de deux preuves : un essai comparatif randomisé indiquant son efficacité et une étude cas-témoin indiquant son inefficacité. Dans ce cas, placer mon curseur à 50% serait fautif, ce serait considérer que les deux études ont la même valeur probante. Je vais plutôt le placer à 80% en faveur de l'efficacité. En effet l'essai comparatif randomisé est une preuve de grade B, donc plus probante que l'étude cas-témoin de grade C+.
+Imaginons par exemple que je me documente sur l'efficacité de la sève d'artémisia sur les brulures du premier degré. A un instant *t* je dispose de deux preuves : un essai comparatif randomisé indiquant son efficacité et une étude cas-témoin indiquant son inefficacité. Dans ce cas, placer mon curseur à 50% ("j'y crois à moitié") serait fautif, car ce serait considérer que les deux études ont la même valeur probante. Je vais plutôt le placer à 80% en faveur de l'efficacité. En effet l'essai comparatif randomisé est une preuve de grade B, donc plus probante que l'étude cas-témoin de grade C+.
 
-Les niveaux de preuve ne sont pas les seuls critères à prendre en compte. Bien sûr on peut exclure les études qui ont des biais méthodologiques, d'échantillonnage, d'évaluation, etc., mais il faut également considérer la taille des échantillons, les traitements statistiques des données, etc.
+Les niveaux de preuve ne sont pas les seuls critères à prendre en compte : on doit exclure les études qui ont des biais méthodologiques, d'échantillonnage, d'évaluation, etc., et aussi considérer la taille des échantillons, les traitements statistiques des données, etc.
 
-Je ne rentre pas dans les détails et ferai peut-être un article dédié pour expliquer tout cela.
+Je ne rentre pas dans les détails et ferai peut-être un article dédié pour expliquer tout cela. Mais en résumé, il faut retenir que toutes les preuves n'ont pas la même valeur.
 
 ## Quelques outils méthodologiques
 
@@ -837,9 +849,9 @@ Dans cette section je décris brièvement quelques outils méthodologiques de ba
 
 Toute explication non étayée par des faits *qui la démontrent* n'est pas une preuve, aussi cohérente soit-elle. Ce qui nous intéresse ce n'est pas à quel point une hypothèse explique les faits, mais à quel point les faits confirment l'hypothèse et si celle-ci est la plus plausible parmi toutes les hypothèses au vu des faits.
 
-Il est donc important d'aller des faits vers les hypothèses et non l'inverse. Cela ne signifie pas que nous ne pouvons postuler aucune hypothèse sans avoir d'abord examiné les faits. Bien souvent d'ailleurs on nous présente plusieurs hypothèses avant que nous ayons eu l'occasion de nous renseigner sur les faits.
+Il est donc important d'aller des faits vers les hypothèses et non l'inverse. Cela ne signifie pas pour autant que nous ne pouvons postuler aucune hypothèse sans avoir d'abord examiné les faits. Bien souvent d'ailleurs on nous présente plusieurs hypothèses avant que nous ayons eu l'occasion de nous renseigner sur les faits.
 
-Il s'agit de ne pas favoriser une hypothèse à priori, et de ne pas chercher les faits qui valident une hypothèse, mais bien d'évaluer les hypothèses au regard des faits.
+Il s'agit simplement de ne pas favoriser une hypothèse à priori, et de ne pas chercher les faits qui valident une hypothèse, mais bien d'évaluer les hypothèses au regard des faits.
 
 <img class="picture" src="{{ site.baseurl }}/assets/images/methode.jpg" alt="Méthode scientifique" />
 
@@ -888,17 +900,28 @@ On peut illustrer les 4 cas possibles avec l'image de la cible, dont le centre e
 
 ### Logique de base
 
+Retrouvez un résumé de cette section ici : [[En bref] Logique de base]({{ site.baseurl }}/bref/logique-base)
+{: .read-short-info}
+
 #### Implication, contraposée, réciproque, équivalence
 
-En logique ces trois termes sont centraux.
+En logique ces quatre termes sont centraux.
 
-L'implication exprime une relation de causalité selon laquelle une proposition en entraine une autre si elle est vraie. Elle se note $$A \Rightarrow B$$ et se lit *A implique B*.
+L'**implication** exprime une relation de causalité selon laquelle une proposition en entraine une autre si elle est vraie. Elle se note $$A \Rightarrow B$$ et se lit *A implique B*.
 
-La contraposée d'une implication est sa réécriture sous une forme négative. Elle a exactement la même valeur logique. La contraposée de $$A \Rightarrow B$$ (A implique B) est $$\neg B \Rightarrow \neg A$$ (non B implique non A).
+Par exemple : si je suis humain alors je suis mortel.
 
-La réciproque d'une implication est son inverse. Elle n'a pas la même valeur logique. La réciproque de $$A \Rightarrow B$$ (A implique B) est $$B \Rightarrow A$$ (B implique A).
+La **contraposée** d'une implication est sa réécriture sous une forme négative. Elle a exactement la même valeur logique. La contraposée de $$A \Rightarrow B$$ (A implique B) est $$\neg B \Rightarrow \neg A$$ (non B implique non A).
 
-On parle d'équivalence quand une implication et sa réciproque sont toutes les deux vraies. Elle se note $$A \Leftrightarrow B$$ et se lit *A équivaut à B*. On dit aussi que *A est nécessaire et suffisant à B*.
+Par exemple : si je ne suis par mortel alors je ne suis pas humain.
+
+La **réciproque** d'une implication est son inverse. Elle n'a pas la même valeur logique. La réciproque de $$A \Rightarrow B$$ (A implique B) est $$B \Rightarrow A$$ (B implique A).
+
+Par exemple : si je suis mortel alors je suis humain.
+
+On parle d'**équivalence** quand une implication et sa réciproque sont toutes les deux vraies. Elle se note $$A \Leftrightarrow B$$ et se lit *A équivaut à B*. On dit aussi que *A est nécessaire et suffisant à B*.
+
+Par exemple : si je suis humain alors je suis mortel, et si je suis mortel alors je suis humain.
 
 #### Modus Ponens et Modus Tollens
 
@@ -968,9 +991,9 @@ Lors d'un voyage en Armorique je croise le druide Panoramix, qui m'explique que 
 
 Ah ? Je décide de tester. Je cueille du gui à 20h, en jeans, avec des chaussures, dans un tilleul avec un serpe en argent. Et, effectivement, la potion ne marche pas. Je teste ensuite en faisant comme Panoramix a dit et là, ça marche.
 
-Ai-je bien testé son affirmation ? Non. En effet, j'ai fait varier tous les paramètres en même temps. Dans ce cas, comment savoir s'ils ont tous un effet.
+Ai-je bien testé son affirmation ? Non. En effet, j'ai fait varier tous les paramètres en même temps. Dans ce cas, comment savoir s'ils ont tous un effet ?
 
-J'aurais par exemple pu tester l'influence de l'heure de cueillette en ajoutant du gui cueilli à 20h, en toge blanche, pieds nus, dans un chêne avec une serpe d'or. Si dans ce cas cela ne marche pas (en supposant qu'on a répliqué l'expérience de nombreuses fois, etc.) alors c'est bien que l'horaire a une influence. Si ça marche quand même, c'est qu'il n'a pas d'influence.
+J'aurais par exemple pu tester l'influence de l'heure de cueillette en ajoutant du gui cueilli en toge blanche, pieds nus, dans un chêne avec une serpe d'or, mais à 20h au lieu de minuit. Si dans ce cas cela ne marche pas (en supposant qu'on a répliqué l'expérience de nombreuses fois, etc.) alors c'est bien que l'horaire a une influence. Si ça marche quand même, c'est qu'il n'a pas d'influence.
 
 ### Avoir des paramètres clairs, objectivables, quantifiables
 
@@ -1139,6 +1162,9 @@ En effet, si on retournait le deuxième carte, que la couleur du dos soit bleue 
 De même pour la troisième carte. En effet, qu'on y trouve une dame ou non ne nous dit rien sur la validité de l'hypothèse.
 
 ## Quelques biais de raisonnement
+
+Retrouvez un résumé de cette section ici : [[En bref] Biais de raisonnement]({{ site.baseurl }}/bref/biais)
+{: .read-short-info}
 
 Un biais de raisonnement, ou biais cognitif est une distorsion dans le traitement cognitif d'une information qui peut conduire à des évaluations faussées, des déductions illogiques et des représentations non rationnelles de la réalité.[^kahneman_2] [^ariely] [^baron]
 
@@ -1530,6 +1556,8 @@ Un ami vous envoie le message suivant :
 Que pouvez-vous en dire ?
 
 #### Suggestion de réponse
+
+Il faut vérifier les sources supportant une argumentation.
 
 <img class="picture medium2" src="{{ site.baseurl }}/assets/images/chicken.gif" alt="Chicken" />
 

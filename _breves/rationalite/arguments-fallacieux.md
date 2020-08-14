@@ -1,6 +1,6 @@
 ---
 layout: breve
-title: "[En bref] Arguments Fallacieux"
+title : "Arguments Fallacieux"
 name: "arguments-fallacieux"
 categories: rationalite
 ---

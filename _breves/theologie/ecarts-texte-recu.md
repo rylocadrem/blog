@@ -1,6 +1,6 @@
 ---
 layout: breve
-title: "[En bref] Écarts du Texte Reçu"
+title : "Écarts du Texte Reçu"
 name: "ecarts-texte-recu"
 categories: theologie
 ---

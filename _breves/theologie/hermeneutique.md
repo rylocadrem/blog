@@ -1,6 +1,6 @@
 ---
 layout: breve
-title: "[En bref] Principes herméneutiques fondamentaux"
+title : "Principes herméneutiques fondamentaux"
 name: "hermeneutique"
 categories: theologie
 ---

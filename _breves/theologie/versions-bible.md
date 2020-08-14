@@ -1,6 +1,6 @@
 ---
 layout: breve
-title: "[En bref] Comparaison des traductions françaises de la Bible"
+title : "Comparaison des traductions françaises de la Bible"
 name: "versions-bible"
 categories: theologie
 ---
