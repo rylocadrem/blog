@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "Introduction à la pensée critique"
-excerpt: Une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique.
+excerpt: Une introduction aux principes fondamentaux de la pensée critique, à la rationalité et la méthode scientifique. Pour mieux réfléchir et éviter de se faire manipuler.
 date:   2020-08-14 07:00:00 +0200
 categories: rationalite
 redirect_from:
