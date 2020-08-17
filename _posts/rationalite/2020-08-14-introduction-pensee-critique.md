@@ -125,7 +125,7 @@ Il existe pourtant de nombreux exemples de personnes qui montrent le contraire. 
 
 Nous sommes, bien heureusement, capables de changer de mode de pensée selon les situations et même de combiner plusieurs modes de pensée (par exemple quand on écrit de la fiction : créativité des dialogues et du style avec rigueur des règles de la langue et cohérence de l'histoire).
 
-En outre, d'un point de vue scientifique, les émotions qui sont des états biologiques associés au système nerveux[^panksepp] [^damasio] [^ekman] provoqués par des déclencheurs neurophysiologiques[^cabanac] [^emory] associés à des pensées, des sentiments, des réponses comportementales, etc. Elles sont donc provoquées par des éléments réels et peuvent être une source d'information utile pour une prise de décision.[^pfister]
+En outre, d'un point de vue scientifique, les émotions sont des états biologiques associés au système nerveux[^panksepp] [^damasio] [^ekman] provoqués par des déclencheurs neurophysiologiques[^cabanac] [^emory] associés à des pensées, des sentiments, des réponses comportementales, etc. Elles sont donc provoquées par des éléments réels et peuvent être une source d'information utile pour une prise de décision.[^pfister]
 
 Les émotions sont certes une grande source de biais cognitifs, mais peuvent aussi être utilisées lors d'une réflexion. Comment le disent Alan Kirman, Pierre Livet et Miriam Teschl[^kirman] :
 
