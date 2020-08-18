@@ -211,3 +211,11 @@ figcaption {
     text-align: center;
     width: 75%;
 }
+
+.home a {
+    color: #2117a9;
+
+    &:visited {
+        color: #6a17a9;
+    }
+}
