@@ -6,7 +6,7 @@ date:   2020-08-18 10:00:00 +0200
 categories: sectes
 ---
 
-Ce test est basé sur les criètères définis par le CIC (Cult Information Centre, *Centre d'Information sur les Sectes*) de Londres et l'UNADFI (Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes).
+Ce test est basé sur les critères définis par le CIC (Cult Information Centre, *Centre d'Information sur les Sectes*) de Londres et l'UNADFI (Union nationale des Associations de Défense des Familles et de l'Individu victimes de sectes).
 
 Pour chaque affirmation, indiquez votre degré d'accord et notez le score correspondant. Ce test est divisé en 2 parties (mise sous emprise et contrôle de la pensée). Pour chaque partie, après avoir répondu à chacune des question, calculez votre total de points pour obtenir la conclusion.
 
@@ -380,7 +380,7 @@ Vous pouvez également passer ce test : [[Test] Est-ce une secte ?]({{ site.base
 * Plutôt pas d'acord — **2 pts**
 * Pas du tout d'acord — **0 pts**
 
-**On occupation constament les adeptes pour empêcher la réflexion critique.**
+**On occupe constament les adeptes pour empêcher la réflexion critique.**
 
 * Tout à fait d'acord — **16 pts**
 * Plutôt d'acord — **8 pts**
