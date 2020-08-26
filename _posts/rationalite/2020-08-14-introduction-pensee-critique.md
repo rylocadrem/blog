@@ -63,6 +63,8 @@ On peut ainsi distinguer deux concepts de rationalité :
 1. **La rationalité épistémique** : améliorer systématiquement la précision et l'exactitude de ses croyances
 2. **La rationalité instrumentale** : atteindre systématiquement ses objectifs
 
+*Note : ici le mot _systématiquement_ signifie _avec systématisme, avec méthode_.*
+
 La rationalité *épistémique* est la recherche systématique de la vérité, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
 
 La rationalité *instrumentale* est l'accomplissement systématique de ses objectifs, c'est-à-dire le choix des actions qui mènent aux conséquences désirées.
@@ -1481,7 +1483,7 @@ Que pouvez-vous dire de cette affirmation ?
 
 #### Suggestion de réponse
 
-Même sans connaissances biologiques, vous pouvez douter de cette affirmation. En effet, si la fourmi devient plus grande, elle devient aussi plus massive. Qu'est-ce qui nous prouve que la puissance musculaire augmente proportionnellement à la taille.
+Même sans connaissances biologiques, vous pouvez douter de cette affirmation. En effet, si la fourmi devient plus grande, elle devient aussi plus massive. Qu'est-ce qui nous prouve que la puissance musculaire augmente proportionnellement à la taille ? 
 
 En réalité on observe que la puissance varie en fonction de la taille avec un facteur entre 2 tiers et 3 quarts. Si la fourmi faisait la taille d'un homme, elle serait incapable de soulever son propre poids. De même, si un homme faisait la taille d'une fourmi, il pourrait soulever en moyenne 30 fois son poids.
 
@@ -1501,7 +1503,7 @@ Quel protocole expérimental pouvez-vous mettre en place pour assurer une certai
 
 Vous sollicitez un nombre assez important de personnes (élèves, enseignants, parents d'élève), d'âges et sexes différents.
 
-Vous décidez d'employer des critères précis : au lieu de simplement poser la question "lequel préférez-vous", vous décidez de demander aux participants de donner à chaque produit une note entre 0 et 10. En effet, imaginez que vous avez deux personnes, une qui préfère le Coca-Cola et une la Pepsi. Allez-vous conclure à l'égalité ? Mais si en fait celle qui préfère le Coca-Cola le préfère juste un peu plus que le Pepsi et que l'autre préfère le Pepsi beaucoup plus que le Coca-Cola ? Afin d'être plus objectifs, vous ferez donc la moyenne des notes pour comparer.
+Vous décidez d'employer des critères précis : au lieu de simplement poser la question "lequel préférez-vous", vous décidez de demander aux participants de donner à chaque produit une note entre 0 et 10. En effet, imaginez que vous avez deux personnes, une qui préfère le Coca-Cola et une le Pepsi. Allez-vous conclure à l'égalité ? Mais si en fait celle qui préfère le Coca-Cola le préfère juste un peu plus que le Pepsi et que l'autre préfère le Pepsi beaucoup plus que le Coca-Cola ? Afin d'être plus objectifs, vous ferez donc la moyenne des notes pour comparer.
 
 Vous préparez ensuite des verres contenant du Pepsi et du Coca-Cola. Ils contiennent tous la même quantité, servis à la même température et immédiatement après ouverture (pour éviter que la pétillance diminue).
 
