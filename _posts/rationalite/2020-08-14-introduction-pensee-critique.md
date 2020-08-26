@@ -63,7 +63,7 @@ On peut ainsi distinguer deux concepts de rationalité :
 1. **La rationalité épistémique** : améliorer systématiquement la précision et l'exactitude de ses croyances
 2. **La rationalité instrumentale** : atteindre systématiquement ses objectifs
 
-*Note : ici le mot _systématiquement_ signifie _avec systématisme, avec méthode_.*
+*Note : ici le mot systématiquement signifie avec systématisme, avec méthode.*
 
 La rationalité *épistémique* est la recherche systématique de la vérité, c'est-à-dire la construction de schémas mentaux qui correspondent le plus possible à la réalité.
 
