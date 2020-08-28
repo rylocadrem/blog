@@ -514,7 +514,7 @@ D'autres études[^bjorklund] [^conway] [^roediger] [^schacter] [^loftus_3] [^roe
 
 ### Récapitulatif
 
-Nos sens et notre mémoire ne sont pas fiables à 100%, loin de là. Ils ne consistuent donc pas des preuves fiables. Ainsi, sans remettre en cause la sincérité de quiconque, aucun témoignage ne peut être accepté comme preuve (au sens scientifique, pas jurudique).
+Nos sens et notre mémoire ne sont pas fiables à 100%, loin de là. Ils ne consistuent donc pas des preuves fiables. Ainsi, sans remettre en cause la sincérité de quiconque, aucun témoignage ne peut être accepté comme preuve (au sens scientifique, pas juridique).
 
 ## Les principes fondamentaux de la pensée critique
 
@@ -695,19 +695,19 @@ Imaginons que le résultat est 3.
 
 Nous pouvons alors recalculer nos probabilités. La grande différence est que cette fois-ci nous avons déjà un indice sur les probabilités à priori : alors que nous avions avant choisi 25% pour chaque dé  (ce qui est sensé, mais, en l'absence de preuve, reste arbitraire), nous pouvons maintenant utiliser les résultats précédents comme valeurs à priori (les fameux $$P(D_n)$$).
 
-Calculons d'abord la nouvelle valeur de $$P(R_7)$$ :
+Calculons d'abord $$P(R_3)$$ :
 
-$$P(R_7) = \dfrac{1}{8} * 0.349 + \dfrac{1}{10} * 0.279 + \dfrac{1}{12} * 0.233 + \dfrac{1}{20} * 0.139 \approx 9.79\%$$
+$$P(R_3) = \dfrac{1}{8} * 0.349 + \dfrac{1}{10} * 0.279 + \dfrac{1}{12} * 0.233 + \dfrac{1}{20} * 0.139 \approx 9.79\%$$
 
-Calculons alors de nouveau les différents $$P(D_n \vert R_7)$$ :
+Calculons alors les différents $$P(D_n \vert R_3)$$ :
 
-$$P(D_8 \vert R_7) = \dfrac{1/8 \cdot 0.349}{0.0979} \approx 44.6\%$$
+$$P(D_8 \vert R_3) = \dfrac{1/8 \cdot 0.349}{0.0979} \approx 44.6\%$$
 
-$$P(D_{10} \vert R_7) = \dfrac{1/10 \cdot 0.279}{0.0979} \approx 28.5\%$$
+$$P(D_{10} \vert R_3) = \dfrac{1/10 \cdot 0.279}{0.0979} \approx 28.5\%$$
 
-$$P(D_{12} \vert R_7) = \dfrac{1/12 \cdot 0.233}{0.0979} \approx 19.8\%$$
+$$P(D_{12} \vert R_3) = \dfrac{1/12 \cdot 0.233}{0.0979} \approx 19.8\%$$
 
-$$P(D_{20} \vert R_7) = \dfrac{1/20 \cdot 0.139}{0.0979} \approx 7.1\%$$
+$$P(D_{20} \vert R_3) = \dfrac{1/20 \cdot 0.139}{0.0979} \approx 7.1\%$$
 
 Notre exemple avec les dés est une métaphore de la méthode scientifique. Le résultat du dé est le résultat d'une expérience, et les différents dés sont les différentes hypothèses pouvant expliquer le résultat.
 
