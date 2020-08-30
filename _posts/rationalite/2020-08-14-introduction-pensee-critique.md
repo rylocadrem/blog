@@ -1233,7 +1233,7 @@ Par exemple, une expérience menée en 1988[^lecoutre_3] demandait à des lycée
 
 **Tendance à percevoir les évènements qui se sont déjà produits comme étant plus prévisibles qu'ils ne l'étaient réellement avant qu'ils n'aient lieu.**[^roese_2] [^hoffrage]
 
-On appelle parfois ce biais *l'effet je-le-savais-depuis_le-début*.[^roese]
+On appelle parfois ce biais *l'effet je-le-savais-depuis-le-début*.[^roese]
 
 ### Effet Barnum
 
