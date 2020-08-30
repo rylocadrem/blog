@@ -1001,7 +1001,7 @@ J'aurais par exemple pu tester l'influence de l'heure de cueillette en ajoutant 
 
 Afin de pouvoir éprouver des hypothèses, il faut définir des paramètres qui ne soient pas ambigus.
 
-Par exemple, si on cherche à éprouver l'affirmation selon laquelle diffuser de la musique favorise la croissance des plantes, il faut par exemple préciser :
+Par exemple, si on cherche à éprouver l'affirmation selon laquelle diffuser de la musique classique favorise la croissance des plantes, il faut par exemple préciser :
 
 * Parle-t-on de toute musique classique ou seulement une sous-catégorie ?
 * Quel type de diffusion ? (durée, fréquence, volume, etc.)
