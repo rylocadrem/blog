@@ -1,0 +1,44 @@
+{
+  "title": "Est-ce une secte ?",
+  "questions": [
+    "Le groupe est excessivement zélé et/ou s'engage inconditionnellement envers son ou ses dirigeants",
+    "Les questions, les doutes et les contestations sont découragés ou punis",
+    "Les pratiques altérant l'esprit (méditation, chant, parler en langues, sessions de dénonciation, activités démoralisantes...) sont beaucoup utilisées",
+    "Les dirigeants s'ingèrent dans la manière dont les membres doivent penser, agir ou ressentir (par exemple les membres doivent obtenir un accord pour se fréquenter, se marier, changer de travail ; les dirigeants indiquent comment élever les enfants, quels habits porter, s'il faut ou non avoir des enfants, où habiter...)",
+    "Le groupe est élitiste, revendique un statut spécial (par exemple des dirigeants qui seraient des \"prophètes\" ou ayant reçu un \"message spécial\", ou un groupe investi d'une mission spéciale)",
+    "Le groupe a une mentalité polarisée de \"nous contre eux\", opposé au reste de la société",
+    "Les dirigeants ne rendent pas de comptes (autrement qu'aux autres dirigeants)",
+    "Le groupe enseigne ou insinue que sa mission particulière justifie tous les moyens qu'il juge nécessaires. Cela peut se traduire par des membres agissant d'une manière qu'ils jugeraient non éthique ou répréhensible s'ils ne le faisaient pas pour la cause du groupe",
+    "Les dirigeants induisent des sentiments de honte et/ou de culpabilité chez les membres pour les influencer et/ou les contrôler. Cela est souvent fait par la pression indirecte (via le groupe ou les autres membres) ou une persuasion subtile",
+    "L'obédience au groupe et/ou aux dirigeants pousse/requiers des membres qu'ils coupent les liens avec leur famille ou amis",
+    "L'obédience au groupe et/ou aux dirigeants pousse/requiers des membres qu'ils abandonnent leurs projets et/ou activités",
+    "Le groupe attend des membres qu'ils dévouent une part excessive de leur temps au groupe ou aux activités liées au groupe",
+    "Les membres sont incités à ne vivre ou ne sociabiliser qu'avec les autres membres du groupe",
+    "Les membres les plus loyaux pensent qu'il ne peut y avoir de vie en dehors du groupe. Ils considèrent que la vie dans le groupe est la meilleure ou la seule possible",
+    "Les membres les plus loyaux craignent les représailles s'ils quittent le groupe",
+    "Le groupe ne laisse pas savoir qui est parti et pourquoi",
+    "Le groupe ne permet pas de déposer plainte, cache les fautes des dirigeants ou ne permet pas aux membres de destituer un dirigeant",
+    "Les dirigeants sont réticents à répondre aux questions gênantes en public",
+    "On dit à maintes reprises d'écouter son cœur et non sa tête",
+    "On vous dit-on que vous êtes trop nouveau, trop mal informé, trop fouineur, etc., et que vous ne devriez pas poser de telles questions",
+    "Il y a un leader qui semble être l'autorité ultime, le porte-parole. Ses opinions sont plus respectées que celles des autres membres",
+    "Il n'y a pas de séparation des pouvoirs, les dirigeants ont leur mot à dire sur tout aspect du fonctionnement du groupe",
+    "Les points de vue divergeants sont dénigrés ou non présentés, les débats sont découragés",
+    "Il y a des informations qu'il ne faut pas partager avec des non membres, des informations accessibles aux plus initiés ou un contrôle de l'information par les dirigeants"
+  ],
+  "possibleAnswers": [
+    { "text": "Tout à fait d'acord", "value": 16 },
+    { "text": "Plutôt d'acord", "value": 8 },
+    { "text": "Mitigé", "value": 4 },
+    { "text": "Plutôt pas d'acord", "value": 2 },
+    { "text": "Pas du tout d'acord", "value": 0 }
+  ],
+  "possibleResults": [
+    { "score": 0, "description": "Rien ne laisse penser qu'il s'agisse d'une secte" },
+    { "score": 48, "description": "Le groupe présente quelques marqueurs sectaires" },
+    { "score": 72, "description": "Le groupe présente de forts marqueurs sectaires" },
+    { "score": 96, "description": "Le groupe est très probablement une secte" },
+    { "score": 144, "description": "Le groupe est très clairement une secte" },
+    { "score": 192, "description": "Le groupe est très clairement une secte dont l'emprise est très forte" }
+  ]
+}

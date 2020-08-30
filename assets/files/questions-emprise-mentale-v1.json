@@ -1,0 +1,46 @@
+{
+  "title": "Êtes-vous sous emprise mentale ? (version 1)",
+  "questions": [
+    "Le groupe prône l'acceptation de l'autorité interne en promettant avancement, pouvoir et surtout salut",
+    "On provoque une régression et une désorientation par le fait de devoir demander la permission pour des actes élémentaires de la vie quotidienne",
+    "On encourage l'acceptation aveugle et le rejet de la logique par des exposés complexes et interminables sur une doctrine incompréhensible",
+    "On vise à l'acceptation automatique des croyances en décourageant les questions, et en suggérant d'abandonner ses doutes, condition de toute progression dans l'enseignement proposé",
+    "Des actions peu différentes les unes des autres entrainent tantôt une récompense, tantôt une punition, d'où une confusion encore accentuée",
+    "Les plus anodines pensées, paroles ou actions tant soit peu « négatives » provoquent des menaces sur l'âme, sur la vie ou sur un organe, ce qui entretient l'obéissance aveugle",
+    "En exploitant le désir d'appartenance à un groupe, on supprime le doute, la réserve et la résistance aux nouvelles idées",
+    "On crée un pseudo-esprit de famille et d'appartenance par l'embrassade, les démonstrations affectives, l'attendrissement et la flatterie",
+    "On altère l'individualité par une demande de conformité au code de bonne conduite du groupe",
+    "Menaces qui induisent un climat de peur, permettent d'assurer une emprise sur les individus, et renforcent l'adhésion au groupe",
+    "On renforce le sentiment d'appartenance en introduisant dans un contexte émotionnel intense, des activités originales, qui cimentent le groupe par un « vécu » commun",
+    "On élimine les pensées étrangères au groupe par la répétition en chœur de chants et de phrases propres à rétrécir le champ de la conscience",
+    "On insinue avec force des messages simples, en insistant sur certains mots et expressions-clés au cours de longues et harassantes conférences, ou dans des messages audios qu'il faut sans cesse écouter",
+    "On induit un état de grande suggestibilité par l'hypnose souvent déguisée habilement en méditation",
+    "L'aspiration au salut est exaltée en insistant sur les péchés commis lors de l'ancien mode de vie",
+    "On pousse à l'aveu des faiblesses personnelles et des plus intimes sentiments et doutes, ce qui encourage la destruction de l'égo individuel et réduit la part d'intimité de l'être. Au passage cela permet de récolter des secrets dont on pourra ultérieurement se servir contre l'adepte récalcitrant",
+    "En encourageant l'obéissance infantile et en orchestrant le comportement enfantin ; en jouant aussi sur la pudeur et l'impudeur",
+    "On réussit à faire perdre la capacité d'évaluation logique en empêchant ou en décourageant l'analyse critique personnelle",
+    "On contribue à une désorientation et à une grande sensibilité aux bouffées émotionnelles par une alimentation médiocre des cellules nerveuses en certains éléments notamment protéiques",
+    "Là aussi on sème la confusion par des règles où se mêlent et alternent la rigidité et la permissivité ; cela va pour certains jusqu'à transgresser la prohibition de l'inceste, base indispensable depuis toujours de l'identification personnelle et de toute évolution sociétaire",
+    "On crée la désorientation et la vulnérabilité, en imposant une activité mentale et physique prolongée sans le repos et le sommeil adéquat",
+    "L'adepte donne ses biens. Ainsi l'on pousse à fond la dépendance vis-à-vis du groupe et l'on consomme la rupture des ponts avec le passé",
+    "On accélère l'acceptation aveugle d'un nouveau style de vie en critiquant et dénonçant les valeurs et croyances antérieures",
+    "On donne une fausse impression de rigueur en dénonçant les défauts du monde extérieur et des autres groupes religieux",
+    "On détruit les relations familiales antérieures. On arrange des mariages internes et des néo-familles. On déracine géographiquement et spirituellement, au point parfois d'inventer une généalogie fantoche",
+    "On provoque une perte de contact avec le réel par une séparation physique ou intellectuelle d'avec la famille, les amis, l'environnement naturel, la société et les références rationnelles"
+  ],
+  "possibleAnswers": [
+    { "text": "Tout à fait d'acord", "value": 16 },
+    { "text": "Plutôt d'acord", "value": 8 },
+    { "text": "Mitigé", "value": 4 },
+    { "text": "Plutôt pas d'acord", "value": 2 },
+    { "text": "Pas du tout d'acord", "value": 0 }
+  ],
+  "possibleResults": [
+    { "score": 0, "description": "Rien ne laisse penser qu'il y ait emprise mentale" },
+    { "score": 52, "description": "Le groupe présente quelques indices d'emprise mentale" },
+    { "score": 78, "description": "Le groupe présente beaucoup d'indices d'emprise mentale" },
+    { "score": 104, "description": "Le groupe exerce très probablement une emprise mentale" },
+    { "score": 156, "description": "Le groupe exerce très clairement une emprise mentale" },
+    { "score": 207, "description": "Le groupe exerce très clairement une emprise mentale" }
+  ]
+}
