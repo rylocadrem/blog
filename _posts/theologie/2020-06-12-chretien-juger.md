@@ -81,6 +81,9 @@ Ces versets seraient-ils en contradiction avec les précédents ?
 
 Afin de bien interpréter les Écritures, il est crucial de procéder avec méthode pour ne pas en tirer de faux enseignements. Il est essentiel de bien comprendre le message que l'auteur original a voulu délivrer, d'avoir une exégèse solide.
 
+J'aborde cet aspect brièvement. Pour plus de détails, lisez mon article [Vérité biblique et volonté de Dieu]({{ site.baseurl }}{% post_url theologie/2020-07-01-verite-biblique-volonte-dieu %})
+{: .read-full-info}
+
 ### Quelques définitions
 
 J'utiliserais les termes *herméneutique* et *exégèse* tels que définis par le pasteur et théologien Milton Spenser Terry :
